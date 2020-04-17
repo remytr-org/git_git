@@ -367,30 +367,6 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:-1 group-title="ReMy_SPORT",YENI MALATYA SPOR 
 http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub1.hr.png" group-title="ReMy_SPORT",Sport Klub 1
-http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub2.hr.png" group-title="ReMy_SPORT",Sport Klub 2
-http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub3.hr.png" group-title="ReMy_SPORT",Sport Klub 3
-http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub4.hr.png" group-title="ReMy_SPORT",Sport Klub 4
-http://185.180.12.34:8080/SK4/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub5.hr.png" group-title="ReMy_SPORT",Sport Klub 5
-http://185.180.12.34:8080/SK5/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub6.hr.png" group-title="ReMy_SPORT",Sport Klub 6
-http://185.180.12.34:8080/SK6/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://tvprofil.com/img/kanali-logo/sk_7.png" group-title="ReMy_SPORT",Sport Klub 7
-http://185.180.12.34:8080/SK7/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://tvprofil.com/img/kanali-logo/sk_8.png" group-title="ReMy_SPORT",Sport Klub 8
-http://185.180.12.34:8080/SK8/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://tvprofil.com/img/kanali-logo/sk_9.png" group-title="ReMy_SPORT",Sport Klub 9
-http://185.180.12.34:8080/SK9/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://tvprofil.com/img/kanali-logo/sk_10.png" group-title="ReMy_SPORT",Sport Klub 10
-http://185.180.12.34:8080/SK10/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="ReMy_SPORT",Arena Sports 1
-http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="ReMy_SPORT",Arena Sports 5
-http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Boss Charm SPORT
