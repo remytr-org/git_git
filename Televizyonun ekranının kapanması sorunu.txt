@@ -1,0 +1,9 @@
+Televizyonun ekranının kapanması sorunu
+EKRAN KARARIYOR AMA SES VAR
+
+Yeni nesil LCD , Led , Amoled , Süler Amoled , IPS ekranlı televizyonların bazen ekranları kendiliğinden kapanabilir. Hatta kapanıp geri geldikten sonra ekranda yatay veya dikey çizgiler kalabilir. Bu olayın yaşanmasının en önemli sebebi televizyonda ayrıca bir arıza yoksa topraklama hattının yetersizliği veya yokluğudur.
+
+Topraklama hattı olmayan şebekelerde bağlı televizyonlar aynı hat üzerinde bulunan herhangi bir cihazın harmoniklerinden etkilenebilir. Hat üzerinden televizyona ulaşan harmonikler televizyonun Swich Mode Güç Kaynağı tarafından hissedilir hissedilmez televizyon kendini korumaya alacaktır. Ekran invertöründe bulunan SW trafo ekranın aydınlatmasını keseceği için tv nin ekranı kapanacaktır. Saniyeler içinde yaşanacak bu olay sonrasında tv power değerlerini ölçüp değerlerin normale döndüğünü anlar ve tekrar açılır. Açılma esnasında beklenmedik bir şekilde tv nin ekranında harmonik görüntüler oluşabilir.
+Ne yapılması  gerekir ?
+
+Bu sorunu yaşamak istemeyen kullanıcıların öncelikle elektrik tesisatlarındaki topraklama hattını ölçtürmesi gerekmektedir. Topraklama voltajı 1,5 volt’un üzerinde çıkan şebekelerin toprak hatları yetersiz kabul edilir ve topraklamanın bakımının yapılması , topraklama hattı yoksa topraklama hattının çekilmesi gerekir. Elektrik voltajının artması ve azalması gibi dalgalanmalarda tv nizi ve diğer elektronik araçlarınızı koruyacak olan topraklama hatları elektrik kaçakları için bir tahliye anlamına gelir.

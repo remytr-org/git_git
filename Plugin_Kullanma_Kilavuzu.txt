@@ -1,0 +1,53 @@
+﻿              ®ReMy EnigmaTurk TeaM		 
+https://github.com/remytr
+https://www.youtube.com/c/ReMyTr
+ILETISIM-MAİL:enigma2_teknik_servis@hotmail.com
+
+***PLUGINDE ACTIVATION SECENEGI MEVCUTSA SECENEGINI UYGULAYINIZ***
+1-Remy_IPTV_Ekle_x: Kendi Listenize iptvleri ekler.
+2-Remy_IPTV_Guncelle: Eklediginiz iptvleri buradan guncelleyin.
+3-Remy_Team_PLugin_Guncelle: Plugini gunceller.
+4-Remy_TeaM_HABER: Onemli Bildirimleri Buradan Takip ediniz.
+5-ReMy_HbbTv_YouTubeTv_WebBrowser: 
+HbbTv_YouTubeTv_WebBrowser indirip kurmanızı saglar.
+6-FullKeys_Guncelle:Tandberg-Powervu-Bulsat-Biss keys gunceller
+7-ReMy_Satellite_Channel_Setting: 
+Tüm uydular ve IPTV Kanal setting indirilir,kurulur. 
+!!!DIKKAT!!!Kendi Listeniz silinir, yedek aliniz!!!!
+
+8-ReMy_MaTRiX_MoD_Backup:
+Cihaziniza uygun ham imageyi
+kurun,OpenATV veya Open tabanli olsun,RemyTeaM pluginini kurun.
+ReMy_MaTRiX_MoD_Backup secenegini secin,FullBackupınız hazır..
+
+9-ruDream_Crack_Fullbackup:
+Cihaziniza uygun ham rudream imageyi
+kurun ve Remy TeaMi kurun,cihaza usb veya hdd takili olsun,
+ruDream_Cracki calistirin, cihaz yeniden baslayinca exit tusuna
+basip yazilima girin,restore settingi secin,
+son olarak usr/lib/enigma2/python/plugins/extensionsun icindeki
+StorageDevicesWizard dosyasini silin.
+
+10-ReMy_SOFTCAM_APP:
+Cccam-OSCam-Tandberg-Powervu için softcamleri
+indirip yönetmenizi saglar.
+Kurulumdan sonra,Remy_FullKeys_Guncelle yapiniz.
+Cccam icin etc/ccam.cfg dosyasinin icine kendi satin aldiginiz 
+c-satirinizi yapistirin eklentilerden ReMy_SOFTCAM_APP pluginine
+girip ccam secip yesiltusa basiniz..
+Powervu ve Tandberg icin eklentilerden ReMy_SOFTCAM_APP pluginine girip
+OSCamPVU veya Ncam secip yesiltusa basiniz, server oscame eklemek
+icin CCcam to Oscam Converter programini pcye indirip c-satirinizi
+oscame cevirin ve etc/tuxbox/config/ icinde oscam.servera ekleyin.
+
+11-ReMy_OpenVPN_Downloader: OpenVPN indirip kurmanızı saglar..
+12-OpenVPN_START: OpenVPN_Baslatır.
+13-OpenVPN_STOP: OpenVPN_Durdurur.
+14-IP_ADRES_TEST: Openvpn yi baslatırken ve durdurduktan sonra 
+Ip adresinizin degişip degişmedigini kontrol edersiniz.
+15-SpeedTest:Internet hızınızı kontrol edersiniz.
+16-OpenVPN_Certificate_Bundle: OpenVPN yi hangi ülkeden sececekseniz
+o Certificateyi seciniz.OpenVPN otomatik baslar..
+
+     ***T A M A M I N I__O K U M A K__I C I N***
+***CIHAZIN TMP KLASORUNE KULLANMA KILAVUZU KAYDEDILMISTIR***
