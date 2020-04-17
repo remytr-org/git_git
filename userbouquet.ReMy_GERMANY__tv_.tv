@@ -1,0 +1,291 @@
+#NAME == ★★ReMy | GERMANY★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8:10 norge
+#DESCRIPTION 10 norge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-kanal10.crossnet.net%3a1935/kanal10/mp4%3ampegts.stream/playlist.m3u8:10 sv
+#DESCRIPTION 10 sv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8:21bis
+#DESCRIPTION 21bis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1925694245?ticket=EAE4F9969610023FA473E40FE34CDA668E54347F&profile=pass:3sat
+#DESCRIPTION 3sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvallgaeu.iptv-playoutcenter.de%3a1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8:Allgau TV
+#DESCRIPTION Allgau TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreams.br.de/i/bralpha_germany@119899/master.m3u8:ARD alpha
+#DESCRIPTION ARD alpha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil%3aarirang_1ch.smil/playlist.m3u8:Arirang
+#DESCRIPTION Arirang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/175172538?ticket=2DA677E435401AB5027E000B67ECFFBA8EF7F309&profile=pass:ARTE
+#DESCRIPTION ARTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//augsburgtv.iptv-playoutcenter.de%3a1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8:augsburg tv
+#DESCRIPTION augsburg tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv.viiideo.gr%3a1935/axeloos/live/playlist.m3u8:AXELWOS TV
+#DESCRIPTION AXELWOS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.icu.de/rtplive/btv.stream/playlist.m3u8:Baden TV
+#DESCRIPTION Baden TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8:BFM Paris
+#DESCRIPTION BFM Paris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8:BLK TV
+#DESCRIPTION BLK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.y5.hu/stream/bonum/hls/stream.m3u8:Bonum TV
+#DESCRIPTION Bonum TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreams.br.de/i/bfsnord_germany@119898/master.m3u8:BR Nord
+#DESCRIPTION BR Nord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreams.br.de/i/bfssued_germany@119890/master.m3u8:BR Sued
+#DESCRIPTION BR Sued
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.canalc.be%3a1935/canalc/smil%3aSMIL-canalc-multi/playlist.m3u8:Canal C
+#DESCRIPTION Canal C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.canalc.be%3a1935/canalzoom/smil%3aSMIL-canalzoom-multi/playlist.m3u8:Canal Zoom
+#DESCRIPTION Canal Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8:CH 9
+#DESCRIPTION CH 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mcdn.daserste.de/daserste/de/profile1/index.m3u8:Dars Este
+#DESCRIPTION Dars Este
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/848977733?ticket=30A81F8F06EED9DEF9FF820B2B3505ED7205C789&profile=pass:Das Erste
+#DESCRIPTION Das Erste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8:Deejay TV (IT)
+#DESCRIPTION Deejay TV (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&:Deutsche Welle
+#DESCRIPTION Deutsche Welle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8?sd=10&rebase=on:Deutsche Welle
+#DESCRIPTION Deutsche Welle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
+#DESCRIPTION DHTV denhaag tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.artcom-venture.de%3a1322/dmf/tv_360.m3u8:DMF
+#DESCRIPTION DMF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//donautv.iptv-playoutcenter.de%3a1935/donautv/donautv.stream_1/playlist.m3u8:DONAU TV
+#DESCRIPTION DONAU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on:DW Entertainment
+#DESCRIPTION DW Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on:DW Entertainment
+#DESCRIPTION DW Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream3-lh.akamaihd.net%3a80/i/dwstream3_live@124409/index_5_av-p.m3u8:DW Entertainment
+#DESCRIPTION DW Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8:DW TV English
+#DESCRIPTION DW TV English
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBS/hls_or/EBS.m3u8:EbS
+#DESCRIPTION EbS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBSplus/hls_or/EBSplus.m3u8:EbSplus
+#DESCRIPTION EbSplus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/_definst_/mp4%3aelbe_high/chunklist_w1146564478.m3u8:Elbekanal TV
+#DESCRIPTION Elbekanal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/livestream.m3u8:FATIMA TV
+#DESCRIPTION FATIMA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bgo1.cdn.s3m.no/fs/live/ngrp%3alive_all/chunklist_b5196000.m3u8:Fatstone TV
+#DESCRIPTION Fatstone TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.fixhd.tv/fix/hd.stream:Fix HD
+#DESCRIPTION Fix HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8:Focus
+#DESCRIPTION Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8:Francophonie
+#DESCRIPTION Francophonie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.fs1.tv%3a8080/hls/webstream.m3u8:FS1 Salzburg
+#DESCRIPTION FS1 Salzburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ec.playmedia.fr%3a1935/gong-base/live/playlist.m3u8:Gong Base
+#DESCRIPTION Gong Base
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//str81.creacast.com/grandlilletv/high:Grand Lille
+#DESCRIPTION Grand Lille
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//str81.creacast.com/grandlilletv/high/playlist.m3u8:Grand Lille TV
+#DESCRIPTION Grand Lille TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.healthmeans.com/user_videos/133d6a29-49ae-4577-83c6-f1c1b5128f49/133d6a29-49ae-4577-83c6-f1c1b5128f49.m3u8:healt
+#DESCRIPTION healt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-se/_definst_/mp4%3atv7-se.stream_360p/playlist.m3u8:Himlen TV7
+#DESCRIPTION Himlen TV7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net%3a1935/HistoryLab/livestream/playlist.m3u8:History Lab
+#DESCRIPTION History Lab
+#SERVICE 4097:0:1:277:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8:History Lab
+#DESCRIPTION History Lab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/295127300?ticket=7B0EF53B653710E26D3736ACB71290762F86A25A&profile=pass:hr
+#DESCRIPTION hr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8:hr
+#DESCRIPTION hr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream-1.hr.de%3a80/i/hr_fernsehen@75910/master.m3u8:HR Fernsehen
+#DESCRIPTION HR Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/msg116s/msg116s/playlist.m3u8:iasis tv
+#DESCRIPTION iasis tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//isar-tv.iptv-playoutcenter.de%3a1935/isar-tv/isar-tv.stream_1/playlist.m3u8:Isar TV
+#DESCRIPTION Isar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1026086162?ticket=AA34D2267E5D4F8E837D502A7B81DBA1CCC10DE7&profile=pass:Kabel 1
+#DESCRIPTION Kabel 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/363419519?ticket=65B84BFF0054E7D721B5BF8B33119D39F42127D6&profile=pass:kabel eins Doku
+#DESCRIPTION kabel eins Doku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/571743133?ticket=99F197B09E048BCE694477F9E3FFAB45C2759F77&profile=pass:KIKA
+#DESCRIPTION KIKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/_definst_/mp4%3akulturmd_high/playlist.m3u8:Kumturmd
+#DESCRIPTION Kumturmd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kcine/kcine3/TeamBlue.m3u8:KURIAKOS CINE
+#DESCRIPTION KURIAKOS CINE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kkids/kkids3/TeamBlue.m3u8:KURIAKOS KIDS
+#DESCRIPTION KURIAKOS KIDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kmusic/kmusic3/TeamBlue.m3u8:KURIAKOS MUSIC
+#DESCRIPTION KURIAKOS MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.22.11.11%3a1935/ktv/ktv1/TeamBlue.m3u8:KURIAKOS TV
+#DESCRIPTION KURIAKOS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/live_496.m3u8:LCI
+#DESCRIPTION LCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/master_2000000.m3u8:LCI
+#DESCRIPTION LCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8:LCI HD
+#DESCRIPTION LCI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8:LCI HD
+#DESCRIPTION LCI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8:Les News 24
+#DESCRIPTION Les News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer1.streamhost.org%3a1935/salive/lctvde/playlist.m3u8:Light Channel
+#DESCRIPTION Light Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/ok-magdeburg_high/ReMy.m3u8?bitrate=800:MAGDEBURG
+#DESCRIPTION MAGDEBURG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8:Marti
+#DESCRIPTION Marti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8:MDF.1
+#DESCRIPTION MDF.1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/527618870?ticket=26AC76C6BB6F4080E2B0C5936A99C85C593F301A&profile=pass:MDR Thüringen
+#DESCRIPTION MDR Thüringen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muenchentv.iptv-playoutcenter.de%3a1935/muenchentv/muenchentv.stream_2/master.m3u8:Muenchen TV
+#DESCRIPTION Muenchen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1089585324?ticket=C83679E5C42F69A4A0D7C37392475AF08ABE393A&profile=pass:n-tv
+#DESCRIPTION n-tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.vodafoneplay.is/n4/03.m3u8:N4
+#DESCRIPTION N4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.vodafoneplay.is/n4/03.m3u8:N4
+#DESCRIPTION N4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.vodafoneplay.is/n4/index.m3u8:N4
+#DESCRIPTION N4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/203927144?ticket=58D342700E457668911C7728C033FB2E179418BE&profile=pass:NDR
+#DESCRIPTION NDR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8:NDR Hamburg
+#DESCRIPTION NDR Hamburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8:NDR Mecklenburg
+#DESCRIPTION NDR Mecklenburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8:NDR Niedersachsen
+#DESCRIPTION NDR Niedersachsen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8:NDR Schleswig
+#DESCRIPTION NDR Schleswig
+#SERVICE 4097:0:1:398:0:0:0:0:0:0:http%3a//hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8:Noa 4 Hamburg
+#DESCRIPTION Noa 4 Hamburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8:Noa 4 Hamburg
+#DESCRIPTION Noa 4 Hamburg
+#SERVICE 4097:0:1:396:0:0:0:0:0:0:http%3a//hls1.wtnet.de/noa4/apple/wifi6500.m3u8:Noa 4 Norderstedt
+#DESCRIPTION Noa 4 Norderstedt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8:notélé
+#DESCRIPTION notélé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//oberpfalztv.iptv-playoutcenter.de%3a1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8:Oberpfalztv
+#DESCRIPTION Oberpfalztv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:Oe24
+#DESCRIPTION Oe24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800:OK SALZWEDEL
+#DESCRIPTION OK SALZWEDEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/ok-stendal_high/master.m3u8?bitrate=800:OK STENDAL
+#DESCRIPTION OK STENDAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/ok-wernigerode_high/master.m3u8?bitrate=800:OK WERNIGERODE
+#DESCRIPTION OK WERNIGERODE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8:ok-dessau
+#DESCRIPTION ok-dessau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-salzwedel_high/playlist.m3u8:ok-salzwedel
+#DESCRIPTION ok-salzwedel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-cdn.ok54.de/hls/ok54.m3u8:OK54
+#DESCRIPTION OK54
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8:Omega
+#DESCRIPTION Omega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp%3atv-feed_all/playlist.m3u8:Omroep West
+#DESCRIPTION Omroep West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1497715095?ticket=16DFB7F8B675D4FB56C75A868B8912BA8471FBB1&profile=pass:ONE
+#DESCRIPTION ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8:ORF
+#DESCRIPTION ORF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p3-6.mov.at%3a1935/live/weekstream/playlist.m3u8:P3 TV HD
+#DESCRIPTION P3 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1240476556?ticket=ED8C80822A915A2804C02845D54B1E9FA1E5131D&profile=pass:PHOENIX
+#DESCRIPTION PHOENIX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1366507825?ticket=6217C9D6AADBA64B1193FC8D3F79464612884D2F&profile=pass:ProSieben
+#DESCRIPTION ProSieben
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/725509973?ticket=7B80056838A16F4A1CDF2A5632A6C0CE31470822&profile=pass:ProSieben MAXX
+#DESCRIPTION ProSieben MAXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/punktum_high/HasBahCa.m3u8:PUNKTum
+#DESCRIPTION PUNKTum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.221.4/tv2000plus-live/_definst_/mp4%3aquantisana/playlist.m3u8:QS24
+#DESCRIPTION QS24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8:Radio Contact
+#DESCRIPTION Radio Contact
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rfo.iptv-playoutcenter.de%3a1935/rfo/rfo.stream_2/playlist.m3u8:RFO
+#DESCRIPTION RFO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/241167144?ticket=FD7E0697C1983D5318555F1BC48DAB6EBAC7FE57&profile=pass:RTL
+#DESCRIPTION RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live01.rtl.lu/channel1/smil%3achannel1/playlist.m3u8:RTL
+#DESCRIPTION RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1678102727?ticket=E90032C3F3BA4ADE49E59A4A35BD00AC9D7C2A91&profile=pass:RTL II
+#DESCRIPTION RTL II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live01.rtl.lu/channel1/smil%3achannel1/chunklist.m3u8:RTL Luxembourg
+#DESCRIPTION RTL Luxembourg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8:RTL TVI
+#DESCRIPTION RTL TVI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1620041276?ticket=3A38717A3B52DBFDC4ED2A60DA6325DCC6F35285&profile=pass:RTLNITRO
+#DESCRIPTION RTLNITRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/745831590?ticket=BBA8BD2C39683385DCCC5B9A94AF817FD0F51D2E&profile=pass:RTLplus
+#DESCRIPTION RTLplus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn15.streampartner.nl%3a1935/rtvnof2/live/playlist.m3u8:RTV Noordoost-Friesland
+#DESCRIPTION RTV Noordoost-Friesland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8:RUV
+#DESCRIPTION RUV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8:RUV
+#DESCRIPTION RUV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8:RUV 2
+#DESCRIPTION RUV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1379265763?ticket=6EBA25B90ED11734E19A8238C2F4EE3A7A2A824B&profile=pass:Sat.1 GOLD
+#DESCRIPTION Sat.1 GOLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/862550375?ticket=67929399CFD8FCE23605CD82C1CF6EA79BE330D4&profile=pass:Sat1
+#DESCRIPTION Sat1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/599465067?ticket=830484169E17268468CBFC859FE242CEF74FFB0E&profile=pass:sixx
+#DESCRIPTION sixx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1725200588?ticket=EEF9CCE42A8F582F228E4C93710273EE22F1917F&profile=pass:Super RTL
+#DESCRIPTION Super RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.67.13.54%3a1935/sylt1/sylt1_high.stream/chunklist.m3u8:SYLT1
+#DESCRIPTION SYLT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8:tagesschau 24
+#DESCRIPTION tagesschau 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma07.fluidstream.net/TeleArena/livestream/playlist.m3u8:Tele Arena
+#DESCRIPTION Tele Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8:Tele Barn
+#DESCRIPTION Tele Barn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8:Tele M1
+#DESCRIPTION Tele M1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wma07.fluidstream.net%3a1935/RTTRlive/livestream:TELE RTTR
+#DESCRIPTION TELE RTTR
+#SERVICE 4097:0:1:402:0:0:0:0:0:0:http%3a//xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8:Telebasel
+#DESCRIPTION Telebasel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8:Tf1
+#DESCRIPTION Tf1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cdn-kanal10.crossnet.net/kanal10//mpegts.stream:TV 10 Sweden
+#DESCRIPTION TV 10 Sweden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvtouringw.iptv-playoutcenter.de%3a1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8:TV Touring Wurzburg
+#DESCRIPTION TV Touring Wurzburg
+#SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//tvtouringw.iptv-playoutcenter.de%3a1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8:TV Touring Wurzburg HD
+#DESCRIPTION TV Touring Wurzburg HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tv2bornholm.dk/stream/live/playlist.m3u8:TV2 BORNHOLM
+#DESCRIPTION TV2 BORNHOLM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tv2bornholm.dk/stream/live/chunklist.m3u8:TV2 Bornholm
+#DESCRIPTION TV2 Bornholm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8:TV2 Fyn
+#DESCRIPTION TV2 Fyn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8:TV2 Lorry
+#DESCRIPTION TV2 Lorry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvaktuellr.iptv-playoutcenter.de%3a1935/tvaktuellr/tvaktuellr.stream_1/stream.m3u8:TVA HD
+#DESCRIPTION TVA HD
+#SERVICE 4097:0:1:404:0:0:0:0:0:0:http%3a//tvaktuellr.iptv-playoutcenter.de%3a1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8:TVA Ostbayern HD
+#DESCRIPTION TVA Ostbayern HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1516371942?ticket=49AB062E8A363CD4D270AFB515315DFB4AE171E9&profile=pass:VOX
+#DESCRIPTION VOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd:VRT Canvas
+#DESCRIPTION VRT Canvas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-cf-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd:VRT Ketnet
+#DESCRIPTION VRT Ketnet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8:VRT Ketnet jr
+#DESCRIPTION VRT Ketnet jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd:VRT één
+#DESCRIPTION VRT één
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8:WDR Fernsehen
+#DESCRIPTION WDR Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8:WDR HD
+#DESCRIPTION WDR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.vidoo.de/live/weltderwunder/playlist.m3u8:Welt Der Wunder
+#DESCRIPTION Welt Der Wunder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/966323798?ticket=44A26422DF8CF861D7B6D64E2E00BA76C394A49E&profile=pass:ZDF
+#DESCRIPTION ZDF
