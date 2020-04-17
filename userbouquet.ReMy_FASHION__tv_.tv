@@ -1,6 +1,4 @@
 #NAME == ★★ReMy | FASHION★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8:Fashion TV Films
-#DESCRIPTION Fashion TV Films
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FASHION TV SPAIN
 #DESCRIPTION FASHION TV SPAIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8:Fashion TV (SK)
@@ -35,18 +33,12 @@
 #DESCRIPTION FTV Midnight Secrets (FHD) (New!)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FTV Midnight Secrets (HD) (New!)
 #DESCRIPTION FTV Midnight Secrets (HD) (New!)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/048t:Fashion HD
-#DESCRIPTION Fashion HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_mid/index.m3u8:HD Fashion
 #DESCRIPTION HD Fashion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8:HD FASHION TV
 #DESCRIPTION HD FASHION TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:HD Fashion
 #DESCRIPTION HD Fashion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8:ID Fashion
-#DESCRIPTION ID Fashion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8:ID Fashion HD
-#DESCRIPTION ID Fashion HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu-all7.secdn.net/runway-live/play/smil%3arunway.smil/playlist.m3u8:Runway TV FASHION
 #DESCRIPTION Runway TV FASHION
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wfc.bonus-tv.ru%3a80/cdn/wfcint/tracks-v1a1/index.m3u8:World Fashion Channel International HD
