@@ -1,6 +1,4 @@
 #NAME == ★★ReMy | BALKAN★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.33.254/unicast_alsatmm/index.m3u8:AlsatM
-#DESCRIPTION AlsatM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.33.214/TVKlan/mpegts:KlanTv
 #DESCRIPTION KlanTv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.33.214/TVKlanPlus/mpegts:KlanPlus
