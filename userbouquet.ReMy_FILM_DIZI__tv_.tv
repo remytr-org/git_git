@@ -5,6 +5,8 @@
 #DESCRIPTION BLUTV Aksiyon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8:BLUTV Komedi
 #DESCRIPTION BLUTV Komedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//worldiptv.me%3a8080/SghubRes-2/G55zEE7a8A/10701:Bravo HD
+#DESCRIPTION Bravo HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8:RedBox Battery Pop
 #DESCRIPTION RedBox Battery Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8:RedBox Comedy

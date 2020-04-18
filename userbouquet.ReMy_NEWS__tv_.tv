@@ -41,6 +41,8 @@
 #DESCRIPTION Istweb TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv/dp//istanbul2:Istanbul 2
 #DESCRIPTION Istanbul 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//worldiptv.me%3a8080/SghubRes-2/G55zEE7a8A/10749:CNN HD
+#DESCRIPTION CNN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000034@HHZT:Reuters
 #DESCRIPTION Reuters
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.efir24.tv%3a1935/live/efir24tv/playlist.m3u8:24 AP Tataristan
