@@ -229,6 +229,8 @@ http://ott-cdn.ucom.am/s69/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC World
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10749
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN HD
 http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Arabia
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
@@ -367,6 +369,26 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:-1 group-title="ReMy_SPORT",YENI MALATYA SPOR 
 http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",TEN 1
+http://163.172.85.133:8080/TenS/1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",TEN 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",SKYNET1 sport
+http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",SKYNET2 sport
+http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",SKYNET3 sport
+http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",SKYNET4 sport
+http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",SKYNET5 sport
+http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",SKYNET6 sport
+http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",SKYNET8 sport
+http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
+#EXTINF:0 tvg-id="WWE.ca" group-title="SPORT",VARZESH TV
+http://51.158.176.190/hls/stream.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Boss Charm SPORT
