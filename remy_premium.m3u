@@ -369,6 +369,8 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:-1 group-title="ReMy_SPORT",YENI MALATYA SPOR 
 http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Trace Sports Stars
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",TEN 1
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",TEN 3
