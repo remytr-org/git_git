@@ -2598,52 +2598,18 @@ http://188.35.9.15:21031/udp/046e
 http://188.35.9.15:21131/udp/137a
 #EXTINF:-1 group-title="ReMy_RUSSIAN",ZIK HD
 http://188.35.9.15:3030/udp/131e
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",3AW Melbourne
-http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",43 channel HD
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",49 channel
-http://37.194.184.105:81/udp/239.1.10.8:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",4BC Brisbane
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",4U occidental
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",7 Channel HD (Odessa)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",gorod.tv 78
-http://gorod.tv/s/live/22/ssiptv/0/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Aesculapius TV
-http://46.175.163.130:7000/Eskulap
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia 1
-http://89.223.6.7/amedia/mono.m3u8?token=yugtelset
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia 2
-http://89.223.6.7/amedia-2/mono.m3u8?token=yugtelset
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia HBO
-http://178.163.89.138:4022/udp/234.0.0.169:2000
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia Hit
-http://46.32.68.167/s/live/210/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia Premium
-http://178.163.14.190:4022/udp/234.0.0.209:2000
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia Premium HD
-http://178.124.183.14:80/hls/CH_AMEDIAPREMIUM/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Auto 24
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/538/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Bastion
 http://185.114.136.25/oplot-tv
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Bastion
 http://185.114.136.25/oplot-tv
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",BBC World News (EN)
 http://51.52.156.22:8888/http/004
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Beaver
-http://46.180.99.15:81/udp/239.255.42.207:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Beaver
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/725/index.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Bollywood HD
-http://178.163.47.249:4022/udp/234.0.0.195:2000
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Bolt
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",BOLT
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Brodilo.TV
 http://brodilo.tv/channel.php
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",CBN News
@@ -2652,146 +2618,36 @@ http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8
 http://live.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",channel 47
 http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Channel 5 (Ukraine)
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Channel 5
-http://gorod.tv/s/live/5/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",channel 78
-http://46.32.68.167/s/live/22/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",CHE!
-http://46.32.68.167/s/live/802/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",CINEMA
-http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Classic Movie HD
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Comedy Central/VIVA
 http://31.177.62.139:8011/play/s27
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Comedy TV
-http://46.180.99.15:81/udp/239.255.42.43:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Cottage
-http://195.138.78.66:8001/udp/239.2.153.73:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Country
 http://ott-cdn.ucom.am/s31/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Country
 http://strm.yandex.ru/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Crimea 24
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Da Vinci
-http://213.174.8.7:11111/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Direct HD
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Direct HD
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Discount
 http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Discovery Channel
-http://109.248.236.41:4433/udp/238.1.1.124:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Discovery Channel
-http://213.174.8.7:8000/play/24/index.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Discovery Showcase HD
-http://185.22.183.155:8085/media/hls_183_155/discov_showcasehd/index.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Doctor
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Doctor
-http://178.163.24.181:4022/udp/234.0.0.232:2000
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DocuBox HD
-http://195.138.78.66:8001/udp/239.2.153.110:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DR.DEGREE
-http://live.planeta-online.tv:1935/public/smil:channel_22.smil/chunklist_b858000.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Dr.Degree
-http://77.222.34.38:1935/public/channel_22/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Drama
-http://37.192.143.70:4022/udp/239.1.21.56:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Drive
-http://178.124.183.5/hls/6UTCEG6ATO/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DTX
-http://46.32.68.167/s/live/410/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DTX
-http://46.32.68.167/s/live/410/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DTX HD
-http://212.12.194.10/dtxhd/live.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Earth TV
 https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",EARTH TV [WebCam]
 http://strm.yandex.ru/kal/worldlife/worldlife0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Epic Drama HD
-http://46.37.210.19:34040/udp/238.39.40.213:5000
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Epoque
 http://195.138.79.232:4022/udp/239.0.251.45:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Espreso TV
 http://api.tv.ipnet.ua:80/api/v1/manifest/2007567821.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Eurocinema
-http://dmitry-tv.ru/his/itv_blrus/CH_EUROKINO.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",EUROSPORT 2
-http://109.248.236.41:4433/udp/238.1.1.115:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Express
-http://serv25.vintera.tv:8081/expres_penza/penzatv/chunks.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Favorite TV
-http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Film Box
-http://195.138.78.66:8001/udp/239.2.153.106:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Film screening
-http://37.192.143.70:4022/udp/239.1.21.20:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Film screening 2 HD
-http://autopilot.myowntv.org:80/content/35448/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Filmzone ATV
 http://ott-cdn.ucom.am/s48/04.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Fishing Dialogs
 http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Food Network
-http://46.180.99.15:81/udp/239.255.42.201:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Food Premium HD
-http://178.124.183.14:80/hls/BCPKKUK5NT/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Fox
-http://178.124.183.5/hls/CH_FOX/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",FOX
-http://dmitry-tv.ru/his/itv_blrus/CH_FOX.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Fox Life
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",FOX Life
-http://dmitry-tv.ru/his/itv_blrus/CH_FOXLIFE.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",France 24
-http://dmitry-tv.ru/his/yatv/CH_FRANCE24.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Friday
-http://gorod.tv/s/live/16/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Galaxy
-http://178.124.183.5/hls/CH_GALAXY/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Galaxy
-http://178.124.183.14:80/hls/CH_GALAXY/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Glazella HD
-http://188.242.237.246:65535/udp/239.239.3.72:5239
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",НСТ
-http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",HDL
-http://78.111.93.102:53022/udp/225.101.15.16:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",History
-http://46.32.68.167/s/live/419/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Hollywood
-http://46.32.68.167/s/live/256/86.169.51.136/0/0.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Horse World
 http://188.35.9.5:10007/stolen/162z/parasite.install
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Horse World HD
-http://95.67.17.105:8812/http/185.160.90.17:19124/0e27364911ec70c34f39a3e29e8f1ea7
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Hunter and Fisherman
 http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Hunter and Fisherman HD
-http://dmitry-tv.ru/his/itv_blrus/CH_OHOTNIKIRYBOLOVHD.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Hunting and fishing
-http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",ICTV
-http://195.162.90.141:8080/d85ab661beb3f234a4e840242fa1d6fa
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",IKS TV
-http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Illusion +
-http://dmitry-tv.ru/his/itv_blrus/CH_ILLUZION_PLYUS.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",In Animal World HD
-http://178.163.24.181:4022/udp/234.0.0.97:2000
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Indian cinema
-http://178.124.183.14:80/hls/CH_INDIYATV/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Indian cinema
-http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Inter
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",ITV Crimea
@@ -2801,8 +2657,6 @@ http://strm.yandex.ru/kal/joycook/joycook0_169_480p.json/index-v1-a1.m3u8?s-m-a-
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",K16 (Sarov)
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Katun 24
-http://dmitry-tv.ru/his/yatv/CH_KATUN24.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Katun 24
 http://83.246.178.12:81/udp/239.54.5.147:1224
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kiev TV
 http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
@@ -2810,46 +2664,20 @@ http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
 http://82.193.71.93/Kino24LV/video.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kinoman ATV
 http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kinomix
-http://dmitry-tv.ru/his/itv_blrus/CH_KINOMIKS.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kinomix HD
 http://176.101.120.183:1234/udp/239.255.128.85:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",KITCHEN TV
-http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kitchen TV
-http://dmitry-tv.ru/his/itv_blrus/CH_KUHNYATV.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",KVN HD
 http://hls.goodgame.ru:8080/hls/172148.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Leomax
 http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Male
-http://46.32.68.167/s/live/805/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Marine
 http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/742/index.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Match! HD
-http://46.32.68.167/s/live/939/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Match! Arena
-http://46.32.68.167/s/live/506/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MATCH! GAME HD
-http://178.163.84.233:4022/udp/234.0.0.6:2000
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MATCH! PLANET
-http://178.124.183.5/hls/CH_MATCHPLANETA/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Men's Cinema
-http://dmitry-tv.ru/his/itv_blrus/CH_MUZHSKOEKINO.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MEN'S MOVIE
-http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Moscow 24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Classic
-http://dmitry-tv.ru/his/yatv/CH_MOVIECLASSIC.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie classic
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Hit
-http://dmitry-tv.ru/his/itv_blrus/CH_KINOHIT.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie premiere
 http://109.248.236.41:4433/udp/238.1.1.19:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MOVIE PREMIERE HD
-http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Premium HD
 http://188.35.9.26:14051/udp/238.0.14.2:69000
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Premium HD 
@@ -2862,8 +2690,6 @@ http://31.177.62.139:8011/play/s28
 http://31.177.62.139:8011/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",My Planet
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",My Planet
-http://dmitry-tv.ru/his/itv_blrus/CH_MOYAPLANETA.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",My Planet HD
 http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nano
@@ -2875,21 +2701,11 @@ http://hls.goodgame.ru/hls/33226.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nasa TV HD
 http://188.35.9.5:10020/stolen/483x/hot.dll
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nat Geo Wild
-http://dmitry-tv.ru/his/itv_blrus/CH_NATGEO_WILD.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nat Geo Wild
 http://188.35.9.5:10020/stolen/487n/hot.dll
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nat Geo Wild
 http://188.35.9.5:10020/stolen/487n/hot.dll
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nat Geo Wild HD
-http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",National Geographic
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",National Geographic HD
 http://185.176.117.243/live/eds/NatGeoHD/hls_encr/NatGeoHD.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Native Movie
-http://178.124.183.14:80/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Native movie
-http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",New World
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",News
@@ -2910,50 +2726,28 @@ https://strm.yandex.ru/kal/tnomer_supres/tnomer_supres0_2011_480p.json/index-v1-
 http://91.192.168.242:9091
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Ocean TV (HD)
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Open World
-http://178.163.122.244:4022/udp/234.0.0.238:2000
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTC
-http://176.101.224.21:8080/udp/239.195.41.165:1234
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTC HD
-http://176.62.191.181:19002/dop20309/ots/index.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTP
-http://46.32.68.167/s/live/9/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTV (Dnipro)
 http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTV 24
-http://dmitry-tv.ru/his/yatv/CH_OTV24.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTV Chelyabinsk
 http://188.35.9.5:10007/stolen/218n/parasite.install
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Detective HD
 http://95.67.17.105:8812/http/185.160.90.17:19124/c036038a436e68d08d953b35d54b94ae
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our favorite
-http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Favorite Movie
-http://178.124.183.14:80/hls/CH_NASHEKINO/variant.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Home
 http://188.35.9.11:21161/udp/187u
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Home
 http://85.234.33.60/stream/c11.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Kinoroman HD
 http://95.67.17.105:8812/http/185.160.90.17:19124/dbf028f8ec1b881f63c9321bd55fb2eb
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our New Movie
-http://dmitry-tv.ru/his/itv_blrus/CH_NASHENOVOEKINO.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Paramount Comedy
-http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Pepper
 http://37.193.58.164:4022/udp/239.1.15.14:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Premiere
 http://live.planeta-online.tv:1935/public/smil:channel_5.smil/chunklist_w1606083291_b858000.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Premium Food
-http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Premium World
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Present
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Present HD
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Present HD
-http://dmitry-tv.ru/his/CH_NVREMYAHD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Pro 100 TV
 http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",pryamyi
@@ -2961,11 +2755,7 @@ http://api.tv.ipnet.ua:80/api/v1/manifest/1293294600.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Public TV
 http://85.238.112.40:8810/hls_sec/239.17.75.33-.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Rain
-http://dmitry-tv.ru/his/yatv/CH_DOZHD.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Rain
 https://37.9.112.35/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Rain
-http://dmitry-tv.ru/his/yatv/CH_DOZHD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Rain HD
 http://5.59.200.247:81/udp/239.72.4.30:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",REN TV HD
@@ -2976,10 +2766,6 @@ http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",RTVI
-http://dmitry-tv.ru/his/itv_blrus/CH_RTVi.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russia 1
-http://46.32.68.167/s/live/2/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russia 1
 http://hls-mycdn01792630458.cdnvideo.ru/mycdn01792630458/chechnyatoday/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russia 24
@@ -2990,46 +2776,20 @@ http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r24.smil/chunklist_b
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russian Bestseller
 http://ott-cdn.ucom.am/s52/03.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russian Extreme
-http://178.163.24.181:4022/udp/234.0.0.173:2000
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russian Illusion
-http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russian Roman HD
 http://188.35.9.5:10007/stolen/127k/parasite.install
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russkij illuzion (640x360p25 @ 1200 kbps)
-http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Science
-http://178.124.183.5/hls/LWWBCKZAPZ/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Science
-http://178.124.183.14:80/hls/LWWBCKZAPZ/variant.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Science 2.0
 http://185.22.183.151:8085/media/hls_183_151/nauka/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",SERIES WORLD
 http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_480p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Shop 24
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Shop and Show
-http://46.180.99.15:81/udp/239.255.42.206:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Shopping Live
 http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Sintel
 http://51.15.253.75:8008/manifest.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Sony Sci-Fi
-http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Sony Sci-Fi
-http://178.124.183.14:80/hls/EDVYQYGHF8/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Sony Turbo
-http://46.32.68.167/s/live/260/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Soviet Cinema
-http://178.124.183.5/hls/CH_SOVKINO/variant.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Soviet Cinema
 http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",STAR CINEMA
-http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Star Cinema
-http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Star Family
-http://178.124.183.5/hls/CH_FAMILY/variant.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",St. Petersburg
 http://188.242.199.174:81/udp/239.239.3.67/10239
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",state of emergency.INFO
@@ -3038,32 +2798,20 @@ http://109.68.40.67/life/magnolia.m3u8
 http://109.68.40.67/life/magnolia.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Super
 http://212.29.231.242:8080/btv_353/mpegts
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Super
-http://46.180.99.15:81/udp/239.255.42.120:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Tasty TV
 http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Techno 24
-http://178.124.183.4:80/hls/ZIVFRAFR2I/variant.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Teletravel HD
 http://95.67.17.105:8812/http/185.160.90.17:19124/1fdcd927e96ec217b44ac6fbf29c770e
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TIC (Odessa)
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",The movie family
-http://178.124.183.14:80/hls/FEDXG8XPOR/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Through the Eyes of a Tourist
-http://176.62.191.181:19000/dop20503/glazamiturista/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TON
 http://strm.yandex.ru/kal/tnomer_supres/tnomer_supres0_2011_480p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Top Secret HD
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovsec_supres/sovsec_supres0_54_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Top Shop
-http://46.181.229.228:81/udp/239.255.42.148:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel + Adventure
 http://37.192.143.70:4022/udp/239.1.5.7:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel Channel
 http://188.35.9.11:21031/udp/038m
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel Channel HD
-http://46.32.68.167/s/live/925/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel+Adventure
@@ -3076,14 +2824,8 @@ http://gorod.tv/s/live/15/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV Premiere
 http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV Showcase
-http://46.180.99.15:81/udp/239.255.42.127:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000
 http://213.252.252.17/live/eds/TV1000_SD/hls_encr/TV1000_SD.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000
-http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 ACTION
-http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 Action
 http://213.252.252.17/live/eds/TV1000_action_SD/hls_encr/TV1000_action_SD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 Premium
@@ -3092,16 +2834,10 @@ http://213.252.252.17/live/eds/TV1000PremiumHD/hls_encr/TV1000PremiumHD.m3u8
 http://185.175.92.10:8080/vip_premiere/mono.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 World Kino
 http://188.35.9.26:5031/udp/112s
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 
-http://dmitry-tv.ru/his/itv_blrus/CH_TV1000RUSKINO.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Ugra
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Unknown planet
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIASAT EXPLORE
-http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Viasat Explorer
 http://213.252.252.17/live/eds/Viasat_Explorer_SD/hls_encr/Viasat_Explorer_SD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIASAT HISTORY
@@ -3110,18 +2846,12 @@ https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2U
 http://213.252.252.17/live/eds/Viasat_History_SD/hls_encr/Viasat_History_SD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Viasat Nature
 http://213.252.252.17/live/eds/Viasat_Nature_SD/hls_encr/Viasat_Nature_SD.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIASAT NATURE
-http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIP Comedy
 http://ott-cdn.ucom.am/s97/index.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",ViP Megahit
 http://188.35.9.11:2016
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIP Megahit HD
 http://188.35.9.11:2016
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Weapon
-http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Weapon
-http://dmitry-tv.ru/his/itv_blrus/CH_ORUZHIE.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Who Is Who
 http://78.111.93.102DUC3022/udp/225.101.15.53:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",World
@@ -3130,8 +2860,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://sc.id-tv.kz/Mir24_38_39.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",World 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUSSIAN_2",World of Hobbies
-http://dmitry-tv.ru/his/yatv/CH_MIRUVLECHENIY.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",WORLD Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",ZIK
