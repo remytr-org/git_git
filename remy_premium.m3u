@@ -399,14 +399,8 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 https://gma2.blab.email/espnews.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN.nz.png" group-title="ReMy_SPORT",ESPN
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN.nz.png" group-title="ReMy_SPORT",ESPN2
-http://npse.brots.world/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN2.nz.png" group-title="ReMy_SPORT",ESPN 2
-https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNU.us.png" group-title="ReMy_SPORT",ESPN U
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/SECNetwork.us.png" group-title="ReMy_SPORT",SEC ESPN Network
-https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ESPN_logo.svg.png" group-title="ReMy_SPORT",ACC Network
 https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="ReMy_SPORT",MBC J Sports
@@ -417,18 +411,12 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="ReMy_SPORT",Wai Lai
 https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="ReMy_SPORT",Eurosport 1
-http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="ReMy_SPORT",Eurosport 2
-http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="ReMy_SPORT",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="ReMy_SPORT",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="ReMy_SPORT",Olympic Channel 2
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 tvg-logo="https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/93/ff/899ed7604901807d3824d4a9abca/1571847365901_ftf_transparentimages-tab.png" group-title="ReMy_SPORT",FTF
-https://streaming.sniffercat.com/scheduler/scheduleMaster/2/variant/4.m3u8
 #EXTINF:-1 tvg-logo="https://snagfilms-a.akamaihd.net/cf9c3bbc-917a-4447-90ab-55bf78b01f49/images/83/36/d90134124307b18e251dce2033ad/1566507637959_laximages-tab.png" group-title="ReMy_SPORT",Lax Sports Network
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22705/horizon-sports/logo_20191213_000421.png" group-title="ReMy_SPORT",Horizon Sports
@@ -439,24 +427,12 @@ https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22723/world-of-free-sports-tv/logo_20191213_002513.png" group-title="ReMy_SPORT",DISTRO TV World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://www.vsin.com/android-icon-192x192.png" group-title="ReMy_SPORT",VSIN
-https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
 #EXTINF:-1 tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="ReMy_SPORT",Xcorps
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="ReMy_SPORT",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dsport.in/wp-content/uploads/2018/10/NewDSport_White.png" group-title="ReMy_SPORT",Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="ReMy_SPORT",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="ReMy_SPORT",Sony Ten 1
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="ReMy_SPORT",Sony Ten 2
-https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN3.in.png" group-title="ReMy_SPORT",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="ReMy_SPORT",Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="ReMy_SPORT",Fox Sports 501
 http://45.58.62.92:8080
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="ReMy_SPORT",Real Madrid TV
@@ -465,10 +441,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchFutbol1.ru.png" group-title="ReMy_SPORT",Match! Football 1
 http://188.35.9.14:2010
-#EXTINF:-1 tvg-logo="https://start.sportdigital.de/assets/img/SD_HDSenderLOutlWEB.png" group-title="ReMy_SPORT",Sportdigital
-http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="ReMy_SPORT",NBC Golf
-http://203.154.243.89:1208
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="ReMy_SPORT",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="ReMy_SPORT",Golf network
@@ -483,42 +455,16 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/TJKTV.tr.png" group-title="ReMy_SPORT",TJK
 https://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/NowSportsPrime.hk.png" group-title="ReMy_SPORT",Now Sports Prime
-http://wowgua.com/live/channel_630.m3u8
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="ReMy_SPORT",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
-#EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="ReMy_SPORT",Fight Box
-https://1610186124.rsc.cdn77.org/1610186124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png" group-title="ReMy_SPORT",ATP Tennis TV
 http://203.154.243.89:11739
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TennisChannel.us.png" group-title="ReMy_SPORT",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="ReMy_SPORT",Tennis Channel+
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="ReMy_SPORT",Tennis Channel+ 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="ReMy_SPORT",Boss Charm Network
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Sky-Sports-1HD
-http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Sky-Spo-football
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Sky-Sport-Pre-L
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8 
-#EXTINF:-1 group-title="ReMy_SPORT",Sky-S-main-event
-http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8 
-#EXTINF:-1 group-title="ReMy_SPORT",EURO-Sport-1
-http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8 
-#EXTINF:-1 group-title="ReMy_SPORT",EURO-Sport-2
-http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8 
-#EXTINF:-1 group-title="ReMy_SPORT",BT Sports 1 HD
-http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",BT-Sport-1HD
-http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",BT-Sport 2 HD
-http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",ZIGGO-Select LIVE
-http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",ONEGOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Tennis Plus
@@ -533,8 +479,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://btvboliviatv.srfms.com:6568/live/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",ERT SPORTS
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Antigua Sports
-http://143.208.59.12:1935/AntiguaSports/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Redbull.tv FHD
 http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Redbull.tv
@@ -547,8 +491,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Super Sports 6 HD
 http://39.134.52.183/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",MATCH! STRANA
-http://cdn.iptv.monster/play/134/A94E407714F99C3/video.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Match! Premier
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",ATG LIVE
@@ -557,10 +499,6 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",ALL SPORTS
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",All Sports
-https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Al Kass Two
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 #EXTINF:-1 group-title="ReMy_SPORT",Al Kass Sports 1
@@ -580,10 +518,6 @@ http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Arhat Sport
 http://arhat.tv/public/360p/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Astrakhan.Ru Sport
-http://91.211.143.214/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Astrakhan.Ru Sport
-http://91.211.143.214/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Astrakhan.Ru Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Astrakhan.Ru Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
@@ -593,14 +527,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 #EXTINF:-1 group-title="ReMy_SPORT",Bahrain Sport 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
-#EXTINF:-1 group-title="ReMy_SPORT",beIN Sports 1
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Bein-Sport-HD1
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Bein-Sport-HD4
-http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Bein-Sport-HD5
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",CCTV5+ HD
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",CDO
