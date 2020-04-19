@@ -3,10 +3,66 @@
 #DESCRIPTION ==== **REMY_ENIGMA|TURK_TEAM** ====
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
 #DESCRIPTION KURAN MEAL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/chunklist_b200000.m3u8?token=yduH_q0YlpCk7wzEv_A3oA&expires=1587317740:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.sd.ma/assabile/recitations_7892537823/mp3/maher-al-mueaqly-002-al-baqara-3066-525.mp3:maher-al-mueaqly-002-al-baqara
 #DESCRIPTION maher-al-mueaqly-002-al-baqara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/farkinda-misin-c91f92cj77/Farkinda-misin---104-9207222.mp3:Farkında mısın?104
+#DESCRIPTION Farkında mısın?104
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/01---Asr-i-Saadette-Ramazan---06.05.2019-47382880.mp3:01 - Asr-ı Saadette Ramazan
+#DESCRIPTION 01 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/02---Asr-i-Saadette-Ramazan---07.05.2019-40249.mp3:02 - Asr-ı Saadette Ramazan
+#DESCRIPTION 02 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/03---Asr-i-Saadette-Ramazan---08.05.2019-8299741.mp3:03 - Asr-ı Saadette Ramazan
+#DESCRIPTION 03 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/04---Asr-i-Saadette-Ramazan---09.05.2019-26143830.mp3:04 - Asr-ı Saadette Ramazan
+#DESCRIPTION 04 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/05---Asr-i-Saadette-Ramazan---10.05.2019-32938732.mp3:05 - Asr-ı Saadette Ramazan
+#DESCRIPTION 05 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/05---Asr-i-Saadette-Ramazan---10.05.2019-42822226.mp3:05 - Asr-ı Saadette Ramazan
+#DESCRIPTION 05 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/06---Asr-i-Saadette-Ramazan---11.05.2019-19976610.mp3:06 - Asr-ı Saadette Ramazan
+#DESCRIPTION 06 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/07---Asr-i-Saadette-Ramazan---12.05.2019-40494158.mp3:07 - Asr-ı Saadette Ramazan
+#DESCRIPTION 07 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/08---Asr-i-Saadette-Ramazan---13.05.2019-43168447.mp3:08 - Asr-ı Saadette Ramazan
+#DESCRIPTION 08 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/09---Asr-i-Saadette-Ramazan---14.05.2019-36356940.mp3:09 - Asr-ı Saadette Ramazan
+#DESCRIPTION 09 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/10---Asr-i-Saadette-Ramazan---15.05.2019-18274564.mp3:10 - Asr-ı Saadette Ramazan
+#DESCRIPTION 10 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/11---Asr-i-Saadette-Ramazan---16.05.2019-6245661.mp3:11 - Asr-ı Saadette Ramazan
+#DESCRIPTION 11 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/12---Asr-i-Saadette-Ramazan---17.05.2019-33096483.mp3:12 - Asr-ı Saadette Ramazan
+#DESCRIPTION 12 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/13---Asr-i-Saadette-Ramazan---18.05.2019-46821620.mp3:13 - Asr-ı Saadette Ramazan
+#DESCRIPTION 13 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/14---Asr-i-Saadette-Ramazan---19.05.2019-20854202.mp3:14 - Asr-ı Saadette Ramazan
+#DESCRIPTION 14 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/15---Asr-i-Saadette-Ramazan---20.05.2019-33475084.mp3:15 - Asr-ı Saadette Ramazan
+#DESCRIPTION 15 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/16---Asr-i-Saadette-Ramazan---21.05.2019-38098839.mp3:16 - Asr-ı Saadette Ramazan
+#DESCRIPTION 16 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/17---Asr-i-Saadette-Ramazan---22.05.2019-6362729.mp3:17 - Asr-ı Saadette Ramazan
+#DESCRIPTION 17 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/18---Asr-i-Saadette-Ramazan---23.05.2019-31257442.mp3:18 - Asr-ı Saadette Ramazan
+#DESCRIPTION 18 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/19---Asr-i-Saadette-Ramazan---24.05.2019-8332121.mp3:19 - Asr-ı Saadette Ramazan
+#DESCRIPTION 19 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/20---Asr-i-Saadette-Ramazan---25.05.2019-39530219.mp3:20 - Asr-ı Saadette Ramazan
+#DESCRIPTION 20 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/21---Asr-i-Saadette-Ramazan---26.05.2019-1802905.mp3:21 - Asr-ı Saadette Ramazan
+#DESCRIPTION 21 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/22---Asr-i-Saadette-Ramazan---27.05.2019-24709960.mp3:22 - Asr-ı Saadette Ramazan
+#DESCRIPTION 22 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/23---Asr-i-Saadette-Ramazan---28.05.2019-38398565.mp3:23 - Asr-ı Saadette Ramazan
+#DESCRIPTION 23 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/24---Asr-i-Saadette-Ramazan---01.06.2019-48371727.mp3:24 - Asr-ı Saadette Ramazan
+#DESCRIPTION 24 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/25---Asr-i-Saadette-Ramazan---02.06.2019-18577611.mp3:25 - Asr-ı Saadette Ramazan
+#DESCRIPTION 25 - Asr-ı Saadette Ramazan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.diyanetradyo.com/resim_arsivi/icerik_galerisi/asr-i-saadette-ramazan-vskyslv3qq/26---Asr-i-Saadette-Ramazan---03.06.2019-12881982.mp3:26 - Asr-ı Saadette Ramazan
+#DESCRIPTION 26 - Asr-ı Saadette Ramazan
 #SERVICE 1:64:9A:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8:ATV HD
