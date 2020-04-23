@@ -3100,8 +3100,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_US-UK-IL",ReMy_US-UK-IL
 ReMy_US-UK-IL
-#EXTINF:-1 group-title="ReMy_US-UK-IL",ei HD
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fi/YleTV1.fi.png" group-title="ReMy_US-UK-IL",Yle TV 1
 http://193.64.188.131:8011/bysid/17
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fi/YleTV2.fi.png" group-title="ReMy_US-UK-IL",Yle TV 2
@@ -3112,46 +3110,8 @@ http://193.64.188.131:8011/bysid/155
 http://193.64.188.131:8011/bysid/49
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fi/Nelonen.fi.png" group-title="ReMy_US-UK-IL",Nelonen
 http://193.64.188.131:8011/bysid/65
-#EXTINF:-1 group-title="ReMy_US-UK-IL",FOX HD
-https://my.teleelevidenie.com/play/hls-custom-c375-t139dbcc487e70a08dd261de5fd6a7c0e43af9ab67933bd9100ed35e6ddc42e74.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",Comedy Central HD
-https://my.teleelevidenie.com/play/hls-custom-c406-t139dbcc487e70a08dd261de5fd6a7c0e43af9ab67933bd9100ed35e6ddc42e74.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",AXN HD
-http://210.210.155.66/h/h141/01.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",AXN
-http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",FX HD
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",HBO Hits HD
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",HBO Signature HD
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",Warner TV HD
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",First Movie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 group-title="ReMy_US-UK-IL",Zee Bioskop
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-#EXTINF:-1 group-title="ReMy_US-UK-IL",Sky-MoviesFamily
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesFamily.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",Sky-MoviesDrama
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesDrama.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",Sky-MoviesAction
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesAction.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",Sky-MoviesPremie
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesPremie.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",Sky-Spo-football
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",Sky-MoviesDisney
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",RCTI+
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",MNC+
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 group-title="ReMy_US-UK-IL",INEWS+
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 group-title="ReMy_US-UK-IL",NATGEO
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 group-title="ReMy_US-UK-IL",NATGEO WILD
