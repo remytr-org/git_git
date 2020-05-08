@@ -53,10 +53,6 @@
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/playlist.m3u8:88 Stereo TV
 #DESCRIPTION 88 Stereo TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.33.254/unicast.tunebox/video.m3u8:360 Tunebox
-#DESCRIPTION 360 Tunebox
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.a1mediagroep.eu/hls/a1tv.m3u8:A1 Regio TV
-#DESCRIPTION A1 Regio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0:Baeble Music
 #DESCRIPTION Baeble Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1:Baeble TV
@@ -73,15 +69,13 @@
 #DESCRIPTION BRIDGE DELUXE TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh%3a443/BarazaClassic/BarazaClassic/playlist.m3u8:Baraza Classic
 #DESCRIPTION Baraza Classic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5cc309e93b721.streamlock.net%3a443/8452/8452/playlist.m3u8:Baraza Music Dance
-#DESCRIPTION Baraza Music Dance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Music Hits
 #DESCRIPTION Baraza TV Greek Music Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8:Bluegrass 4U
 #DESCRIPTION Bluegrass 4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boktv.interworks.in%3a1935/live/boktv/playlist.m3u8:BOK TV
 #DESCRIPTION BOK TV
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
 #DESCRIPTION Box Hits
 #SERVICE 4097:0:1:375:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits (UK)
 #DESCRIPTION Box Hits (UK)
@@ -97,8 +91,8 @@
 #DESCRIPTION California Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital Radio
 #DESCRIPTION Capital Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:ch au tv
-#DESCRIPTION ch au tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:ChAu Ttv
+#DESCRIPTION ChAu Ttv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/3.m3u8:City TV
 #DESCRIPTION City TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8:Chanson TV
@@ -489,6 +483,12 @@
 #DESCRIPTION BABYJOY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.126/;:Best FM
 #DESCRIPTION Best FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.34bit.net/ar.mp3:Acik  Radyo 94.9
+#DESCRIPTION Acik  Radyo 94.9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.126:Best FM 98.4
+#DESCRIPTION Best FM 98.4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.173.188.166%3a9986/:Bizim Radyo 104.4
+#DESCRIPTION Bizim Radyo 104.4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.damarfm.com%3a8080/:Damar FM
 #DESCRIPTION Damar FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.9.37.59%3a7966/;:Damar Türk 34
