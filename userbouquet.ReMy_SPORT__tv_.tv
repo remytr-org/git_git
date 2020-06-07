@@ -5,32 +5,18 @@
 #DESCRIPTION TRT SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor2.live.trt.com.tr/master_720.m3u8:TRT SPOR 2 HD
 #DESCRIPTION TRT SPOR 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_aspor/smil%3aaspor_hd.smil/playlist.m3u8:A SPOR HD
-#DESCRIPTION A SPOR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
-#DESCRIPTION NTV SPOR 1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/hls/ntvspor/playlist.m3u8:NTV SPOR MAC OZETLERI
-#DESCRIPTION NTV SPOR MAC OZETLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
 #DESCRIPTION TJK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tjktv.ercdn.net/tjktv.m3u8:TJK
 #DESCRIPTION TJK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.39.105.79%3a1935/santraltv_925/santraltv_925/playlist.m3u8:YENI MALATYA SPOR
-#DESCRIPTION YENI MALATYA SPOR
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::==== ★★ReMy | my TV+ APP★★ ====
-#DESCRIPTION ==== ★★ReMy | my TV+ APP★★ ====
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::==== ★★ReMy | DOO_FREE_88★★ ====
+#DESCRIPTION ==== ★★ReMy | DOO_FREE_88★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8:Fox Sports News
 #DESCRIPTION Fox Sports News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8:KSA Sports
-#DESCRIPTION KSA Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA Sport2
-#DESCRIPTION KSA Sport2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8:Trace Sports Stars
 #DESCRIPTION Trace Sports Stars
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.176.190/hls/stream.m3u8:VARZESH TV
 #DESCRIPTION VARZESH TV
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::==== ★★ReMy | DOO_FREE_88★★ ====
-#DESCRIPTION ==== ★★ReMy | DOO_FREE_88★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-bein1_720/index.m3u8:BeIN Sports 1
 #DESCRIPTION BeIN Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-bein2_720/index.m3u8:BeIN Sports 2
@@ -229,24 +215,10 @@
 #DESCRIPTION EDGE SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8:ERT SPORTS
 #DESCRIPTION ERT SPORTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//npse.brots.world/espn2.m3u8:ESPN
-#DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espn2.m3u8:ESPN 2
-#DESCRIPTION ESPN 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream3.news5.ph/n5e/5plus/playlist.m3u8:ESPN 5 Plus
 #DESCRIPTION ESPN 5 Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnews.m3u8:ESPNEWS
-#DESCRIPTION ESPNEWS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnu.m3u8:ESPN U
-#DESCRIPTION ESPN U
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/sec.m3u8:ESPN Network SEC
-#DESCRIPTION ESPN Network SEC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8:Estonia TV
 #DESCRIPTION Estonia TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8:Eurosport 1
-#DESCRIPTION Eurosport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8:Eurosport 2
-#DESCRIPTION Eurosport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8:Eurosport 1 (bg)
 #DESCRIPTION Eurosport 1 (bg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8:Eurosport 2 (bg)
@@ -429,16 +401,6 @@
 #DESCRIPTION SKYNET6 sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.149.109%3a8081/tumlive/SKYNETHD/chunks.m3u8:SKYNET8 sport
 #DESCRIPTION SKYNET8 sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8:Sony ESPN
-#DESCRIPTION Sony ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/sony_six_720/index.m3u8:Sony Six
-#DESCRIPTION Sony Six
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/ten_1_720/index.m3u8:Sony Ten 1
-#DESCRIPTION Sony Ten 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/ten_2_720/index.m3u8:Sony Ten 2
-#DESCRIPTION Sony Ten 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/ten_3_720/index.m3u8:Sony Ten 3
-#DESCRIPTION Sony Ten 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8:Spor 1 Suudi Arabistan
 #DESCRIPTION Spor 1 Suudi Arabistan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8:Spor 2 Suudi Arabistan
