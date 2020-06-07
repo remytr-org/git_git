@@ -1,5 +1,9 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="XXX",Barely Legal
+http://vs-msk-02.tv.ti.ru:80/dtv/id706_NBN_SG--BarelyLegal/03/plst.m3u8
+#EXTINF:-1 group-title="XXX",Brazzers TV Europe
+http://vs-msk-02.tv.ti.ru:80/dtv/id358_NBN_SG--Brazzers/03/plst.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Bizaarre
 http://84.22.33.254/unicast.bizarre/index.m3u8?streamType=live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Brazzers

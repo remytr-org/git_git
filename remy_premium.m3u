@@ -218,6 +218,7 @@ http://ott-cdn.ucom.am/s23/index.m3u8
 http://ott-cdn.ucom.am/s69/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC World
 http://ott-cdn.ucom.am/s24/index.m3u8
+
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN HD
 http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10749
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN HD
@@ -302,7 +303,78 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",The Weather Network
 http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
-
+#EXTINF:-1,TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İntikamı
+https://srv100.filmmodu.xyz/tt9580138/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Geceyarısı Avı
+https://srv51.filmmodu.xyz/tt0095631/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: öğrenci ofisi
+https://srv8.filmmodu.xyz/tt8783532/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Sultan
+https://srv69.filmmodu.xyz/tt4832640/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Samuray marason
+https://srv49.filmmodu.xyz/tt9311062/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Scary Stories to Tell in the Dark
+https://srv97.filmmodu.xyz/tt3387520/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: gece nobeti
+https://srv33.filmmodu.xyz/tt0403358/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: cennette 7 dakika
+https://srv59.filmmodu.xyz/tt4269118/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: derin sular
+https://srv31.filmmodu.xyz/tt5774060/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Yırtıcı Kuşlar ve Muhteşem Harley Quinn
+https://srv57.filmmodu.xyz/tt7713068/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Bloodshot: Durdurulamaz Güç
+https://srv28.filmmodu.xyz/tt1634106/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: El Camino A Breaking Bad
+https://srv60.filmmodu.xyz/tt9243946/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Joker
+https://srv24.filmmodu.xyz/tt7286456/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Kaçış Planı 3
+https://srv17.filmmodu.xyz/tt6772804/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Isi & Ossi
+https://srv76.filmmodu.xyz/tt9806322/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Boarding Gate
+https://srv99.filmmodu.xyz/tt0493402/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Anna
+https://srv18.filmmodu.xyz/tt7456310/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: HAYVANLAR SEHRİ
+https://srv77.filmmodu.xyz/tt2948356/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Winx Club - Sihirli Macera
+https://srv19.filmmodu.xyz/tt1618450/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Kahraman İkili
+https://srv444.filmmodu.xyz/tt1621039/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: CESUR
+https://srv54.filmmodu.xyz/tt1217209/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Angry Birds Filmi 2
+https://srv63.filmmodu.xyz/tt6095472/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Unutulmuş Arkadaşlıklar
+https://srv9.filmmodu.xyz/tt7869818/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Barbie güçlü prenses
+https://srv88.filmmodu.xyz/tt4215332/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Extraction
+https://srv52.filmmodu.xyz/tt8936646/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: GRETA
+https://srv74.filmmodu.xyz/tt2639336/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: ölüm yolu
+https://srv93.filmmodu.xyz/tt0355954/480p.tr.m3u8
+#EXTINF:-1,TR_FILM: çılgın ikili 2
+https://srv59.filmmodu.xyz/tt0172156/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: çifte tehlike
+https://srv64.filmmodu.xyz/tt0150377/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Asla yanlız uçmayacaksın (animasyon)
+https://srv98.filmmodu.xyz/tt2766104/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: ajanlar iş başında (animasyon)
+https://srv69.filmmodu.xyz/tt5814534/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Anastasia (animasyon)
+https://srv40.filmmodu.xyz/tt0118617/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Karlar Ülkesi 2 (animasyon)
+https://srv9.filmmodu.xyz/tt4520988/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: Addams Ailesi (animasyon)
+https://srv20.filmmodu.xyz/tt1620981/480p.tr.m3u8
+#EXTINF:-1,TR_FILM: sihirli halı (animasyon)
+https://srv98.filmmodu.xyz/tt5848640/720p.tr.m3u8
+#EXTINF:-1,TR_FILM: yeti efsanesi (animasyon)
+https://srv17.filmmodu.xyz/tt6324278/720p.tr.m3u8
 #EXTINF:-1 group-title="ReMy_BELGESEL",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_BELGESEL",Outdoor Channel
@@ -323,12 +395,6 @@ https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 group-title="ReMy_BELGESEL",Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy_BELGESEL",BBC Earth
-https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
-#EXTINF:-1 group-title="ReMy_BELGESEL",CGTN Documentary
-http://61.58.60.230:9319/live/221.m3u8
-#EXTINF:-1 group-title="ReMy_BELGESEL",Crime & Investigation
-http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_BELGESEL",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_BELGESEL",Investigation Discovery
@@ -337,28 +403,12 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_BELGESEL",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 group-title="ReMy_BELGESEL",English Club
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 group-title="ReMy_BELGESEL",History Europe
-http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy_BELGESEL",H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 group-title="ReMy_BELGESEL",National Geo
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="ReMy_BELGESEL",National Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="ReMy_BELGESEL",National Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="ReMy_BELGESEL",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",ReMy_SPORT
 ReMy_SPORT
-#EXTINF:-1 group-title="ReMy_SPORT",A SPOR HD
-http://mn-nl.mncdn.com/blutv_aspor/smil:aspor/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",TRT Spor HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title="ReMy_SPORT",YENI MALATYA SPOR 
-http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",TEN 1
@@ -4958,7 +5008,7 @@ http://17733.live.streamtheworld.com:3690/METRO_FM_SC
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",WORLD HIT
 http://37.247.98.8/stream/34/
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo ilef
-http://radyo.cc.ankara.edu.tr:8089/;
+http://radyo.cc.ankara.edu.TR_FILM:8089/;
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Slow Time
 http://46.20.7.104/;
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Fenomen
@@ -4990,7 +5040,7 @@ http://37.247.98.8/stream/35/
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",TaksimFM - Arabesk
 http://95.211.162.32:8008
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Alaturka
-http://stream.radyoalaturka.com.tr:9100/;
+http://stream.radyoalaturka.com.TR_FILM:9100/;
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Ahmet Kaya
 http://ahmetkaya.canliyayinda.com:9999/;
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Avrasya Turk
