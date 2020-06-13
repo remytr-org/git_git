@@ -4546,11 +4546,13 @@ http://stream.a1mediagroep.eu/hls/a1tv.m3u8
 https://v.viralshit.in/live/aahomusic.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ALBUK HD
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",İNDİAN MSC
+http://45.251.116.114:9981/stream/channelid/1880958846?ticket=C3461CA34CC85D3D14CCF577BD41013FDC34CF39&profile=pass
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ALB MUSIC HD
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_RUS_ADINISENKOY",MY3 MUSİC TV
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MY3 MUSİC TV
 http://91.231.233.161:8080/udp/239.195.57.54:1234
-#EXTINF:-1 group-title="ReMy_RUS_ADINISENKOY",BRIDGE DELUXE TV HD
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",BRIDGE DELUXE TV HD
 http://91.231.233.161:8080/udp/239.195.59.213:1234
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Baeble Music
 https://dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0

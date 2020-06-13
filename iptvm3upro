@@ -1,0 +1,52 @@
+#!/bin/sh
+rm -rf /tmp/*.m3u
+rm -rf /tmp//usr/lib/enigma2/python/Plugins/Extensions/m3u_Pro/m3u_ProM3U/*.m3u
+rm -rf /etc/enigma2/*.del > /dev/null
+rm -rf /etc/enigma2/*.tv_org
+rm -rf /etc/enigma2/*.tv_bak
+sleep 1
+wget -O /tmp/DMRWOLFIEINC_UK.m3u "https://github.com/DMRWOLFIEINC/iptv/raw/master/iptv3"
+
+wget -O /tmp/DMRWOLFIEINC_USA.m3u "https://github.com/DMRWOLFIEINC/iptv/raw/master/iptv2"
+
+wget -O /tmp/ReMy_XxX.m3u "https://github.com/remytr-org/git_git/raw/master/remy_xxx.m3u"
+
+wget -O /tmp/ReMy_Premium.m3u "https://github.com/remytr-org/git_git/raw/master/remy_premium.m3u"
+
+wget -O /tmp/GoCast2-Oriental-Istana2.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast2/Oriental/Istana.m3u8"
+
+wget -O /tmp/GoCast-Oriental-Istana.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Oriental/Istana.m3u8"
+
+wget -O /tmp/GoCast-Oriental-Gugong.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Oriental/Gugong.m3u8"
+
+wget -O /tmp/GoCast-Oriental-Eden.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Oriental/Eden.m3u8"
+
+wget -O /tmp/GoCast-Hindustan-TajMahal.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Hindustan/TajMahal.m3u8"
+
+wget -O /tmp/GoCast-Hindustan-RamBagh.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Hindustan/RamBagh.m3u8"
+
+wget -O /tmp/GoCast-Hindustan-Aranmanai.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Hindustan/Aranmanai.m3u8"
+
+wget -O /tmp/GoCast-Europa-Versailles.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Europa/Versailles.m3u8"
+
+wget -O /tmp/GoCast-Europa-Palacio.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Europa/Palacio.m3u8"
+
+wget -O /tmp/GoCast-Europa-Kremlin.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Europa/Kremlin.m3u8"
+
+wget -O /tmp/GoCast-Europa-Buckingham.m3u "https://github.com/exodiver/IPTV/raw/master/GoCast/Europa/Buckingham.m3u8"
+
+wget -O /tmp/RUSSIAN_PERSIK_TV.m3u "https://vk.com/doc45092678_550780781?hash=c80b262e2fc6796199&dl=7db0ef3086aece3084"
+
+wget -O /tmp/RUSSIAN_wifire_msk.m3u "https://vk.com/doc45092678_550774578?hash=2959652ea5330befb2&dl=b740c7b60b258c6cb3"
+
+wget -O /tmp/goldiptv24.m3u "http://goldiptv24.com:8080/get.php?username=alikacmaz5&password=OSC7V3zLS5&type=m3u"
+
+wget -O /tmp/tv_channels_10982_plus.m3u "http://207.38.89.242:25461/get.php?username=10982&password=10982&type=m3u_plus&output=ts"
+
+wget -O /tmp/clubsrv_me.m3u "http://clubsrv.me:80/ederson/ederson123/2025"
+
+wget -O /tmp/tv_channels_phoenix.m3u "http://62.171.128.99:25461/get.php?username=phoenix&password=1212&type=m3u"
+
+sleep 1
+rm -rf /tmp/iptvm3upro
+exit 0
