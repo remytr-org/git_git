@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | SPORT★★ ==
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:8F:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor1.live.trt.com.tr/master_720.m3u8:TRT SPOR HD
 #DESCRIPTION TRT SPOR HD
@@ -9,7 +9,17 @@
 #DESCRIPTION TJK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tjktv.ercdn.net/tjktv.m3u8:TJK
 #DESCRIPTION TJK
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::==== ★★ReMy | DOO_FREE_88★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8686/hls/ntvspor/playlist.m3u8:LIG TV HD
+#DESCRIPTION LIG TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.iptvstack.net%3a80/qn6MiImuvL24/HzW9tv9603/15733:S SPORT HD
+#DESCRIPTION S SPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/priv/b11111/playlist.m3u8:beIN HD 1
+#DESCRIPTION beIN HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/bein22222/playlist.m3u8:beIN HD 2
+#DESCRIPTION beIN HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8686/ntvspor.ts:1NTVSPOR HD
+#DESCRIPTION 1NTVSPOR HD
+#SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | DOO_FREE_88★★ ====
 #DESCRIPTION ==== ★★ReMy | DOO_FREE_88★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8:Fox Sports News
 #DESCRIPTION Fox Sports News
@@ -133,11 +143,11 @@
 #DESCRIPTION SPORT TV2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mawintv2.com/02_SPORTTV_3_720p/chunklist.m3u8:SPORT TV3
 #DESCRIPTION SPORT TV3
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8:MotorTrend
 #DESCRIPTION MotorTrend
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/acc.m3u8:ACCN ESPN
 #DESCRIPTION ACCN ESPN
