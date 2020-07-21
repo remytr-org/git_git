@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | MUSIC★★ ==
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:92:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
 #DESCRIPTION SilenceTV
@@ -15,8 +15,10 @@
 #DESCRIPTION Müslüm Gürses feat. Rubato - İsyankar OPUS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AmlGjvQBird1gQczNrD2btKomNWR?e=llYz9Z:Müslüm Gürses feat. Rubato - İsyankar AAC
 #DESCRIPTION Müslüm Gürses feat. Rubato - İsyankar AAC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1eMLSwi9Z_3OS1Zw?e=e3vOE9:Cengiz Kurtoğlu, Hakan Altun - Usta Çırak ( Ful
-#DESCRIPTION Cengiz Kurtoğlu, Hakan Altun - Usta Çırak ( Ful
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1eMLSwi9Z_3OS1Zw?e=e3vOE9:Cengiz Kurtoğlu, Hakan Altun - Usta Çırak
+#DESCRIPTION Cengiz Kurtoğlu, Hakan Altun - Usta Çırak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.18%3a8080/hls/damar.m3u8: Damar TV
+#DESCRIPTION  Damar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtmuzik.live.trt.com.tr/master_720.m3u8:TRT MÜZİK
 #DESCRIPTION TRT MÜZİK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//soledge13.duhnet.tv//S2/HLS_LIVE/dreamtvnp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamtv:DREAM TV
@@ -449,26 +451,32 @@
 #DESCRIPTION YU PLANET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
 #DESCRIPTION Zeta TV
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:93:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.xradio.com.tr%3a8770/stream: xradio
+#DESCRIPTION xradio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.232.174.18%3a8000/Stream:Fenerbahçe FM
 #DESCRIPTION Fenerbahçe FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.100.118/stream/70/:Radyo Spor
 #DESCRIPTION Radyo Spor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Turk
-#DESCRIPTION Kral Turk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kralpopwmp.radyotvonline.com/;stream.mp3:KRAL FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kralwmp.radyotvonline.com/;/;type=mp3: KRAL FM
 #DESCRIPTION KRAL FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kralpopwmp.radyotvonline.com/;stream.nsv:KRAL POP FM
-#DESCRIPTION KRAL POP FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kralpopwmp.radyotvonline.com/;stream.mp3:KRAL POP
+#DESCRIPTION KRAL POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kralpopwmp.radyotvonline.com/;stream.nsv:KRAL POP
+#DESCRIPTION KRAL POP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.201%3a80:KRAL POP
 #DESCRIPTION KRAL POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin2.yayindakiler.com%3a4002/stream/;?type=mp3: ADANA SUPER FM
+#DESCRIPTION ADANA SUPER FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.246/stream/104/;stream.nsv:Alem FM
 #DESCRIPTION Alem FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.asymedya.com%3a8020/;stream.mp3:ASK FM
 #DESCRIPTION ASK FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.asymedya.com%3a8020/1;: AŞK FM ANKARA
+#DESCRIPTION AŞK FM ANKARA
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/30/:ANKARA HAVALARI
 #DESCRIPTION ANKARA HAVALARI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.arabeskfm.biz%3a8042/;:Arabesk FM
@@ -481,6 +489,8 @@
 #DESCRIPTION Baba Radyo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/BABYJOY128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=3beb8d47-271c-4c40-9c9e-a965eff4a101:BABYJOY
 #DESCRIPTION BABYJOY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bestfm.turkhosted.com/;: BEST FM
+#DESCRIPTION BEST FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.126/;:Best FM
 #DESCRIPTION Best FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.34bit.net/ar.mp3:Acik  Radyo 94.9
@@ -525,6 +535,8 @@
 #DESCRIPTION JOY_TURK_ROCK_SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com/JOY_TURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime:JOY_TURK_SC
 #DESCRIPTION JOY_TURK_SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/JOY_TURKAAC.aac: JOYTÜRK
+#DESCRIPTION JOY TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//160.75.86.29%3a8088/stream/3/:ITU Radio Jazz/Blues
 #DESCRIPTION ITU Radio Jazz/Blues
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.1.144.106%3a9003/;:Lounge FM istanbul
@@ -551,6 +563,8 @@
 #DESCRIPTION Radio Beverwijk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyo.cc.ankara.edu.tr%3a8089/;:Radio ilef
 #DESCRIPTION Radio ilef
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.netradyom.com%3a7900/;stream.mp3: RADYO MEGASITE
+#DESCRIPTION RADYO MEGASITE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.104/;:Radio Slow Time
 #DESCRIPTION Radio Slow Time
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin1.canliyayin.org%3a7424/;:Radio 34
@@ -559,8 +573,12 @@
 #DESCRIPTION Radio Türkü-izmir
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/35/:Radio VOKAL
 #DESCRIPTION Radio VOKAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.216/;/7.html: RADYO VOYAGE
+#DESCRIPTION RADYO VOYAGE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.slowkaradenizfm.com%3a9578/;:Slow Karadeniz FM
 #DESCRIPTION Slow Karadeniz FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyo.duhnet.tv/slowturk: SLOWTURK
+#DESCRIPTION SLOWTURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.175.227.10/SUPER_FM_SC?/;stream.mp3:Super Fm
 #DESCRIPTION Super Fm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=5f5ce410-ba94-4cfc-a10f-70e4eec5cbf9:SUPER_FM
@@ -571,7 +589,7 @@
 #DESCRIPTION TURKUAZ FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
 #DESCRIPTION Virgin Radio Türkiye
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:94:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40

@@ -9,16 +9,107 @@
 #DESCRIPTION TJK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tjktv.ercdn.net/tjktv.m3u8:TJK
 #DESCRIPTION TJK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8686/hls/ntvspor/playlist.m3u8:LIG TV HD
-#DESCRIPTION LIG TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.iptvstack.net%3a80/qn6MiImuvL24/HzW9tv9603/15733:S SPORT HD
-#DESCRIPTION S SPORT HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/priv/b11111/playlist.m3u8:beIN HD 1
 #DESCRIPTION beIN HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/88.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//usb.bozztv.com/mentaltvbein1/index.m3u8: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//148.251.79.145/priv/b11111/playlist.m3u8: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//148.251.79.145%3a80/priv/b11111/chunks.m3u8: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.nsxmedia.net/hlslive/500.m3u8: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//golgetv.info/07/bein11.php?beinsport1=playlist.m3u8: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/priv/b11111/playlist.m3u8: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamgenie.xyz/stream/bein-sports1-hd.m3u8: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.223.89%3a25461/issargin.ms@gmail.com/14D4f6Tv/181: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamgenie.xyz/stream/bein-sports1-hd-n.m3u8: beIN SPORTS HD 1
+#DESCRIPTION  beIN SPORTS HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/87.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8: beIN SPORTS HD 2
+#DESCRIPTION  beIN SPORTS HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.223.89%3a25461/issargin.ms@gmail.com/14D4f6Tv/182: beIN SPORTS HD 2
+#DESCRIPTION  beIN SPORTS HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/bein22222/chunks.m3u8: beIN SPORTS HD 2
+#DESCRIPTION  beIN SPORTS HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamgenie.xyz/stream/bein-sports2-hd.m3u8: beIN SPORTS HD 2
+#DESCRIPTION  beIN SPORTS HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/bein3/playlist.m3u8: beIN SPORTS HD 3
+#DESCRIPTION  beIN SPORTS HD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//caspertv.com/source/IaTcBMHDnp5adnNpf0CpTA/1594492981/bein-sport-3.m3u8: beIN SPORTS HD 3
+#DESCRIPTION  beIN SPORTS HD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/bein3333/playlist.m3u8: beIN SPORTS HD 3
+#DESCRIPTION  beIN SPORTS HD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.223.89%3a25461/issargin.ms@gmail.com/14D4f6Tv/183: beIN SPORTS HD 3
+#DESCRIPTION  beIN SPORTS HD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/bein4/playlist.m3u8: beIN SPORTS HD 4
+#DESCRIPTION  beIN SPORTS HD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/beinmax1/playlist.m3u8: beIN SPORTS MAX 1 HD
+#DESCRIPTION  beIN SPORTS MAX 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/beinmax1111/playlist.m3u8: beIN SPORTS MAX 1 HD
+#DESCRIPTION  beIN SPORTS MAX 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/beinmax2/playlist.m3u8: beIN SPORTS MAX 2 HD
+#DESCRIPTION  beIN SPORTS MAX 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/bein-sports-haber/live.m3u8: beIN SPORTS HABER HD
+#DESCRIPTION  beIN SPORTS HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/beinhaber/playlist.m3u8: beIN SPORTS HABER HD
+#DESCRIPTION  beIN SPORTS HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8: beIN SPORTS XTRA
+#DESCRIPTION  beIN SPORTS XTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/tivibu1/playlist.m3u8: TIVIBUSPOR 1 HD
+#DESCRIPTION  TIVIBUSPOR 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/tivibu2/playlist.m3u8: TIVIBUSPOR 2 HD
+#DESCRIPTION  TIVIBUSPOR 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/tivibu3/playlist.m3u8: TIVIBUSPOR 3 HD
+#DESCRIPTION  TIVIBUSPOR 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/tivibu33/playlist.m3u8: TIVIBUSPOR 3 HD
+#DESCRIPTION  TIVIBUSPOR 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtSPOR1.live.trt.com.tr/master_720.m3u8: TRT Spor
+#DESCRIPTION  TRT Spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor2.live.trt.com.tr/master_720.m3u8: TRT Spor 2
+#DESCRIPTION  TRT Spor 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/smartspor/playlist.m3u8: SMART SPOR HD
+#DESCRIPTION  SMART SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uppsio.com/M738000/M738000.m3u8: SMART SPOR HD
+#DESCRIPTION  SMART SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.nsxmedia.net/hlslive/201.m3u8: SMART SPOR HD
+#DESCRIPTION  SMART SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/smartspor2/playlist.m3u8: Smart Spor 2 HD
+#DESCRIPTION  Smart Spor 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/eurosport11/playlist.m3u8: Eurosport 1 HD
+#DESCRIPTION  Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/eurosport22/playlist.m3u8: Eurosport 2 HD
+#DESCRIPTION  Eurosport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/ssport/playlist.m3u8: S SPORT HD
+#DESCRIPTION  S SPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamgenie.xyz/stream/ssport-hd-n.m3u8: S SPORT HD
+#DESCRIPTION  S SPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/ssport/playlist.m3u8: S SPORT HD
+#DESCRIPTION  S SPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/ssport2/playlist.m3u8: S Sport HD 2
+#DESCRIPTION  S Sport HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.flucdn.com%3a8080/ssport2_wxx/index.m3u8: S Sport HD 2
+#DESCRIPTION  S Sport HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//caspertv.com/source/lH_NcllS-TzOsk3xQG4cFA/1594493183/s-sport-2.m3u8: S Sport HD 2
+#DESCRIPTION  S Sport HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.blutv.com/contentserver/v2/distributions/SPOR/content/hls3/edge,-12h/d9b2a06da16c510b54001a6d30b4142f_39/d9b2a06da16c510b54001a6d30b4142f_38/m.m3u8: A Spor HD
+#DESCRIPTION  A Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8: GS TV
+#DESCRIPTION  GS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nba-bc-dt-hls.secure.footprint.net%3a443/nba/nba.isml/mobilesd.m3u8?nvb=1520024400&nva=1597400033&token=0ee1b8d8d4ce8538c04f5: NBA TV (beinconnect)
+#DESCRIPTION  NBA TV (beinconnect)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/nbatv/playlist.m3u8: NBA TV
+#DESCRIPTION  NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live02-fbx.vucos.net/live/gametoon_480p/playlist.m3u8: GAMETOON HD
+#DESCRIPTION  GAMETOON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1160785606.rsc.cdn77.org/1160785606/tracks-v1a1/mono.m3u8: GAMETOON HD (alt)
+#DESCRIPTION  GAMETOON HD (alt)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/bein22222/playlist.m3u8:beIN HD 2
-#DESCRIPTION beIN HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8686/ntvspor.ts:1NTVSPOR HD
-#DESCRIPTION 1NTVSPOR HD
 #SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | DOO_FREE_88★★ ====
 #DESCRIPTION ==== ★★ReMy | DOO_FREE_88★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8:Fox Sports News
@@ -147,7 +238,7 @@
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8:MotorTrend
 #DESCRIPTION MotorTrend
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/acc.m3u8:ACCN ESPN
 #DESCRIPTION ACCN ESPN

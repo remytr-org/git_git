@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | NEWS★★ ==
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:95:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/02.m3u8:aljazeera mubasher HD
 #DESCRIPTION aljazeera mubasher HD
@@ -39,26 +39,8 @@
 #DESCRIPTION Istweb TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv/dp//istanbul2:Istanbul 2
 #DESCRIPTION Istanbul 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//worldiptv.me%3a8080/SghubRes-2/G55zEE7a8A/10749:CNN HD
-#DESCRIPTION CNN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000034@HHZT:Reuters
 #DESCRIPTION Reuters
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.efir24.tv%3a1935/live/efir24tv/playlist.m3u8:24 AP Tataristan
-#DESCRIPTION 24 AP Tataristan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News Pakistan
-#DESCRIPTION 92 News Pakistan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8:ABC News live
-#DESCRIPTION ABC News live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8:ABC News Live
-#DESCRIPTION ABC News Live
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil%3awbrz-live.smil/chunklist.m3u8:ABC 2 Baton Rouge (WBRZ)
-#DESCRIPTION ABC 2 Baton Rouge (WBRZ)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:Al Arabiya
-#DESCRIPTION Al Arabiya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alaraby.cdn.octivid.com/alaraby/smil%3aalaraby.stream.smil/playlist.m3u8:Al Araby
-#DESCRIPTION Al Araby
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alaraby.cdn.octivid.com/alaraby/smil%3aalaraby.stream.smil/chunklist_b2500000.m3u8:Al Araby
-#DESCRIPTION Al Araby
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/alhiwar_live/smil%3aalhiwar.smil/playlist.m3u8:Al Hiwar
 #DESCRIPTION Al Hiwar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:AL HURRA
@@ -67,12 +49,8 @@
 #DESCRIPTION Al Jazeera English FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8:Al Jazeera English
 #DESCRIPTION Al Jazeera English
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8:Al Jazeera
-#DESCRIPTION Al Jazeera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s69/index.m3u8:Al Jazeera Arabia
 #DESCRIPTION Al Jazeera Arabia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajb.getaj.net/AJB/01.m3u8:Al Jazeera Balkan
-#DESCRIPTION Al Jazeera Balkan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.mediacdn.ru/sr1/arhis24/playlist.m3u8:Arkhyz 24 HD (Cherkessk)
 #DESCRIPTION Arkhyz 24 HD (Cherkessk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8:Astrakhan 24 HD +1
@@ -83,10 +61,6 @@
 #DESCRIPTION BBC SCOTLAND
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/004:BBC News
 #DESCRIPTION BBC News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8:BBC News Japan
-#DESCRIPTION BBC News Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8:BBC World News
-#DESCRIPTION BBC World News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s24/index.m3u8:BBC World News
 #DESCRIPTION BBC World News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8:BFM Business
@@ -101,12 +75,12 @@
 #DESCRIPTION Boston 25 News (WFXT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8:CBC News
 #DESCRIPTION CBC News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?tecnotv.info?iptv.m3u8:CBN
-#DESCRIPTION CBN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8:CBN
-#DESCRIPTION CBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?tecnotv.info?iptv.m3u8:CBN espana
+#DESCRIPTION CBN espana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8:CBN Español
 #DESCRIPTION CBN Español
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8:CBN
+#DESCRIPTION CBN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10:CBN HD
 #DESCRIPTION CBN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8:CBN News
