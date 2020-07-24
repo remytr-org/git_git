@@ -5,20 +5,12 @@
 #DESCRIPTION aljazeera mubasher HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_halktv/smil%3ahalktv_hd.smil/playlist.m3u8:HALK TV HD
 #DESCRIPTION HALK TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1:Bloomberght HD
-#DESCRIPTION Bloomberght HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1579297925&st=5QiZY3DVhrlw-FnsVZoDNw&tv=1&sid=220uejjeg3xz&ce=1:Bloomberght_720p
-#DESCRIPTION Bloomberght_720p
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght_480p.m3u8?ex=1579297925&st=5QiZY3DVhrlw-FnsVZoDNw&tv=1&sid=220uejjeg3xz&ce=1:Bloomberght
-#DESCRIPTION Bloomberght
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/finansturktv/finansturktv/playlist.m3u8:FINANS TURK
 #DESCRIPTION FINANS TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kanal24/smil%3akanal24_hd.smil/playlist.m3u8:24 HD
 #DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 HD
 #DESCRIPTION 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams2.livetv.az/turk/cnn_stream/playlist.m3u8:CNN TURK
-#DESCRIPTION CNN TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV HD
@@ -27,8 +19,6 @@
 #DESCRIPTION Haber Global HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberturk/smil%3ahaberturk_hd.smil/playlist.m3u8:HABER TURK HD
 #DESCRIPTION HABER TURK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/playlist.m3u8:TGRT HABER
-#DESCRIPTION TGRT HABER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trthaber.live.trt.com.tr/master_720.m3u8:TRT HABER HD
 #DESCRIPTION TRT HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtworld.live.trt.com.tr/master_720.m3u8:TRT World
@@ -47,10 +37,6 @@
 #DESCRIPTION AL HURRA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/nz/tv.46.m3u8:Al Jazeera English FHD
 #DESCRIPTION Al Jazeera English FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8:Al Jazeera English
-#DESCRIPTION Al Jazeera English
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s69/index.m3u8:Al Jazeera Arabia
-#DESCRIPTION Al Jazeera Arabia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.mediacdn.ru/sr1/arhis24/playlist.m3u8:Arkhyz 24 HD (Cherkessk)
 #DESCRIPTION Arkhyz 24 HD (Cherkessk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8:Astrakhan 24 HD +1
@@ -125,10 +111,6 @@
 #DESCRIPTION CNN Endonesia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_b384000_sleng.m3u8:CNN Endonesia
 #DESCRIPTION CNN Endonesia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/CNN/tracks-v1a1/mono.m3u8:CNN HD
-#DESCRIPTION CNN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s27/index.m3u8:CNN HD
-#DESCRIPTION CNN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//54.251.134.121%3a1935/live/15273.sdp/playlist.m3u8:CNN Philippines
 #DESCRIPTION CNN Philippines
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8:CPAC English
@@ -159,8 +141,6 @@
 #DESCRIPTION France 24 Espanol
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8:France 24 Francais
 #DESCRIPTION France 24 Francais
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//feeds.intoday.in/hltapps/api/master.m3u8:India Today
-#DESCRIPTION India Today
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8:iZ RU News
 #DESCRIPTION iZ RU News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mr2live.1tvcrimea.ru%3a8080/24tvcrimea.m3u8:KIRIM 24
@@ -239,10 +219,6 @@
 #DESCRIPTION Tivicom (Ulan-Ude) [FHD] +5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvcom.stream.intelema.ru/tvcom/studio/index.m3u8:Tivikom Uland Udje
 #DESCRIPTION Tivikom Uland Udje
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-240p.m3u8:TV Gazeta
-#DESCRIPTION TV Gazeta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8:TV Gazeta
-#DESCRIPTION TV Gazeta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8:TV5 MONDE
 #DESCRIPTION TV5 MONDE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8:TVR 24 (Sergiev Posad)
@@ -261,10 +237,6 @@
 #DESCRIPTION WEATHER NATION HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/wn1_2/master.m3u8:Weather News
 #DESCRIPTION Weather News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?:WGN 9 CW
-#DESCRIPTION WGN 9 CW
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8:WGN9 News Chicago
-#DESCRIPTION WGN9 News Chicago
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8:WXXV 25 Gulfport MS (WXXV)

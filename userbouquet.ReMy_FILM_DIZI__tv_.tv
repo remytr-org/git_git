@@ -1,80 +1,80 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
 #SERVICE 1:64:96:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
 #DESCRIPTION ::::___MOVIES_CHANNELS____::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8: BluTV Sinema AKSIYON
-#DESCRIPTION  BluTV Sinema AKSIYON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8: BluTV Sinema Komedi
-#DESCRIPTION  BluTV Sinema Komedi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8532: Sinema Aksiyon
-#DESCRIPTION  Sinema Aksiyon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8556: Sinema Yerli
-#DESCRIPTION  Sinema Yerli
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8530: Sinema Komedi
-#DESCRIPTION  Sinema Komedi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8475: Sinema 1001
-#DESCRIPTION  Sinema 1001
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8573: MovieSmart Premium
-#DESCRIPTION  MovieSmart Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8575: MovieSmart Premium 2
-#DESCRIPTION  MovieSmart Premium 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8574: MovieSmart Türk
-#DESCRIPTION  MovieSmart Türk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8579: MovieSmart Family
-#DESCRIPTION  MovieSmart Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.iptvdk.co%3a8880/R9WC9vIIli/2VpcWfNsdg/26336: Dizi Smart Premium
-#DESCRIPTION  Dizi Smart Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.iptvdk.co%3a8880/R9WC9vIIli/2VpcWfNsdg/33979: beIN MOVIES ACTION HD
-#DESCRIPTION  beIN MOVIES ACTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.iptvdk.co%3a8880/R9WC9vIIli/2VpcWfNsdg/33978: beIN MOVIES ACTION 2 HD
-#DESCRIPTION  beIN MOVIES ACTION 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/beinmoviesturk/playlist.m3u8: beIN MOVIES TURK HD
-#DESCRIPTION  beIN MOVIES TURK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/beinseriesscfi/playlist.m3u8: beIN SERIES SCI-FI HD
-#DESCRIPTION  beIN SERIES SCI-FI HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/beinseriescomedy/playlist.m3u8: beIN SERIES COMEDY HD
-#DESCRIPTION  beIN SERIES COMEDY HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8513: beIN BOX OFFICE 1 HD
-#DESCRIPTION  beIN BOX OFFICE 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8514: beIN BOX OFFICE 2 HD
-#DESCRIPTION  beIN BOX OFFICE 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8515: beIN BOX OFFICE 2 HD
-#DESCRIPTION  beIN BOX OFFICE 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/10.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8: FOX CRIME
-#DESCRIPTION  FOX CRIME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/foxcrime/playlist.m3u8: FOX CRIME
-#DESCRIPTION  FOX CRIME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8481: FOX CRIME
-#DESCRIPTION  FOX CRIME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/12.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8: FX
-#DESCRIPTION  FX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8484: FX
-#DESCRIPTION  FX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/11.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8: FOX LIFE
-#DESCRIPTION  FOX LIFE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8482: FOX LIFE
-#DESCRIPTION  FOX LIFE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/imdb/playlist.m3u8: İMDB TV
-#DESCRIPTION  İMDB TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sabantv.kesintisizyayin.com%3a29030/sbntv/sbntv/playlist.m3u8: KEMAL SUNAL TV(alt)
-#DESCRIPTION  KEMAL SUNAL TV(alt)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/3d/playlist.m3u8: YEŞİLÇAM SİNEMASI
-#DESCRIPTION  YEŞİLÇAM SİNEMASI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv86905.radyotelekomtv.com%3a22808/almanyadaturktv/almanyadaturktv/playlist.m3u8: ALMANYADA TÜRK
-#DESCRIPTION  ALMANYADA TÜRK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srmltv66.4kradyotv.com%3a8080/srmltv/srmltv/ckunklist.m3u8: SÜRMELİ TV
-#DESCRIPTION  SÜRMELİ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/korku/playlist.m3u8: SINEMA korku
-#DESCRIPTION  SINEMA korku
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/bilimkurgu/playlist.m3u8: SINEMA bilimkurku
-#DESCRIPTION  SINEMA bilimkurku
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/aksiyon/playlist.m3u8: SINEMA Aksiyon
-#DESCRIPTION  SINEMA Aksiyon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/animasyon/playlist.m3u8: SINEMA animasyon
-#DESCRIPTION  SINEMA animasyon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//win1.yayin.com.tr/LeblebiTv/LeblebiTv/playlist.m3u8: LEBLEBİ TV
-#DESCRIPTION  LEBLEBİ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//usb.bozztv.com/YansinemaTV/index.m3u8: YAN SINEMA
-#DESCRIPTION  YAN SINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8:BluTV Sinema AKSIYON
+#DESCRIPTION BluTV Sinema AKSIYON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8:BluTV Sinema Komedi
+#DESCRIPTION BluTV Sinema Komedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8532:Sinema Aksiyon
+#DESCRIPTION Sinema Aksiyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8556:Sinema Yerli
+#DESCRIPTION Sinema Yerli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8530:Sinema Komedi
+#DESCRIPTION Sinema Komedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8475:Sinema 1001
+#DESCRIPTION Sinema 1001
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8573:MovieSmart Premium
+#DESCRIPTION MovieSmart Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8575:MovieSmart Premium 2
+#DESCRIPTION MovieSmart Premium 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8574:MovieSmart Türk
+#DESCRIPTION MovieSmart Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8579:MovieSmart Family
+#DESCRIPTION MovieSmart Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.iptvdk.co%3a8880/R9WC9vIIli/2VpcWfNsdg/26336:Dizi Smart Premium
+#DESCRIPTION Dizi Smart Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.iptvdk.co%3a8880/R9WC9vIIli/2VpcWfNsdg/33979:beIN MOVIES ACTION HD
+#DESCRIPTION beIN MOVIES ACTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.iptvdk.co%3a8880/R9WC9vIIli/2VpcWfNsdg/33978:beIN MOVIES ACTION 2 HD
+#DESCRIPTION beIN MOVIES ACTION 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/beinmoviesturk/playlist.m3u8:beIN MOVIES TURK HD
+#DESCRIPTION beIN MOVIES TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/beinseriesscfi/playlist.m3u8:beIN SERIES SCI-FI HD
+#DESCRIPTION beIN SERIES SCI-FI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/beinseriescomedy/playlist.m3u8:beIN SERIES COMEDY HD
+#DESCRIPTION beIN SERIES COMEDY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8513:beIN BOX OFFICE 1 HD
+#DESCRIPTION beIN BOX OFFICE 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8514:beIN BOX OFFICE 2 HD
+#DESCRIPTION beIN BOX OFFICE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8515:beIN BOX OFFICE 2 HD
+#DESCRIPTION beIN BOX OFFICE 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/10.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8:FOX CRIME
+#DESCRIPTION FOX CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/foxcrime/playlist.m3u8:FOX CRIME
+#DESCRIPTION FOX CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8481:FOX CRIME
+#DESCRIPTION FOX CRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/12.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8:FX
+#DESCRIPTION FX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8484:FX
+#DESCRIPTION FX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/11.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8:FOX LIFE
+#DESCRIPTION FOX LIFE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dreamsat-iptv.top%3a2086/dreamsatmaroc/DNreRle3sN/8482:FOX LIFE
+#DESCRIPTION FOX LIFE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/imdb/playlist.m3u8:İMDB TV
+#DESCRIPTION İMDB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sabantv.kesintisizyayin.com%3a29030/sbntv/sbntv/playlist.m3u8:KEMAL SUNAL TV(alt)
+#DESCRIPTION KEMAL SUNAL TV(alt)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/3d/playlist.m3u8:YEŞİLÇAM SİNEMASI
+#DESCRIPTION YEŞİLÇAM SİNEMASI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv86905.radyotelekomtv.com%3a22808/almanyadaturktv/almanyadaturktv/playlist.m3u8:ALMANYADA TÜRK
+#DESCRIPTION ALMANYADA TÜRK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srmltv66.4kradyotv.com%3a8080/srmltv/srmltv/ckunklist.m3u8:SÜRMELİ TV
+#DESCRIPTION SÜRMELİ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/korku/playlist.m3u8:SINEMA korku
+#DESCRIPTION SINEMA korku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/bilimkurgu/playlist.m3u8:SINEMA bilimkurku
+#DESCRIPTION SINEMA bilimkurku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/aksiyon/playlist.m3u8:SINEMA Aksiyon
+#DESCRIPTION SINEMA Aksiyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportssinema/animasyon/playlist.m3u8:SINEMA animasyon
+#DESCRIPTION SINEMA animasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//win1.yayin.com.tr/LeblebiTv/LeblebiTv/playlist.m3u8:LEBLEBİ TV
+#DESCRIPTION LEBLEBİ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//usb.bozztv.com/YansinemaTV/index.m3u8:YAN SINEMA
+#DESCRIPTION YAN SINEMA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8:BLUTV Aksiyon
 #DESCRIPTION BLUTV Aksiyon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8:BLUTV Komedi
@@ -187,464 +187,8 @@
 #DESCRIPTION Trans 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/transtv/smil%3atranstv.smil/playlist.m3u8:Trans TV
 #DESCRIPTION Trans TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/zeeaflam/index.m3u8:ZEE Aflam
-#DESCRIPTION ZEE Aflam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8:ZEE BIOSKOP
-#DESCRIPTION ZEE BIOSKOP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd:Zee Bioskop
-#DESCRIPTION Zee Bioskop
 #SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_MOVIES________:::::::::
-#EXTINF: -1 tvg-logo="https://admin.rectv.co/uploads/cache/poster_thumb/uploads/jpg/5b977feeaca0b094696edd473e6f6487.jpg" group-title="FİLMLER", Rafadan Tayfa Dehliz Macerası
-http://reporectv.net/cdn/13756/10000000_533271517548617_2239455126989933010_n.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Scoob!
-http://reporectv.net/cdn/13756/Scoob.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Eltilerin Savaşı
-http://51.89.98.4/vodmovie/download/eltilerin_savasi_2020_yerli.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", HEP YEK 1
-http://94.20.21.194/storage/movie/10/10119/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", HEP YEK 2
-http://94.20.21.40/storage/movie/12/12429/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", HEP YEK 3
-http://94.20.21.34/storage/movie/15/15403/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", SÜT KARDEŞLER
-http://198.16.100.210:12012/vod/359111068247FFA1/GfLzW6awyWscpp48ElETCNyMKA2pfUG3LbuJzqS0xkdf7bOt2gXoQMFp22dy9ghI/32A938B90E5E43DC.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", ŞABAN OĞLU ŞABAN
-http://198.16.100.210:12012/vod/359111068247FFA1/G7t0EM_6v9OKjt2ZbbqXlN-Y4CvSGrT2edfZptQioCeUeMEvTLhSX1sl_OqryCi5/95FDCA7020594C45.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Bekçiler Krali (1979)
-http://198.16.100.210:12012/vod/359111068247FFA1/E2gav9Vs4BVGRW7sSiEYYn4lJPNS3LNy3NuLiu3Tb-caBnZr0WF2QnPBPzKVdYRx/E109AAFE696C4074.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", BANKER BİLO
-http://198.16.100.210:12012/vod/359111068247FFA1/p52lDJxEf22Ijk07kO21Gh2qzwBtC4gbGn7rRf74sHB3KHWUHx1NkqQNYYNR-QOh/89F2733455FA46B3.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Arabesk (1988)
-http://198.16.100.210:12012/vod/359111068247FFA1/yx4WoRftIAeRFuGaoxed8de0iCSRffUdE7F7wLDFjUVEUYGP8AJGXsQ5gSM1lXNg/EA4B7125ACF34712.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Dokunmayin Sabanima (1979)
-http://198.16.100.210:12012/vod/359111068247FFA1/VVoPU-kpoB6G9VXupK9AwqtgsSY-xt-V1AFu2nejq2_GD8_yv2f0ufSpNAJklz9Y/4BD098B6391748BA.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Tosun Paşa
-http://94.20.21.36/storage/movie/13/12978/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", 100 Numaralı Adam - 1978
-http://94.20.21.36/storage/movie/13/12972/video.mp4 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kanlı Nigar
-http://94.20.21.40/storage/movie/13/12819/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Doktor Civanım - 1983
-http://94.20.21.42/storage/movie/13/12818/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Gurbetçi Şaban
-http://94.20.21.42/storage/movie/13/12974/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Katma Değer Şaban
-http://vod.tsvipsmart.eu/turkishyesilcam/Katma%20De%c4%9fer%20%c5%9eaban%20-%20HD%20Film%20%28Restorasyonlu%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Gol Kralı - 1980
-http://vod.tsvipsmart.eu/turkishyesilcam/Gol%20Kral%c4%b1%20-%20HD%20Film%20%28Restorasyonlu%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kibar Feyzo - 1978
-http://94.20.21.40/storage/movie/13/12975/video.mp4 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Korkusuz Korkak - 1979
-http://vod.tsvipsmart.eu/turkishyesilcam/Korkusuz%20Korkak%20-%20HD%20Film%20%28Restorasyonlu%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Köşeyi Dönen Adam
-http://vod.tsvipsmart.eu/turkishyesilcam/K%c3%b6%c5%9feyi%20D%c3%b6nen%20Adam%20-%20Kemal%20SUNAL%20%28HD%20Restorasyonlu%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Tokatci - 1983
-http://vod.tsvipsmart.eu/turkishyesilcam/tokatci.1983.Yerli.Film.HDTV.1080p.x264.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Salak Milyoner
-http://vod.tsvipsmart.eu/turkishyesilcam/Salak.Milyoner.1974.720p.WEB-DL.mp4 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Postacı
-http://vod.tsvipsmart.eu/turkishyesilcam/Postac%c4%b1%20-%20T%c3%bcrk%20Filmi%20HD%20Film%20%28Restorasyonlu%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Köyden İndim Şehire
-http://vod.tsvipsmart.eu/turkishyesilcam/K%c3%b6yden%20%c4%b0ndim%20%c5%9eehire%20_%20FULL%20HD.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sinifi Merhaba (2004)
-http://vod2.tsvipsmart.eu/vodmovie/download/turk/Hababam%20S%C4%B1n%C4%B1f%C4%B1%20Merhaba%20-%20T%C3%BCrk%20Filmi%20HD.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sinifi Askerde (2005)
-http://vod2.tsvipsmart.eu/vodmovie/download/turk/Hababam%20S%C4%B1n%C4%B1f%C4%B1%20Askerde%20-%20HD%20Film%20%28Restorasyonlu%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sinifi Üç Buçuk (2005)
-http://vod2.tsvipsmart.eu/vodmovie/download/turk/Hababam%20S%C4%B1n%C4%B1f%C4%B1%20%C3%9C%C3%A7%20Bu%C3%A7uk%20-%20T%C3%BCrk%20Filmi.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sınıfı - 1975
-http://94.20.21.35/storage/movie/12/12666/video.mp4 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sınıfı Sınıfta Kaldı - 1975
-http://94.20.21.40/storage/movie/12/12665/video.mp4 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sınıfı Tatilde - 1977
-http://94.20.21.42/storage/movie/12/12664/video.mp4 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sınıfı Uyanıyor - 1976
-http://vod.tsvipsmart.eu/turkishcinemamovies/Hababam%20S%c4%b1n%c4%b1f%c4%b1%20Uyan%c4%b1yor%20_%20FULL%20HD.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Batan Güneş
-http://vod2.tsvipsmart.eu/vodmovie/download/yesilcam/Batan%20G%C3%BCne%C5%9F-%20T%C3%BCrk%20Filmi%20%28Restorasyonlu%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Keloglan 1971
-http://vod2.tsvipsmart.eu/vodmovie/download/yesilcam/Kelo%C4%9Flan%20-%20HD%20T%C3%BCrk%20Filmi.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Dügün Dernek (2013)  
-http://94.20.21.40/storage/movie/5/5587/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Dügün Dernek 2: Sünnet (2015)
-http://94.20.21.35/storage/movie/10/9810/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ay Lav Yu - 2010
-http://vod2.tsvipsmart.eu/vodmovie/download/turk/Ay%20Lav%20Yu%20-%20Tek%20Par%C3%A7a%20Film%20%28Yerli%20Film%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ay Lav Yu Tuu - 2017
-http://vod.tsvipsmart.eu/turkishcinemamovies/Ay%20Lav%20Yu%20Tuu%20%282017%29%20HDTV%201080p%20x264%20AC3%20TDRG.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hükümet Kadın - 2013
-http://94.20.21.42/storage/movie/4/3662/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hükümet Kadın 2 - 2013
-http://94.20.21.42/storage/movie/5/5160/video.mp4 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", AYKUT ENİŞTE
-http://reporectv.net/cdn2/13719/12saa12sdfdsg23443.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Şansımı Seveyim 2017
-http://reporectv.net/cdn/13712/x56fg.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ali Kundilli 1
-http://94.20.21.35/storage/movie/10/10732/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ali Kundilli 2
-http://vod.tsvipsmart.eu/turkishcinemamovies/Ali%20Kundilli%202.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ayla: The Daughter of War (2017)
-http://reporectv.net/cdn2/13723/5595ayla23.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/m9yaFihmEs2bwGsxZB9jy16Iwty.jpg" group-title="FİLMLER", Çalgı Çengi İkimiz (2017)
-http://reporectv.net/cdn/13712/7s.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/c9q47mJP24LdY4fPmRMAmhnO51h.jpg" group-title="FİLMLER", Kolonya Cumhuriyeti (2017)
-http://185.105.101.222/2017/film/Kolonya%20Cumhuriyeti%202017/Kolonya.Cumhuriyeti.2017.720p.WEB-DL.Filmha_CO.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ailecek Saskiniz (2018)
-http://reporectv.net/cdn/13712/aileceksaskiniz55.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Sümela'nın Şifresi Temel (2011)
-http://play.vod-validation-api.com/Movie-A8000/Turkish/Sumela-Nin-Sifresi-Temel/Sumela-Nin-Sifresi-Temel.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Oflu Hoca'nın Şifresi 1 (2014)
-http://play.vod-validation-api.com/Movie-A8000/Turkish/Oflu-Hoca-Nin-Sifresi-1/Oflu-Hoca-Nin-Sifresi-1.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Oflu Hoca'nın Şifresi 2
-http://94.20.21.36/storage/movie/11/11391/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Yahşi Batı
-http://play.vod-validation-api.com/Movie-A8000/Turkish/Yahsi-Bati/Yahsi-Bati.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Karakomik Filmler: Kaçamak (2019)
-https://cdn8.ovid.monster/storage/movie/16/16622/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Karakomik Filmler: 2 Arada (2019)
-https://cdn6.ovid.monster/storage/movie/16/16621/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Karakomik Filmler: Emanet (2020)
-http://51.89.98.4/vodmovie/download/karakomik_filmler2_emanet_2020_yerli.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Karakomik Filmler: Deli (2020)
-http://51.89.98.4/vodmovie/download/karakomik_filmler2_deli_2020_yerli.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hareket Sekiz (2019)
-https://cdn11.ovid.monster/storage/movie/16/16495/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Türk işi Dondurma
-http://cdn10.ovid.monster/storage/movie/16/16007/video.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9b/Mucize.jpeg" group-title="FİLMLER", Mucize - Wunder (2015)
-http://vod.tsvipsmart.eu/turkishcinemamovies/Yeni%20Filmler/Mucize%20%282015-HD%29%20_%20T%C3%BCrk%20Filmi.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Mucize 2
-http://reporectv.net/cdn2/13718/xmaZxAQQhPO2.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Çakallarla Dans 1
-http://reporectv.net/cdn/13712/cakallarlardans1.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Çakallarla Dans 2
-http://reporectv.net/cdn/13712/cakallarlardans2.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Çakallarla Dans 3
-http://reporectv.net/cdn/13712/cakallarlardans3.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Çakallarla Dans 4
-http://reporectv.net/cdn/13712/cakallarlardans4.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Çakallarla Dans 5 (2018)
-http://reporectv.net/cdn/13712/cakallarlardans5.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Bizans Oyunları 2016
-http://198.16.100.210:12012/vod/359111068247FFA1/xXNxS7Uw4gy5RiPAjvDTERB49h7wLdR8aOXE36S9NH7QKufFnyNSL-RyGxzVX2mi/623792B919494B85.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Dedemin Fisi (2016)
-http://198.16.100.210:12012/vod/359111068247FFA1/uYMncoFG9a8SbsguFY3faKcyvQxDZDLHFY3pPEj-swNByLDjkqQmxh20jLnyw9eU/54D694A16692482C.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Müslüm (2018)
-https://cdn11.ovid.monster/storage/movie/15/15613/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Bizim Için Sampiyon (2018)
-https://cdn8.ovid.monster/storage/movie/15/15530/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Deli Ask (2017)
-https://content.jwplatform.com//videos//jmnKZjWS-oYEhpZwF.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Arif V 216 (2018)
-https://content.jwplatform.com//videos//S1r4mYLX-ZQqS5UT1.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Arif V 216 (2018)
-http://vod.tsvipsmart.eu/turkishcinemamovies/Arif.v.216.2018.m720p.x264.UHD.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Firardayiz (2017)
-https://content.jwplatform.com//videos//bkc7vInW-z8spNmdT.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Celal ile Ceren - 2013
-http://vod.tsvipsmart.eu/turkishcinemamovies/Celal%20ile%20Ceren%202013%20Yerli%201080p%20NF%20WEB-DL%20H264%20AC3%205.1%20-%20HdT.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kayhan
-http://vod.tsvipsmart.eu/turkishcinemamovies/Kayhan%20%282018%29%20m720p%20WEB-DL%20x264%20AC3%20%5BLSRG%5D.mkv
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/4Ag2wjMtkhrPdHQHCT6YN2EHUvd.jpg" group-title="FİLMLER", Rəcəb İvedik (2008)
-http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.1.2008.1080p.h264.DD5.1.TR.UHD.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Recep Ivedik 2
-http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.2.2009.1080p.h264.DD5.1.TR.UHD.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Recep Ivedik 3
-http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.3.2010.1080p.h264.DD5.1.TR.UHD.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Recep Ivedik 4
-http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.4.2014.1080p.h264.DD5.1.TR.UHD.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Recep Ivedik 5
-http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.5.2017.1080p.h264.DD5.1.TR.UHD.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Recep İvedik 6
-http://radyo.lavibu.com/recepivedik6.ts
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Eyyvah Eyvah 1 - 2010 🔗
-http://vod.tsvipsmart.eu/turkishcinemamovies/Eyvah.Eyvah.2010.DVDRip.avi 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Eyyvah Eyvah 2 - 2011
-http://vod.tsvipsmart.eu/turkishcinemamovies/Eyvah.Eyvah.2.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Eyyvah Eyvah 3 - 2014
-http://vod.tsvipsmart.eu/turkishcinemamovies/Eyvah.Eyvah.3.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", İftarlık Gazoz
-http://vod.tsvipsmart.eu/turkishcinemamovies/Yeni%20Filmler/%C4%B0ftarl%C4%B1k%20Gazoz%20izle%20%20%20Full%20izle%2C%20Hd%20izle%2C%20720p%20izle%2C%20Fullhdfilmizlesene5.net%20%5Boload.website%20-%2044731%5D%20%28null%29%20%28via%20Skyload%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Babam ve Oglum
-http://vod.tsvipsmart.eu/turkishcinemamovies/Yeni%20Filmler/Babam%20ve%20O%C4%9Flum%20-%20Full%20Film%20%28Tek%20Par%C3%A7a%29.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Genis Aile Yapıştır
-http://94.20.21.194/storage/movie/9/9379/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Genis Aile 2: Her Türlü (2016)
-http://vod.tsvipsmart.eu/turkishcinemamovies/Genis%20Aile%202%20Her%20Turlu.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Genis Aile Komsu Kizi
-http://51.89.98.4/vodmovie/download/genis_aile_komsu_kizi_2019_yerli.avi
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Fırıncının Karısı
-http://51.89.98.4/vodmovie/download/firincinin_karisi_2019_yerli.avi
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Av Mevsimi (2010)
-https://content.jwplatform.com//videos//1k4FZwSk-4oJeBXs3.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Sonic the Hedgehog 2020
-https://admin.rectv.co/uploads/mp4/1fe5bbc43aeeac947af7fe5fc0f673c5.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/rrmUFd5NvAuu8uwfq7KnPgZEIl8.jpg" group-title="FİLMLER", Life (2017)
-http://198.16.100.210:12012/vod/359111068247FFA1/fQB6bzXl_GArSfY9vjKFhtaWz-vOq1yO2LT_Dr7zYBMQJmn2YYY87qC3cLiDCsbm/30870FAB6CE64609.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Aquaman (2018)
-http://entertainment1.vodiplay.com/filmler/Aquaman%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Edge of Tomorrow (2014)
-http://entertainment1.vodiplay.com/filmler/Edge%20Of%20Tomorrow%20Dublaj.mp4 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", TRON: Legacy (2010)
-http://reporectv.net/cdn/13756/tron.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Spider-Man: Far From Home (2019)
-http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Spider%20Man%20Far%20from%20Home%202019%20720p%20DUAL%20BluRay%20x264%20AC3%20%205.1%20-%20playHD%20%5BHdT%5D.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Captain America: The First Avenger (2011)
-http://entertainment1.vodiplay.com/filmler/Captain%20America-%20%c4%b0lk%20Yenilmez%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Captain America: The Winter Soldier (2014)
-http://entertainment1.vodiplay.com/filmler/captan%20America-%20K%c4%b1%c5%9f%20Askeri-%20dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Captain America: Civil War (2016)
-http://entertainment1.vodiplay.com/filmler/captan%20America-%20Kahramanlar%c4%b1n%20Sava%c5%9f%c4%b1-%20dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Avengers (2012)
-http://entertainment1.vodiplay.com/filmler/Avengers%20-Yenilmezler%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Avengers: Age of Ultron (2015)
-http://entertainment1.vodiplay.com/filmler/Avengers-Ultron%20%c3%87a%c4%9f%c4%b1%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Avengers: Infinity War (2018)
-http://entertainment1.vodiplay.com/filmler/Avengers%20sonsuzluk%20savasi%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Avengers: Endgame
-http://reporectv.net/cdn2/12/y13174.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Enigma 2014
-https://a3db52e314.pourkaviani.space/mt/NNQbkTSGtuXXDQcb8pDwvZ3ZG00NwZmZqmf868HmXFfj0vb1080
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Jack Reacher: Asla Geri Dönme
-https://admin.rectv.co/uploads/mp4/73b9d138b090aa0641101767fd92a787.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Django Unchained
-https://admin.rectv.co/uploads/mp4/73b9d138b090aa0641101767fd92a787.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Karayip Korsanları: Salazar'ın İntikamı (2017)
-http://164.68.114.112/film/out/karayipsaltazar.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Furious Seven
-https://admin.rectv.co/uploads/mp4/6c4a1f7f4c2fd09b904d6b05232c25cc.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hızlı Öfkeli 8
-http://vod.tsvipsmart.eu/turkishdublaj/Hizli.ve.Ofkeli.8.2017.TR.BRRip.XviD.avi
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Fast & Furious Presents: Hobbs & Shaw
-http://cdn10.ovid.monster/storage/movie/16/16198/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Jumanji Vahsi Orman
-http://198.16.100.210:12012/vod/359111068247FFA1/rI08JbdLHjdDD2s64ZgNGVGtORYX_TUHaACsZBooxPqvUf9i8TYecXcTol3jGmSn/32C61C53210745A7.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Jumanji: The Next Level
-http://51.89.98.4/vodmovie/download/jumanji_yeni_seviye_2019_trdublaj.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/1oU5hdNF0O9Do4NkDezHofSFXDN.jpg" group-title="FİLMLER", Skyscraper (2018)
-http://vod.tsvipsmart.eu/turkishdublaj/Skyscr.2018.1080p.BluRay.x264.DUAL.TR.ENG.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Rampage (2018)
-https://content.jwplatform.com/videos/pXEiy9Dv-vLpR6Ujc.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kod Adı: Olympus (2013)
-https://i9bd0ed.chirtladze.space/m2/NDjAAJmAlNwAlRGXeRAqYwlvDmvlXbjpFajPJGQZlZw1gtFYZa6mmGqlZAK0C588b1080
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", London Has Fallen (2016)
-http://198.16.100.210:12012/vod/359111068247FFA1/kFuhLI8-9sa4E1F_CAxWNi9gDsOV3JJYX7fZyMRCFJbtJiduBZMTMYnZjNE5q4yy/405F37FA9BE64635.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Matrix (1999)
-https://admin.rectv.co/uploads/mp4/9e0eeb9ea7ec4d7d25705dff9568c1c5.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Matrix Reloaded (2003)
-https://admin.rectv.co/uploads/mp4/be9f574764aca63a95c870224e4d8a3f.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Matrix Revolutions (2003)
-https://admin.rectv.co/uploads/mp4/e684a27d6a1db556d4a36596e6c3781f.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Star Trek Beyond
-http://198.16.100.210:12012/vod/359111068247FFA1/wuJje_WS3BbWGYCLU_L20fJWM5ZDLm691bMGn7gXpSnJqEKN_JGZcmGSAdvmDR1D/F99C3692F94443E8.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Batman v Superman: Dawn of Justice (2016)
-http://198.16.100.210:12012/vod/359111068247FFA1/Oj2xW6PPl6QsuDNd1G8nsGR1GEytwFJU5gmQsn9LCLhCJBmk3c5xRXskxbZj_PPY/BAA9FF767FE84780.mp4
-#EXTINF: -1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/127911.jpg" group-title="FİLMLER", Der Tag an dem die Erde still stand (2008)
-http://reporectv.net/cdn2/12/6545654488a48s48dasd1.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Doctor Strange (2016)
-http://vod.tsvipsmart.eu/turkishdublaj/Doktor.Strange.2016.IMAX.BDRip.XviD.TR.mkv
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJKhqg0SOi61ZAffD6iUUVACMAz.jpg" group-title="FİLMLER", Трансформеры (2007)
-http://reporectv.net/cdn2/12/asadasdwdsxzxz1.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Transformers: Revenge of the Fallen (2009)
-http://reporectv.net/cdn2/12/566546sa56s55sd562.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Transformers: Dark of the Moon (2011)
-http://reporectv.net/cdn2/12/6556s6ad5sa6d5sd53.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Transformers: Age of Extinction (2014)
-http://reporectv.net/cdn2/12/sada8989s8d85x55x4.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Transformers: The Last Knight (2017)
-http://reporectv.net/cdn2/12/sasdsadsad988a9wd525.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Shaft (2019)
-http://entertainment1.vodiplay.com/filmler/Denge%20-%20Shaft%20-%20T%c3%bcrk%c3%a7e%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Venom (2018)
-http://entertainment1.vodiplay.com/filmler/Venom-%20Zehirli%20%c3%96fke%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Gravity (2013)
-http://entertainment1.vodiplay.com/filmler/Gravity-%20Yer%20%c3%87ekimi%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Terminator Kara Kader
-http://51.89.98.4/vodmovie/download/terminator_dark_fate_2019_dublaj.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", John Wick: Chapter 2
-http://198.16.100.210:12012/vod/359111068247FFA1/uKCVd_4-bbNKlMSRg8VylrQ7YcJhMsjhEf2RjHwFZSlqrIitaLFbLB49TdUr0N5m/EA3FCA3FBE414572.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", John Wick: Chapter 3 - Parabellum
-http://51.89.98.4/vodmovie/download/john_wick3_parabellum_2019_dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kaçış Planı
-http://h81d1f0.schlagenhauff.site/m9/DNAZrGZjNw0CKOVkvGB1lpHiZmWu8PJmvmZ508b1080
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kaçış Planı 2
-http://baed9d997ea.lambrigger.space/m6/NNjgWzN9mOAXjNYAmDAeX1DXXCU00PwZmLqYWkRFmY9ZGmpFViD1VkvGB1lpb1080
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Escape Plan: The Extractors (2019)
-http://145.239.66.197/vodmovie/download/kacis_plani_3_2019_dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Lucy (2014)
-http://entertainment1.vodiplay.com/filmler/Lucy%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Alita: Battle Angel (2019)
-http://entertainment1.vodiplay.com/filmler/Alita-%20Sava%c5%9f%20Mele%c4%9fi%20Tr%20Dub.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Evde Tek Başına 1
-http://t100v.com/redvod/play.php?u=773625&p=305883&id=21792
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Evde Tek Başına 2
-http://t100v.com/redvod/play.php?u=773625&p=305883&id=21793
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Equalizer (2014)
-http://entertainment1.vodiplay.com/filmler/The%20Equalizer%20-%20Adalet%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Equalizer 2 (2018
-http://vod.tsvipsmart.eu/turkishdublaj/Adalet%202%20-%20The%20Equalizer%202%20%282018%29%20BRR%C3%9DP%20Tr%20Dublaj.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The wolf of wall street 
-http://entertainment1.vodiplay.com/filmler/The%20wolf%20of%20wall%20street%20-Para%20Avc%c4%b1s%c4%b1%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Inception (2010)
-http://entertainment1.vodiplay.com/filmler/Inception-Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Oyunbozan Ralph
-http://94.20.21.36/storage/movie/3/3321/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ralph Breaks the Internet (2018)
-http://entertainment1.vodiplay.com/filmler/Ralph%20ve%20%c4%b0nternet%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", MADAGASKAR PENGUENLERİ
-http://94.20.21.36/storage/movie/8/8019/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Coco (2017)
-http://94.20.21.40/storage/movie/14/14261/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Shazam! (2019)
-http://entertainment1.vodiplay.com/filmler/Shazam%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ice Age (2002)
-http://reporectv.net/cdn2/13715/buz1.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ice Age: The Meltdown (2006)
-http://reporectv.net/cdn2/13715/buz2.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ice Age: Dawn of the Dinosaurs (2009)
-http://reporectv.net/cdn2/13715/buz3.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ice Age: Continental Drift (2012)
-http://reporectv.net/cdn2/13715/buz4.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ice Age: Collision Course (2016)
-http://reporectv.net/cdn2/13715/buz5.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Shawshank Redemption (1994)
-http://entertainment1.vodiplay.com/filmler/Esaretin%20Bedeli%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Jurassic.World.Yikilmis.Krallik.2018
-http://vod.tsvipsmart.eu/turkishdublaj/Jurassic.World.Fallen.Kingdom.2018.BRRip..TR.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Mummy (1999)
-http://reporectv.net/cdn2/13722/mumya1.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Mummy Returns (2001)
-http://reporectv.net/cdn2/13722/mumya2.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Mummy: Tomb of the Dragon Emperor (2008)
-http://reporectv.net/cdn2/13722/mumya3.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/tJRfY4HKCB0HV4xycotFnG4G593.jpg" group-title="FİLMLER", H MOYMIA (2017)
-http://reporectv.net/cdn2/13722/mumya4.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Expendables (2010)
-http://reporectv.net/cdn2/13722/cehennem1.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Expendables 2 (2012)
-http://reporectv.net/cdn2/13722/cehennem2.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Expendables 3 (2014)
-http://reporectv.net/cdn2/13722/cehennem3.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Spenser Kanunlari
-http://51.89.98.4/vodmovie/download/spencer_kanunlari_2020_dublaj.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Maleficent: Mistress of Evil
-http://51.89.98.4/vodmovie/download/malefiz_kotulugun_gucu_2019_dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Harry Potter and the Sorcerer's Stone (2001)
-http://entertainment1.vodiplay.com/filmler/Harry%20Potter%201%20the%20Sorcerer%27s%20Stone%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Harry Potter and the Chamber of Secrets (2002)
-http://entertainment1.vodiplay.com/filmler/Harry%20Potter%202%20S%c4%b1rlar%20Odasi%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Harry Potter and the Prisoner of Azkaban (2004)
-http://entertainment1.vodiplay.com/filmler/Harry%20Potter%203%20Azkaban%20Tutsa%c4%9fi%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Harry Potter and the Goblet of Fire (2005)
-http://entertainment1.vodiplay.com/filmler/Harry%20Potter%204%20the%20Goblet%20of%20Fire%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Harry Potter and the Order of the Phoenix (2007)
-http://entertainment1.vodiplay.com/filmler/Harry%20Potter%205%20the%20Order%20of%20the%20Phoenix%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Harry Potter and the Half-Blood Prince (2009)
-http://entertainment1.vodiplay.com/filmler/Harry%20Potter%206%20Melez%20Prens%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/wup8z1p0K1CrtLSdPHYCg4VkrPy.jpg" group-title="FİLMLER", Harry Potter ve Ölüm Yadigarları Bölüm 1 (2010)
-http://entertainment1.vodiplay.com/filmler/Harry%20Potter%207%20the%20Deathly%20Hallows-%20Part%201%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/qxG6p8OEiF7reoowjMnLjk8DFuE.jpg" group-title="FİLMLER", Harry Potter ve Ölüm Yadigarları Bölüm 2 (2011)
-http://entertainment1.vodiplay.com/filmler/Harry%20Potter%208%20the%20Deathly%20Hallows-%20Part%202%20Dublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Yıldızlara Doğru
-http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Yildizlara.Dogru.1080p.DUAL.mkv
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftRlQifY05qWbT3gSdVEjiYw52A.jpg" group-title="FİLMLER", Godzilla (2014)
-http://vod.tsvipsmart.eu/turkishdublaj/Godzilla.2014.m1080p.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Godzilla II: Canavarlar Kralı (2019)
-http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Godzilla%20%20King%20of%20the%20Monsters%202019%20720p%20DUAL%20BluRay%20x264%20AC3%205.1%20HdT.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Deadpool 2
-http://vod.tsvipsmart.eu/turkishdublaj/Deadpool.2.2018.THEATRiCAL.m720p.BluRay.x264-DUAL.TR.ENG.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kong Kafatası Adası
-http://198.16.100.210:12012/vod/359111068247FFA1/H7dxDmRHNBJnFs6ipvKUDuzvAMbNVnPGd3Xskn1gJ3YdwKK_qF8L-JBNdjExr2Kg/74F4BDFF1A544B19.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", San Andreas (2015)
-http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/San%20Andreas%20Fayi.avi
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Independence Day: Resurgence (2016)
-http://94.20.21.36/storage/movie/11/11061/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ready Player One (2018)
-http://vod.tsvipsmart.eu/turkishcinemamovies/Ready.Player.One.2018.720p.BluRay.x264-DUAL.TR.ENG.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Pacific Rim Uprising 2018
-http://vod.tsvipsmart.eu/turkishcinemamovies/Pasifik.Savasi.%C4%B0syan.2018.TR.BDRip.MKV.Mnike.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Smurfs 2 (2013)
-http://94.20.21.42/storage/movie/5/4610/video.mp4 
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Smurfs The Lost Village 2017
-http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Sirinler%20Kayip%20Koy%20-%20Smurfs%20The%20Lost%20Village%20%282017%29%20TR%20BDRip%20XviD-.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Men in Black: International (2019)
-http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Siyah%20Giyen%20Adamlar%20Global%20Tehdit%20-%20Men%20in%20Black%20International%202019%20720p%20DUAL%20BluRay%20x264%20AC3%205.1%20-%20HdT.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Warcraft 2016
-http://198.16.100.210:12012/vod/359111068247FFA1/n-kdMphLq1DruFo6mvrLwC85jg_BNSK96BM_lgDec5Cqpd3TdKIy1hKiu9l17U7Y/1C45F20283384A3E.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Rogue One 2016
-http://198.16.100.210:12012/vod/359111068247FFA1/jaIis85qadltP7QBj5mrthmvsMgqfHIxI_zWx35OVdSqQwhYNKzUpF68FWpykyWD/F4A22B08F4464736.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Star Wars: Episode IX - The Rise of Skywalker
-http://51.89.98.4/vodmovie/download/star_wars_ix_skywalkerin_yukselisi_2019_trdublaj.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Pokémon Dedektif Pikachu
-http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Pokemon%20Dedektif%20Pikachu%20-%20Pokemon%20Detective%20Pikachu%202019%20BLURAY%20720p%20DUAL%20%5BTR-ENG%5D%20x264-%20LS.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Uzay Yolcuları
-http://198.16.100.210:12012/vod/359111068247FFA1/o-_90wG7Q0zFZGXYtFJnav1qS9eQXpGFhb7SX4XuflC_sn5k3OSfQPEh0AQ-PFRg/614BEAC0C84E43F2.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ant-Man and the Wasp
-http://vod.tsvipsmart.eu/turkishdublaj/Karinca.Adam.ve.Esek.Arisi.2018.TR.BRRip.XviD.www.filmindirgen.org.avi
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/GOfACX2Pv0lE0FAssR3UNHyTO7.jpg" group-title="FİLMLER", Rise of the Planet of the Apes (2011)
-http://reporectv.net/cdn2/13722/maymun1.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/sYAzli0OkgLu0hOJa8a6Rv3SWRy.jpg" group-title="FİLMLER", Dawn of the Planet of the Apes (2014)
-http://reporectv.net/cdn2/13722/maymun2.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/CX5H9KDaukasw8We246N0c40yi.jpg" group-title="FİLMLER", War for the Planet of the Apes (2017)
-http://reporectv.net/cdn2/13722/maymun3.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Charlies Angels 2019
-http://35.206.150.84/v/files/Charlies.Angels.2019.m1080p.BluRay.H264.DuaL-OpeD.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Gods of Egypt (2016)
-http://198.16.100.210:12012/vod/359111068247FFA1/Bw0mMojcIzc_XgVWYrrSKAEk7Ex7x-WRtmHMWL-tEFODUKICx6gOa9wx3qNEr-d_/381D45D073E14E16.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", X-Men: Apocalypse (2016)
-http://198.16.100.210:12012/vod/359111068247FFA1/SIdLa8ATeTnwKeSixylNCn1er4jt96ZZ9LC4MMMWf8e4mGEUwWrYlZ_wkfPVc0gK/A62475DC48904C0B.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Black Panther (2018)
-http://198.16.100.210:12012/vod/359111068247FFA1/zV4DhhV4eALxbvjUk8aIjdIgIAKxWkEllDcyxaCLqvVT5Jshm0ksvRaSRgdAHqOY/AED824BFFCBA4398.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Bloodshot (2020)
-http://cdn8.openload.monster/storage/movie/16/16646/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Bad Boys for Life (2020)
-http://cdn10.ovid.monster//storage//movie//16//16796//video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Fantastic Beasts: The Crimes of Grindelwald (2018)(2018)
-http://vod.tsvipsmart.eu/turkishdublaj/Fantastik.Canavarlar.2.Grindelwaldin.Suclari.2018.1080p.HDTS.TRDUB.mkv.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Fantastic Beasts and Where to Find Them (2016)
-http://198.16.100.210:12012/vod/359111068247FFA1/Yu_Y3g84kInhEY1NCv-voRe7imEdkT5XoEWfrswsPiNRJd8zlMiyqjqBswNU1LCn/D3CECD24CC104370.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Mission: Impossible - Rogue Nation (2015)
-http://198.16.100.210:12012/vod/359111068247FFA1/87kWGmNOvL8c3wavgwktMxiujvNb2gk84mZX3hENhS53UjzpDXMhgGI5ZelcQqG1/154F806ADDE64621.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Rambo Last Blood
-http://vip.satrestream.com:8080/movie/IptvBerisha/rkbvRjVn78/34081.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Jue di tao wang (2016)
-http://198.16.100.210:12012/vod/359111068247FFA1/hxXrvbPQFXAxjh7xo01JHSZfd8NG8-Y6Mk9c5okOEz2vOHwxE6ELrBRPV9NgRFPk/DD8930E2A9414870.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Last Witch Hunter (2015)
-http://198.16.100.210:12012/vod/359111068247FFA1/HaSgPkLXgjhpTSqDXRFLDVUpLLHw2yblJ23Ju1SFmrXd-DX1ZvPDhyW6sd5jazKH/BA018D2B786D4DD9.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ip Man 4
-http://reporectv.net/cdn2/13718/ipman41.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", I Am Legend (2007)
-http://198.16.100.210:12012/vod/359111068247FFA1/ixJ1-8CyTfjdWiA93K6rNAoNIrTtEVQSPlpgcXnoW8DrwgAgea_UsDwLAQLvesC9/68A86B794F524DC0.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
-http://cdn11.ovid.monster/storage/movie/16/16651/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Asteriks: Sihirli İksirin Sırrı 2018
-http://35.206.150.84/v/files/Asterix.Le.secret.de.la.potion.magique.2018.m1080p.BluRay.DD5.1.x264.DuaL-OpeD.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Deepwater Horizon (2016) 
-http://198.16.100.210:12012/vod/274561191038FFA1/jDTlymCGbllX6cg69JcHJufzlrqeJxznfy7yJHqlS8At1eooWEAEQWFHcWeZs2rK/A12503AA569F40F8.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhNirNChLkDv9YCEStn857h7BoI.jpg" group-title="FİLMLER", Despicable Me 2
-http://94.20.21.40/storage/movie/4/4468/video.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teNvNrHtsb435KklxKwk02G5FA3.jpg" group-title="FİLMLER", Despicable Me 3
-http://94.20.21.40/storage/movie/13/13435/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Angry Birds Movie
-http://94.20.21.36/storage/movie/11/11087/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Angry Birds 2
-http://cdn6.ovid.monster//storage//movie//16//16312//video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Minions 2015
-http://vod.tsvipsmart.eu/turkishcinemamovies/Minyonlar.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Abominable (2019)
-http://cdn8.ovid.monster//storage//movie//16//16452//video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Mortal Engines 2018
-http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Olumcul.Makineler.2018.%20720p.WEB-DL.TR.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Dolittle (2020)
-http://cdn6.openload.monster/storage/movie/16/16839/video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Gemini Man (2019)
-http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Gemini.Man.2019.m1080p.BluRay.x264.Dua.mkv
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Joker (2019)
-http://cdn11.ovid.monster//storage//movie//16//16419//video.mp4
-#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Extraction (2020)
-http://cdn10.ovid.monster//storage//movie//16//16757//video.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8:Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #DESCRIPTION Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv19.filmmodu.xyz/tt6292852/720p.tr.m3u8:Ben Bir Anneyim - 2019 - Gerilim, Bilimkurgu
