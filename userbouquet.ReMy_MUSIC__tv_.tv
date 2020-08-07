@@ -55,26 +55,16 @@
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/playlist.m3u8:88 Stereo TV
 #DESCRIPTION 88 Stereo TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0:Baeble Music
-#DESCRIPTION Baeble Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1:Baeble TV
-#DESCRIPTION Baeble TV
 #SERVICE 4097:0:0:271:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:Balkan
 #DESCRIPTION Balkan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:Balkan
 #DESCRIPTION Balkan
 #SERVICE 4097:0:0:269:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:UpperaBalkan
 #DESCRIPTION UpperaBalkan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.231.233.161%3a8080/udp/239.195.57.54%3a1234:MY3 MUSİC TV
-#DESCRIPTION MY3 MUSİC TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.231.233.161%3a8080/udp/239.195.59.213%3a1234:BRIDGE DELUXE TV HD
-#DESCRIPTION BRIDGE DELUXE TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh%3a443/BarazaClassic/BarazaClassic/playlist.m3u8:Baraza Classic
 #DESCRIPTION Baraza Classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Music Hits
 #DESCRIPTION Baraza TV Greek Music Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8:Bluegrass 4U
-#DESCRIPTION Bluegrass 4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boktv.interworks.in%3a1935/live/boktv/playlist.m3u8:BOK TV
 #DESCRIPTION BOK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
@@ -101,8 +91,6 @@
 #DESCRIPTION Chanson TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8:Classic Arts Showcase
 #DESCRIPTION Classic Arts Showcase
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net%3a443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2:Clubbing TV
-#DESCRIPTION Clubbing TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
 #DESCRIPTION CMC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:COLOSAL TV COSTA RICA
@@ -117,10 +105,6 @@
 #DESCRIPTION DeejayTv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8:Deejay TV (IT)
 #DESCRIPTION Deejay TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.onestreaming.com%3a8081/deltatv/live/playlist.m3u8:DELTA TV GREECE
-#DESCRIPTION DELTA TV GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/082r:Deluxe Music
-#DESCRIPTION Deluxe Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
 #DESCRIPTION DHTV denhaag tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8:Ditty TV
@@ -205,10 +189,6 @@
 #DESCRIPTION First Music Channel Russia HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8:FM Italia
 #DESCRIPTION FM Italia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_2500_av-b.m3u8:Fox News Radio
-#DESCRIPTION Fox News Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.214.130.95%3a8080/live/stream.m3u8:Gigante TV
-#DESCRIPTION Gigante TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//glasdrine.cutuk.net%3a1935/3ghu788/GlasDrine:GLas Drine Music HD
 #DESCRIPTION GLas Drine Music HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hitmusic.hu/hitmusic.m3u8:Hit Music Channel (Hungary)
@@ -219,10 +199,6 @@
 #DESCRIPTION HOBOC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8:Hot Rock TV
 #DESCRIPTION Hot Rock TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8:Ibiza Global TV
-#DESCRIPTION Ibiza Global TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cast-control.eu%3a1935/VitezevoTv/VitezevoTv/playlist.m3u8:I Dj Music Srbija Tv
-#DESCRIPTION I Dj Music Srbija Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rjtv.tv/live/smil%3arjtv.smil/playlist.m3u8:Javan TV
 #DESCRIPTION Javan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8:Kayhan TV HD
@@ -241,22 +217,16 @@
 #DESCRIPTION Kronehit TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:KRONEHIT TV HD
 #DESCRIPTION KRONEHIT TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8:Kurai (Ufa)
-#DESCRIPTION Kurai (Ufa)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kmusic/kmusic3/TeamBlue.m3u8:KURIAKOS MUSIC
 #DESCRIPTION KURIAKOS MUSIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8:Latinos Up! TV
-#DESCRIPTION Latinos Up! TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8:Latido Music
-#DESCRIPTION Latido Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net%3a80/i/m2oTv_1@186074/index_600_av-b.m3u8:m2otv
 #DESCRIPTION m2otv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8:m20 TV
 #DESCRIPTION m20 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on:m2otv
 #DESCRIPTION m2otv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/magictv/magictv/playlist.m3u8:Magic TV
-#DESCRIPTION Magic TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/magictv/magictv/playlist.m3u8:Magic TV greek
+#DESCRIPTION Magic TV greek
 #SERVICE 4097:0:1:2C:2:4:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/magic/:Magic TV (muziek - UK)
 #DESCRIPTION Magic TV (muziek - UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM TOP
