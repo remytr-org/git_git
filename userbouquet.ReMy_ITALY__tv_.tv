@@ -3,64 +3,40 @@
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.72.196.214%3a8554/live/AltoAdigeTV/livestream.m3u8:Alto Adige TV
 #DESCRIPTION Alto Adige TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8:Antenna Tre Nordest
-#DESCRIPTION Antenna Tre Nordest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.22.187.253%3a1935/streaming-tv/mp4%3amyStream3/playlist.m3u8:AutoMoto TV
-#DESCRIPTION AutoMoto TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1.ip2stream.icu/live/bike_channel_hd/playlist.m3u8:Bike Channel
-#DESCRIPTION Bike Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv3.meway.tv%3a1957/cafe/live/playlist.m3u8:CafeTV24 Veneto
 #DESCRIPTION CafeTV24 Veneto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.187.142.147%3a1935/ch10live/high.stream/live.m3u8:Canale 10
-#DESCRIPTION Canale 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.133%3a52841/out/u/425_1.m3u8:Canale 5
 #DESCRIPTION Canale 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/canale7/canale7/live.m3u8:Canale 7
 #DESCRIPTION Canale 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale8/canale8/playlist.m3u8:Canale 8
-#DESCRIPTION Canale 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.187.142.147%3a1935/ch10live/high.stream/live.m3u8:Canale 10
+#DESCRIPTION Canale 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale85/mp4%3acanale85/playlist.m3u8:Canale 85 Puglia
 #DESCRIPTION Canale 85 Puglia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8:Carina TV
 #DESCRIPTION Carina TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive36-lh.akamaihd.net%3a80/i/dclive_1@662089/master.m3u8:Centoundici
-#DESCRIPTION Centoundici
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/smil%3aCompanyTV.smil/playlist.m3u8:COMPANY TV
 #DESCRIPTION COMPANY TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8:Cremona 1
-#DESCRIPTION Cremona 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8:DeeJay TV
 #DESCRIPTION DeeJay TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8:Dmax
 #DESCRIPTION Dmax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8:Esperia TV 18 Calabria
 #DESCRIPTION Esperia TV 18 Calabria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamcaster.net%3a1935/etvmarche_live/etvmarche/livestream.m3u8:eTV Marche
-#DESCRIPTION eTV Marche
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs2.streamcaster.net%3a1935/etvmarche_live/etvmarche/hasbahca.m3u8:ETV Marche
 #DESCRIPTION ETV Marche
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8:FM Italia
 #DESCRIPTION FM Italia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8:Frisbee
-#DESCRIPTION Frisbee
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8:Giallo
-#DESCRIPTION Giallo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8:History Lab
 #DESCRIPTION History Lab
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/irctv/mp4%3airctv/playlist.m3u8:IRC Sport TV
-#DESCRIPTION IRC Sport TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.133%3a52841/out/u/53_1.m3u8:Italia 1
 #DESCRIPTION Italia 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.133%3a52841/out/u/101_1.m3u8:LA 7
-#DESCRIPTION LA 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//StreamCdnC3.mainstreaming.tv%3a80/cdn/live/100197/SOrBDPy/playlist.m3u8:La CTV
 #DESCRIPTION La CTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net%3a80/i/m2oTv_1@186074/index_600_av-b.m3u8:M2O TV
 #DESCRIPTION M2O TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8:M2O TV (IT)
 #DESCRIPTION M2O TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.133%3a52841/out/u/77_1.m3u8:Mediaset Italia
-#DESCRIPTION Mediaset Italia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8:MotorTrend
 #DESCRIPTION MotorTrend
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8:Nove
@@ -85,64 +61,20 @@
 #DESCRIPTION Radio Iglesias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8:Radio Italia TV
 #DESCRIPTION Radio Italia TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/lifestyle/live/playlist.m3u8:Radio Italia Vision
-#DESCRIPTION Radio Italia Vision
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.105.net/live/rmc3/playlist.m3u8:Radio Monte Carlo
-#DESCRIPTION Radio Monte Carlo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8:Radio No 1
 #DESCRIPTION Radio No 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-4.radioradicale.it%3a1935/diretta/padtv1/playlist.m3u8:Radio Radicale
-#DESCRIPTION Radio Radicale
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8:Radio Taormina
-#DESCRIPTION Radio Taormina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash5.streaming.xdevel.com/radionorbatv/smil%3aradionorbatv.smil/playlist.m3u8:Radionorba
 #DESCRIPTION Radionorba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/Rai1/tracks-v1a1/mono.m3u8:Rai 1
-#DESCRIPTION Rai 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.133%3a52841/out/u/452_1.m3u8:Rai 2
-#DESCRIPTION Rai 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8:Rai 3
-#DESCRIPTION Rai 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/rai3/tracks-v1a1/mono.m3u8:Rai 3
-#DESCRIPTION Rai 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8:Rai 4
-#DESCRIPTION Rai 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on:Rai 5
-#DESCRIPTION Rai 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8:Rai 5
-#DESCRIPTION Rai 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8:Rai Gulp
-#DESCRIPTION Rai Gulp
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.69/s/s63/S4/mnf.m3u8:Rai Italia
-#DESCRIPTION Rai Italia
-#SERVICE 4097:0:1:350:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8:Rai Movie
-#DESCRIPTION Rai Movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on:Rai Movie
-#DESCRIPTION Rai Movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8:Rai Movie
-#DESCRIPTION Rai Movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8:Rai News 24
 #DESCRIPTION Rai News 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8:Rai Premium
-#DESCRIPTION Rai Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8:Rai YoYo
-#DESCRIPTION Rai YoYo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowzacontrol.com%3a1935/stream34/stream34/chunklist_w2034234970.m3u8:RCG 1
 #DESCRIPTION RCG 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8:RDS Social TV
 #DESCRIPTION RDS Social TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.133%3a52841/out/u/113_1.m3u8:Real Time
-#DESCRIPTION Real Time
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvseculo21-lh.akamaihd.net%3a80/i/tvseculo_1@16110/index_1200_av-p.m3u8:Rede Seculo 21
-#DESCRIPTION Rede Seculo 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.133%3a52841/out/u/435_1.m3u8:Rete 4
 #DESCRIPTION Rete 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash2.bsnewline.com%3a1935/retesolelazio/retesolelazio/playlist.m3u8:Retesole
-#DESCRIPTION Retesole
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:Retro Music TV
 #DESCRIPTION Retro Music TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fl1.mediastreaming.it%3a1935/calabriachannel/livestream/playlist.m3u8:RTC Telecalabria
-#DESCRIPTION RTC Telecalabria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000.m3u8:rte
 #DESCRIPTION rte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8:RTE News
@@ -151,36 +83,20 @@
 #DESCRIPTION RTE News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8:RTL 102.5 TV (IT)
 #DESCRIPTION RTL 102.5 TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live01.rtl.lu/channel2/smil%3achannel2/playlist.m3u8:RTL 2
-#DESCRIPTION RTL 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma07.fluidstream.net%3a1935/RTTRlive/livestream/playlist.m3u8:RTTR TV Trento
 #DESCRIPTION RTTR TV Trento
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//197.243.19.131%3a1935/rtv/rtv/chunklist_w2093872577.m3u8:RTV Ruanda
 #DESCRIPTION RTV Ruanda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTVZiK
-#DESCRIPTION RTVZiK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8:RUV
 #DESCRIPTION RUV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//senato.spectar.tv%3a1935/senato-live/ngrp%3awebtv1_all/chunklist_b1155072_DVR.m3u8:Senato TV
-#DESCRIPTION Senato TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamcaster.net%3a1935/siciliamediatv_live/siciliamedia/playlist.m3u8:Sicilia Media TV
 #DESCRIPTION Sicilia Media TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/novezamky:SK-Nove Zamky
 #DESCRIPTION SK-Nove Zamky
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyianywhere2-i.akamaihd.net%3a80/hls/live/200275/tg24/playlist.m3u8:Sky TG 24
-#DESCRIPTION Sky TG 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/sobrenaturaltv/livestream.m3u8:SOBRENATURAL TV
-#DESCRIPTION SOBRENATURAL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8:Spike
 #DESCRIPTION Spike
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.31.226.78%3a1935/standbytvlive/stream1.sdp/playlist.m3u8:Standby TV
-#DESCRIPTION Standby TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//live-tvk.tvkstella.pl/flvplayback/StellaLive:Stella
 #DESCRIPTION Stella
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash0.19333-live0.dna.qbrick.com%3a1935/19333-live0/push-stortinget_1/playlist.m3u8:Stortinget
-#DESCRIPTION Stortinget
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/studio100ta/studio100ta/playlist.m3u8:Studio 100 Puglia
-#DESCRIPTION Studio 100 Puglia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/supertv/mp4%3asupertv/live.m3u8:Super TV
 #DESCRIPTION Super TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/supertv/supertv/live.m3u8:SuperTV
@@ -189,38 +105,20 @@
 #DESCRIPTION TELE Canale 85
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.tvavicenza.it%3a1935/telechiara/diretta/playlist.m3u8:Tele Chiara
 #DESCRIPTION Tele Chiara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive36-lh.akamaihd.net%3a80/i/dclive_1@662062/master.m3u8:Tele Genova
-#DESCRIPTION Tele Genova
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamtv.level7.it%3a1935/teleradiosciacca-tv/teleradiosciacca-tv/teleradiosciacca-tv/playlist.m3u8:Tele Radio Sciacca
-#DESCRIPTION Tele Radio Sciacca
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive20-lh.akamaihd.net%3a80/i/dclive_1@195975/master.m3u8:Tele SanDomenico
-#DESCRIPTION Tele SanDomenico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8:Teleabruzzo TV
 #DESCRIPTION Teleabruzzo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma07.fluidstream.net%3a1935/TeleArena/livestream/playlist.m3u8:TeleArena
 #DESCRIPTION TeleArena
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telefoggia/mp4%3atelefoggia/chunklist_w485752473.m3u8:Telefoggia
-#DESCRIPTION Telefoggia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//or01.top-ix.org%3a1935/streamtech/telefriuli/playlist.m3u8:Telefriuli
 #DESCRIPTION Telefriuli
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.sloode.com%3a1935/teleluna/live/playlist.m3u8:teleluna
 #DESCRIPTION teleluna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/telemia/telemia/playlist.m3u8:Telemia
 #DESCRIPTION Telemia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/telemia/telemia/playlist.m3u8:Telemia
-#DESCRIPTION Telemia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/telemonteneve/telemonteneve/live.m3u8:teleMonteneve
 #DESCRIPTION teleMonteneve
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8:Telemonteve
-#DESCRIPTION Telemonteve
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8:Telemonteve
-#DESCRIPTION Telemonteve
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8:Telemonteve 3
 #DESCRIPTION Telemonteve 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8:Telemonteve 3
-#DESCRIPTION Telemonteve 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/telepavia/telepavia/live.m3u8:TelePAVIA
-#DESCRIPTION TelePAVIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/telepavia/telepavia/live.m3u8:telePAVIA
 #DESCRIPTION telePAVIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/teleromagna/live/playlist.m3u8:Teleromagna

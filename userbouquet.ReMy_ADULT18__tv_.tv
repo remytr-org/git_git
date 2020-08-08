@@ -13,6 +13,8 @@
 #DESCRIPTION Dorcel TV [18+]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_360p/chunklist_w974670813.m3u8:TV8
 #DESCRIPTION TV8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/telepavia/telepavia/live.m3u8:telePAVIA gece erotic
+#DESCRIPTION telePAVIA gece erotic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO:Jasmin.tv 720p
 #DESCRIPTION Jasmin.tv 720p
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/hd.jasminchannel.stream/playlist.m3u8:Jasmin TV HD (18+)
@@ -365,11 +367,11 @@
 #DESCRIPTION Paradise Hill _ VOD 066 _ Hentai Inshitsu Otaku Ni
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v1.paradisehill.cc/video/300415-1355-11_part1.mp4:Paradise Hill _ VOD 067 _ Hentai Inshitsu Otaku Ni
 #DESCRIPTION Paradise Hill _ VOD 067 _ Hentai Inshitsu Otaku Ni
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v1.paradisehill.cc/video/300415-1355-9_part1.mp4:Paradise Hill _ VOD 068 _ Hentai The Animation: Ho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v1.paradisehill.cc/video/300415-1355-9_part1.mp4:Paradise Hill _ VOD 068 _ Hentai The Animation%3a Ho
 #DESCRIPTION Paradise Hill _ VOD 068 _ Hentai The Animation: Ho
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v1.paradisehill.cc/video/sailor_moon_and_the_7_ballz_2_return5_of_the_Ball.mp4:Paradise Hill _ VOD 069 _ Hentai Sailor Moon And T
 #DESCRIPTION Paradise Hill _ VOD 069 _ Hentai Sailor Moon And T
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v1.paradisehill.cc/video/naruto-love_ninja.mp4:Paradise Hill _ VOD 070 _ Hentai Naruto: Love Ninj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v1.paradisehill.cc/video/naruto-love_ninja.mp4:Paradise Hill _ VOD 070 _ Hentai Naruto%3a Love Ninj
 #DESCRIPTION Paradise Hill _ VOD 070 _ Hentai Naruto: Love Ninj
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v1.paradisehill.cc/video/5a481565e4aa7_Cosplay-Sex-Machine_part1.mp4:Paradise Hill _ VOD 071 _ Hentai Cosplay Sex Machi
 #DESCRIPTION Paradise Hill _ VOD 071 _ Hentai Cosplay Sex Machi
@@ -649,7 +651,7 @@
 #DESCRIPTION 3D Porn Action_VOD 29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//galleries.3Dcatchyfetish.com/tube/030/trailer.f4v:3D Porn Action_VOD 30
 #DESCRIPTION 3D Porn Action_VOD 30
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::::::___ovhv20.twincdn.com
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::%3a%3a%3a%3a___ovhv20.twincdn.com
 #DESCRIPTION ::::___ovhv20.twincdn.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv20.twincdn.com/videos/prime/00/01/91/56.mp4:69 with creampie final
 #DESCRIPTION 69 with creampie final
@@ -1243,7 +1245,7 @@
 #DESCRIPTION Anthony and Cleopatra (1997)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1116580/eto_ne_avatar.__avatar_hhh.mp4:Avatar (2012)
 #DESCRIPTION Avatar (2012)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2212332/kaligula__bezumnyy_imperator.mp4:Caligula: Mad Emperor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2212332/kaligula__bezumnyy_imperator.mp4:Caligula%3a Mad Emperor
 #DESCRIPTION Caligula: Mad Emperor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/357.mp4:Catherine and her wild stallions 1 (1983)
 #DESCRIPTION Catherine and her wild stallions 1 (1983)
@@ -1259,7 +1261,7 @@
 #DESCRIPTION City of Sex 3 (2006)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/top/Cleopatra.mp4:CLEOPATRA
 #DESCRIPTION CLEOPATRA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/kleopatra_2_legenda_erosa.mp4:Cleopatra 2: Legend of Eros (2003)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/kleopatra_2_legenda_erosa.mp4:Cleopatra 2%3a Legend of Eros (2003)
 #DESCRIPTION Cleopatra 2: Legend of Eros (2003)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/top/CappuccettoRosso.mp4:Erotic adventures of Little Red Riding Hood (1993)
 #DESCRIPTION Erotic adventures of Little Red Riding Hood (1993)
@@ -1275,7 +1277,7 @@
 #DESCRIPTION Marco Polo (1994)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Marquisdesade.mp4:Marquis De Sade (1994)
 #DESCRIPTION Marquis De Sade (1994)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1666467/porno_film___master_i_margarita.mp4:Master and Margarita: Satan's Ball (2002)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1666467/porno_film___master_i_margarita.mp4:Master and Margarita%3a Satan's Ball (2002)
 #DESCRIPTION Master and Margarita: Satan's Ball (2002)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cld.pt/dl/download/8b0f6df5-0f61-4c76-b278-b7012732644e/Monica Doce 1.mp4:Monica Doce
 #DESCRIPTION Monica Doce
@@ -1283,7 +1285,7 @@
 #DESCRIPTION Monica Doce 204
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1635526/napoleon___s_perevodom.mp4:Napoleon (1996)
 #DESCRIPTION Napoleon (1996)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/1314.mp4:Rasputin: Orgies at the royal court (1984)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/1314.mp4:Rasputin%3a Orgies at the royal court (1984)
 #DESCRIPTION Rasputin: Orgies at the royal court (1984)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Femme-objet.mp4:Robot Woman (1980)
 #DESCRIPTION Robot Woman (1980)
@@ -1293,7 +1295,7 @@
 #DESCRIPTION Snow White and the Seven Dwarfs (1996)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/files/2547669/zena__porno_parodiya_na_russkom__obnovleno_hd.mp4:Xena - Princess Warrior (2012)
 #DESCRIPTION Xena - Princess Warrior (2012)
-#SERVICE 1:64:AF:0:0:0:0:0:0:0:::::___SERVER_ITALIANO_5.9.13.108
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::%3a%3a%3a___SERVER_ITALIANO_5.9.13.108
 #DESCRIPTION :::___SERVER_ITALIANO_5.9.13.108
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/adulti/caccia.al.culo.rotto.mkv:caccia.al.culo.rotto
 #DESCRIPTION caccia.al.culo.rotto
@@ -2345,7 +2347,7 @@
 #DESCRIPTION Naked_and_Funny_Talented_Magician
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked_and_Funny_When_Statues_Attack!_9030_hd.mp4:Naked_and_Funny_When_Statues_Attack!
 #DESCRIPTION Naked_and_Funny_When_Statues_Attack!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked_and_Funny_Won`t_Hurt_A_Bit!_9049_hd.mp4:Naked_and_Funny_Won%60t_Hurt_A_Bit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked_and_Funny_Won`t_Hurt_A_Bit!_9049_hd.mp4:Naked_and_Funny_Won%2560t_Hurt_A_Bit
 #DESCRIPTION Naked_and_Funny_Won%60t_Hurt_A_Bit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked and Funny Do These Panties Match 9020.mp4:Naked and Funny Do These Panties Match
 #DESCRIPTION Naked and Funny Do These Panties Match

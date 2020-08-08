@@ -95,6 +95,8 @@
 #DESCRIPTION CMC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:COLOSAL TV COSTA RICA
 #DESCRIPTION COLOSAL TV COSTA RICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/smil%3aCompanyTV.smil/playlist.m3u8:COMPANY TV
+#DESCRIPTION COMPANY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/_definst_/mp4%3alivestream_720p/playlist.m3u8:Company TV
 #DESCRIPTION Company TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-stranafm.cdnvideo.ru/stranafm/smil%3astranafm.smil/playlist.m3u8:Country FM
@@ -463,10 +465,10 @@
 #DESCRIPTION BEST FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.126/;:Best FM
 #DESCRIPTION Best FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.34bit.net/ar.mp3:Acik  Radyo 94.9
-#DESCRIPTION Acik  Radyo 94.9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.126:Best FM 98.4
 #DESCRIPTION Best FM 98.4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.34bit.net/ar.mp3:Acik  Radyo 94.9
+#DESCRIPTION Acik  Radyo 94.9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.173.188.166%3a9986/:Bizim Radyo 104.4
 #DESCRIPTION Bizim Radyo 104.4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.damarfm.com%3a8080/:Damar FM
@@ -695,3 +697,5 @@
 #DESCRIPTION WRCF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8:RDS Social TV
+#DESCRIPTION RDS Social TV

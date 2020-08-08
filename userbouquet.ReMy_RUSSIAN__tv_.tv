@@ -1,8 +1,10 @@
 #NAME == ★★ReMy | RUSSIAN★★ ==
-#SERVICE 1:64:B4:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
 #DESCRIPTION === ★★ReMy | RUSSIAN★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/luxury.m3u8:luxury
-#DESCRIPTION luxury
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:ReMy_RUSSIAN:ReMy_RUSSIAN
+#DESCRIPTION ReMy_RUSSIAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2003:First Channel HD
+#DESCRIPTION First Channel HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2001:1+1
 #DESCRIPTION 1+1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/031v:2+2
@@ -23,216 +25,76 @@
 #DESCRIPTION A HBO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2015:action-packed HD
 #DESCRIPTION action-packed HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/035c:Amedia Premium HD
-#DESCRIPTION Amedia Premium HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21111/udp/127b:AXN HD
 #DESCRIPTION AXN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21111/udp/114r:AXN Spin HD
-#DESCRIPTION AXN Spin HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21111/udp/162g:BBC Brit
-#DESCRIPTION BBC Brit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21111/udp/163h:BBC Ceebeebies
-#DESCRIPTION BBC Ceebeebies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/155r:BBC FIRST HD
 #DESCRIPTION BBC FIRST HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21111/udp/164j:BBC Lifetsyle
-#DESCRIPTION BBC Lifetsyle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/108c:Calle 13 HD
-#DESCRIPTION Calle 13 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21141/udp/141c:CANAL+ HD
-#DESCRIPTION CANAL+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/185f:Cartoon Network HD
 #DESCRIPTION Cartoon Network HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/056m:CNL
-#DESCRIPTION CNL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/080w:Comedy Central Austria
-#DESCRIPTION Comedy Central Austria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21101/udp/131p:CTC
-#DESCRIPTION CTC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/082r:Deluxe Music
-#DESCRIPTION Deluxe Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/188k:Discovery Science HD
 #DESCRIPTION Discovery Science HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/191a:Disney Junior
 #DESCRIPTION Disney Junior
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/030p:Divinty
 #DESCRIPTION Divinty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/083t:DMAX Austria
-#DESCRIPTION DMAX Austria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21141/udp/214h:Dorcel TV HD
 #DESCRIPTION Dorcel TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/102y:Duna (Europa) HD
-#DESCRIPTION Duna (Europa) HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/043m:EU MUSIC HD
-#DESCRIPTION EU MUSIC HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/033z:Eurosport 1 HD (RU)
-#DESCRIPTION Eurosport 1 HD (RU)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/192c:Eurosport 2 HD Poland
 #DESCRIPTION Eurosport 2 HD Poland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/189r:ExTREAM SPORT TV
 #DESCRIPTION ExTREAM SPORT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/048t:Fashion HD
-#DESCRIPTION Fashion HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/058v:Fashion One
-#DESCRIPTION Fashion One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21141/udp/146h:Film Box Action
 #DESCRIPTION Film Box Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21081/udp/154w:filmbox family
-#DESCRIPTION filmbox family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2003:First Channel HD
-#DESCRIPTION First Channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2007:Football 1 HD
-#DESCRIPTION Football 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21131/udp/147l:Fox HD
+#DESCRIPTION Fox HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/032b:FOX
 #DESCRIPTION FOX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21161/udp/173c:Fox Comedy HD
 #DESCRIPTION Fox Comedy HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21131/udp/147l:Fox HD
-#DESCRIPTION Fox HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/027u:GOL
 #DESCRIPTION GOL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/050u:GTV HD
-#DESCRIPTION GTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/157a:HBO 2 HD
-#DESCRIPTION HBO 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/190z:HBO HD
 #DESCRIPTION HBO HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/077n:HD
-#DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/063w:Heimat Kanal
-#DESCRIPTION Heimat Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/065c:HGTV HD
-#DESCRIPTION HGTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/157a:HBO 2 HD
+#DESCRIPTION HBO 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21121/udp/128c:History
 #DESCRIPTION History
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/036b:History HD (RU)
-#DESCRIPTION History HD (RU)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2020:Inter
 #DESCRIPTION Inter
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2002:KIEV STB
 #DESCRIPTION KIEV STB
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/023e:M. Deportes HD
-#DESCRIPTION M. Deportes HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/106z:M.Dep HD
-#DESCRIPTION M.Dep HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/100r:M1 (Europa) HD
-#DESCRIPTION M1 (Europa) HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/101t:M2 (Europa) HD
-#DESCRIPTION M2 (Europa) HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/103u:M4 Sport (Europa) HD
-#DESCRIPTION M4 Sport (Europa) HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/104y:M5 (Europa) HD
-#DESCRIPTION M5 (Europa) HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2019:Match TV
-#DESCRIPTION Match TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/092f:Match!
-#DESCRIPTION Match!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2025:MATCH! FOOTBALL 1
-#DESCRIPTION MATCH! FOOTBALL 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2010:MATCH! FOOTBALL 1 HD
-#DESCRIPTION MATCH! FOOTBALL 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2026:MATCH! FOOTBALL 2
-#DESCRIPTION MATCH! FOOTBALL 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2011:MATCH! FOOTBALL 2 HD
-#DESCRIPTION MATCH! FOOTBALL 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/021w:Match! Football 2 HD
-#DESCRIPTION Match! Football 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2027:MATCH! FOOTBALL 3
-#DESCRIPTION MATCH! FOOTBALL 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2012:MATCH! FOOTBALL 3 HD
-#DESCRIPTION MATCH! FOOTBALL 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/031e:Match! Football 3 HD
-#DESCRIPTION Match! Football 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/093g:Match! HD
-#DESCRIPTION Match! HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/046s:Match! HD
-#DESCRIPTION Match! HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2009:MATCH! HD
-#DESCRIPTION MATCH! HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/034m:Mezzo
-#DESCRIPTION Mezzo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21131/udp/141l:MiniMini+ HD
 #DESCRIPTION MiniMini+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2017:MoviePremium HD
-#DESCRIPTION MoviePremium HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2022:M KINO
 #DESCRIPTION M KINO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2018:TVT HD
-#DESCRIPTION TVT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2005:MTV Classic
-#DESCRIPTION MTV Classic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/055n:VOTV
-#DESCRIPTION VOTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/079q:N24 DOKU Austria
-#DESCRIPTION N24 DOKU Austria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2018:MTV Classic HD
+#DESCRIPTION MTV Classic HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/186o:Nat Geo People HD
 #DESCRIPTION Nat Geo People HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21121/udp/126z:Nat Geo Wild
 #DESCRIPTION Nat Geo Wild
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a6031/udp/111n:Nat Geo Wild HD
-#DESCRIPTION Nat Geo Wild HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/049y:Natal
-#DESCRIPTION Natal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/034x:National Geographic HD (RU)
-#DESCRIPTION National Geographic HD (RU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/081e:Nick Austria
-#DESCRIPTION Nick Austria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/042l:Nick Toons HD
-#DESCRIPTION Nick Toons HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/026y:Nickelodeon HD
-#DESCRIPTION Nickelodeon HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/109b:Nickelodeon HD
-#DESCRIPTION Nickelodeon HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21161/udp/176z:POLSAT SPORT EXTRA
-#DESCRIPTION POLSAT SPORT EXTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21161/udp/176z:POLSAT SPORT EXTRA HD
+#DESCRIPTION POLSAT SPORT EXTRA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/039h:Paramount Channel (RU)
+#DESCRIPTION Paramount Channel (RU)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21161/udp/172r:Polsat Sport HD
 #DESCRIPTION Polsat Sport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/194w:Polsat Sport News HD
 #DESCRIPTION Polsat Sport News HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21131/udp/165l:Pravda Tyt SD
-#DESCRIPTION Pravda Tyt SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/054b:Present HD
 #DESCRIPTION Present HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/053c:Present HD
 #DESCRIPTION Present HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/081d:Q2 HD
-#DESCRIPTION Q2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/089b:Rai News 24 HD
-#DESCRIPTION Rai News 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/085u:Rai 1 HD
-#DESCRIPTION Rai 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/086z:Rai 2 HD
-#DESCRIPTION Rai 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/087x:Rai 3 HD
-#DESCRIPTION Rai 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/088c:Rai Sport HD
-#DESCRIPTION Rai Sport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/090n:Rai Storia HD
-#DESCRIPTION Rai Storia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/070c:Romance TV
-#DESCRIPTION Romance TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a6031/udp/113q:Romance TV
-#DESCRIPTION Romance TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/043z:RSI LA 1 HD
 #DESCRIPTION RSI LA 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/044x:RSI LA 2 HD
 #DESCRIPTION RSI LA 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/061i:RTL7 HD
-#DESCRIPTION RTL7 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/094b:RTS Deux HD
-#DESCRIPTION RTS Deux HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/093v:RTS Un HD
-#DESCRIPTION RTS Un HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/100h:Rudana HD
-#DESCRIPTION Rudana HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2004:Russia 1 HD
-#DESCRIPTION Russia 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/054d:Russia 24
-#DESCRIPTION Russia 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21131/udp/148y:Russia1 HD
 #DESCRIPTION Russia1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21051/udp/071l:Russian Night
 #DESCRIPTION Russian Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21141/udp/141c:Satellite TV HD
+#DESCRIPTION Satellite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/110c:SCT
 #DESCRIPTION SCT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2021:Shocking HD
@@ -245,8 +107,8 @@
 #DESCRIPTION Sport Austria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/095a:Sport Austria
 #DESCRIPTION Sport Austria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/193i:Sport Fight HD
-#DESCRIPTION Sport Fight HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/193i:Polsat Sport Fight HD
+#DESCRIPTION Polsat Sport Fight HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/091m:SRF 1 HD
 #DESCRIPTION SRF 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/092n:SRF zwei HD
@@ -287,14 +149,10 @@
 #DESCRIPTION TVP Info
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21131/udp/152s:Universal TV HD
 #DESCRIPTION Universal TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21121/udp/137s:Viasat History HD
-#DESCRIPTION Viasat History HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/035l:Viasat Sport (RU)
-#DESCRIPTION Viasat Sport (RU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/082f:VIER HD
-#DESCRIPTION VIER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/113d:VIP Comedy
-#DESCRIPTION VIP Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21121/udp/137s:Viasat History Polsat HD
+#DESCRIPTION Viasat History Polsat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/035l:2+2
+#DESCRIPTION 2+2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2016:VIP Megahit HD
 #DESCRIPTION VIP Megahit HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2013:VIP Premiere HD
@@ -303,227 +161,278 @@
 #DESCRIPTION Volksmusik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21161/udp/225k:WP
 #DESCRIPTION WP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/044q:YaTB
-#DESCRIPTION YaTB
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/046e:ZEE TV (RU)
-#DESCRIPTION ZEE TV (RU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21131/udp/137a:Zest TV
-#DESCRIPTION Zest TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/131e:ZIK HD
-#DESCRIPTION ZIK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a2001:1+1
-#DESCRIPTION 1+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.203.104%3a6883/ace/getstream?id=1582fa915d8ca7a3a68017391403239ba5ea9cec&.mp4:2 + 2
-#DESCRIPTION 2 + 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112.ua/components/flowplayer/html5/master.m3u8:112 UA
-#DESCRIPTION 112 UA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8:112 Ukraine HD
-#DESCRIPTION 112 Ukraine HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamvideol1.luxnet.ua/news24/smil%3anews24.stream.smil/chunklist_b1328800.m3u8:24 channel HD
-#DESCRIPTION 24 channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gorod.tv/s/live/22/ssiptv/0/0.m3u8:78
-#DESCRIPTION 78
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s99/04.m3u8:Adventure HD
-#DESCRIPTION Adventure HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.163.89.138%3a4022/udp/234.0.0.169%3a2000:Amedia HBO
-#DESCRIPTION Amedia HBO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.14%3a80/hls/CH_AMEDIAPREMIUM/variant.m3u8:Amedia Premium HD
-#DESCRIPTION Amedia Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8:4BC Brisbane
+#DESCRIPTION 4BC Brisbane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8:4U occidental
+#DESCRIPTION 4U occidental
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8:7 Channel HD (Odessa)
+#DESCRIPTION 7 Channel HD (Odessa)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.114.136.25/oplot-tv:Bastion
 #DESCRIPTION Bastion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2:BOLT
-#DESCRIPTION BOLT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_BOLT/variant.m3u8:Bolt
-#DESCRIPTION Bolt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.114.136.25/oplot-tv:Bastion
+#DESCRIPTION Bastion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/004:BBC World News (EN)
+#DESCRIPTION BBC World News (EN)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brodilo.tv/channel.php:Brodilo.TV
 #DESCRIPTION Brodilo.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8:CBN News
 #DESCRIPTION CBN News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.190.88.34%3a1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8:LENTV
-#DESCRIPTION LENTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/22/86.169.51.136/1/0.m3u8:channel 78
-#DESCRIPTION channel 78
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gorod.tv/s/live/5/ssiptv/0/0.m3u8?iptv.glav-noe.ru/:Channel Five
-#DESCRIPTION Channel Five
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_KINOSERIA/variant.m3u8:CINEMA
-#DESCRIPTION CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cgtn.com/1000r/prog_index.m3u8:CGTN
+#DESCRIPTION CGTN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.190.88.34%3a1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8:channel 47
+#DESCRIPTION channel 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s27:Comedy Central/VIVA
+#DESCRIPTION Comedy Central/VIVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s31/index.m3u8:Country
+#DESCRIPTION Country
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.yandex.ru/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8:Country
 #DESCRIPTION Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mr2live.1tvcrimea.ru%3a8080/24tvcrimea.m3u8:KIRIM 24
-#DESCRIPTION KIRIM 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/:STS
-#DESCRIPTION STS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua%3a80/api/v1/manifest/1293294600.m3u8:Direct
-#DESCRIPTION Direct
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8:Direct HD
 #DESCRIPTION Direct HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.124%3a1234:Discovery Channel
-#DESCRIPTION Discovery Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.12.194.10/dtxhd/live.m3u8:DTX HD
-#DESCRIPTION DTX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/410/86.169.51.136/1/0.m3u8:DTX
-#DESCRIPTION DTX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8:Direct HD
+#DESCRIPTION Direct HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvshops.bonus-tv.ru%3a80/cdn/discount/tracks-v1a1/index.m3u8:Discount
+#DESCRIPTION Discount
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8:Earth TV
 #DESCRIPTION Earth TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.yandex.ru/kal/worldlife/worldlife0_169_480p.json/index-v1-a1.m3u8:EARTH TV [WebCam]
+#DESCRIPTION EARTH TV [WebCam]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.138.79.232%3a4022/udp/239.0.251.45%3a1234:Epoque
 #DESCRIPTION Epoque
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua%3a80/api/v1/manifest/2007567821.m3u8:Espreso TV
 #DESCRIPTION Espreso TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_FOX/variant.m3u8:Fox
-#DESCRIPTION Fox
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_FOXL/variant.m3u8:Fox Life
-#DESCRIPTION Fox Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gorod.tv/s/live/16/ssiptv/0/0.m3u8?iptv.glav-noe.ru/:Friday
-#DESCRIPTION Friday
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.14%3a80/hls/CH_GALAXY/variant.m3u8:Galaxy
-#DESCRIPTION Galaxy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.242.237.246%3a65535/udp/239.239.3.72%3a5239:Glazella HD
-#DESCRIPTION Glazella HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2:HCT
-#DESCRIPTION HCT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/419/86.169.51.136/1/0.m3u8:History
-#DESCRIPTION History
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC TV
-#DESCRIPTION HOBOC TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/256/86.169.51.136/0/0.m3u8:Hollywood
-#DESCRIPTION Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8:Euronews
+#DESCRIPTION Euronews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s48/04.m3u8:Filmzone ATV
+#DESCRIPTION Filmzone ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8:Fishing Dialogs
+#DESCRIPTION Fishing Dialogs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/162z/parasite.install:Horse World
 #DESCRIPTION Horse World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2:Hunting and fishing
-#DESCRIPTION Hunting and fishing
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2:Indian cinema
-#DESCRIPTION Indian cinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.14%3a80/hls/CH_INDIYATV/variant.m3u8:Indian cinema
-#DESCRIPTION Indian cinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/805/86.169.51.136/1/0.m3u8:Male
-#DESCRIPTION Male
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2:MEN'S MOVIE
-#DESCRIPTION MEN'S MOVIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s55/04.m3u8:Hunter and Fisherman
+#DESCRIPTION Hunter and Fisherman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.41.148%3a1935/live/inter_3/playlist.m3u8:Inter
+#DESCRIPTION Inter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.5.108.14%3a1935/live/itv1/playlist.m3u8:ITV Crimea
+#DESCRIPTION ITV Crimea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.yandex.ru/kal/joycook/joycook0_169_480p.json/index-v1-a1.m3u8?s-m-a-k.ru/:JOY COOK
+#DESCRIPTION JOY COOK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv25.vintera.tv%3a8081/test/k16/playlist.m3u8:K16 (Sarov)
+#DESCRIPTION K16 (Sarov)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.246.178.12%3a81/udp/239.54.5.147%3a1224:Katun 24
+#DESCRIPTION Katun 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8:Kiev TV
+#DESCRIPTION Kiev TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.193.71.93/Kino24LV/video.m3u8:KINO 24
+#DESCRIPTION KINO 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s94/04.m3u8:Kinoman ATV
+#DESCRIPTION Kinoman ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.101.120.183%3a1234/udp/239.255.128.85%3a1234:Kinomix HD
+#DESCRIPTION Kinomix HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
+#DESCRIPTION KVN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvshops.bonus-tv.ru%3a80/cdn/leomax/tracks-v1a1/index.m3u8:Leomax
+#DESCRIPTION Leomax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/742/index.m3u8:Marine
+#DESCRIPTION Marine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3am24.smil/chunklist_b1600000.m3u8:Moscow 24
 #DESCRIPTION Moscow 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.133%3a1234:Movie Comedy
-#DESCRIPTION Movie Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv25.vintera.tv%3a8081/klasskino/k_kino/playlist.m3u8:Movie classic
+#DESCRIPTION Movie classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.19%3a1234:Movie premiere
 #DESCRIPTION Movie premiere
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8:MOVIE PREMIERE HD
-#DESCRIPTION MOVIE PREMIERE HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.26%3a14051/udp/238.0.14.2%3a69000:Movie Premium HD
 #DESCRIPTION Movie Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a2017:Movie Premium HD
+#DESCRIPTION Movie Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.162.90.141%3a8080/ca11d23839ef9e958ff6a6cd020f6e7d:Movie TV
+#DESCRIPTION Movie TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s28:MTV
+#DESCRIPTION MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/playlist.m3u8:MTV,NIck,CC
+#DESCRIPTION MTV,NIck,CC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3amplan.smil/chunklist_b1600000.m3u8:My Planet
+#DESCRIPTION My Planet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8:My Planet HD
 #DESCRIPTION My Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/nano.m3u8:Nano
+#DESCRIPTION Nano
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/nano.m3u8:Nano TV
 #DESCRIPTION Nano TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8:Nastoyashcheye Vremya
-#DESCRIPTION Nastoyashcheye Vremya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru/hls/33226.m3u8:Naroddip
+#DESCRIPTION Naroddip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10020/stolen/483x/hot.dll:Nasa TV HD
+#DESCRIPTION Nasa TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10020/stolen/487n/hot.dll:Nat Geo Wild
 #DESCRIPTION Nat Geo Wild
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8:Nat Geo Wild HD
-#DESCRIPTION Nat Geo Wild HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2:National Geographic
-#DESCRIPTION National Geographic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8:National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10020/stolen/487n/hot.dll:Nat Geo Wild
+#DESCRIPTION Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.176.117.243/live/eds/NatGeoHD/hls_encr/NatGeoHD.m3u8:National Geographic HD
 #DESCRIPTION National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.studio360.tv/nw/nw_576p/playlist.m3u8:New World
+#DESCRIPTION New World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8:News
+#DESCRIPTION News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.57%3a1234:Newsreel
+#DESCRIPTION Newsreel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8:NTS (Sevastopol)
+#DESCRIPTION NTS (Sevastopol)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.26%3a11031/udp/150t:NTV Series
 #DESCRIPTION NTV Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.101.120.183%3a1234/udp/239.255.128.128%3a1234:NTV Style
+#DESCRIPTION NTV Style
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s17/04.m3u8:NTV WORLD
+#DESCRIPTION NTV WORLD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm.yandex.ru/kal/tnomer_supres/tnomer_supres0_2011_480p.json/index-v1-a1.m3u8:Number
 #DESCRIPTION Number
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8:Ocean TV HD
-#DESCRIPTION Ocean TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.192.168.242%3a9091:Ocean TV
 #DESCRIPTION Ocean TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/9/86.169.51.136/1/0.m3u8:OTP
-#DESCRIPTION OTP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.193.128.233%3a1935/live//otv.stream_576p/playlist.m3u8:OTV
-#DESCRIPTION OTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.234.33.60/stream/c11.m3u8:Our Home
-#DESCRIPTION Our Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8:Ocean TV (HD)
+#DESCRIPTION Ocean TV (HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.193.128.233%3a1935/live//otv.stream_576p/playlist.m3u8:OTV (Dnipro)
+#DESCRIPTION OTV (Dnipro)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/218n/parasite.install:OTV Chelyabinsk
+#DESCRIPTION OTV Chelyabinsk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.17.105%3a8812/http/185.160.90.17%3a19124/c036038a436e68d08d953b35d54b94ae:Our Detective HD
+#DESCRIPTION Our Detective HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21161/udp/187u:Our Home
 #DESCRIPTION Our Home
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/BCPKKUK5NT/variant.m3u8?version=2:Premium Food
-#DESCRIPTION Premium Food
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.234.33.60/stream/c11.m3u8:Our Home
+#DESCRIPTION Our Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.17.105%3a8812/http/185.160.90.17%3a19124/dbf028f8ec1b881f63c9321bd55fb2eb:Our Kinoroman HD
+#DESCRIPTION Our Kinoroman HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.193.58.164%3a4022/udp/239.1.15.14%3a1234:Pepper
+#DESCRIPTION Pepper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.planeta-online.tv%3a1935/public/smil%3achannel_5.smil/chunklist_w1606083291_b858000.m3u8:Premiere
+#DESCRIPTION Premiere
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8:Premium World
 #DESCRIPTION Premium World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmitry-tv.ru/his/CH_NVREMYAHD.m3u8:Present HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8:Present
+#DESCRIPTION Present
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8:Present HD
 #DESCRIPTION Present HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ad-hls-rentv.cdnvideo.ru/ren/smil%3aren.smil/chunklist_b1024000.m3u8:Ren TV HD
-#DESCRIPTION Ren TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/2/86.169.51.136/1/0.m3u8:Russia 1
-#DESCRIPTION Russia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.193.71.93/Pro100TvRuSattelite/video.m3u8:Pro 100 TV
+#DESCRIPTION Pro 100 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua%3a80/api/v1/manifest/1293294600.m3u8:pryamyi
+#DESCRIPTION pryamyi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.17.75.33-.m3u8:Public TV
+#DESCRIPTION Public TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//37.9.112.35/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8:Rain
+#DESCRIPTION Rain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.59.200.247%3a81/udp/239.72.4.30%3a1234:Rain HD
+#DESCRIPTION Rain HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ad-hls-rentv.cdnvideo.ru/ren/smil%3aren.smil/chunklist_b1024000.m3u8:REN TV HD
+#DESCRIPTION REN TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/online/list-renome.m3u8:Renome
+#DESCRIPTION Renome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.116.26-.m3u8:Renome
+#DESCRIPTION Renome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.rtkit.com%3a1935/rtk1stream/rtk1.stream/chunklist.m3u8:RTK 1
+#DESCRIPTION RTK 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-mycdn01792630458.cdnvideo.ru/mycdn01792630458/chechnyatoday/playlist.m3u8:Russia 1
 #DESCRIPTION Russia 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s21/04.m3u8:Russia 24
+#DESCRIPTION Russia 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil%3akaluga_r24.smil/chunklist_b1200000.m3u8:Russia 24
 #DESCRIPTION Russia 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ark.smil/chunklist_b1600000.m3u8:Russia To
 #DESCRIPTION Russia To
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s52/03.m3u8:Russian Bestseller
 #DESCRIPTION Russian Bestseller
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CMV4SNACFQ/variant.m3u8?version=2:Russian Illusion
-#DESCRIPTION Russian Illusion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/LWWBCKZAPZ/variant.m3u8?version=2:Science
-#DESCRIPTION Science
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.14%3a80/hls/LWWBCKZAPZ/variant.m3u8:Science
-#DESCRIPTION Science
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.14%3a80/hls/EDVYQYGHF8/variant.m3u8:Sony Sci-Fi
-#DESCRIPTION Sony Sci-Fi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/127k/parasite.install:Russian Roman HD
+#DESCRIPTION Russian Roman HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.22.183.151%3a8085/media/hls_183_151/nauka/index.m3u8:Science 2.0
+#DESCRIPTION Science 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.yandex.ru/kal/mirseriala/mirseriala0_43_480p.json/index-v1-a1.m3u8:SERIES WORLD
+#DESCRIPTION SERIES WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvshops.bonus-tv.ru%3a80/cdn/shop24/tracks-v1a1/index.m3u8:Shop 24
+#DESCRIPTION Shop 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8:Shopping Live
+#DESCRIPTION Shopping Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.253.75%3a8008/manifest.m3u8:Sintel
+#DESCRIPTION Sintel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8:Soviet Cinema
 #DESCRIPTION Soviet Cinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_STARCINEMA/variant.m3u8:Star Cinema
-#DESCRIPTION Star Cinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_FAMILY/variant.m3u8:Star Family
-#DESCRIPTION Star Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.242.199.174%3a81/udp/239.239.3.67/10239:St. Petersburg
+#DESCRIPTION St. Petersburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/life/magnolia.m3u8:state of emergency.INFO
+#DESCRIPTION state of emergency.INFO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/life/magnolia.m3u8:state of emergency.INFO
+#DESCRIPTION state of emergency.INFO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.29.231.242%3a8080/btv_353/mpegts:Super
 #DESCRIPTION Super
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.4%3a80/hls/ZIVFRAFR2I/variant.m3u8:Techno 24
-#DESCRIPTION Techno 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.14%3a80/hls/FEDXG8XPOR/variant.m3u8:The movie family
-#DESCRIPTION The movie family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.planeta-online.tv%3a1935/public/channel_133/playlist.m3u8:Tasty TV
+#DESCRIPTION Tasty TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.17.105%3a8812/http/185.160.90.17%3a19124/1fdcd927e96ec217b44ac6fbf29c770e:Teletravel HD
+#DESCRIPTION Teletravel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/riood/tisod-abr/riood/tisod240/playlist.m3u8:TIC (Odessa)
+#DESCRIPTION TIC (Odessa)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.yandex.ru/kal/tnomer_supres/tnomer_supres0_2011_480p.json/index-v1-a1.m3u8:TON
+#DESCRIPTION TON
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovsec_supres/sovsec_supres0_54_720p.json/index-v1-a1.m3u8:Top Secret HD
 #DESCRIPTION Top Secret HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/leonovtv/test-abr/playlist.m3u8:Travel Guide TV
-#DESCRIPTION Travel Guide TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.192.143.70%3a4022/udp/239.1.5.7%3a1234:Travel + Adventure
+#DESCRIPTION Travel + Adventure
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21031/udp/038m:Travel Channel
 #DESCRIPTION Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/leonovtv/test-abr/playlist.m3u8:Travel Guide TV
+#DESCRIPTION Travel Guide TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/850/index.m3u8:Travel+Adventure
+#DESCRIPTION Travel+Adventure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvc-hls.cdnvideo.ru/tvc-p222/smil%3atvc_p11.smil/playlist.m3u8:TV Center
+#DESCRIPTION TV Center
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gorod.tv/s/live/15/ssiptv/0/0.m3u8?iptv.glav-noe.ru/:TV-3
 #DESCRIPTION TV-3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8:TV1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.180.159%3a8081/play/hls/dielli/index.m3u8:TV Dielli
+#DESCRIPTION TV Dielli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.planeta-online.tv%3a1935/public/channel_5/playlist.m3u8:TV Premiere
+#DESCRIPTION TV Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/TV1000_SD/hls_encr/TV1000_SD.m3u8:TV1000
 #DESCRIPTION TV1000
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2:TV1000 ACTION
-#DESCRIPTION TV1000 ACTION
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8:TV1000 Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/TV1000_action_SD/hls_encr/TV1000_action_SD.m3u8:TV1000 Action
 #DESCRIPTION TV1000 Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8:TV1000 Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/TV1000PremiumHD/hls_encr/TV1000PremiumHD.m3u8:TV1000 Premium
 #DESCRIPTION TV1000 Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.175.92.10%3a8080/vip_premiere/mono.m3u8:TV1000 Premium HD
+#DESCRIPTION TV1000 Premium HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.26%3a5031/udp/112s:TV1000 World Kino
 #DESCRIPTION TV1000 World Kino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2:TV1000 RUSSIAN CINEMA
-#DESCRIPTION TV1000 RUSSIAN CINEMA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s54/04.m3u8:TVC
-#DESCRIPTION TVC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.ugratv.cdnvideo.ru/ugratv/smil%3augrastream1.smil/playlist.m3u8:Ugra
 #DESCRIPTION Ugra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8?version=2:VIASAT EXPLORE
-#DESCRIPTION VIASAT EXPLORE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8:Viasat Explorer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv25.vintera.tv%3a8081/neplaneta/np/playlist.m3u8:Unknown planet
+#DESCRIPTION Unknown planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/Viasat_Explorer_SD/hls_encr/Viasat_Explorer_SD.m3u8:Viasat Explorer
 #DESCRIPTION Viasat Explorer
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095:VIASAT HISTORY
 #DESCRIPTION VIASAT HISTORY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8:Viasat History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/Viasat_History_SD/hls_encr/Viasat_History_SD.m3u8:Viasat History
 #DESCRIPTION Viasat History
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8:Viasat Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/Viasat_Nature_SD/hls_encr/Viasat_Nature_SD.m3u8:Viasat Nature
 #DESCRIPTION Viasat Nature
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8:votv
-#DESCRIPTION votv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8:Weapon
-#DESCRIPTION Weapon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s97/index.m3u8:VIP Comedy
+#DESCRIPTION VIP Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a2016:ViP Megahit
+#DESCRIPTION ViP Megahit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a2016:VIP Megahit HD
+#DESCRIPTION VIP Megahit HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.111.93.102DUC3022/udp/225.101.15.53%3a1234:Who Is Who
+#DESCRIPTION Who Is Who
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8:World
 #DESCRIPTION World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sc.id-tv.kz/Mir24_38_39.m3u8:World 24
 #DESCRIPTION World 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8:World 24 HD
+#DESCRIPTION World 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8:WORLD Premium
+#DESCRIPTION WORLD Premium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.244.81.111%3a1937/liveTrans/livestream_360p/playlist.m3u8:ZIK
 #DESCRIPTION ZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/731/index.m3u8:Zoo
+#DESCRIPTION Zoo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a11062/f:ZOOM
 #DESCRIPTION ZOOM
-#SERVICE 1:64:B5:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
+
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
 #DESCRIPTION === ★★BOLGESEL |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s10/index.m3u8:21TV
 #DESCRIPTION 21TV
@@ -879,3 +788,93 @@
 #DESCRIPTION Yerkir Media
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s92/index.m3u8:Zoo TV
 #DESCRIPTION Zoo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112.ua/components/flowplayer/html5/master.m3u8:112 UA
+#DESCRIPTION 112 UA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a2001:1+1
+#DESCRIPTION 1+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.203.104%3a6883/ace/getstream?id=1582fa915d8ca7a3a68017391403239ba5ea9cec&.mp4:2 + 2
+#DESCRIPTION 2 + 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.16.32-.m3u8:100 News
+#DESCRIPTION 100 News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-gtrkomsk.cdnvideo.ru/gtrkomsk/gtrkomsk.sdp/playlist.m3u8:12 channel (Omsk) +3
+#DESCRIPTION 12 channel (Omsk) +3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/1tvod/1tvod-abr/playlist.m3u8:1TV Odessa
+#DESCRIPTION 1TV Odessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamvideol1.luxnet.ua/news24/smil%3anews24.stream.smil/chunklist_b1328800.m3u8:24 channel HD
+#DESCRIPTION 24 channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sochi-strk.ru%3a1936/strk/43Kanal.stream/playlist.m3u8:43 channel HD (Tuapse)
+#DESCRIPTION 43 channel HD (Tuapse)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.190.88.34%3a1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8:47 channel
+#DESCRIPTION 47 channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8:7 Kanal
+#DESCRIPTION 7 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8:Academy
+#DESCRIPTION Academy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.antenna.com.ua/hls/antenna.m3u8:Antenna Online
+#DESCRIPTION Antenna Online
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.atr.ua/atr/live/index.m3u8:ATR
+#DESCRIPTION ATR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:Chaula TV
+#DESCRIPTION Chaula TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8:Еко TV (Ukraine)
+#DESCRIPTION Еко TV (Ukraine)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8:Elektrika TV
+#DESCRIPTION Elektrika TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4:Espreso TV
+#DESCRIPTION Espreso TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8:IKS Sevastopol
+#DESCRIPTION IKS Sevastopol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.5.108.14%3a1935/live/itv1/playlist.m3u8:ITV
+#DESCRIPTION ITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist:KRT
+#DESCRIPTION KRT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8:KTK Odessa
+#DESCRIPTION KTK Odessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4&app=playlist:Kultura
+#DESCRIPTION Kultura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.atr.ua/lale/live/index.m3u8:Lale
+#DESCRIPTION Lale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
+#DESCRIPTION Music Box UA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ntktv.ua/s/ntk/ntk.m3u8:NTK
+#DESCRIPTION NTK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.75.33-.m3u8:ONT
+#DESCRIPTION ONT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.146.148/hls/otv.m3u8:OTV Music (Ukraine)
+#DESCRIPTION OTV Music (Ukraine)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8:Pershij Dilovij
+#DESCRIPTION Pershij Dilovij
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8:Pervyj Gorodskoj
+#DESCRIPTION Pervyj Gorodskoj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.45.135.158%3a1935/live/HrBroadcast/playlist.m3u8:Public TV (Ukraine) [FHD]
+#DESCRIPTION Public TV (Ukraine) [FHD]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?codec=mpeg4&app=playlist:RAI
+#DESCRIPTION RAI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8:Reporter
+#DESCRIPTION Reporter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4:Straight (Ukraine)
+#DESCRIPTION Straight (Ukraine)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8:STV Odessa
+#DESCRIPTION STV Odessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/ngrp%3atv8.stream_all/playlist.m3u8:Televizia OSEM
+#DESCRIPTION Televizia OSEM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trk555.tv%3a8888/live:TRK555
+#DESCRIPTION TRK555
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4%3atv5/playlist.m3u8:TV 5
+#DESCRIPTION TV 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv7plus.com/hls/tv7_site.m3u8:TV 7 Plus
+#DESCRIPTION TV 7 Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV Kujawy
+#DESCRIPTION TV Kujawy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tvlux.sk%3a1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8:TV Lux
+#DESCRIPTION TV Lux
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_360p/chunklist_w974670813.m3u8:TV8
+#DESCRIPTION TV8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVRHD.stream/playlist.m3u8:TVR HD
+#DESCRIPTION TVR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4:UA First
+#DESCRIPTION UA First
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8:UA TV HD
+#DESCRIPTION UA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/wave/wave-abr/playlist.m3u8:Yuzhnaja Volna
+#DESCRIPTION Yuzhnaja Volna
