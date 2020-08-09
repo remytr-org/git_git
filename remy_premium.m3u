@@ -411,11 +411,11 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u
 ReMy_SPORT
 #EXTINF:0 tvg-id="WWE.ca" group-title="ReMy_SPORT",VARZESH TV
 http://51.158.176.190/hls/stream.m3u8
-#EXTINF:-1 group-title="SPORT",Eurosport 2 HD Poland
+#EXTINF:-1 group-title="ReMy_SPORT",Eurosport 2 HD Poland
 http://188.35.9.15:21151/udp/192c
-#EXTINF:-1 group-title="SPORT",ExTREAM SPORT TV
+#EXTINF:-1 group-title="ReMy_SPORT",ExTREAM SPORT TV
 http://188.35.9.15:21151/udp/189r
-#EXTINF:-1 group-title="SPORT",POLSAT SPORT EXTRA HD
+#EXTINF:-1 group-title="ReMy_SPORT",POLSAT SPORT EXTRA HD
 http://188.35.9.15:21161/udp/176z
 #EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
