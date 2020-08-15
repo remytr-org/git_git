@@ -237,10 +237,6 @@
 #DESCRIPTION Melody Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//186.155.200.118%3a1935/live/MelodyChannel:Melody Channel
 #DESCRIPTION Melody Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/messinia/messinia/master.m3u8:MESSINIA
-#DESCRIPTION MESSINIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//176.9.123.140%3a1935/messinia/messinia:MESSINIA WEB TV
-#DESCRIPTION MESSINIA WEB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo
 #DESCRIPTION Mezzo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Mooz Dance HD
@@ -267,8 +263,6 @@
 #DESCRIPTION MTV Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8:MTV Norge
 #DESCRIPTION MTV Norge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:MTV,NIck,CC
-#DESCRIPTION MTV,NIck,CC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.154.243.89%3a1213:Music4U
 #DESCRIPTION Music4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
@@ -277,12 +271,6 @@
 #DESCRIPTION Music Now
 #SERVICE 4097:0:1:814:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar%3a1935/live/msctphd-720/playlist.m3u8:Music Top
 #DESCRIPTION Music Top
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58b42f6c8c9bf.streamlock.net%3a8080/live/musig24/chunklist_w135827796.m3u8:Musig24
-#DESCRIPTION Musig24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.1.117.5%3a1935/live/livestream/chunklist_w1290911642.m3u8:NexTV
-#DESCRIPTION NexTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b2128000.m3u8:New Radio TV
-#DESCRIPTION New Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.60.237.32%3a1935/live/nisville/playlist.m3u8:Nisville TV
 #DESCRIPTION Nisville TV
 #SERVICE 4097:0:0:279:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/NGradio/NGradio/playlist.m3u8:NG RADIO
@@ -311,26 +299,16 @@
 #DESCRIPTION Radio 51
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Radio Banovina
 #DESCRIPTION Radio Banovina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist_w1052766946.m3u8:Radio Belllae monellaTV
-#DESCRIPTION Radio Belllae monellaTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w130186106.m3u8:Radio BirikinaTV
-#DESCRIPTION Radio BirikinaTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:Radio Country FM TV
 #DESCRIPTION Radio Country FM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8:Radio Contact Vision
 #DESCRIPTION Radio Contact Vision
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?:Radio Futuro Tv
-#DESCRIPTION Radio Futuro Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/visualradio/mp4%3avisualradio/playlist.m3u8:Radio Iglesias
 #DESCRIPTION Radio Iglesias
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8:Radio Italia TV
 #DESCRIPTION Radio Italia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8:Radio Italia TV
 #DESCRIPTION Radio Italia TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/lifestyle/live/playlist.m3u8:Radio Italia Vision
-#DESCRIPTION Radio Italia Vision
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/playlist.m3u8:Radio Lina TV
-#DESCRIPTION Radio Lina TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8:Radio Lombardia TV
 #DESCRIPTION Radio Lombardia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1
@@ -341,74 +319,26 @@
 #DESCRIPTION Radionorba
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:Radio Peloritana TV
 #DESCRIPTION Radio Peloritana TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8:Radio Piterpan TV
-#DESCRIPTION Radio Piterpan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8:Radio Priggipesa TV
 #DESCRIPTION Radio Priggipesa TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w800169359.m3u8:Radio Sorrriso TV
-#DESCRIPTION Radio Sorrriso TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8:Radio Taormina
-#DESCRIPTION Radio Taormina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/index.m3u8:Radio U TV
 #DESCRIPTION Radio U TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8:Radio TV USA
 #DESCRIPTION Radio TV USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4%3alivestreamTV/playlist.m3u8:Radio Weser TV Bremen
-#DESCRIPTION Radio Weser TV Bremen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:RETRO
 #DESCRIPTION RETRO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.46.161.3/hls/sd.m3u8:ROMAN TV
-#DESCRIPTION ROMAN TV
-#SERVICE 4097:0:0:285:0:0:0:0:0:0:http%3a//185.46.161.3/hls/hd.m3u8:ROMA
-#DESCRIPTION ROMA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live2/Rotana.Clip/playlist.m3u8:Rotana Clip
-#DESCRIPTION Rotana Clip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8:RTL 102.5 TV (IT)
 #DESCRIPTION RTL 102.5 TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.148.117.134%3a1935/radios/radiosweb.stream live=1:Sarajevo 1 Tv
-#DESCRIPTION Sarajevo 1 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk
 #DESCRIPTION Sky Folk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webmobile.xdev.ro%3a81/tv12/playlist.m3u8:Somax TV
 #DESCRIPTION Somax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.226.83%3a1935/public/stream_720p/playlist.m3u8:SoNus FM [18+]
-#DESCRIPTION SoNus FM [18+]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8:Steel Bird Music
 #DESCRIPTION Steel Bird Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:STYLE CITY MUSIC2
 #DESCRIPTION STYLE CITY MUSIC2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8:Sunburn TV
 #DESCRIPTION Sunburn TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a001/index.m3u8:Super Tv
-#DESCRIPTION Super Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a002/index.m3u8:Super Tv HD
-#DESCRIPTION Super Tv HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8:TOP LATINO
-#DESCRIPTION TOP LATINO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist.m3u8:TOP LATINO MUSICA
-#DESCRIPTION TOP LATINO MUSICA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8:TRACE URBAN
-#DESCRIPTION TRACE URBAN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8:TRACE URBAN
-#DESCRIPTION TRACE URBAN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8:TRACE Africa
-#DESCRIPTION TRACE Africa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8:TRACE Kitoko
-#DESCRIPTION TRACE Kitoko
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8:TRACE Mziki
-#DESCRIPTION TRACE Mziki
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8:TRACE Naija
-#DESCRIPTION TRACE Naija
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8:TRACE Toca
-#DESCRIPTION TRACE Toca
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8:TRACE Tropical
-#DESCRIPTION TRACE Tropical
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/6/prog_index.m3u8:Trace Gospel
-#DESCRIPTION Trace Gospel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8:Trace Latina
-#DESCRIPTION Trace Latina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8:Trace Urban International
-#DESCRIPTION Trace Urban International
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.aritv.ch%3a6969/live/ari/tv/1.ts:TV Ari
 #DESCRIPTION TV Ari
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8:UrbanMusic4U
