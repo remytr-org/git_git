@@ -1,197 +1,95 @@
 #NAME == ★★ReMy | CHINA★★ ==
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::==== ★★ReMy | Bravo Inc._CHINA★★ ====
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::==== ★★ReMy | Bravo Inc._CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | Bravo Inc._CHINA★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8:Blackberry Animation Kingdom
-#DESCRIPTION Blackberry Animation Kingdom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8:Blackberry Game
-#DESCRIPTION Blackberry Game
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8:Blackberry movie
-#DESCRIPTION Blackberry movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8:CCTV-1 HD
-#DESCRIPTION CCTV-1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8:CCTV 5 HD
-#DESCRIPTION CCTV 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8:CCTV-5+ HD
-#DESCRIPTION CCTV-5+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8:CCTV-5+ HD
-#DESCRIPTION CCTV-5+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225733/index.m3u8:CCTV-7 HD
-#DESCRIPTION CCTV-7 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225708/index.m3u8:CCTV-8 HD
-#DESCRIPTION CCTV-8 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8:CCTV-9 HD
-#DESCRIPTION CCTV-9 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8:CCTV-10 HD
-#DESCRIPTION CCTV-10 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8:CCTV-12 HD
-#DESCRIPTION CCTV-12 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8:CCTV-14 HD
-#DESCRIPTION CCTV-14 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8:CCTV-15 HD
-#DESCRIPTION CCTV-15 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8:HRB FUN
-#DESCRIPTION HRB FUN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8:HRB FILM
-#DESCRIPTION HRB FILM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8:HRB NEWS
-#DESCRIPTION HRB NEWS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8:HRB Life
-#DESCRIPTION HRB Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8:HRB INFO
-#DESCRIPTION HRB INFO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.70/PLTV/88888888/224/3221225674/index.m3u8:Newtv Sports HD
-#DESCRIPTION Newtv Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NEW TV Super Sports HD
-#DESCRIPTION NEW TV Super Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8:Newtv action movie
-#DESCRIPTION Newtv action movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8:Newtv Costume Theater
-#DESCRIPTION Newtv Costume Theater
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8:Newtv Chinese Kung Fu
-#DESCRIPTION Newtv Chinese Kung Fu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8:Newtv drama
-#DESCRIPTION Newtv drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8:Newtv Family Theatre
-#DESCRIPTION Newtv Family Theatre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8:Newtv fight theater
-#DESCRIPTION Newtv fight theater
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8:Newtv healthy
-#DESCRIPTION Newtv healthy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221226817/index.m3u8:NewTV Hyun The Future of Dance
-#DESCRIPTION NewTV Hyun The Future of Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8:Newtv Gold Variety
-#DESCRIPTION Newtv Gold Variety
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8:Newtv military commentary
-#DESCRIPTION Newtv military commentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8:Newtv Military Theatre
-#DESCRIPTION Newtv Military Theatre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8:Newtv love comedy
-#DESCRIPTION Newtv love comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8:Newtv Overseas Theatre
-#DESCRIPTION Newtv Overseas Theatre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8:Newtv record
-#DESCRIPTION Newtv record
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8:Newtv star blockbuster
-#DESCRIPTION Newtv star blockbuster
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225804/index.m3u8:NewTV SUper FILM
-#DESCRIPTION NewTV SUper FILM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8:Newtv suspenseful
-#DESCRIPTION Newtv suspenseful
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8:Amdo Satellite TV
-#DESCRIPTION Amdo Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225631/index.m3u8:Anhui Satellite TV
-#DESCRIPTION Anhui Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8:Anhui Satellite TV
-#DESCRIPTION Anhui Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8:Beijing Satellite TV
-#DESCRIPTION Beijing Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8:Beijing Satellite TV
-#DESCRIPTION Beijing Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8:Beijing Satellite TV
-#DESCRIPTION Beijing Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225654/index.m3u8:BTV documentary
-#DESCRIPTION BTV documentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225652/index.m3u8:CETV-1
-#DESCRIPTION CETV-1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8:Chongqing Satellite TV
-#DESCRIPTION Chongqing Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225735/index.m3u8:Dragon TV
-#DESCRIPTION Dragon TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8:Dragon TV
-#DESCRIPTION Dragon TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225647/index.m3u8:Dragon TV
-#DESCRIPTION Dragon TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225656/index.m3u8:Excellent cartoon
-#DESCRIPTION Excellent cartoon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225679/index.m3u8:Fashion shopping
-#DESCRIPTION Fashion shopping
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8:Gansu Satellite TV
-#DESCRIPTION Gansu Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225736/index.m3u8:Guangdong Satellite TV
-#DESCRIPTION Guangdong Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8:Guangdong Satellite TV
-#DESCRIPTION Guangdong Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8:Guangdong Satellite TV
-#DESCRIPTION Guangdong Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8:Guangxi Satellite TV
-#DESCRIPTION Guangxi Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8:Guizhou Satellite TV
-#DESCRIPTION Guizhou Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225623/index.m3u8:Hebei Satellite TV
-#DESCRIPTION Hebei Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225640/index.m3u8:Heilongjiang Satellite TV
-#DESCRIPTION Heilongjiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225658/index.m3u8:Heilongjiang Satellite TV
-#DESCRIPTION Heilongjiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225627/index.m3u8:Hubei Satellite TV
-#DESCRIPTION Hubei Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8:Hubei Satellite TV
-#DESCRIPTION Hubei Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225705/index.m3u8:Hubei Satellite TV
-#DESCRIPTION Hubei Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8:Hunan Satellite TV
-#DESCRIPTION Hunan Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225657/index.m3u8:Hyun cartoon
-#DESCRIPTION Hyun cartoon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8:Inner Mongolia Satellite TV
-#DESCRIPTION Inner Mongolia Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8:Jiangsu Satellite TV
-#DESCRIPTION Jiangsu Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225644/index.m3u8:Jiangsu Satellite TV
-#DESCRIPTION Jiangsu Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225615/index.m3u8:Jiangxi Satellite TV
-#DESCRIPTION Jiangxi Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225637/index.m3u8:Jilin Satellite TV
-#DESCRIPTION Jilin Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225660/index.m3u8:Kangba TV
-#DESCRIPTION Kangba TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225619/index.m3u8:Liaoning Satellite TV
-#DESCRIPTION Liaoning Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225632/index.m3u8:Ningxia Satellite TV
-#DESCRIPTION Ningxia Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8:Qinghai Satellite TV
-#DESCRIPTION Qinghai Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8:Shaanxi Satellite TV
-#DESCRIPTION Shaanxi Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8:Shandong Education
-#DESCRIPTION Shandong Education
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225650/index.m3u8:Shandong Satellite TV
-#DESCRIPTION Shandong Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225737/index.m3u8:Shandong Satellite TV
-#DESCRIPTION Shandong Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225624/index.m3u8:Shanxi Satellite TV
-#DESCRIPTION Shanxi Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225739/index.m3u8:Shenzhen Satellite TV
-#DESCRIPTION Shenzhen Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8:Shenzhen Satellite TV
-#DESCRIPTION Shenzhen Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225621/index.m3u8:Sichuan Satellite TV
-#DESCRIPTION Sichuan Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225620/index.m3u8:Southeast Satellite TV
-#DESCRIPTION Southeast Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225648/index.m3u8:Tianjin Satellite TV
-#DESCRIPTION Tianjin Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8:Tianjin Satellite TV
-#DESCRIPTION Tianjin Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8:Tibet Satellite TV
-#DESCRIPTION Tibet Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225639/index.m3u8:Travel satellite TV
-#DESCRIPTION Travel satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8:Xinjiang Satellite TV
-#DESCRIPTION Xinjiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225636/index.m3u8:Yunnan Satellite TV
-#DESCRIPTION Yunnan Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8:Zhejiang Satellite TV
-#DESCRIPTION Zhejiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
-#DESCRIPTION Zhejiang Satellite TV
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::==== ★★ReMy | CIBN_CHINA★★ ====
-#DESCRIPTION ==== ★★ReMy | CIBN_CHINA★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//Uhlive.Videocc.Net/recordfe/c08946f08620190726103829356/playlist.m3u8:CIBN dòuniú cáijīng
-#DESCRIPTION CIBN dòuniú cáijīng
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::==== ★★ReMy | HUYALIVE_CHINA★★ ====
-#DESCRIPTION ==== ★★ReMy | HUYALIVE_CHINA★★ ====
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::==== ★★ReMy | FAR_EAST★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8:ANTV
+#DESCRIPTION ANTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//221.133.9.35%3a1935/live/1.stream_720p/playlist.m3u8:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.69.205.213/thbl/thbl.m3u8:Bac Lieu TV
+#DESCRIPTION Bac Lieu TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//neaoiomcci.vieon.vn/hls/60d9ad6d7c98e588030db49216f575e5/1584110452472/live/binh_thuan_480p/index.m3u8:Binh Thuan TV
+#DESCRIPTION Binh Thuan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//neaoiomcci.vieon.vn/hls/0761fe0de773ce351c4228aed080cbc6/1584110165797/live/binh_dinh_480p/index.m3u8:Binh Dịnh TV
+#DESCRIPTION Binh Dịnh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//neaoiomcci.vieon.vn/hls/1d2e46cbf20dc13e70a7a305b1ed5564/1584110178808/live/binh_duong_1_480p/index.m3u8:Binh Dương TV 1
+#DESCRIPTION Binh Dương TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//neaoiomcci.vieon.vn/hls/9c573b692d971bb6f30fe03663c98411/1584110216890/live/binh_duong_2_480p/index.m3u8:Binh Dương TV 2
+#DESCRIPTION Binh Dương TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//neaoiomcci.vieon.vn/hls/db25963ca0bedaef43f8450f74276a26/1584110229816/live/binh_duong_4_1080p/index.m3u8:Binh Dương TV 4
+#DESCRIPTION Binh Dương TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.69.197.145/hls/bptv1.m3u8:Binh Phuoc TV 1
+#DESCRIPTION Binh Phuoc TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.69.197.145/hls/bptv2.m3u8:Binh Phuoc TV 2
+#DESCRIPTION Binh Phuoc TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.163.94.245/hls-live/livepkgr/definst/liveevent/thbt.m3u8:Ben Tre TV
+#DESCRIPTION Ben Tre TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ctvcamau.vn/live/tv/tv.m3u8:Ca Mau TV
+#DESCRIPTION Ca Mau TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.canthotv.vn/live/tv/tv.m3u8:Can Tho TV
+#DESCRIPTION Can Tho TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//saigontvtv.saigon.ns01.us%3a1935/conggiao/myStream/playlist.m3u8:Cong Giao TV
+#DESCRIPTION Cong Giao TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8:Da Nang 1
+#DESCRIPTION Da Nang 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8:Da Nang 2
+#DESCRIPTION Da Nang 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//202.43.109.142%3a1935/THDT/thdttv/chunklist.m3u8:Dong Thap TV1
+#DESCRIPTION Dong Thap TV1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//202.43.109.145%3a1935/thdt2/thdt2/chunklist.m3u8:Dong Thap TV2
+#DESCRIPTION Dong Thap TV2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.160.198.111/Medias/HaNam/480P/playlist.m3u8:Ha Nam T
+#DESCRIPTION Ha Nam T
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8:Hoa Binh TV
+#DESCRIPTION Hoa Binh TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.25.3%3a8134/hls/gialaitv/gialaitv.m3u8:Gia Lai TV
+#DESCRIPTION Gia Lai TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.245.20.94/hls/ktv1.m3u8:Khanh Hoa TV
+#DESCRIPTION Khanh Hoa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.kgtv.vn/live/kgtv/kgtv.m3u8:Kien Giang
+#DESCRIPTION Kien Giang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.kgtv.vn/live/kgtv1/kgtv1.m3u8:Kien Giang 1
+#DESCRIPTION Kien Giang 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.4.48%3a8080/phuyen/tv.m3u8:hu Yen TV
+#DESCRIPTION hu Yen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//thainguyentv.vn/hls/livestream.m3u8:Thai Nguyen TV 1
+#DESCRIPTION Thai Nguyen TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//thtg.vn%3a8001/thtg.m3u8:Tien Giang TV
+#DESCRIPTION Tien Giang TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.vnanet.vn/720P/playlist.m3u8:TTXVN
+#DESCRIPTION TTXVN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uni6rtmp.tulix.tv%3a1935/vbstv/vbsabr.smil/playlist.m3u8:VBS
+#DESCRIPTION VBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.163.216.23%3a1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8:Vung Tau TV
+#DESCRIPTION Vung Tau TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yenbaitv.org.vn/hls/livestream.m3u8:Yen Bai TV
+#DESCRIPTION Yen Bai TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv1hd1_abr/playlist.m3u8:VTV 1
+#DESCRIPTION VTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv2hd_abr/playlist.m3u8:VTV 2
+#DESCRIPTION VTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv3hd1_abr/playlist.m3u8:VTV 3
+#DESCRIPTION VTV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv4hd_abr/playlist.m3u8:VTV 4
+#DESCRIPTION VTV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000111@HHZT:VTV 5
+#DESCRIPTION VTV 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000162@HHZT:VTV 6
+#DESCRIPTION VTV 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xemtivi.online/live/vtv7/index.m3u8:VTV 7
+#DESCRIPTION VTV 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv8hd_abr/playlist.m3u8:VTV 8
+#DESCRIPTION VTV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000116@HHZT:VTV 9
+#DESCRIPTION VTV 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8:VTV VGS Shop
+#DESCRIPTION VTV VGS Shop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000106@HHZT:VTV Huyndai
+#DESCRIPTION VTV Huyndai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv5asievi-i.akamaihd.net/hls/live/631619/tv5asievi/index.m3u8:TV5 Monde Asie(Viet Nam)
+#DESCRIPTION TV5 Monde Asie(Viet Nam)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8:CCTV1HD_BMH
+#DESCRIPTION CCTV1HD_BMH
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::==== ★★ReMy | FAR_EAST★★ ====
 #DESCRIPTION ==== ★★ReMy | FAR_EAST★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
 #DESCRIPTION 5HD THAI
@@ -207,16 +105,12 @@
 #DESCRIPTION KIX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil%3amcothd1080p.smil/chunklist_w833558461_b3000000.m3u8:MCOT HD 30
 #DESCRIPTION MCOT HD 30
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mastvnet.com/MSTV/playlist.m3u8:MSTV
-#DESCRIPTION MSTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.182.100.184/live/pptvthai/index.m3u8:Pptv 36 (th)
 #DESCRIPTION Pptv 36 (th)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8:AnimePlus
 #DESCRIPTION AnimePlus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8:Japanet Channel DX
 #DESCRIPTION Japanet Channel DX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8:Gunma TV
-#DESCRIPTION Gunma TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx1_2/chunklist.m3u8:Tokyo MX 1
 #DESCRIPTION Tokyo MX 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx2_2/chunklist.m3u8:Tokyo MX 2
@@ -225,36 +119,14 @@
 #DESCRIPTION Tokyo MX Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/wn1_2/master.m3u8:Weather News
 #DESCRIPTION Weather News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8:Channel 5
-#DESCRIPTION Channel 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8:8channels
-#DESCRIPTION 8channels
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8:Uchannels
-#DESCRIPTION Uchannels
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8:Channel NewsAsia
 #DESCRIPTION Channel NewsAsia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8:Suria
-#DESCRIPTION Suria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8:Spring
-#DESCRIPTION Spring
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8:OKTO on 5
-#DESCRIPTION OKTO on 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtb-channel.glue.live/smil%3artb1/chunklist.m3u8:RTB Sukmaindera
 #DESCRIPTION RTB Sukmaindera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8:Astro Awani
 #DESCRIPTION Astro Awani
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8:Astro Go Shop
-#DESCRIPTION Astro Go Shop
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8:Astro Go Shop Malaya
-#DESCRIPTION Astro Go Shop Malaya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8:Astro Naura
-#DESCRIPTION Astro Naura
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8:Astro Go Shop Novelty selling
-#DESCRIPTION Astro Go Shop Novelty selling
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.vediostream.com%3a80/abr/tvikim/live/tvikim_source/chunks.m3u8:TVIKIM
 #DESCRIPTION TVIKIM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8:Miao Mi
-#DESCRIPTION Miao Mi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8:People Television
 #DESCRIPTION People Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.d1627.nucdn.net%3a80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8:TVRI
@@ -289,10 +161,6 @@
 #DESCRIPTION TVRI Sumatera Selatan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(02)/index.m3u8:TVRI Sumatera Utara
 #DESCRIPTION TVRI Sumatera Utara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.siar.us/tvririau/live/playlist.m3u8:TVRI Riau
-#DESCRIPTION TVRI Riau
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/Stream(03)/index.m3u8:TVRI Gorontalo
-#DESCRIPTION TVRI Gorontalo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/Stream(03)/index.m3u8:TVRI Sulawesi Barat
 #DESCRIPTION TVRI Sulawesi Barat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(03)/index.m3u8:TVRI Kalimantan Barat
@@ -313,26 +181,14 @@
 #DESCRIPTION TVRI Maluku
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.16.220.69%3a1935/golive/livestream/playlist.m3u8:TVR Parlemen
 #DESCRIPTION TVR Parlemen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.siar.us/tvririau/live/playlist.m3u8:TVRI Riau
-#DESCRIPTION TVRI Riau
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.linknetott.swiftserve.com/live/BsNew/amlst%3aberitasatunewsbs/chunklist_b1128000.m3u8:BeritaSatu World
 #DESCRIPTION BeritaSatu World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34:RCTI
-#DESCRIPTION RCTI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42:GTV
-#DESCRIPTION GTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502:MNC
-#DESCRIPTION MNC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/transtv/smil%3atranstv.smil/playlist.m3u8:Trans TV
 #DESCRIPTION Trans TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/trans7/smil%3atrans7.smil/playlist.m3u8:Trans 7
-#DESCRIPTION Trans 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:CNN Indonesia
 #DESCRIPTION CNN Indonesia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=1:MYTV
 #DESCRIPTION MYTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=1:Jawa Pos
-#DESCRIPTION Jawa Pos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8:ADiTV
 #DESCRIPTION ADiTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8:Disney Jr Indonesia
@@ -341,68 +197,38 @@
 #DESCRIPTION Jakarta Globe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//36.89.47.217%3a11935/rrinet/live/index.m3u8:RRI Net
 #DESCRIPTION RRI Net
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zet.pluginsandthemes.ro/http%3a//wowza60.indostreamserver.com%3a1935/tv9nusantara/live/chunklist_w108337223.m3u8:TV9 Nusantara
-#DESCRIPTION TV9 Nusantara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza58.indostreamserver.com%3a1935/arematv/live/chunklist_w425722557.m3u8:Arema TV
-#DESCRIPTION Arema TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//202.150.153.254/bandungtv720p.m3u8:Bandung TV
 #DESCRIPTION Bandung TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.linknetott.swiftserve.com/live/BSgroup/amlst%3ahomelivinghd/chunklist_b2288000.m3u8:Home & Living
-#DESCRIPTION Home & Living
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza60.indostreamserver.com%3a1935/jember1tv/live/chunklist_w829570418.m3u8:Jember 1 TV
-#DESCRIPTION Jember 1 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.248.43.138%3a1935/ch14/myStream/playlist.m3u8:Jek TV
 #DESCRIPTION Jek TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8:Radar TV Tasikmalaya
 #DESCRIPTION Radar TV Tasikmalaya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.linknetott.swiftserve.com/live/BsNew/amlst%3areformedch/playlist.m3u8:Reformed 21
 #DESCRIPTION Reformed 21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=1:Ruang Trampil
-#DESCRIPTION Ruang Trampil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.klikhost.com%3a1935/tegartv/live/chunklist_w505057089.m3u8:Tegar TV
 #DESCRIPTION Tegar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.30.1.14%3a8080/hls/live.m3u8:TV Ku
 #DESCRIPTION TV Ku
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140:Usee Prime
-#DESCRIPTION Usee Prime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9:Usee Photo
-#DESCRIPTION Usee Photo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.40.161.43%3a10011:GMA Pinoy
-#DESCRIPTION GMA Pinoy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream3.news5.ph/n5e/tv5/playlist.m3u8:5
-#DESCRIPTION 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream3.news5.ph/n5e/5plus/playlist.m3u8:5 Plus
-#DESCRIPTION 5 Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8:Central Luzon Television
-#DESCRIPTION Central Luzon Television
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//54.251.134.121%3a1935/live/15273.sdp/playlist.m3u8:CNN Phillippines
 #DESCRIPTION CNN Phillippines
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8:Hope Phillippines
 #DESCRIPTION Hope Phillippines
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?:INC
 #DESCRIPTION INC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8:Shop TV
-#DESCRIPTION Shop TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8:Life TV
 #DESCRIPTION Life TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8:Inquirer 990 TV
 #DESCRIPTION Inquirer 990 TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8:POP Life
-#DESCRIPTION POP Life
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8:UNTV Public
 #DESCRIPTION UNTV Public
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.14%3a9999/live/TV00000000000000000090@HHZT;LIVE:MRTV Farmer
 #DESCRIPTION MRTV Farmer
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8:Channel K
 #DESCRIPTION Channel K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8:DVB
-#DESCRIPTION DVB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maharlive.b-cdn.net/stream.m3u8:Mahar TV
 #DESCRIPTION Mahar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8:Mahar Bawdi
 #DESCRIPTION Mahar Bawdi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8:MVTV Myanmar
-#DESCRIPTION MVTV Myanmar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/TV00000000000000000170@HHZT:Mizzima TV
 #DESCRIPTION Mizzima TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.prd.go.th%3a1935/live/ch1_L.sdp/playlist.m3u8:NBT 2 HD
@@ -413,118 +239,30 @@
 #DESCRIPTION Thai PBS 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//49.231.66.85%3a1935/live/tptv/playlist.m3u8:TPTV
 #DESCRIPTION TPTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tnn24_480/index.m3u8:TNN24
-#DESCRIPTION TNN24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.pjmcdn.info/live/New-TV.stream/playlist.m3u8:New18
-#DESCRIPTION New18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.nationtv.tv/hls/ntv_th_hd.m3u8:Nation TV
-#DESCRIPTION Nation TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8:Voice TV
-#DESCRIPTION Voice TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8:Workpoint
-#DESCRIPTION Workpoint
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.pjmcdn.info/live/True4U.stream/playlist.m3u8:True4U
-#DESCRIPTION True4U
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.pjmcdn.info/live/CH8.stream/playlist.m3u8:channel 8
-#DESCRIPTION channel 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.pjmcdn.info/live/mono29.stream/playlist.m3u8:Mono 29
-#DESCRIPTION Mono 29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//one31-0ougnj.cdn.byteark.com/live/playlist.m3u8:ONE 31
 #DESCRIPTION ONE 31
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.pjmcdn.info/live/Thairath-HD.stream/playlist.m3u8:Thairath
-#DESCRIPTION Thairath
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8:Watch color tv channel 3
-#DESCRIPTION Watch color tv channel 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-amarin_720/index.m3u8:Amarin TV
-#DESCRIPTION Amarin TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8:channel 7 HD
 #DESCRIPTION channel 7 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.182.100.184/live/pptvthai/playlist.m3u8:PPTV
 #DESCRIPTION PPTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.154.83.176%3a1935/live/13wDt2b6g4/playlist.m3u8:13 Siam TV
-#DESCRIPTION 13 Siam TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt7/MediaOnline.stream_720p/chunklist.m3u8:69 TV
-#DESCRIPTION 69 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vip.login.in.th%3a1935/CTB/CTB/playlist.m3u8:CTB
 #DESCRIPTION CTB
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunklist.m3u8:Do Channel
-#DESCRIPTION Do Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge2a.v2h-cdn.com/RE_HD/smil%3aTVB_HD_ABR.smil/chunklist.m3u8:Drama Thai
-#DESCRIPTION Drama Thai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.156.63.20%3a1935/live/ddtv/playlist.m3u8:DDTV
 #DESCRIPTION DDTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt3/EsanTV.stream_720p/chunklist.m3u8:Esan TV
-#DESCRIPTION Esan TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//61.19.244.112%3a1935/live/livestream/playlist.m3u8:ETV
-#DESCRIPTION ETV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt3/Happy.stream_720p/playlist.m3u8:Happy TV
-#DESCRIPTION Happy TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8:MVTV Major Mix
-#DESCRIPTION MVTV Major Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.151.83.104%3a1935/tdlive/tdlivest/chunklist_1024p.m3u8:M Channel
-#DESCRIPTION M Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist.m3u8:MVTV
-#DESCRIPTION MVTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt7/WSM.stream_720p/chunklist.m3u8:MVTV Chinese
-#DESCRIPTION MVTV Chinese
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist.m3u8:MVTV Five Channel
-#DESCRIPTION MVTV Five Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//news1.live14.com/stream/news1_hi.m3u8:News 1
 #DESCRIPTION News 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.146.129.233%3a1935/live/mp4%3asuwan/chunklist.m3u8:Suwannabhumi TV
 #DESCRIPTION Suwannabhumi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8:Smart SME TV
 #DESCRIPTION Smart SME TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt3/Thaiban.stream_720p/playlist.m3u8:Thai Baan
-#DESCRIPTION Thai Baan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//symc-cdn.violin.co.th%3a1935/tndedge/whitechannel/chunklist.m3u8:White Channel
 #DESCRIPTION White Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8:TV3
-#DESCRIPTION TV3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8:TV5
-#DESCRIPTION TV5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8:Apsara Tv
-#DESCRIPTION Apsara Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1523926405.rsc.cdn77.org/LS-50041-SIN-8/index.m3u8:Bayon TV
-#DESCRIPTION Bayon TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1672046706.rsc.cdn77.org/LS-50041-SIN-10/index.m3u8:BTV News
-#DESCRIPTION BTV News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v1a1/mono.m3u8:CNC News
-#DESCRIPTION CNC News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v1a1/mono.m3u8:CTN
-#DESCRIPTION CTN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v1a1/mono.m3u8:CTV8
-#DESCRIPTION CTV8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v1a1/mono.m3u8:D Music
-#DESCRIPTION D Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v1a1/mono.m3u8:ETV
-#DESCRIPTION ETV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//167.99.65.12%3a1935/live/myStream/playlist.m3u8:Fresh News
-#DESCRIPTION Fresh News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1145067750.rsc.cdn77.org/LS-50041-SIN-1/index.m3u8:Hang Meas HDTV
-#DESCRIPTION Hang Meas HDTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v1a1/mono.m3u8:myTV
-#DESCRIPTION myTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1546733910.rsc.cdn77.org/LS-50041-SIN-14/index.m3u8:Nice TV
-#DESCRIPTION Nice TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v1a1/mono.m3u8:PNN
-#DESCRIPTION PNN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1363455353.rsc.cdn77.org/LS-50041-SIN-4/index.m3u8:Rasmey Hang Meas
-#DESCRIPTION Rasmey Hang Meas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.14%3a9999/live/TV00000000000000000124@HHZT;LIVE:SEA TV
 #DESCRIPTION SEA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8:Tea TV
 #DESCRIPTION Tea TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v1a1/mono.m3u8:Town TV
-#DESCRIPTION Town TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1749089154.rsc.cdn77.org/LS-50041-SIN-3/index.m3u8:TVK
-#DESCRIPTION TVK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1014844237.rsc.cdn77.org/LS-50041-SIN-12/index.m3u8:TV9
-#DESCRIPTION TV9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wikitv-streaming.poscarasia.com%3a1935/live/ngrp%3amyStream_all/playlist.m3u8:Wiki TV
 #DESCRIPTION Wiki TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt7/MHONG.stream_720p/playlist.m3u8:HGTV
-#DESCRIPTION HGTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8:CVA
 #DESCRIPTION CVA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8:Hmong USA
@@ -533,8 +271,6 @@
 #DESCRIPTION Hmong Star
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/vajtswv.stream/playlist.m3u8:Vajtswv Txojlus
 #DESCRIPTION Vajtswv Txojlus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8:MVTV Laos
-#DESCRIPTION MVTV Laos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/ddtvlao.stream/playlist.m3u8:Laos Muslim TV
 #DESCRIPTION Laos Muslim TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8:Air TV
@@ -545,8 +281,6 @@
 #DESCRIPTION Dao Lane Xang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8:Dhammasapha TV
 #DESCRIPTION Dhammasapha TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.ai-net.net%3a1935/gtv1/_definst_/smil%3agtv.smil/chunklist_w929348712_b1596000.m3u8:Good Idea TV
-#DESCRIPTION Good Idea TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8:Houngfa
 #DESCRIPTION Houngfa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8:ISTV
@@ -563,8 +297,6 @@
 #DESCRIPTION Laos Free Asia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8:Laos SV
 #DESCRIPTION Laos SV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8:Laos Planet TV
-#DESCRIPTION Laos Planet TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/lonesinhlao.sdp/playlist.m3u8:Lone Shin Laos
 #DESCRIPTION Lone Shin Laos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8:Look Thoong
@@ -577,103 +309,17 @@
 #DESCRIPTION Oy Lao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8:PNTV
 #DESCRIPTION PNTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/seatvfta.sdp/playlist.m3u8:SEA TV Lao
-#DESCRIPTION SEA TV Lao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/siengkaseep.stream/playlist.m3u8:Sieng Kaseep
 #DESCRIPTION Sieng Kaseep
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/vlctemple.sdp/playlist.m3u8:Sieng Khaen Lao
 #DESCRIPTION Sieng Khaen Lao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8:Tea TV Laos
 #DESCRIPTION Tea TV Laos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8:Uniquely
-#DESCRIPTION Uniquely
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/vanphenhtv.sdp/playlist.m3u8:Vanphenh TV
 #DESCRIPTION Vanphenh TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8:Vati Laos TV
 #DESCRIPTION Vati Laos TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8:VTV 1
-#DESCRIPTION VTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtv2/index.m3u8:VTV 2
-#DESCRIPTION VTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtv3/index.m3u8:VTV 3
-#DESCRIPTION VTV 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtv4/index.m3u8:VTV 4
-#DESCRIPTION VTV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtv5/index.m3u8:VTV 5
-#DESCRIPTION VTV 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtv6/index.m3u8:VTV 6
-#DESCRIPTION VTV 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xemtivi.online/live/vtv7/index.m3u8:VTV 7
-#DESCRIPTION VTV 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xemtivi.online/live/vtv8/index.m3u8:VTV 8
-#DESCRIPTION VTV 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtv9/index.m3u8:VTV 9
-#DESCRIPTION VTV 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8:VTC 1
-#DESCRIPTION VTC 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.68.251.140/live/sctv91/index.m3u8:SCTV 9
-#DESCRIPTION SCTV 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2bdoz1zs4.vcdn.com.vn/hls/ANTV_631/03.m3u8:ANTV
-#DESCRIPTION ANTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//221.133.9.35%3a1935/live/1.stream_720p/playlist.m3u8:ATV
-#DESCRIPTION ATV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.69.197.145/hls/bptv1.m3u8:BPTV 1
-#DESCRIPTION BPTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.69.197.145/hls/bptv2.m3u8:BPTV 2
-#DESCRIPTION BPTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.163.216.23%3a1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8:BRT
-#DESCRIPTION BRT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//202.43.109.142%3a1935/thbttv/bttv/chunklist_w338975695.m3u8:BTV
 #DESCRIPTION BTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ctvcamau.vn/live/tv/tv.m3u8:Cà Mau TV
-#DESCRIPTION Cà Mau TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8:Momentum Danang 1
-#DESCRIPTION Momentum Danang 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8:Momentum Danang 2
-#DESCRIPTION Momentum Danang 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//118.69.161.9%3a8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8:DRT
 #DESCRIPTION DRT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8:HBTV
-#DESCRIPTION HBTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.kgtv.vn/live/kgtv/kgtv.m3u8:Kien Giang
-#DESCRIPTION Kien Giang
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.kgtv.vn/live/kgtv1/kgtv1.m3u8:Kien Giang 1
-#DESCRIPTION Kien Giang 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8:KRT
-#DESCRIPTION KRT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8:LA34
-#DESCRIPTION LA34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.truyenhinhnghean.vn/live/na1_720/index.m3u8:NTV HD
-#DESCRIPTION NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5952e4052a2e8.streamlock.net/live/smil%3athienviet.smil/playlist.m3u8:Multiply People
-#DESCRIPTION Multiply People
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.4.48%3a8080/phuyen/tv.m3u8:PTP
-#DESCRIPTION PTP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.6.157%3a8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8:QRT
-#DESCRIPTION QRT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2bdoz1zs4.vcdn.com.vn/hls/QH_631/03.m3u8:Quoc Hoi
-#DESCRIPTION Quoc Hoi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8:QPVN
-#DESCRIPTION QPVN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8:THBT
-#DESCRIPTION THBT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//202.43.109.142%3a1935/THDT/thdttv/chunklist_w1073711647.m3u8:THDT
-#DESCRIPTION THDT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.canthotv.vn/live/tv/tv.m3u8:THTPCT
-#DESCRIPTION THTPCT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.160.198.111/Medias/HaNam/480P/playlist.m3u8:THHN
-#DESCRIPTION THHN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.112.16.101%3a1935/live_/LCTV/chunklist.m3u8:THLC
-#DESCRIPTION THLC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.25.3%3a8134/hls/gialaitv/gialaitv.m3u8:THGL
-#DESCRIPTION THGL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//thtg.vn%3a8001/thtg.m3u8:THTG
-#DESCRIPTION THTG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.vnanet.vn/720P/playlist.m3u8:TTXVN
-#DESCRIPTION TTXVN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uni6rtmp.tulix.tv%3a1935/vbstv/vbsabr.smil/playlist.m3u8:VBS
-#DESCRIPTION VBS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.86.230.202%3a8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8:VITV
-#DESCRIPTION VITV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.240.127.34%3a1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279:WOWOW MOVIES (JPN|ENG)
-#DESCRIPTION WOWOW MOVIES (JPN|ENG)

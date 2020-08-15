@@ -51,6 +51,8 @@
 #DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 TV
 #DESCRIPTION 24 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/line/C4@!a3a1@!w72A/129:CNN TÜRK
+#DESCRIPTION CNN TÜRK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/chunklist_w40654798.m3u8:TGRT Haber
 #DESCRIPTION TGRT Haber
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst%3alive-25/chunklist_w1011305533_b1200096.m3u8:TGRT Haber
@@ -161,104 +163,70 @@
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_trt1/smil%3atrt1_hd.smil/chunklist_b3128000.m3u8:TRT 1 (BluTV)
 #DESCRIPTION TRT 1 (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS:TRT 1 (Tivibu)
-#DESCRIPTION TRT 1 (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/trt1/live.m3u8:TRT 1
 #DESCRIPTION TRT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_2_HD/index.m3u8?start=LIVE&end=END&device=HLS:TRT 2 (Tivibu)
-#DESCRIPTION TRT 2 (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com%3a443/blutv_showtv/smil%3ashow_hd.smil/chunklist_b3128000.m3u8:Show TV (BluTV)
 #DESCRIPTION Show TV (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$SHOW_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS:Show TV (Tivibu)
-#DESCRIPTION Show TV (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/showtv/live.m3u8:Show TV
 #DESCRIPTION Show TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/show.m3u8:Show TV
 #DESCRIPTION Show TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-stg.doracdn.com/live_abr/startvhd/playlist_dvr.m3u8:STAR TV (BluTV)
 #DESCRIPTION STAR TV (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$STAR_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS:STAR TV (Tivibu)
-#DESCRIPTION STAR TV (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com%3a443/blutv_foxtv/smil%3afoxtv_hd.smil/chunklist_b3128000.m3u8:FOX TV (BluTV)
 #DESCRIPTION FOX TV (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$FOX_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS:FOX TV (Tivibu)
-#DESCRIPTION FOX TV (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/line/C4@!a3a1@!w72A/72:FOX TV
 #DESCRIPTION FOX TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/foxtv/live.m3u8:FOX TV
 #DESCRIPTION FOX TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/fox.m3u8:FOX TV
 #DESCRIPTION FOX TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ATV_HD/index.m3u8?start=LIVE&end=END&device=HLS:ATV HD (Tivibu)
-#DESCRIPTION ATV HD (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.livetv.az/turk/atv_turk_sd/playlist.m3u8:ATV HD
 #DESCRIPTION ATV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/atv/live.m3u8:ATV HD
 #DESCRIPTION ATV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com%3a443/blutv_kanald/smil%3akanald_hd.smil/chunklist_b3128000.m3u8:Kanal D HD (BluTV)
 #DESCRIPTION Kanal D HD (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KANAL_D/index.m3u8?start=LIVE&end=END&device=HLS:Kanal D HD (Tivibu)
-#DESCRIPTION Kanal D HD (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/kanald/live.m3u8:Kanal D HD
 #DESCRIPTION Kanal D HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/kanald.m3u8:Kanal D HD
 #DESCRIPTION Kanal D HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$360_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS:360 TV (Tivibu)
-#DESCRIPTION 360 TV (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/360tv_live/smil%3a360tv.smil/chunklist_b864000.m3u8:360 TV (BluTV)
 #DESCRIPTION 360 TV (BluTV)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/kanal8/live.m3u8:TV8
 #DESCRIPTION TV8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_tv8/smil%3atv8_hd.smil/chunklist_b3128000.m3u8:TV8 (BluTV)
 #DESCRIPTION TV8 (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV8_HD/index.m3u8?start=LIVE&end=END&device=HLS:TV8 (Tivibu)
-#DESCRIPTION TV8 (Tivibu)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV_85_HD/index.m3u8?start=LIVE&end=END&device=HLS:5" tvg-logo="http://pici.life/tv85tr.png" group-ti
-#DESCRIPTION 5" tvg-logo="http://pici.life/tv85tr.png" group-ti
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com%3a443/blutv_tv8_5/smil%3atv8_5_hd.smil/chunklist_b3128000.m3u8:5" tvg-logo="http://pici.life/tv85tr.png" group-ti
-#DESCRIPTION 5" tvg-logo="http://pici.life/tv85tr.png" group-ti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com%3a443/blutv_tv8_5/smil%3atv8_5_hd.smil/chunklist_b3128000.m3u8:TV 8,5
+#DESCRIPTION TV 8,5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kanal7/smil%3akanal7_hd.smil/chunklist_b3128000.m3u8:KANAL 7 (BluTV)
 #DESCRIPTION KANAL 7 (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KANAL_7_HD/index.m3u8?start=LIVE&end=END&device=HLS:KANAL 7 (Tivibu)
-#DESCRIPTION KANAL 7 (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/line/C4@!a3a1@!w72A/83:KANAL 7
 #DESCRIPTION KANAL 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/kanal7/live.m3u8:KANAL 7
 #DESCRIPTION KANAL 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BEYAZ_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS:BEYAZ TV (Tivibu)
-#DESCRIPTION BEYAZ TV (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-stg.doracdn.com/live_abr/beyaztvhd/playlist_dvr.m3u8:BEYAZ TV (BluTV)
 #DESCRIPTION BEYAZ TV (BluTV)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-stg.doracdn.com/live_abr/tv2/playlist_dvr.m3u8:TEVE2 (BluTV)
 #DESCRIPTION TEVE2 (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV2_HD/index.m3u8?start=LIVE&end=END&device=HLS:TEVE2 (Tivibu)
-#DESCRIPTION TEVE2 (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/teve2.m3u8:TEVE2
 #DESCRIPTION TEVE2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_a2/smil%3aa2_hd.smil/chunklist_b3128000.m3u8:A2 (BluTV)
 #DESCRIPTION A2 (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A2_HD/index.m3u8?start=LIVE&end=END&device=HLS:A2 (Tivibu)
-#DESCRIPTION A2 (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/a2.m3u8:A2
 #DESCRIPTION A2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akillitv35.ozelip.com%3a22808/akillitv/akillitv/playlist.m3u8:AKILLI TV
 #DESCRIPTION AKILLI TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/LIVE/shls/LIVE$BIZIMEV_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS:BIZIMEV TV HD (Tivibu)
-#DESCRIPTION BIZIMEV TV HD (Tivibu)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/cnnturk.m3u8:CNN TÜRK
+#DESCRIPTION CNN TÜRK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_ntv/ntv_hd.smil/playlist.m3u8:NTV (BluTV)
 #DESCRIPTION NTV (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NTV_HD/index.m3u8?start=LIVE&end=END&device=HLS:NTV (Tivibu)
-#DESCRIPTION NTV (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/line/C4@!a3a1@!w72A/128:NTV
 #DESCRIPTION NTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/ntv.m3u8:NTV
 #DESCRIPTION NTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS:TRT Haber (Tivibu)
-#DESCRIPTION TRT Haber (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberturk/smil%3ahaberturk_hd.smil/playlist.m3u8:HABERTURK (BluTV)
 #DESCRIPTION HABERTURK (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$HABERTURK_HD/index.m3u8?start=LIVE&end=END&device=HLS:HABERTURK (Tivibu)
-#DESCRIPTION HABERTURK (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/line/C4@!a3a1@!w72A/130:HABERTURK
 #DESCRIPTION HABERTURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/haberturk.m3u8:HABERTURK
@@ -271,6 +239,8 @@
 #DESCRIPTION Halk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/halk.m3u8:Halk TV
 #DESCRIPTION Halk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//akittv-live.ercdn.net/akittv/akittv_720p.m3u8?hd2:AkİT TV
+#DESCRIPTION AkİT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvmasterlink.dyndns.org%3a5566/Entry/tele1_yeni.m3u8:TELE 1
 #DESCRIPTION TELE 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/tele1/live.m3u8:TELE 1
@@ -281,18 +251,10 @@
 #DESCRIPTION KANAL B
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_TURK/index.m3u8?start=LIVE&end=END&device=HLS:TRT TÜRK HD
 #DESCRIPTION TRT TÜRK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CNN_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS:CNN TÜRK (Tivibu)
-#DESCRIPTION CNN TÜRK (Tivibu)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/line/C4@!a3a1@!w72A/129:CNN TÜRK
-#DESCRIPTION CNN TÜRK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.kuzeytv.com/hls/cnnturk.m3u8:CNN TÜRK
-#DESCRIPTION CNN TÜRK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TGRT_HABER/index.m3u8?start=LIVE&end=END&device=HLS:TGRT HABER (BluTV)
 #DESCRIPTION TGRT HABER (BluTV)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kontv/smil%3akontv_sd.smil/chunklist_b2064000.m3u8:KONTV (BluTV)
 #DESCRIPTION KONTV (BluTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KON_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS:KONTV (Tivibu)
-#DESCRIPTION KONTV (Tivibu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w1148765115.m3u8:VİZYON TV
 #DESCRIPTION VİZYON TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8:D MAX
@@ -335,6 +297,8 @@
 #DESCRIPTION AFYON KANAL 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal3/bant1/chunklist.m3u8:AFYON KANAL 3
 #DESCRIPTION AFYON KANAL 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/altastv/bant1/playlist.m3u8?checkedby:Altaş TV
+#DESCRIPTION Altaş TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/astv/chunklist.m3u8:ASTV
 #DESCRIPTION ASTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasttr.com%3a1935/merkeztv/smil%3amerkeztv.smil/chunklist.m3u8:BOLU MERKEZ TV

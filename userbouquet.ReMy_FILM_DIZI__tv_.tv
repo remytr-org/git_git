@@ -5,6 +5,20 @@
 #DESCRIPTION BLUTV Aksiyon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8:BLUTV Komedi
 #DESCRIPTION BLUTV Komedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/8a5fce7d48.m3u8:BEIN BOX OFFICE 2 [HD]
+#DESCRIPTION BEIN BOX OFFICE 2 [HD]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/393b380919.m3u8:BEIN BOX OFFICE 3 [HD]
+#DESCRIPTION BEIN BOX OFFICE 3 [HD]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/77d210ac4c.m3u8:BEIN MOVIES TÜRK [HD]
+#DESCRIPTION BEIN MOVIES TÜRK [HD]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/f59f691574.m3u8:BEIN SERIES DRAMA [HD]
+#DESCRIPTION BEIN SERIES DRAMA [HD]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/8212f7bdf6.m3u8:BEIN SERIES SCI-FI [HD]
+#DESCRIPTION BEIN SERIES SCI-FI [HD]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/3f5e7c072a.m3u8:BEIN SERIES VICE [HD]
+#DESCRIPTION BEIN SERIES VICE [HD]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.239.66.197/vodmovie/download/dip_08_bolum_web_dl_1080p_final_oped.mkv:DİP (PUHUTV) S01 B08 FİNAL
+#DESCRIPTION DİP (PUHUTV) S01 B08 FİNAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8:SINEMA TURK 2 HD
 #DESCRIPTION SINEMA TURK 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8:SINEMA VIZYON TV HD
@@ -183,8 +197,80 @@
 #DESCRIPTION Abominable(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dreams47.com/movie.mp4:Sonic. La película [HD]
 #DESCRIPTION Sonic. La película [HD]
-#SERVICE 1:64:98:0:0:0:0:0:0:0::::::___MIX_(2019)MOVIES____::::
-#DESCRIPTION ::::___MIX_(2019)MOVIES____::::
+#SERVICE 1:64:98:0:0:0:0:0:0:0::::::___filmmodu___::::
+#DESCRIPTION ::::___filmmodu___::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv100.filmmodu.xyz/tt9580138/720p.tr.m3u8:TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İn
+#DESCRIPTION TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv51.filmmodu.xyz/tt0095631/720p.tr.m3u8:TR_FILM: Geceyarısı Avı
+#DESCRIPTION TR_FILM: Geceyarısı Avı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv8.filmmodu.xyz/tt8783532/720p.tr.m3u8:TR_FILM: öğrenci ofisi
+#DESCRIPTION TR_FILM: öğrenci ofisi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv69.filmmodu.xyz/tt4832640/720p.tr.m3u8:TR_FILM: Sultan
+#DESCRIPTION TR_FILM: Sultan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv49.filmmodu.xyz/tt9311062/720p.tr.m3u8:TR_FILM: Samuray marason
+#DESCRIPTION TR_FILM: Samuray marason
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv97.filmmodu.xyz/tt3387520/720p.tr.m3u8:TR_FILM: Scary Stories to Tell in the Dark
+#DESCRIPTION TR_FILM: Scary Stories to Tell in the Dark
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv33.filmmodu.xyz/tt0403358/720p.tr.m3u8:TR_FILM: gece nobeti
+#DESCRIPTION TR_FILM: gece nobeti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv59.filmmodu.xyz/tt4269118/720p.tr.m3u8:TR_FILM: cennette 7 dakika
+#DESCRIPTION TR_FILM: cennette 7 dakika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv31.filmmodu.xyz/tt5774060/720p.tr.m3u8:TR_FILM: derin sular
+#DESCRIPTION TR_FILM: derin sular
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv57.filmmodu.xyz/tt7713068/720p.tr.m3u8:TR_FILM: Yırtıcı Kuşlar ve Muhteşem Harley Qu
+#DESCRIPTION TR_FILM: Yırtıcı Kuşlar ve Muhteşem Harley Qu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt1634106/720p.tr.m3u8:TR_FILM: Bloodshot: Durdurulamaz Güç
+#DESCRIPTION TR_FILM: Bloodshot: Durdurulamaz Güç
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv60.filmmodu.xyz/tt9243946/720p.tr.m3u8:TR_FILM: El Camino A Breaking Bad
+#DESCRIPTION TR_FILM: El Camino A Breaking Bad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv24.filmmodu.xyz/tt7286456/720p.tr.m3u8:TR_FILM: Joker
+#DESCRIPTION TR_FILM: Joker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv17.filmmodu.xyz/tt6772804/720p.tr.m3u8:TR_FILM: Kaçış Planı 3
+#DESCRIPTION TR_FILM: Kaçış Planı 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv76.filmmodu.xyz/tt9806322/720p.tr.m3u8:TR_FILM: Isi & Ossi
+#DESCRIPTION TR_FILM: Isi & Ossi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv99.filmmodu.xyz/tt0493402/720p.tr.m3u8:TR_FILM: Boarding Gate
+#DESCRIPTION TR_FILM: Boarding Gate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv18.filmmodu.xyz/tt7456310/720p.tr.m3u8:TR_FILM: Anna
+#DESCRIPTION TR_FILM: Anna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv77.filmmodu.xyz/tt2948356/720p.tr.m3u8:TR_FILM: HAYVANLAR SEHRİ
+#DESCRIPTION TR_FILM: HAYVANLAR SEHRİ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv19.filmmodu.xyz/tt1618450/720p.tr.m3u8:TR_FILM: Winx Club - Sihirli Macera
+#DESCRIPTION TR_FILM: Winx Club - Sihirli Macera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv444.filmmodu.xyz/tt1621039/720p.tr.m3u8:TR_FILM: Kahraman İkili
+#DESCRIPTION TR_FILM: Kahraman İkili
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv54.filmmodu.xyz/tt1217209/720p.tr.m3u8:TR_FILM: CESUR
+#DESCRIPTION TR_FILM: CESUR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv63.filmmodu.xyz/tt6095472/720p.tr.m3u8:TR_FILM: Angry Birds Filmi 2
+#DESCRIPTION TR_FILM: Angry Birds Filmi 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv9.filmmodu.xyz/tt7869818/720p.tr.m3u8:TR_FILM: Unutulmuş Arkadaşlıklar
+#DESCRIPTION TR_FILM: Unutulmuş Arkadaşlıklar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv88.filmmodu.xyz/tt4215332/720p.tr.m3u8:TR_FILM: Barbie güçlü prenses
+#DESCRIPTION TR_FILM: Barbie güçlü prenses
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv52.filmmodu.xyz/tt8936646/720p.tr.m3u8:TR_FILM: Extraction
+#DESCRIPTION TR_FILM: Extraction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv74.filmmodu.xyz/tt2639336/720p.tr.m3u8:TR_FILM: GRETA
+#DESCRIPTION TR_FILM: GRETA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv93.filmmodu.xyz/tt0355954/480p.tr.m3u8:TR_FILM: ölüm yolu
+#DESCRIPTION TR_FILM: ölüm yolu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv59.filmmodu.xyz/tt0172156/720p.tr.m3u8:TR_FILM: çılgın ikili 2
+#DESCRIPTION TR_FILM: çılgın ikili 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv64.filmmodu.xyz/tt0150377/720p.tr.m3u8:TR_FILM: çifte tehlike
+#DESCRIPTION TR_FILM: çifte tehlike
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv98.filmmodu.xyz/tt2766104/720p.tr.m3u8:TR_FILM: Asla yanlız uçmayacaksın (animasyon)
+#DESCRIPTION TR_FILM: Asla yanlız uçmayacaksın (animasyon)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv69.filmmodu.xyz/tt5814534/720p.tr.m3u8:TR_FILM: ajanlar iş başında (animasyon)
+#DESCRIPTION TR_FILM: ajanlar iş başında (animasyon)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv40.filmmodu.xyz/tt0118617/720p.tr.m3u8:TR_FILM: Anastasia (animasyon)
+#DESCRIPTION TR_FILM: Anastasia (animasyon)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv9.filmmodu.xyz/tt4520988/720p.tr.m3u8:TR_FILM: Karlar Ülkesi 2 (animasyon)
+#DESCRIPTION TR_FILM: Karlar Ülkesi 2 (animasyon)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv20.filmmodu.xyz/tt1620981/480p.tr.m3u8:TR_FILM: Addams Ailesi (animasyon)
+#DESCRIPTION TR_FILM: Addams Ailesi (animasyon)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv98.filmmodu.xyz/tt5848640/720p.tr.m3u8:TR_FILM: sihirli halı (animasyon)
+#DESCRIPTION TR_FILM: sihirli halı (animasyon)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv17.filmmodu.xyz/tt6324278/720p.tr.m3u8:TR_FILM: yeti efsanesi (animasyon)
+#DESCRIPTION TR_FILM: yeti efsanesi (animasyon)
 #SERVICE 1:64:99:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ga.video.cdn.pbs.org/videos/nature/bf2826a1-a3d3-4a2c-85c8-cdbefaa5640e/182800/hd-mezzanine-16x9/d024d04a_naat_3211_1080p-16x9-hls-2500k.m3u8:NATURE HD

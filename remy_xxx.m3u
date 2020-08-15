@@ -4,12 +4,40 @@
 http://vs-msk-02.tv.ti.ru:80/dtv/id706_NBN_SG--BarelyLegal/03/plst.m3u8
 #EXTINF:-1 group-title="XXX",Brazzers TV Europe
 http://vs-msk-02.tv.ti.ru:80/dtv/id358_NBN_SG--Brazzers/03/plst.m3u8
+#EXTINF:-1 group-title="XXX",Film Box Action
+http://188.35.9.15:21141/udp/146h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Bizaarre
 http://84.22.33.254/unicast.bizarre/index.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Brazzers
-http://188.35.9.26:9031/udp/117m?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Zest TV
+http://188.35.9.5:10007/stolen/214g/parasite.install
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Private TV HD
+http://188.35.9.5:10005/stolen/153a/imposter.rar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",DORCEL TV
 http://188.35.9.11:21141/udp/214h?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",RUSSNOCH
+http://188.35.9.11:21051/udp/071l
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Dorcel TV [18+]
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Russian Night
+http://188.35.9.11:21051/udp/071l
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Olala
+http://188.35.9.12:21101/udp/118v
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",PLAYBOY
+http://188.35.9.12:21101/udp/127h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",VIVID RED
+http://188.35.9.12:21131/udp/142d
+#EXTINF:-1 group-title="XXX",Dorcel TV HD
+http://188.35.9.15:21141/udp/214h
+#EXTINF:-1 group-title="XXX",SCT
+http://188.35.9.15:3030/udp/110c
+#EXTINF:-1 group-title="XXX",Russian Night
+http://188.35.9.15:21051/udp/071l
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",BARELY LEGAL
+http://188.35.9.26:11031/udp/154o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Brazzers
+http://188.35.9.26:9031/udp/117m?streamType=live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",french lover
 http://31.130.19.29:81/udp/239.1.13.4:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Hustler tv
@@ -38,16 +66,6 @@ http://wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/874/index.m3u8
 http://wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/2057/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Exxxotica HD
 http://wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/2397/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Olala
-http://188.35.9.12:21101/udp/118v
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",PLAYBOY
-http://188.35.9.12:21101/udp/127h
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",VIVID RED
-http://188.35.9.12:21131/udp/142d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",RUSSNOCH
-http://188.35.9.11:21051/udp/071l
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",BARELY LEGAL
-http://188.35.9.26:11031/udp/154o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",EROX
 http://37.195.238.34:81/udp/239.1.20.60:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Babestation Xtreme (18+)
@@ -114,16 +132,6 @@ http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
 http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",BlueHustler HD
 http://213.234.9.46:7088/udp/239.1.13.5:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Dorcel TV [18+]
-http://188.35.9.11:21141/udp/214h
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Russian Night
-http://188.35.9.11:21051/udp/071l
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Private TV HD
-http://188.35.9.5:10005/stolen/153a/imposter.rar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Super One HD
-http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Zest TV
-http://188.35.9.5:10007/stolen/214g/parasite.install 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Miami TV - Jenny Live (18+)
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Miami TV Latino (18+)

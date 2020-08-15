@@ -11,6 +11,8 @@
 #DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 HD
 #DESCRIPTION 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/line/C4@!a3a1@!w72A/129:CNN TÜRK
+#DESCRIPTION CNN TÜRK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV HD
@@ -23,6 +25,8 @@
 #DESCRIPTION TRT HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtworld.live.trt.com.tr/master_720.m3u8:TRT World
 #DESCRIPTION TRT World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//akittv-live.ercdn.net/akittv/akittv_720p.m3u8?hd2:AkİT TV
+#DESCRIPTION AkİT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akittv-live.ercdn.net/akittv/akittv.m3u8:AKIT TV HD
 #DESCRIPTION AKIT TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza1:Istweb TV HD
