@@ -209,7 +209,7 @@
 #DESCRIPTION Webcam OndaMadrid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8:Yu No Te Pierdas Nada HD
 #DESCRIPTION Yu No Te Pierdas Nada HD
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::==== ★★ReMy | LATINO★★ ====
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::==== ★★ReMy | LATINO★★ ====
 #DESCRIPTION ==== ★★ReMy | LATINO★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//coninfo.net%3a1935/13maxhd/live_720p/master.m3u8:13 MAX TELEFE
 #DESCRIPTION 13 MAX TELEFE

@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | RUSSIAN★★ ==
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
 #DESCRIPTION === ★★ReMy | RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:ReMy_RUSSIAN:ReMy_RUSSIAN
 #DESCRIPTION ReMy_RUSSIAN
@@ -37,8 +37,6 @@
 #DESCRIPTION Disney Junior
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/030p:Divinty
 #DESCRIPTION Divinty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21141/udp/214h:Dorcel TV HD
-#DESCRIPTION Dorcel TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/192c:Eurosport 2 HD Poland
 #DESCRIPTION Eurosport 2 HD Poland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/189r:ExTREAM SPORT TV
@@ -91,8 +89,6 @@
 #DESCRIPTION RSI LA 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21131/udp/148y:Russia1 HD
 #DESCRIPTION Russia1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21051/udp/071l:Russian Night
-#DESCRIPTION Russian Night
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21141/udp/141c:Satellite TV HD
 #DESCRIPTION Satellite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/110c:SCT
@@ -305,8 +301,6 @@
 #DESCRIPTION Pepper
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.planeta-online.tv%3a1935/public/smil%3achannel_5.smil/chunklist_w1606083291_b858000.m3u8:Premiere
 #DESCRIPTION Premiere
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8:Premium World
-#DESCRIPTION Premium World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8:Present
 #DESCRIPTION Present
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8:Present HD
@@ -357,70 +351,16 @@
 #DESCRIPTION St. Petersburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/life/magnolia.m3u8:state of emergency.INFO
 #DESCRIPTION state of emergency.INFO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/life/magnolia.m3u8:state of emergency.INFO
-#DESCRIPTION state of emergency.INFO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.29.231.242%3a8080/btv_353/mpegts:Super
-#DESCRIPTION Super
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.planeta-online.tv%3a1935/public/channel_133/playlist.m3u8:Tasty TV
-#DESCRIPTION Tasty TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.17.105%3a8812/http/185.160.90.17%3a19124/1fdcd927e96ec217b44ac6fbf29c770e:Teletravel HD
-#DESCRIPTION Teletravel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/riood/tisod-abr/riood/tisod240/playlist.m3u8:TIC (Odessa)
-#DESCRIPTION TIC (Odessa)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.yandex.ru/kal/tnomer_supres/tnomer_supres0_2011_480p.json/index-v1-a1.m3u8:TON
-#DESCRIPTION TON
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovsec_supres/sovsec_supres0_54_720p.json/index-v1-a1.m3u8:Top Secret HD
 #DESCRIPTION Top Secret HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.192.143.70%3a4022/udp/239.1.5.7%3a1234:Travel + Adventure
-#DESCRIPTION Travel + Adventure
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21031/udp/038m:Travel Channel
-#DESCRIPTION Travel Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/leonovtv/test-abr/playlist.m3u8:Travel Guide TV
 #DESCRIPTION Travel Guide TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/850/index.m3u8:Travel+Adventure
-#DESCRIPTION Travel+Adventure
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvc-hls.cdnvideo.ru/tvc-p222/smil%3atvc_p11.smil/playlist.m3u8:TV Center
-#DESCRIPTION TV Center
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gorod.tv/s/live/15/ssiptv/0/0.m3u8?iptv.glav-noe.ru/:TV-3
-#DESCRIPTION TV-3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.180.159%3a8081/play/hls/dielli/index.m3u8:TV Dielli
 #DESCRIPTION TV Dielli
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.planeta-online.tv%3a1935/public/channel_5/playlist.m3u8:TV Premiere
-#DESCRIPTION TV Premiere
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/TV1000_SD/hls_encr/TV1000_SD.m3u8:TV1000
-#DESCRIPTION TV1000
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/TV1000_action_SD/hls_encr/TV1000_action_SD.m3u8:TV1000 Action
-#DESCRIPTION TV1000 Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/TV1000PremiumHD/hls_encr/TV1000PremiumHD.m3u8:TV1000 Premium
-#DESCRIPTION TV1000 Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.175.92.10%3a8080/vip_premiere/mono.m3u8:TV1000 Premium HD
-#DESCRIPTION TV1000 Premium HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.26%3a5031/udp/112s:TV1000 World Kino
-#DESCRIPTION TV1000 World Kino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.ugratv.cdnvideo.ru/ugratv/smil%3augrastream1.smil/playlist.m3u8:Ugra
 #DESCRIPTION Ugra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//serv25.vintera.tv%3a8081/neplaneta/np/playlist.m3u8:Unknown planet
-#DESCRIPTION Unknown planet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/Viasat_Explorer_SD/hls_encr/Viasat_Explorer_SD.m3u8:Viasat Explorer
-#DESCRIPTION Viasat Explorer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095:VIASAT HISTORY
-#DESCRIPTION VIASAT HISTORY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/Viasat_History_SD/hls_encr/Viasat_History_SD.m3u8:Viasat History
-#DESCRIPTION Viasat History
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/Viasat_Nature_SD/hls_encr/Viasat_Nature_SD.m3u8:Viasat Nature
-#DESCRIPTION Viasat Nature
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s97/index.m3u8:VIP Comedy
-#DESCRIPTION VIP Comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a2016:ViP Megahit
-#DESCRIPTION ViP Megahit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a2016:VIP Megahit HD
 #DESCRIPTION VIP Megahit HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.111.93.102DUC3022/udp/225.101.15.53%3a1234:Who Is Who
-#DESCRIPTION Who Is Who
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8:World
-#DESCRIPTION World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sc.id-tv.kz/Mir24_38_39.m3u8:World 24
-#DESCRIPTION World 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8:World 24 HD
 #DESCRIPTION World 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8:WORLD Premium
@@ -431,8 +371,7 @@
 #DESCRIPTION Zoo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a11062/f:ZOOM
 #DESCRIPTION ZOOM
-
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
 #DESCRIPTION === ★★BOLGESEL |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s10/index.m3u8:21TV
 #DESCRIPTION 21TV

@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | WEB_CAMS★★ ==
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8:Earth TV
 #DESCRIPTION Earth TV
@@ -95,7 +95,7 @@
 #DESCRIPTION Germany - Frankfurt
 #SERVICE 4097:0:0:133:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/bukovina_cam_c632c4/bukovina_cam_c632c4.stream/playlist.m3u8:POLANDHOTELBUKOVINA
 #DESCRIPTION POLANDHOTELBUKOVINA
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::*** Hrvatska ***
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::*** Hrvatska ***
 #DESCRIPTION *** Hrvatska ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist.m3u8:TRG KRAJINE, BANJA LUKA
 #DESCRIPTION TRG KRAJINE, BANJA LUKA
@@ -139,7 +139,7 @@
 #DESCRIPTION Hrvatska  - Varazdin
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist_w873016047_b350000.m3u8:Banja luka (trg krajine)
 #DESCRIPTION Banja luka (trg krajine)
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
 #DESCRIPTION * * * WEBCAM livespotting * * *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4646.flv/playlist.m3u8:Aruba - Bucuti Beach Wing
 #DESCRIPTION Aruba - Bucuti Beach Wing
@@ -203,45 +203,45 @@
 #DESCRIPTION Poland - Wladyslawowo Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hstream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8:Poland - Wroclaw
 #DESCRIPTION Poland - Wroclaw
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal WEBCAM%3a ALVOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal WEBCAM: ALVOR
 #DESCRIPTION Portugal WEBCAM: ALVOR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/aveiro/chunks.m3u8:Portugal WEBCAM%3a BARRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/aveiro/chunks.m3u8:Portugal WEBCAM: BARRA
 #DESCRIPTION Portugal WEBCAM: BARRA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/figueiradafoz/chunks.m3u8:Portugal WEBCAM%3a BUARCOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/figueiradafoz/chunks.m3u8:Portugal WEBCAM: BUARCOS
 #DESCRIPTION Portugal WEBCAM: BUARCOS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicacds/chunks.m3u8:Portugal WEBCAM%3a CAPARICA CDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicacds/chunks.m3u8:Portugal WEBCAM: CAPARICA CDS
 #DESCRIPTION Portugal WEBCAM: CAPARICA CDS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carcavelos/chunks.m3u8:Portugal WEBCAM%3a CARCAVELOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carcavelos/chunks.m3u8:Portugal WEBCAM: CARCAVELOS
 #DESCRIPTION Portugal WEBCAM: CARCAVELOS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ericeiraspots/chunks.m3u8:Portugal WEBCAM%3a ERICEIRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ericeiraspots/chunks.m3u8:Portugal WEBCAM: ERICEIRA
 #DESCRIPTION Portugal WEBCAM: ERICEIRA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/espinho/chunks.m3u8:Portugal WEBCAM%3a ESPINHO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/espinho/chunks.m3u8:Portugal WEBCAM: ESPINHO
 #DESCRIPTION Portugal WEBCAM: ESPINHO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/furadouro/chunks.m3u8:Portugal WEBCAM%3a FURADOURO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/furadouro/chunks.m3u8:Portugal WEBCAM: FURADOURO
 #DESCRIPTION Portugal WEBCAM: FURADOURO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiaguinchosul/chunks.m3u8:Portugal WEBCAM%3a GUINCHO SUL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiaguinchosul/chunks.m3u8:Portugal WEBCAM: GUINCHO SUL
 #DESCRIPTION Portugal WEBCAM: GUINCHO SUL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lagide/chunks.m3u8:Portugal WEBCAM%3a LAGIDE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lagide/chunks.m3u8:Portugal WEBCAM: LAGIDE
 #DESCRIPTION Portugal WEBCAM: LAGIDE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/meiapraia/chunks.m3u8:Portugal WEBCAM%3a MEIA PRAIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/meiapraia/chunks.m3u8:Portugal WEBCAM: MEIA PRAIA
 #DESCRIPTION Portugal WEBCAM: MEIA PRAIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/nazareparadonorte/chunks.m3u8:Portugal WEBCAM%3a NAZARÉ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/nazareparadonorte/chunks.m3u8:Portugal WEBCAM: NAZARÉ
 #DESCRIPTION Portugal WEBCAM: NAZARÉ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/luz/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA LUZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/luz/chunks.m3u8:Portugal WEBCAM: PRAIA DA LUZ
 #DESCRIPTION Portugal WEBCAM: PRAIA DA LUZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiadarocha/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA ROCHA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiadarocha/chunks.m3u8:Portugal WEBCAM: PRAIA DA ROCHA
 #DESCRIPTION Portugal WEBCAM: PRAIA DA ROCHA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saotorpes/chunks.m3u8:Portugal WEBCAM%3a S. TORPES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saotorpes/chunks.m3u8:Portugal WEBCAM: S. TORPES
 #DESCRIPTION Portugal WEBCAM: S. TORPES
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/santacruz/chunks.m3u8:Portugal WEBCAM%3a SANTA CRUZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/santacruz/chunks.m3u8:Portugal WEBCAM: SANTA CRUZ
 #DESCRIPTION Portugal WEBCAM: SANTA CRUZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/supertubos/chunks.m3u8:Portugal WEBCAM%3a SUPERTUBOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/supertubos/chunks.m3u8:Portugal WEBCAM: SUPERTUBOS
 #DESCRIPTION Portugal WEBCAM: SUPERTUBOS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/playlist.m3u8:Portugal WEBCAM%3a Santuário de Fátima (Capelinha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/playlist.m3u8:Portugal WEBCAM: Santuário de Fátima (Capelinha
 #DESCRIPTION Portugal WEBCAM: Santuário de Fátima (Capelinha
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vilamoura/chunks.m3u8:Portugal WEBCAM%3a VILAMOURA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vilamoura/chunks.m3u8:Portugal WEBCAM: VILAMOURA
 #DESCRIPTION Portugal WEBCAM: VILAMOURA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/zambujeira/chunks.m3u8:Portugal WEBCAM%3a ZAMBUJEIRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/zambujeira/chunks.m3u8:Portugal WEBCAM: ZAMBUJEIRA
 #DESCRIPTION Portugal WEBCAM: ZAMBUJEIRA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//586fb512206e4.streamlock.net%3a1935/neueDorint-rtp/_definst_/mp4%3aBeatenberg.stream/playlist.m3u8:Switzerland - Beatenberg
 #DESCRIPTION Switzerland - Beatenberg
