@@ -537,5 +537,3 @@
 #DESCRIPTION Xcorp
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/yastv/smil%3ayastv.stream.smil/playlist.m3u8?adtv:Yas Sport
 #DESCRIPTION Yas Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8:Otto Channel
-#DESCRIPTION Otto Channel

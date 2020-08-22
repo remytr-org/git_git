@@ -39,6 +39,8 @@
 #DESCRIPTION Al Hiwar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:AL HURRA
 #DESCRIPTION AL HURRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/01.m3u8:aljazeera mubasher FHD
+#DESCRIPTION aljazeera mubasher FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/nz/tv.46.m3u8:Al Jazeera English FHD
 #DESCRIPTION Al Jazeera English FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.mediacdn.ru/sr1/arhis24/playlist.m3u8:Arkhyz 24 HD (Cherkessk)
@@ -155,6 +157,8 @@
 #DESCRIPTION Law And Crime Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8:Les News 24
 #DESCRIPTION Les News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//79.137.106.241/live/smil%3aOutStream1.smil/playlist.m3u8:M24
+#DESCRIPTION M24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8:Mirror Now
 #DESCRIPTION Mirror Now
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8:Mordovia 24
