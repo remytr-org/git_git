@@ -19,230 +19,34 @@
 #DESCRIPTION beIN SPORTS HD 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//golgetv.info/07/bein11.php?beinsport1=playlist.m3u8:beIN SPORTS HD 1
 #DESCRIPTION beIN SPORTS HD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//usb.bozztv.com/mentaltvbein1/index.m3u8:beIN SPORTS HD 1
-#DESCRIPTION beIN SPORTS HD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//148.251.79.145/priv/b11111/playlist.m3u8:beIN SPORTS HD 1
-#DESCRIPTION beIN SPORTS HD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//148.251.79.145%3a80/priv/b11111/chunks.m3u8:beIN SPORTS HD 1
-#DESCRIPTION beIN SPORTS HD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.nsxmedia.net/hlslive/500.m3u8:beIN SPORTS HD 1
-#DESCRIPTION beIN SPORTS HD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamgenie.xyz/stream/bein-sports1-hd.m3u8:beIN SPORTS HD 1
-#DESCRIPTION beIN SPORTS HD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.223.89%3a25461/issargin.ms@gmail.com/14D4f6Tv/181:beIN SPORTS HD 1
-#DESCRIPTION beIN SPORTS HD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamgenie.xyz/stream/bein-sports1-hd-n.m3u8:beIN SPORTS HD 1
-#DESCRIPTION beIN SPORTS HD 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/87.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8:beIN SPORTS HD 2
 #DESCRIPTION beIN SPORTS HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.223.89%3a25461/issargin.ms@gmail.com/14D4f6Tv/182:beIN SPORTS HD 2
-#DESCRIPTION beIN SPORTS HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamgenie.xyz/stream/bein-sports2-hd.m3u8:beIN SPORTS HD 2
-#DESCRIPTION beIN SPORTS HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/bein3/playlist.m3u8:beIN SPORTS HD 3
-#DESCRIPTION beIN SPORTS HD 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//caspertv.com/source/IaTcBMHDnp5adnNpf0CpTA/1594492981/bein-sport-3.m3u8:beIN SPORTS HD 3
-#DESCRIPTION beIN SPORTS HD 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/bein3333/playlist.m3u8:beIN SPORTS HD 3
-#DESCRIPTION beIN SPORTS HD 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.223.89%3a25461/issargin.ms@gmail.com/14D4f6Tv/183:beIN SPORTS HD 3
-#DESCRIPTION beIN SPORTS HD 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/bein4/playlist.m3u8:beIN SPORTS HD 4
-#DESCRIPTION beIN SPORTS HD 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/beinmax1/playlist.m3u8:beIN SPORTS MAX 1 HD
-#DESCRIPTION beIN SPORTS MAX 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/beinmax1111/playlist.m3u8:beIN SPORTS MAX 1 HD
-#DESCRIPTION beIN SPORTS MAX 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/beinmax2/playlist.m3u8:beIN SPORTS MAX 2 HD
-#DESCRIPTION beIN SPORTS MAX 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.46.195.170%3a9000/bein-sports-haber/live.m3u8:beIN SPORTS HABER HD
-#DESCRIPTION beIN SPORTS HABER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/beinhaber/playlist.m3u8:beIN SPORTS HABER HD
-#DESCRIPTION beIN SPORTS HABER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/tivibu1/playlist.m3u8:TIVIBUSPOR 1 HD
-#DESCRIPTION TIVIBUSPOR 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/tivibu2/playlist.m3u8:TIVIBUSPOR 2 HD
-#DESCRIPTION TIVIBUSPOR 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/tivibu3/playlist.m3u8:TIVIBUSPOR 3 HD
-#DESCRIPTION TIVIBUSPOR 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/tivibu33/playlist.m3u8:TIVIBUSPOR 3 HD
-#DESCRIPTION TIVIBUSPOR 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.nsxmedia.net/hlslive/201.m3u8:SMART SPOR HD
 #DESCRIPTION SMART SPOR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/smartspor/playlist.m3u8:SMART SPOR HD
-#DESCRIPTION SMART SPOR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uppsio.com/M738000/M738000.m3u8:SMART SPOR HD
-#DESCRIPTION SMART SPOR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/smartspor2/playlist.m3u8:Smart Spor 2 HD
-#DESCRIPTION Smart Spor 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/eurosport11/playlist.m3u8:Eurosport 1 HD
-#DESCRIPTION Eurosport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/eurosport22/playlist.m3u8:Eurosport 2 HD
-#DESCRIPTION Eurosport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.yenisistem2.space%3a8022/taraftartv4/ssport/playlist.m3u8:S SPORT HD
-#DESCRIPTION S SPORT HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamgenie.xyz/stream/ssport-hd-n.m3u8:S SPORT HD
 #DESCRIPTION S SPORT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/ssport/playlist.m3u8:S SPORT HD
-#DESCRIPTION S SPORT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.flucdn.com%3a8080/ssport2_wxx/index.m3u8:S Sport HD 2
-#DESCRIPTION S Sport HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/ssport2/playlist.m3u8:S Sport HD 2
-#DESCRIPTION S Sport HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//caspertv.com/source/lH_NcllS-TzOsk3xQG4cFA/1594493183/s-sport-2.m3u8:S Sport HD 2
-#DESCRIPTION S Sport HD 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.blutv.com/contentserver/v2/distributions/SPOR/content/hls3/edge,-12h/d9b2a06da16c510b54001a6d30b4142f_39/d9b2a06da16c510b54001a6d30b4142f_38/m.m3u8:A Spor HD
 #DESCRIPTION A Spor HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8:GS TV
 #DESCRIPTION GS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nba-bc-dt-hls.secure.footprint.net%3a443/nba/nba.isml/mobilesd.m3u8?nvb=1520024400&nva=1597400033&token=0ee1b8d8d4ce8538c04f5:NBA TV (beinconnect)
-#DESCRIPTION NBA TV (beinconnect)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/nbatv/playlist.m3u8:NBA TV
-#DESCRIPTION NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8:EDGE SPORT
+#DESCRIPTION EDGE SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live02-fbx.vucos.net/live/gametoon_480p/playlist.m3u8:GAMETOON HD
 #DESCRIPTION GAMETOON HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1160785606.rsc.cdn77.org/1160785606/tracks-v1a1/mono.m3u8:GAMETOON HD (alt)
 #DESCRIPTION GAMETOON HD (alt)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream99.astalavistababy.xyz/selcuksportsfutbol/bein22222/playlist.m3u8:beIN HD 2
-#DESCRIPTION beIN HD 2
-#SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | DOO_FREE_88★★ ====
-#DESCRIPTION ==== ★★ReMy | DOO_FREE_88★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8:Fox Sports News
 #DESCRIPTION Fox Sports News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.176.190/hls/stream.m3u8:VARZESH TV
 #DESCRIPTION VARZESH TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8:Trace Sports Stars
-#DESCRIPTION Trace Sports Stars
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-bein1_720/index.m3u8:BeIN Sports 1
-#DESCRIPTION BeIN Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-bein2_720/index.m3u8:BeIN Sports 2
-#DESCRIPTION BeIN Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8:BT Sport 1 HD
-#DESCRIPTION BT Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8:BT Sport 2 HD
-#DESCRIPTION BT Sport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8:Eurosport
-#DESCRIPTION Eurosport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-eurosport2_480/index.m3u8:Eurosport 2
-#DESCRIPTION Eurosport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-lfctv_480/index.m3u8:LFC TV
-#DESCRIPTION LFC TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-mutv_480/index.m3u8:MUTV
-#DESCRIPTION MUTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-nba_720/index.m3u8:NBA TV
-#DESCRIPTION NBA TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-nfl_720/index.m3u8:NFL TV
-#DESCRIPTION NFL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-smmtv_480/index.m3u8:SMMTV
-#DESCRIPTION SMMTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-golf_720/index.m3u8:Golf Channel Thailand
-#DESCRIPTION Golf Channel Thailand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8:Fox Sports 1
-#DESCRIPTION Fox Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8:Fox Sports 2
-#DESCRIPTION Fox Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8:Fox Sports 3
-#DESCRIPTION Fox Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-pptv_720/index.m3u8:PPTV
-#DESCRIPTION PPTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x1_720/index.m3u8:Premier Football HD 1
-#DESCRIPTION Premier Football HD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x2_720/index.m3u8:Premier Football HD 2
-#DESCRIPTION Premier Football HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x3_720/index.m3u8:Premier Football HD 3
-#DESCRIPTION Premier Football HD 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x4_720/index.m3u8:Premier Football HD 4
-#DESCRIPTION Premier Football HD 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x5_720/index.m3u8:Premier Football HD 5
-#DESCRIPTION Premier Football HD 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8:Skynet Sports HD
-#DESCRIPTION Skynet Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8:Skynet Sports 1
-#DESCRIPTION Skynet Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8:Skynet Sports 2
-#DESCRIPTION Skynet Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8:Skynet Sports 3
-#DESCRIPTION Skynet Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8:Skynet Sports 4
-#DESCRIPTION Skynet Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8:Skynet Sports 5
-#DESCRIPTION Skynet Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8:Skynet Sports 6
-#DESCRIPTION Skynet Sports 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8:Sky Sports Action
-#DESCRIPTION Sky Sports Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8:Sky Sports Arena
-#DESCRIPTION Sky Sports Arena
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8:Sky Sports Cricket
-#DESCRIPTION Sky Sports Cricket
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8:Sky Sports F1
-#DESCRIPTION Sky Sports F1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8:Sky Sports Football
-#DESCRIPTION Sky Sports Football
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8:Sky Sports Golf
-#DESCRIPTION Sky Sports Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8:Sky Sports Mix
-#DESCRIPTION Sky Sports Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8:Sky Sports News
-#DESCRIPTION Sky Sports News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8:Sky Sports Premier League
-#DESCRIPTION Sky Sports Premier League
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsport2_480/index.m3u8:Sport 2
-#DESCRIPTION Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsport5_480/index.m3u8:Sport 5
-#DESCRIPTION Sport 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsport6_480/index.m3u8:Sport 6
-#DESCRIPTION Sport 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsport7_480/index.m3u8:Sport 7
-#DESCRIPTION Sport 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports1_480/index.m3u8:SuperSport 1 HD
-#DESCRIPTION SuperSport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports2_480/index.m3u8:SuperSport 2 HD
-#DESCRIPTION SuperSport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports3_480/index.m3u8:SuperSport 3 HD
-#DESCRIPTION SuperSport 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports4_480/index.m3u8:SuperSport 4 HD
-#DESCRIPTION SuperSport 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports5_480/index.m3u8:SuperSport 5 HD
-#DESCRIPTION SuperSport 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsports_480/index.m3u8:T Sports
-#DESCRIPTION T Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-tennis_720/index.m3u8:Tennis HD
-#DESCRIPTION Tennis HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-tsport1_720/index.m3u8:true Sports HD
-#DESCRIPTION true Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8:true Sports HD 2
-#DESCRIPTION true Sports HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-tsport3_720/index.m3u8:true Sports HD 3
-#DESCRIPTION true Sports HD 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/rs-arena1_480/index.m3u8:ArenaSport 1
-#DESCRIPTION ArenaSport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/rs-arena2_480/index.m3u8:ArenaSport 2
-#DESCRIPTION ArenaSport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/rs-arena3_480/index.m3u8:ArenaSport 3
-#DESCRIPTION ArenaSport 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/rs-arena4_480/index.m3u8:ArenaSport 4
-#DESCRIPTION ArenaSport 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mawintv2.com/02_SPORTTV_1_720p/chunklist.m3u8:ArenaSport 5
-#DESCRIPTION ArenaSport 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mawintv2.com/02_SPORTTV_2_720p/chunklist.m3u8:SPORT TV2
-#DESCRIPTION SPORT TV2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mawintv2.com/02_SPORTTV_3_720p/chunklist.m3u8:SPORT TV3
-#DESCRIPTION SPORT TV3
-#SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8:MotorTrend
-#DESCRIPTION MotorTrend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8:Discovery MotorTrend
+#DESCRIPTION Discovery MotorTrend
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/acc.m3u8:ACCN ESPN
-#DESCRIPTION ACCN ESPN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.47.252.54/hls/stream.m3u8:ADS SPORT CRICKET
 #DESCRIPTION ADS SPORT CRICKET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:AD SPORT 1
-#DESCRIPTION AD SPORT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.Sport.2/playlist.m3u8:AD SPORT 2
-#DESCRIPTION AD SPORT 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1:Abu Dhabi Sports
 #DESCRIPTION Abu Dhabi Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:Abu Dhabi Sports 2
@@ -269,10 +73,6 @@
 #DESCRIPTION Boss Charm Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//btvboliviatv.srfms.com%3a6568/live/livestream/chunklist.m3u8:Btv Bolivia tv
 #DESCRIPTION Btv Bolivia tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:CCTV 5 HD
-#DESCRIPTION CCTV 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8:CCTV-5+ HD
-#DESCRIPTION CCTV-5+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8:CCX CITIES
 #DESCRIPTION CCX CITIES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8:CDO PREMIUM
@@ -285,8 +85,6 @@
 #DESCRIPTION DD Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8:Discovery Sports
 #DESCRIPTION Discovery Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/c.m3u8:DISTRO TV World of Free Sports
-#DESCRIPTION DISTRO TV World of Free Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8:Dubai Racing
 #DESCRIPTION Dubai Racing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/chunklist.m3u8:Dubai Racing
@@ -307,8 +105,6 @@
 #DESCRIPTION Dubai Sports 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3:Dubai Sports 3
 #DESCRIPTION Dubai Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8:EDGE SPORT
-#DESCRIPTION EDGE SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8:ERT SPORTS
 #DESCRIPTION ERT SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream3.news5.ph/n5e/5plus/playlist.m3u8:ESPN 5 Plus
@@ -537,3 +333,121 @@
 #DESCRIPTION Xcorp
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/yastv/smil%3ayastv.stream.smil/playlist.m3u8?adtv:Yas Sport
 #DESCRIPTION Yas Sport
+#SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | DOO_FREE_88★★ ====
+#DESCRIPTION ==== ★★ReMy | DOO_FREE_88★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-bein1_720/index.m3u8:BeIN Sports 1
+#DESCRIPTION BeIN Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-bein2_720/index.m3u8:BeIN Sports 2
+#DESCRIPTION BeIN Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8:BT Sport 1 HD
+#DESCRIPTION BT Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8:BT Sport 2 HD
+#DESCRIPTION BT Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8:Eurosport
+#DESCRIPTION Eurosport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-eurosport2_480/index.m3u8:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-lfctv_480/index.m3u8:LFC TV
+#DESCRIPTION LFC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-mutv_480/index.m3u8:MUTV
+#DESCRIPTION MUTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-nba_720/index.m3u8:NBA TV
+#DESCRIPTION NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-nfl_720/index.m3u8:NFL TV
+#DESCRIPTION NFL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-smmtv_480/index.m3u8:SMMTV
+#DESCRIPTION SMMTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-golf_720/index.m3u8:Golf Channel Thailand
+#DESCRIPTION Golf Channel Thailand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8:Fox Sports 1
+#DESCRIPTION Fox Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8:Fox Sports 2
+#DESCRIPTION Fox Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8:Fox Sports 3
+#DESCRIPTION Fox Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-pptv_720/index.m3u8:PPTV
+#DESCRIPTION PPTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x1_720/index.m3u8:Premier Football HD 1
+#DESCRIPTION Premier Football HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x2_720/index.m3u8:Premier Football HD 2
+#DESCRIPTION Premier Football HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x3_720/index.m3u8:Premier Football HD 3
+#DESCRIPTION Premier Football HD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x4_720/index.m3u8:Premier Football HD 4
+#DESCRIPTION Premier Football HD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/epl-x5_720/index.m3u8:Premier Football HD 5
+#DESCRIPTION Premier Football HD 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8:Skynet Sports HD
+#DESCRIPTION Skynet Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8:Skynet Sports 1
+#DESCRIPTION Skynet Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8:Skynet Sports 2
+#DESCRIPTION Skynet Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8:Skynet Sports 3
+#DESCRIPTION Skynet Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8:Skynet Sports 4
+#DESCRIPTION Skynet Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8:Skynet Sports 5
+#DESCRIPTION Skynet Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8:Skynet Sports 6
+#DESCRIPTION Skynet Sports 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8:Sky Sports Action
+#DESCRIPTION Sky Sports Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8:Sky Sports Arena
+#DESCRIPTION Sky Sports Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8:Sky Sports Cricket
+#DESCRIPTION Sky Sports Cricket
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8:Sky Sports F1
+#DESCRIPTION Sky Sports F1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8:Sky Sports Football
+#DESCRIPTION Sky Sports Football
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8:Sky Sports Golf
+#DESCRIPTION Sky Sports Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8:Sky Sports Mix
+#DESCRIPTION Sky Sports Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8:Sky Sports News
+#DESCRIPTION Sky Sports News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8:Sky Sports Premier League
+#DESCRIPTION Sky Sports Premier League
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsport2_480/index.m3u8:Sport 2
+#DESCRIPTION Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsport5_480/index.m3u8:Sport 5
+#DESCRIPTION Sport 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsport6_480/index.m3u8:Sport 6
+#DESCRIPTION Sport 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsport7_480/index.m3u8:Sport 7
+#DESCRIPTION Sport 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports1_480/index.m3u8:SuperSport 1 HD
+#DESCRIPTION SuperSport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports2_480/index.m3u8:SuperSport 2 HD
+#DESCRIPTION SuperSport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports3_480/index.m3u8:SuperSport 3 HD
+#DESCRIPTION SuperSport 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports4_480/index.m3u8:SuperSport 4 HD
+#DESCRIPTION SuperSport 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/al-supersports5_480/index.m3u8:SuperSport 5 HD
+#DESCRIPTION SuperSport 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/sd-tsports_480/index.m3u8:T Sports
+#DESCRIPTION T Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-tennis_720/index.m3u8:Tennis HD
+#DESCRIPTION Tennis HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-tsport1_720/index.m3u8:true Sports HD
+#DESCRIPTION true Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8:true Sports HD 2
+#DESCRIPTION true Sports HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/hd-tsport3_720/index.m3u8:true Sports HD 3
+#DESCRIPTION true Sports HD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/rs-arena1_480/index.m3u8:ArenaSport 1
+#DESCRIPTION ArenaSport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/rs-arena2_480/index.m3u8:ArenaSport 2
+#DESCRIPTION ArenaSport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/rs-arena3_480/index.m3u8:ArenaSport 3
+#DESCRIPTION ArenaSport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-laos.workpoint.news/rs-arena4_480/index.m3u8:ArenaSport 4
+#DESCRIPTION ArenaSport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mawintv2.com/02_SPORTTV_1_720p/chunklist.m3u8:ArenaSport 5
+#DESCRIPTION ArenaSport 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mawintv2.com/02_SPORTTV_2_720p/chunklist.m3u8:SPORT TV2
+#DESCRIPTION SPORT TV2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mawintv2.com/02_SPORTTV_3_720p/chunklist.m3u8:SPORT TV3
+#DESCRIPTION SPORT TV3

@@ -3,8 +3,12 @@
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-aje.getaj.net/AJE/01.m3u8:Al Jazeera
 #DESCRIPTION Al Jazeera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/nz/tv.46.m3u8:Al Jazeera English FHD
+#DESCRIPTION Al Jazeera English FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/02.m3u8:aljazeera mubasher HD
 #DESCRIPTION aljazeera mubasher HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/01.m3u8:aljazeera mubasher FHD
+#DESCRIPTION aljazeera mubasher FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8:BBC World News
 #DESCRIPTION BBC World News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8:CNN
@@ -47,10 +51,6 @@
 #DESCRIPTION Al Hiwar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:AL HURRA
 #DESCRIPTION AL HURRA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/01.m3u8:aljazeera mubasher FHD
-#DESCRIPTION aljazeera mubasher FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/nz/tv.46.m3u8:Al Jazeera English FHD
-#DESCRIPTION Al Jazeera English FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.mediacdn.ru/sr1/arhis24/playlist.m3u8:Arkhyz 24 HD (Cherkessk)
 #DESCRIPTION Arkhyz 24 HD (Cherkessk)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8:Astrakhan 24 HD +1
@@ -145,8 +145,6 @@
 #DESCRIPTION Fox Sports News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8:Fox Sports News
 #DESCRIPTION Fox Sports News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8:Fox10 News
-#DESCRIPTION Fox10 News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8:France 24
 #DESCRIPTION France 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8:FRANCE 24 EN
@@ -173,10 +171,6 @@
 #DESCRIPTION Mordovia 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3am24.smil/chunklist_b1600000.m3u8:Moscow 24
 #DESCRIPTION Moscow 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8:NBC 11 News (Bay Area)
-#DESCRIPTION NBC 11 News (Bay Area)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8:NBC 5
-#DESCRIPTION NBC 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8:NDTV Profit
 #DESCRIPTION NDTV Profit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8:NEWS CENTER 7 OHIO
@@ -209,18 +203,12 @@
 #DESCRIPTION RT UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net/1106.m3u8?streamType=live:RT UK
 #DESCRIPTION RT UK
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net%3a80/1106_2500Kb.m3u8:RT UK
-#DESCRIPTION RT UK
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rt-usa.secure.footprint.net%3a80/1105_2500Kb.m3u8:RT USA
-#DESCRIPTION RT USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news.m3u8:RTE News
 #DESCRIPTION RTE News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8:RTE News
 #DESCRIPTION RTE News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ar24.smil/playlist.m3u8:Russia 24
 #DESCRIPTION Russia 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s96/index.m3u8:Russia Today
-#DESCRIPTION Russia Today
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.skynewsarabia.com/hls/sna.m3u8:Sky News Arabia
 #DESCRIPTION Sky News Arabia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.skynewsarabia.com/hls/sna_720.m3u8:Sky News Arabia
@@ -248,8 +236,6 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8:VoA TV
 #DESCRIPTION VoA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8:VoA TV
-#DESCRIPTION VoA TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8:VoA TV
 #DESCRIPTION VoA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8:Voice of America
 #DESCRIPTION Voice of America
