@@ -1,8 +1,14 @@
 #NAME == ★★ReMy | NEWS★★ ==
 #SERVICE 1:64:95:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-aje.getaj.net/AJE/01.m3u8:Al Jazeera
+#DESCRIPTION Al Jazeera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/02.m3u8:aljazeera mubasher HD
 #DESCRIPTION aljazeera mubasher HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8:BBC World News
+#DESCRIPTION BBC World News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8:CNN
+#DESCRIPTION CNN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_halktv/smil%3ahalktv_hd.smil/playlist.m3u8:HALK TV HD
 #DESCRIPTION HALK TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/finansturktv/finansturktv/playlist.m3u8:FINANS TURK
@@ -35,6 +41,8 @@
 #DESCRIPTION Istanbul 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000034@HHZT:Reuters
 #DESCRIPTION Reuters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8:ABC News 24
+#DESCRIPTION ABC News 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/alhiwar_live/smil%3aalhiwar.smil/playlist.m3u8:Al Hiwar
 #DESCRIPTION Al Hiwar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:AL HURRA
@@ -177,6 +185,12 @@
 #DESCRIPTION NEWSMAX TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8:Newsmax TV HD
 #DESCRIPTION Newsmax TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.26%3a8182/hls/TV00000000000000000067@HHZT.m3u8:Phoenix TV
+#DESCRIPTION Phoenix TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.26%3a8182/hls/TV00000000000000000066@HHZT.m3u8:Phoenix info
+#DESCRIPTION Phoenix info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/TV00000000000000000068@HHZT;LIVE:Phoenix TV Hong Kong
+#DESCRIPTION Phoenix TV Hong Kong
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8:Rai News 24
 #DESCRIPTION Rai News 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.video.rbc.ru/online/rbctv_576p/index.m3u8:RBC MOSKOF

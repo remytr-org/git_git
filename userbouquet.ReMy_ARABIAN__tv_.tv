@@ -1,6 +1,12 @@
 #NAME == ★★ReMy | ARABIAN★★ ==
 #SERVICE 1:64:A0:0:0:0:0:0:0:0::==== ★★ReMy | 1.ARABIC★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.ARABIC★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-aje.getaj.net/AJE/01.m3u8:Al Jazeera
+#DESCRIPTION Al Jazeera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/01.m3u8:aljazeera mubasher FHD
+#DESCRIPTION aljazeera mubasher FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/02.m3u8:aljazeera mubasher HD
+#DESCRIPTION aljazeera mubasher HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1:Abu Dhabi Sports 1
 #DESCRIPTION Abu Dhabi Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:Abu Dhabi Sports 2
@@ -37,10 +43,6 @@
 #DESCRIPTION Alaraby TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.21.0.215%3a8081/AlfajertvHDTwo_web/web/chunks.m3u8:Alfajertv 2
 #DESCRIPTION Alfajertv 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/01.m3u8:aljazeera mubasher FHD
-#DESCRIPTION aljazeera mubasher FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/02.m3u8:aljazeera mubasher HD
-#DESCRIPTION aljazeera mubasher HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8:ALMAMLKA HD
 #DESCRIPTION ALMAMLKA HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//watantv.origin.technostreaming.net%3a8081/watantv_source2/live/chunks.m3u8?:AR-Watan TV
