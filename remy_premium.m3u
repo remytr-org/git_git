@@ -3855,6 +3855,62 @@ https://www.djing.com/tv/s-27963-04-summer-vibes.m3u8
 https://www.djing.com/tv/u-27971-04.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DİJİNG UNDERGROUND HD
 https://www.djing.com/tv/u-27777-04.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_muzik.png" group-title="MÜZİK", TRT MÜZİK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/nr1_turk.png" group-title="MÜZİK", NR1 TURK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/powerturktv_logo.png" group-title="MÜZİK", POWERTURK HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$POWER_TURK_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_arabesk.png" group-title="MÜZİK", ARABESK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ARABESK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_turkce-pop.png" group-title="MÜZİK", TURKCE POP
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_slow.png" group-title="MÜZİK", TURKCE SLOW
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_SLOW/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tivibu_cocuk_logo.png" group-title="MÜZİK", COCUK MASAL
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MASAL/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_halk.png" group-title="MÜZİK", TURK HALK MUZIGI
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURK_HALK_MUZIGI/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_pop_dms.png" group-title="MÜZİK", YABANCI POP
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$YABANCI_POP/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tasplak.png" group-title="MÜZİK", TAS PLAK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TAS_PLAK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dini_musiki_logo.png" group-title="MÜZİK", DINI MUZIK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TASAVVUF/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/90lar.png" group-title="MÜZİK", 90 LAR
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$90_LAR/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_slow_logo.png" group-title="MÜZİK", ROMANTIK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ROMANTIK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_klasik.png" group-title="MÜZİK", KLASIK MUZIK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KLASIK_MUZIK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/calisiyorken.png" group-title="MÜZİK", ÇALIŞIYORKEN
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CALISIRKEN/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/mutlu_dms.png" group-title="MÜZİK", MUTLU
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MUTLU/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/lounge.png" group-title="MÜZİK", LOUNGE
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$LOUNGE/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/akustik.png" group-title="MÜZİK", AKUSTIK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$AKUSTIK/index.m3u8?start=LIVE&end=END&device=HLS
+
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ReMy-Clubbin/iTunes_Radio
 ReMy-Clubbin/iTunes_Radio
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Fenerbahçe FM

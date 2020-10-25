@@ -19,6 +19,14 @@
 #DESCRIPTION Cengiz Kurtoğlu, Hakan Altun - Usta Çırak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.18%3a8080/hls/damar.m3u8:Damar TV
 #DESCRIPTION Damar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS:TRT MÜZİK
+#DESCRIPTION TRT MÜZİK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS:NR1 TURK
+#DESCRIPTION NR1 TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$POWER_TURK_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS:POWERTURK HD
+#DESCRIPTION POWERTURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ARABESK/index.m3u8?start=LIVE&end=END&device=HLS:ARABESK
+#DESCRIPTION ARABESK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtmuzik.live.trt.com.tr/master_720.m3u8:TRT MÜZİK
 #DESCRIPTION TRT MÜZİK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//soledge13.duhnet.tv//S2/HLS_LIVE/dreamtvnp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamtv:DREAM TV
@@ -43,8 +51,6 @@
 #DESCRIPTION KRAL POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yerelmedya.tv%3a1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8:MAVI KARADENIZ
 #DESCRIPTION MAVI KARADENIZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.6/televizyon-live/DugunTv/chunklist.m3u:DugunTv 1
-#DESCRIPTION DugunTv 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler Muzik ANGARA
 #DESCRIPTION Siteler Muzik ANGARA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
@@ -347,6 +353,34 @@
 #DESCRIPTION UrbanMusic4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
 #DESCRIPTION Zeta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS:TURKCE POP
+#DESCRIPTION TURKCE POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_SLOW/index.m3u8?start=LIVE&end=END&device=HLS:TURKCE SLOW
+#DESCRIPTION TURKCE SLOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MASAL/index.m3u8?start=LIVE&end=END&device=HLS:COCUK MASAL
+#DESCRIPTION COCUK MASAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURK_HALK_MUZIGI/index.m3u8?start=LIVE&end=END&device=HLS:TURK HALK MUZIGI
+#DESCRIPTION TURK HALK MUZIGI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$YABANCI_POP/index.m3u8?start=LIVE&end=END&device=HLS:YABANCI POP
+#DESCRIPTION YABANCI POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TAS_PLAK/index.m3u8?start=LIVE&end=END&device=HLS:TAS PLAK
+#DESCRIPTION TAS PLAK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TASAVVUF/index.m3u8?start=LIVE&end=END&device=HLS:DINI MUZIK
+#DESCRIPTION DINI MUZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$90_LAR/index.m3u8?start=LIVE&end=END&device=HLS:90 LAR
+#DESCRIPTION 90 LAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ROMANTIK/index.m3u8?start=LIVE&end=END&device=HLS:ROMANTIK
+#DESCRIPTION ROMANTIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KLASIK_MUZIK/index.m3u8?start=LIVE&end=END&device=HLS:KLASIK MUZIK
+#DESCRIPTION KLASIK MUZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CALISIRKEN/index.m3u8?start=LIVE&end=END&device=HLS:ÇALIŞIYORKEN
+#DESCRIPTION ÇALIŞIYORKEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MUTLU/index.m3u8?start=LIVE&end=END&device=HLS:MUTLU
+#DESCRIPTION MUTLU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$LOUNGE/index.m3u8?start=LIVE&end=END&device=HLS:LOUNGE
+#DESCRIPTION LOUNGE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$AKUSTIK/index.m3u8?start=LIVE&end=END&device=HLS:AKUSTIK
+#DESCRIPTION AKUSTIK
 #SERVICE 1:64:93:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.xradio.com.tr%3a8770/stream:xradio
