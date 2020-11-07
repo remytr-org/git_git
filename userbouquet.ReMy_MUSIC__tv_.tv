@@ -1,46 +1,12 @@
 #NAME == ★★ReMy | MUSIC★★ ==
-#SERVICE 1:64:92:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:91:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
-#DESCRIPTION SilenceTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AmlGjvQBird1gQrYLRUNHt0P0XTo:Hande Subasi - Uykusuzlar Klubu
-#DESCRIPTION Hande Subasi - Uykusuzlar Klubu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1gQa3Twms4PEWzmPd?e=XM56ZZ:DOGA ICIN CAL 11 - CARSAMBA'YI SEL ALDI
-#DESCRIPTION DOGA ICIN CAL 11 - CARSAMBA'YI SEL ALDI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1gQn0DOp411xyvSo8?e=PHF6VA:Samida - Lazuri nana
-#DESCRIPTION Samida - Lazuri nana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1gQhCxfEph-4AE4xX?e=48xSfn:Samida - Eklemedir Koca Konak
-#DESCRIPTION Samida - Eklemedir Koca Konak
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1ezFQjiUhQZ6zK0c?e=iAuA3B:Müslüm Gürses feat. Rubato - İsyankar OPUS
-#DESCRIPTION Müslüm Gürses feat. Rubato - İsyankar OPUS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AmlGjvQBird1gQczNrD2btKomNWR?e=llYz9Z:Müslüm Gürses feat. Rubato - İsyankar AAC
-#DESCRIPTION Müslüm Gürses feat. Rubato - İsyankar AAC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1eMLSwi9Z_3OS1Zw?e=e3vOE9:Cengiz Kurtoğlu, Hakan Altun - Usta Çırak
-#DESCRIPTION Cengiz Kurtoğlu, Hakan Altun - Usta Çırak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.18%3a8080/hls/damar.m3u8:Damar TV
 #DESCRIPTION Damar TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS:TRT MÜZİK
-#DESCRIPTION TRT MÜZİK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS:NR1 TURK
-#DESCRIPTION NR1 TURK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$POWER_TURK_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS:POWERTURK HD
-#DESCRIPTION POWERTURK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ARABESK/index.m3u8?start=LIVE&end=END&device=HLS:ARABESK
-#DESCRIPTION ARABESK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtmuzik.live.trt.com.tr/master_720.m3u8:TRT MÜZİK
 #DESCRIPTION TRT MÜZİK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//soledge13.duhnet.tv//S2/HLS_LIVE/dreamtvnp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamtv:DREAM TV
-#DESCRIPTION DREAM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//soledge13.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamturk:DREAM TURK
-#DESCRIPTION DREAM TURK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8:POWER HD
-#DESCRIPTION POWER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8:POWER TURK HD
-#DESCRIPTION POWER TURK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8:POWER TURK HD
-#DESCRIPTION POWER TURK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b1428000_sltur.m3u8:POWER TURK SD
-#DESCRIPTION POWER TURK SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
+#DESCRIPTION SilenceTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8:KRAL HD
 #DESCRIPTION KRAL HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
@@ -61,18 +27,10 @@
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/playlist.m3u8:88 Stereo TV
 #DESCRIPTION 88 Stereo TV
-#SERVICE 4097:0:0:271:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:Balkan
-#DESCRIPTION Balkan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:Balkan
-#DESCRIPTION Balkan
-#SERVICE 4097:0:0:269:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:UpperaBalkan
-#DESCRIPTION UpperaBalkan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh%3a443/BarazaClassic/BarazaClassic/playlist.m3u8:Baraza Classic
 #DESCRIPTION Baraza Classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Music Hits
 #DESCRIPTION Baraza TV Greek Music Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boktv.interworks.in%3a1935/live/boktv/playlist.m3u8:BOK TV
-#DESCRIPTION BOK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
 #DESCRIPTION Box Hits
 #SERVICE 4097:0:1:375:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits (UK)
@@ -85,8 +43,6 @@
 #DESCRIPTION Bridge TV Russian hit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.4.14.12%3a9999/btvsvlive/playlist.m3u8:Bucovina TV
 #DESCRIPTION Bucovina TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8:California Music Channel
-#DESCRIPTION California Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital Radio
 #DESCRIPTION Capital Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:ChAu Ttv
@@ -97,6 +53,8 @@
 #DESCRIPTION Chanson TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8:Classic Arts Showcase
 #DESCRIPTION Classic Arts Showcase
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8:California Music Channel
+#DESCRIPTION California Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
 #DESCRIPTION CMC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:COLOSAL TV COSTA RICA
@@ -113,8 +71,6 @@
 #DESCRIPTION DeejayTv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8:Deejay TV (IT)
 #DESCRIPTION Deejay TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
-#DESCRIPTION DHTV denhaag tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8:Ditty TV
 #DESCRIPTION Ditty TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.artcom-venture.de%3a1322/dmf/tv_360.m3u8:DMF
@@ -123,8 +79,6 @@
 #DESCRIPTION DSTV BG
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
 #DESCRIPTION Duga TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-02-fta.m3u8:DJING HOT
-#DESCRIPTION DJING HOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-01-fta.m3u8:DJING HOT
 #DESCRIPTION DJING HOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/28031-04.m3u8:DJING HOT Live
@@ -381,7 +335,7 @@
 #DESCRIPTION LOUNGE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$AKUSTIK/index.m3u8?start=LIVE&end=END&device=HLS:AKUSTIK
 #DESCRIPTION AKUSTIK
-#SERVICE 1:64:93:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:92:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.xradio.com.tr%3a8770/stream:xradio
 #DESCRIPTION xradio
@@ -517,7 +471,7 @@
 #DESCRIPTION TURKUAZ FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
 #DESCRIPTION Virgin Radio Türkiye
-#SERVICE 1:64:94:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:93:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm112.1.fm/chilloutlounge_mobile_mp3:1.FM - Chillout Lounge
 #DESCRIPTION 1.FM - Chillout Lounge
