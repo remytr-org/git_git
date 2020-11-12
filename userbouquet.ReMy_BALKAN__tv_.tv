@@ -35,6 +35,8 @@
 #DESCRIPTION RTL TVI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ios.cdn.bg%3a2006/fls/bonair.stream/playlist.m3u8:Bulgaria On Air
 #DESCRIPTION Bulgaria On Air
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.187.142.147%3a1935/ch10live/high.stream/live.m3u8:Canale 10
+#DESCRIPTION Canale 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.113.210.250/medienasa-live/ok-dessau_high:Dessau
 #DESCRIPTION Dessau
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream3-lh.akamaihd.net%3a80/i/dwstream3_live@124409/index_5_av-p.m3u8:DW Entretenimiento
@@ -103,7 +105,3 @@
 #DESCRIPTION TV7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8:WDR
 #DESCRIPTION WDR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.187.142.147%3a1935/ch10live/high.stream/live.m3u8:Canale 10
-#DESCRIPTION Canale 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma07.fluidstream.net%3a1935/TeleArena/livestream/playlist.m3u8:TeleArena
-#DESCRIPTION TeleArena

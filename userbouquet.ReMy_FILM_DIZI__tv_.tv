@@ -1,50 +1,38 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
-#SERVICE 1:64:96:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
+#SERVICE 1:64:95:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
 #DESCRIPTION ::::___MOVIES_CHANNELS____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8:BLUTV Aksiyon
 #DESCRIPTION BLUTV Aksiyon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8:BLUTV Komedi
 #DESCRIPTION BLUTV Komedi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/8a5fce7d48.m3u8:BEIN BOX OFFICE 2 [HD]
-#DESCRIPTION BEIN BOX OFFICE 2 [HD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/393b380919.m3u8:BEIN BOX OFFICE 3 [HD]
-#DESCRIPTION BEIN BOX OFFICE 3 [HD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/77d210ac4c.m3u8:BEIN MOVIES TÜRK [HD]
-#DESCRIPTION BEIN MOVIES TÜRK [HD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/f59f691574.m3u8:BEIN SERIES DRAMA [HD]
-#DESCRIPTION BEIN SERIES DRAMA [HD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/8212f7bdf6.m3u8:BEIN SERIES SCI-FI [HD]
-#DESCRIPTION BEIN SERIES SCI-FI [HD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-e30453a4b.nmbs.top/m3u/Turkish/3f5e7c072a.m3u8:BEIN SERIES VICE [HD]
-#DESCRIPTION BEIN SERIES VICE [HD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.239.66.197/vodmovie/download/dip_08_bolum_web_dl_1080p_final_oped.mkv:DİP (PUHUTV) S01 B08 FİNAL
-#DESCRIPTION DİP (PUHUTV) S01 B08 FİNAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8:SINEMA TURK 2 HD
 #DESCRIPTION SINEMA TURK 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8:SINEMA VIZYON TV HD
 #DESCRIPTION SINEMA VIZYON TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.iptvdk.co%3a8880/R9WC9vIIli/2VpcWfNsdg/26336:Dizi Smart Premium
-#DESCRIPTION Dizi Smart Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.iptvdk.co%3a8880/R9WC9vIIli/2VpcWfNsdg/33979:beIN MOVIES ACTION HD
-#DESCRIPTION beIN MOVIES ACTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.iptvdk.co%3a8880/R9WC9vIIli/2VpcWfNsdg/33978:beIN MOVIES ACTION 2 HD
-#DESCRIPTION beIN MOVIES ACTION 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/10.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8:FOX CRIME
-#DESCRIPTION FOX CRIME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/12.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8:FX
-#DESCRIPTION FX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2.58.193.242%3a25461/live/yasinnyell/yelcii0803/11.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8:FOX LIFE
-#DESCRIPTION FOX LIFE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sabantv.kesintisizyayin.com%3a29030/sbntv/sbntv/playlist.m3u8:KEMAL SUNAL TV(alt)
-#DESCRIPTION KEMAL SUNAL TV(alt)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv86905.radyotelekomtv.com%3a22808/almanyadaturktv/almanyadaturktv/playlist.m3u8:ALMANYADA TÜRK
-#DESCRIPTION ALMANYADA TÜRK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srmltv66.4kradyotv.com%3a8080/srmltv/srmltv/ckunklist.m3u8:SÜRMELİ TV
-#DESCRIPTION SÜRMELİ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//win1.yayin.com.tr/LeblebiTv/LeblebiTv/playlist.m3u8:LEBLEBİ TV
-#DESCRIPTION LEBLEBİ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//usb.bozztv.com/YansinemaTV/index.m3u8:YAN SINEMA
-#DESCRIPTION YAN SINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8:AnimePlus
+#DESCRIPTION AnimePlus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.antenaplay.ro/live/smil%3aComedyPlay.smil/playlist.m3u8:Antena Comedy
+#DESCRIPTION Antena Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8:Bollywood TV
+#DESCRIPTION Bollywood TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/001:BBC SCOT
+#DESCRIPTION BBC SCOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8:Docurama
+#DESCRIPTION Docurama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:Extrema TV
+#DESCRIPTION Extrema TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8:Filmrise Crime
+#DESCRIPTION Filmrise Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8:Filmrise Movies
+#DESCRIPTION Filmrise Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/MNX_pull/master.m3u8:MNX Movies
+#DESCRIPTION MNX Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/MN_pull/master.m3u8:Movies Now
+#DESCRIPTION Movies Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.creacast.com/mycomedy/smil%3amycomedy.smil/chunklist_w1113167704_b1928000.m3u8:MYComedy
+#DESCRIPTION MYComedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8:Mylife4U
+#DESCRIPTION Mylife4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8:RedBox Battery Pop
 #DESCRIPTION RedBox Battery Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8:RedBox Comedy
@@ -59,54 +47,20 @@
 #DESCRIPTION RedBox Rush
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8:RedBox Spotlight
 #DESCRIPTION RedBox Spotlight
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8:AnimePlus
-#DESCRIPTION AnimePlus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.antenaplay.ro/live/smil%3aComedyPlay.smil/playlist.m3u8:Antena Comedy
-#DESCRIPTION Antena Comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8:Bollywood TV
-#DESCRIPTION Bollywood TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/001:Citv
-#DESCRIPTION Citv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8:Disney Jr Indonesia
-#DESCRIPTION Disney Jr Indonesia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8:Docurama
-#DESCRIPTION Docurama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:Extrema TV
-#DESCRIPTION Extrema TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8:Filmrise Crime
-#DESCRIPTION Filmrise Crime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8:Filmrise Family
-#DESCRIPTION Filmrise Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8:Filmrise Movies
-#DESCRIPTION Filmrise Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/ifilm/smil%3aifilmen.smil/chunklist_b1096000.m3u8:iFILM English
-#DESCRIPTION iFILM English
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/qwr9ew/s/s42/01.m3u8?fluxustv.m3u8:K DRAMA
-#DESCRIPTION K DRAMA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8:Maverick Movies
-#DESCRIPTION Maverick Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/MNX_pull/master.m3u8:MNX Movies
-#DESCRIPTION MNX Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/MN_pull/master.m3u8:Movies Now
-#DESCRIPTION Movies Now
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.creacast.com/mycomedy/smil%3amycomedy.smil/chunklist_w1113167704_b1928000.m3u8:MYComedy
-#DESCRIPTION MYComedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8:Mylife4U
-#DESCRIPTION Mylife4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/RN_pull/master.m3u8:Romedy Now
 #DESCRIPTION Romedy Now
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8:Romedy Now
 #DESCRIPTION Romedy Now
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8:Screamfest
 #DESCRIPTION Screamfest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8:Sony One
-#DESCRIPTION Sony One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8:Spydar TV
 #DESCRIPTION Spydar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/transtv/smil%3atranstv.smil/playlist.m3u8:Trans TV
 #DESCRIPTION Trans TV
-#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
+#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_MOVIES________:::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.239.66.197/vodmovie/download/dip_08_bolum_web_dl_1080p_final_oped.mkv:DİP (PUHUTV) S01 B08 FİNAL
+#DESCRIPTION DİP (PUHUTV) S01 B08 FİNAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8:Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #DESCRIPTION Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv19.filmmodu.xyz/tt6292852/720p.tr.m3u8:Ben Bir Anneyim - 2019 - Gerilim, Bilimkurgu
@@ -139,12 +93,6 @@
 #DESCRIPTION The Hard - Ortak 2019 - AKSİYON
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv37.filmmodu.xyz/tt7772580/720p.tr.m3u8:The Perfection - 2019 - GERİLİM
 #DESCRIPTION The Perfection - 2019 - GERİLİM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//storage.googleapis.com/aqueous-flight-253909.appspot.com/tt10958282_LAT_HD.mp4:BANLIEUSARDS
-#DESCRIPTION BANLIEUSARDS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//storage.googleapis.com/aqueous-flight-253909.appspot.com/tt8563452_LAT_HD.mp4:CRYPTO
-#DESCRIPTION CRYPTO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//storage.googleapis.com/aqueous-flight-253909.appspot.com/tt8510488_LAT_HD.mp4:HOLIDAY IN THE WILD
-#DESCRIPTION HOLIDAY IN THE WILD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Acceleration.2019.mkv:Acceleration.2019.mkv
 #DESCRIPTION Acceleration.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Cosmos.2019.mkv:Cosmos.2019.mkv
@@ -165,10 +113,6 @@
 #DESCRIPTION Joker.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Lion.King.2019.mkv:Lion.King.2019.mkv
 #DESCRIPTION Lion.King.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ns567684.ip-51-79-72.net/K/kim- no-suizou-wo-tabetai- i-want-eat-your-pancreas-(hd)/01filme.mp4:KIMI NO SUIZOU WA TABETAI
-#DESCRIPTION KIMI NO SUIZOU WA TABETAI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server12.anitube.info/appsd/76170.mp4/playlist.m3u8:5 CENTIMETROS POR SEGUNDO
-#DESCRIPTION 5 CENTIMETROS POR SEGUNDO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Manifest.Destiny.Down.Spacetime.2019.mkv:Manifest.Destiny.Down.Spacetime.2019.mkv
 #DESCRIPTION Manifest.Destiny.Down.Spacetime.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Nightcrawler.2014.mkv:Nightcrawler.2014.mkv
@@ -197,7 +141,7 @@
 #DESCRIPTION Abominable(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dreams47.com/movie.mp4:Sonic. La película [HD]
 #DESCRIPTION Sonic. La película [HD]
-#SERVICE 1:64:98:0:0:0:0:0:0:0::::::___filmmodu___::::
+#SERVICE 1:64:97:0:0:0:0:0:0:0::::::___filmmodu___::::
 #DESCRIPTION ::::___filmmodu___::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv100.filmmodu.xyz/tt9580138/720p.tr.m3u8:TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İn
 #DESCRIPTION TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İn
@@ -271,7 +215,7 @@
 #DESCRIPTION TR_FILM: sihirli halı (animasyon)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv17.filmmodu.xyz/tt6324278/720p.tr.m3u8:TR_FILM: yeti efsanesi (animasyon)
 #DESCRIPTION TR_FILM: yeti efsanesi (animasyon)
-#SERVICE 1:64:99:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
+#SERVICE 1:64:98:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ga.video.cdn.pbs.org/videos/nature/bf2826a1-a3d3-4a2c-85c8-cdbefaa5640e/182800/hd-mezzanine-16x9/d024d04a_naat_3211_1080p-16x9-hls-2500k.m3u8:NATURE HD
 #DESCRIPTION NATURE HD
@@ -2227,7 +2171,7 @@
 #DESCRIPTION Zero Tolerance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newtube.ps/components/com_contushdvideoshare/videos/1651807038.mp4:Zodiac
 #DESCRIPTION Zodiac
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
+#SERVICE 1:64:99:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/series/Turkey/other.se/jsoor/CESURVEGUZELEP12.mp4:Cesur Ve Güzel S01 E12
 #DESCRIPTION Cesur Ve Güzel S01 E12
@@ -7001,7 +6945,7 @@
 #DESCRIPTION Titans S02 E06
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Series/en/Titans.2018/S02/Titans.2018.S02E07.mp4:Titans S02 E07
 #DESCRIPTION Titans S02 E07
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dal1.mp4:101 DALMATIONS
 #DESCRIPTION 101 DALMATIONS
@@ -7685,9 +7629,7 @@
 #DESCRIPTION XMEN 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/origin.mp4:XMEN ORIGIN
 #DESCRIPTION XMEN ORIGIN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/yournext.mp4:YOU'RE NEXT
-#DESCRIPTION YOU'RE NEXT
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_SERIES____::::
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_SERIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
@@ -7899,7 +7841,7 @@
 #DESCRIPTION Scandal Season 3 Episode 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e11.mp4:Scandal Season 3 Episode 11
 #DESCRIPTION Scandal Season 3 Episode 11
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1124.mkv:007-Spectre
 #DESCRIPTION 007-Spectre
@@ -9331,7 +9273,7 @@
 #DESCRIPTION Zoolander 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/zootopia.avi:Zootopia
 #DESCRIPTION Zootopia
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::::::____ReMy_filmovi_SERIES____::::
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::::::____ReMy_filmovi_SERIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh110.mp4:Konak kod Hilmije S01E10
 #DESCRIPTION Konak kod Hilmije S01E10
@@ -9737,7 +9679,7 @@
 #DESCRIPTION Lud Zbunjen Normalan S01E39
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/517.mkv:Lud Zbunjen Normalan S01E40
 #DESCRIPTION Lud Zbunjen Normalan S01E40
-#SERVICE 1:64:9F:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
+#SERVICE 1:64:9E:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_SERIES________:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E01.mkv:3% 1X01
 #DESCRIPTION 3% 1X01

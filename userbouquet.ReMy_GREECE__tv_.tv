@@ -17,6 +17,8 @@
 #DESCRIPTION ART GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/atticatv/atticatv/playlist.m3u8:Attica TV
 #DESCRIPTION Attica TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv.viiideo.gr%3a1935/axeloos/live/playlist.m3u8:AXELWOS TV
+#DESCRIPTION AXELWOS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv.viiideo.gr%3a1935/axeloos/live/playlist.m3u8:Axeloos
 #DESCRIPTION Axeloos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8452/8452/playlist.m3u8:Baraza TV Classic Hits
