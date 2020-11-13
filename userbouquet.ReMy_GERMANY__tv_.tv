@@ -221,6 +221,8 @@
 #DESCRIPTION SYLT1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8:tagesschau 24
 #DESCRIPTION tagesschau 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8:Tagesschau 24 HD
+#DESCRIPTION Tagesschau 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma07.fluidstream.net/TeleArena/livestream/playlist.m3u8:Tele Arena
 #DESCRIPTION Tele Arena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8:Tele Barn

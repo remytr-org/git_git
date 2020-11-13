@@ -167,10 +167,6 @@
 #DESCRIPTION Moscow 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8:NDTV Profit
 #DESCRIPTION NDTV Profit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8:NEWS CENTER 7 OHIO
-#DESCRIPTION NEWS CENTER 7 OHIO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8:NEWSMAX TV
-#DESCRIPTION NEWSMAX TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8:Newsmax TV HD
 #DESCRIPTION Newsmax TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.26%3a8182/hls/TV00000000000000000067@HHZT.m3u8:Phoenix TV
