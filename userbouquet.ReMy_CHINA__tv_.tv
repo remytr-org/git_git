@@ -37,6 +37,8 @@
 #DESCRIPTION ISTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8:Khomsahn
 #DESCRIPTION Khomsahn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8:KIX
+#DESCRIPTION KIX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8:Laos Champa TV
 #DESCRIPTION Laos Champa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/laochampa3.stream/playlist.m3u8:Laos Champa TV 3
@@ -63,16 +65,26 @@
 #DESCRIPTION NBT 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//news1.live14.com/stream/news1_hi.m3u8:News 1
 #DESCRIPTION News 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnak19.cast4u.info/channels/4/10804.m3u8:New Japan Pro Wrestling World
+#DESCRIPTION New Japan Pro Wrestling World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8:Ning TV
 #DESCRIPTION Ning TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//one31-0ougnj.cdn.byteark.com/live/playlist.m3u8:ONE 31
 #DESCRIPTION ONE 31
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8:Oy Lao
 #DESCRIPTION Oy Lao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.26%3a8182/hls/TV00000000000000000067@HHZT.m3u8:Phoenix TV
+#DESCRIPTION Phoenix TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.26%3a8182/hls/TV00000000000000000066@HHZT.m3u8:Phoenix info
+#DESCRIPTION Phoenix info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/TV00000000000000000068@HHZT;LIVE:Phoenix TV Hong Kong
+#DESCRIPTION Phoenix TV Hong Kong
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8:PNTV
 #DESCRIPTION PNTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.182.100.184/live/pptvthai/playlist.m3u8:PPTV
 #DESCRIPTION PPTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.182.100.184/live/pptvthai/index.m3u8:Pptv 36 (th)
+#DESCRIPTION Pptv 36 (th)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.linknetott.swiftserve.com/live/BsNew/amlst%3areformedch/playlist.m3u8:Reformed 21
 #DESCRIPTION Reformed 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.14%3a9999/live/TV00000000000000000124@HHZT;LIVE:SEA TV
@@ -107,9 +119,3 @@
 #DESCRIPTION White Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wikitv-streaming.poscarasia.com%3a1935/live/ngrp%3amyStream_all/playlist.m3u8:Wiki TV
 #DESCRIPTION Wiki TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.26%3a8182/hls/TV00000000000000000067@HHZT.m3u8:Phoenix TV
-#DESCRIPTION Phoenix TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.26%3a8182/hls/TV00000000000000000066@HHZT.m3u8:Phoenix info
-#DESCRIPTION Phoenix info
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/TV00000000000000000068@HHZT;LIVE:Phoenix TV Hong Kong
-#DESCRIPTION Phoenix TV Hong Kong
