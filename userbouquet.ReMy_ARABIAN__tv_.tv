@@ -1,6 +1,30 @@
 #NAME == ★★ReMy | ARABIAN★★ ==
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::==== ★★ReMy | 1.ARABIC★★ ====
+#SERVICE 1:64:96:0:0:0:0:0:0:0::==== ★★ReMy | 1.ARABIC★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.ARABIC★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.28/hls/stream.m3u8:4 Kurd
+#DESCRIPTION 4 Kurd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.30/hls/stream.m3u8:4 Turk Billboard
+#DESCRIPTION 4 Turk Billboard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.10/hls/stream.m3u8:Persiana Billboard
+#DESCRIPTION Persiana Billboard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.15/hls/stream.m3u8:Persiana Cinema
+#DESCRIPTION Persiana Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.27/hls/stream.m3u8:Persiana Comedy
+#DESCRIPTION Persiana Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.23/hls/stream.m3u8:Persiana Documentary
+#DESCRIPTION Persiana Documentary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.19/hls/stream.m3u8:Persiana Family
+#DESCRIPTION Persiana Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.22/hls/stream.m3u8:Persiana Iranian
+#DESCRIPTION Persiana Iranian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.18/hls/stream.m3u8:Persiana Junior
+#DESCRIPTION Persiana Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.24/hls/stream.m3u8:Persiana Music
+#DESCRIPTION Persiana Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.20/hls/stream.m3u8:Persiana Nostalgia
+#DESCRIPTION Persiana Nostalgia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.25/hls/stream.m3u8:Persiana Technology
+#DESCRIPTION Persiana Technology
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-aje.getaj.net/AJE/01.m3u8:Al Jazeera
 #DESCRIPTION Al Jazeera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/01.m3u8:aljazeera mubasher FHD
@@ -185,7 +209,7 @@
 #DESCRIPTION Yas Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8:Yemen TV
 #DESCRIPTION Yemen TV
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::==== ★★ReMy | 2.ARABIC★★ ====
+#SERVICE 1:64:97:0:0:0:0:0:0:0::==== ★★ReMy | 2.ARABIC★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.ARABIC★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvajyal.mada.ps%3a8888/ajyal/tracks-v1a1/mono.m3u8:AJYAL TV
 #DESCRIPTION AJYAL TV

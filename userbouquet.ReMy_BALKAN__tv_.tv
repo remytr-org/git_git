@@ -105,3 +105,105 @@
 #DESCRIPTION TV7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8:WDR
 #DESCRIPTION WDR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge10.vedge.infomaniak.com/livecast/ik%3aadhtv/chunklist.m3u8:Alpe d’Huez TV
+#DESCRIPTION Alpe d’Huez TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.alsace20.fr/live/alsace20/ngrp%3aalsace20_all/playlist.m3u8:Alsace 20 (720p)
+#DESCRIPTION Alsace 20 (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01:Antenne Réunion (360p)
+#DESCRIPTION Antenne Réunion (360p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8:BFM Business (480p)
+#DESCRIPTION BFM Business (480p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlilletv/smil%3agrandlilletv.smil/playlist.m3u8:BFM Grand Lille (720p)
+#DESCRIPTION BFM Grand Lille (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlittoral/smil%3agrandlittoral.smil/playlist.m3u8:BFM Grand Littoral (720p)
+#DESCRIPTION BFM Grand Littoral (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8:BFM Lyon (720p)
+#DESCRIPTION BFM Lyon (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8:BFM Paris (480p)
+#DESCRIPTION BFM Paris (480p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8:BFMTV (720p)
+#DESCRIPTION BFMTV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//biptv.tv/live/biptvstream_orig/index.m3u8:BipTV
+#DESCRIPTION BipTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/d5tv/smil%3ad5tv.smil/playlist.m3u8:D5 TV (720p)
+#DESCRIPTION D5 TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dbmtv.vedge.infomaniak.com/livecast/smil%3adbmtv.smil/manifest.m3u8:DBM (1080p)
+#DESCRIPTION DBM (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8:Fashion TV L'Original
+#DESCRIPTION Fashion TV L'Original
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8:Fashion TV L'Original
+#DESCRIPTION Fashion TV L'Original
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8:Fashion TV Midnite Secrets
+#DESCRIPTION Fashion TV Midnite Secrets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8:Fashion TV Midnite Secrets
+#DESCRIPTION Fashion TV Midnite Secrets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8:Fashion TV Paris (1080p)
+#DESCRIPTION Fashion TV Paris (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8:Fashion TV Paris
+#DESCRIPTION Fashion TV Paris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8:Fashion TV PG13
+#DESCRIPTION Fashion TV PG13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8:Fashion TV PG16
+#DESCRIPTION Fashion TV PG16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8:Fashion TV PG16
+#DESCRIPTION Fashion TV PG16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8:France 24 Arabic (576p)
+#DESCRIPTION France 24 Arabic (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8:France 24 Arabic (576p)
+#DESCRIPTION France 24 Arabic (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8:France 24 English (576p)
+#DESCRIPTION France 24 English (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8:France 24 English (576p)
+#DESCRIPTION France 24 English (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8:France 24 French (576p)
+#DESCRIPTION France 24 French (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8:Francophonie (360p)
+#DESCRIPTION Francophonie (360p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlilletv/smil%3agrandlilletv.smil/chunklist.m3u8:Grand Lille TV (720p)
+#DESCRIPTION Grand Lille TV (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8:Gulli (540p)
+#DESCRIPTION Gulli (540p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8:Holygod TV Europe & Middle East (720p)
+#DESCRIPTION Holygod TV Europe & Middle East (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8:KTO (404p)
+#DESCRIPTION KTO (404p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8:La Chaine Normande TV (576p)
+#DESCRIPTION La Chaine Normande TV (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8:La Chaîne L'Equipe (720p)
+#DESCRIPTION La Chaîne L'Equipe (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/live.m3u8:LCI (720p)
+#DESCRIPTION LCI (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM Top (480p)
+#DESCRIPTION MCM Top (480p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.mondeduloisir.fr%3a1935/tixtv/smil%3aweb.smil/playlist.m3u8:MDL
+#DESCRIPTION MDL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo (480p)
+#DESCRIPTION Mezzo (480p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/mycomedy/smil%3amycomedy.smil/playlist.m3u8:MYComedy (720p)
+#DESCRIPTION MYComedy (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8:Radio Contact (720p)
+#DESCRIPTION Radio Contact (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8:RMC (180p)
+#DESCRIPTION RMC (180p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8:RMC Decouverte (720p)
+#DESCRIPTION RMC Decouverte (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-france.secure.footprint.net/1107.m3u8?streamType=live:RT France (720p)
+#DESCRIPTION RT France (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live.m3u8:TF1 (720p)
+#DESCRIPTION TF1 (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8:TV3V (720p)
+#DESCRIPTION TV3V (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8:TV5Monde Info
+#DESCRIPTION TV5Monde Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8:TV7 Colmar (576p)
+#DESCRIPTION TV7 Colmar (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.cdn.dvmr.fr/TV78/ngrp%3atv78.stream_all/master.m3u8:TV78 (720p)
+#DESCRIPTION TV78 (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.cdn.dvmr.fr/TVR/ngrp%3atvr.stream_all/master.m3u8:TVR (720p)
+#DESCRIPTION TVR (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8:TZiK
+#DESCRIPTION TZiK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/mirabelletv/smil%3amirabelletv.smil/playlist.m3u8:viaMirabelle (720p)
+#DESCRIPTION viaMirabelle (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8:viàMATÉLÉ
+#DESCRIPTION viàMATÉLÉ

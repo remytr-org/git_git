@@ -1,6 +1,8 @@
 #NAME == ★★ReMy | MUSIC★★ ==
-#SERVICE 1:64:91:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:88:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.30/hls/stream.m3u8:4 Turk Billboard
+#DESCRIPTION 4 Turk Billboard
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.18%3a8080/hls/damar.m3u8:Damar TV
 #DESCRIPTION Damar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtmuzik.live.trt.com.tr/master_720.m3u8:TRT MÜZİK
@@ -19,6 +21,8 @@
 #DESCRIPTION MAVI KARADENIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler Muzik ANGARA
 #DESCRIPTION Siteler Muzik ANGARA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//de1se01.v2beat.live/playlist.m3u8:V2BEAT TV
+#DESCRIPTION V2BEAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4 Fun TV
@@ -31,12 +35,12 @@
 #DESCRIPTION Baraza Classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Music Hits
 #DESCRIPTION Baraza TV Greek Music Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8:Blue ANT EXTREME
+#DESCRIPTION Blue ANT EXTREME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
 #DESCRIPTION Box Hits
 #SERVICE 4097:0:1:375:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits (UK)
 #DESCRIPTION Box Hits (UK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2:Brandnite TV HD
-#DESCRIPTION Brandnite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s34/index.m3u8:Bridge TV
 #DESCRIPTION Bridge TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s78/index.m3u8:Bridge TV Russian hit
@@ -191,12 +195,16 @@
 #DESCRIPTION Magic TV greek
 #SERVICE 4097:0:1:2C:2:4:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/magic/:Magic TV (muziek - UK)
 #DESCRIPTION Magic TV (muziek - UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM Top
+#DESCRIPTION MCM Top
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM TOP
 #DESCRIPTION MCM TOP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.155.200.118%3a1935/live/MelodyChannel/playlist.m3u8:Melody Channel
 #DESCRIPTION Melody Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//186.155.200.118%3a1935/live/MelodyChannel:Melody Channel
 #DESCRIPTION Melody Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo
+#DESCRIPTION Mezzo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo
 #DESCRIPTION Mezzo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Mooz Dance HD
@@ -247,8 +255,14 @@
 #DESCRIPTION OPOJA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.182.192.240%3a8080/hls/ottofmtv/index.m3u8:OTTO FM TV
 #DESCRIPTION OTTO FM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.10/hls/stream.m3u8:Persiana Billboard
+#DESCRIPTION Persiana Billboard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.24/hls/stream.m3u8:Persiana Music
+#DESCRIPTION Persiana Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8:Planet Music
 #DESCRIPTION Planet Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/Alpha-Host/Alpha-Host/playlist.m3u8:Play TV GREEK
+#DESCRIPTION Play TV GREEK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.56.17.92%3a1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8:PortalFoxMix Tv
 #DESCRIPTION PortalFoxMix Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.telpin.com.ar%3a1935/live-powerTV/power.stream/playlist.m3u8:Power TV HD (ARG)
@@ -259,6 +273,8 @@
 #DESCRIPTION Radio 51
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Radio Banovina
 #DESCRIPTION Radio Banovina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8:Radio Contact
+#DESCRIPTION Radio Contact
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:Radio Country FM TV
 #DESCRIPTION Radio Country FM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8:Radio Contact Vision
@@ -287,6 +303,8 @@
 #DESCRIPTION Radio TV USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8:RDS Social TV
 #DESCRIPTION RDS Social TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/video/video/playlist.m3u8:Reload Play GREEK
+#DESCRIPTION Reload Play GREEK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:RETRO
 #DESCRIPTION RETRO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8:RTL 102.5 TV (IT)
@@ -305,6 +323,8 @@
 #DESCRIPTION TV Ari
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8:UrbanMusic4U
 #DESCRIPTION UrbanMusic4U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/wixlar/wixlar/playlist.m3u8:Wixlar
+#DESCRIPTION Wixlar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS:TURKCE POP
@@ -335,7 +355,7 @@
 #DESCRIPTION LOUNGE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$AKUSTIK/index.m3u8?start=LIVE&end=END&device=HLS:AKUSTIK
 #DESCRIPTION AKUSTIK
-#SERVICE 1:64:92:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:89:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.xradio.com.tr%3a8770/stream:xradio
 #DESCRIPTION xradio
@@ -471,7 +491,7 @@
 #DESCRIPTION TURKUAZ FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
 #DESCRIPTION Virgin Radio Türkiye
-#SERVICE 1:64:93:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:8A:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm112.1.fm/chilloutlounge_mobile_mp3:1.FM - Chillout Lounge
 #DESCRIPTION 1.FM - Chillout Lounge
