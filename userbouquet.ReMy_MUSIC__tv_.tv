@@ -327,34 +327,6 @@
 #DESCRIPTION Wixlar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
 #DESCRIPTION Zeta TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS:TURKCE POP
-#DESCRIPTION TURKCE POP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_SLOW/index.m3u8?start=LIVE&end=END&device=HLS:TURKCE SLOW
-#DESCRIPTION TURKCE SLOW
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MASAL/index.m3u8?start=LIVE&end=END&device=HLS:COCUK MASAL
-#DESCRIPTION COCUK MASAL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURK_HALK_MUZIGI/index.m3u8?start=LIVE&end=END&device=HLS:TURK HALK MUZIGI
-#DESCRIPTION TURK HALK MUZIGI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$YABANCI_POP/index.m3u8?start=LIVE&end=END&device=HLS:YABANCI POP
-#DESCRIPTION YABANCI POP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TAS_PLAK/index.m3u8?start=LIVE&end=END&device=HLS:TAS PLAK
-#DESCRIPTION TAS PLAK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TASAVVUF/index.m3u8?start=LIVE&end=END&device=HLS:DINI MUZIK
-#DESCRIPTION DINI MUZIK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$90_LAR/index.m3u8?start=LIVE&end=END&device=HLS:90 LAR
-#DESCRIPTION 90 LAR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ROMANTIK/index.m3u8?start=LIVE&end=END&device=HLS:ROMANTIK
-#DESCRIPTION ROMANTIK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KLASIK_MUZIK/index.m3u8?start=LIVE&end=END&device=HLS:KLASIK MUZIK
-#DESCRIPTION KLASIK MUZIK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CALISIRKEN/index.m3u8?start=LIVE&end=END&device=HLS:ÇALIŞIYORKEN
-#DESCRIPTION ÇALIŞIYORKEN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MUTLU/index.m3u8?start=LIVE&end=END&device=HLS:MUTLU
-#DESCRIPTION MUTLU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$LOUNGE/index.m3u8?start=LIVE&end=END&device=HLS:LOUNGE
-#DESCRIPTION LOUNGE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$AKUSTIK/index.m3u8?start=LIVE&end=END&device=HLS:AKUSTIK
-#DESCRIPTION AKUSTIK
 #SERVICE 1:64:89:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.xradio.com.tr%3a8770/stream:xradio
@@ -375,8 +347,8 @@
 #DESCRIPTION KRAL POP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin2.yayindakiler.com%3a4002/stream/;?type=mp3:ADANA SUPER FM
 #DESCRIPTION ADANA SUPER FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6:Pop90
-#DESCRIPTION Pop90
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.34bit.net/ar.mp3:Acik  Radyo 94.9
+#DESCRIPTION Acik  Radyo 94.9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.246/stream/104/;stream.nsv:Alem FM
 #DESCRIPTION Alem FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.asymedya.com%3a8020/;stream.mp3:ASK FM
@@ -385,8 +357,6 @@
 #DESCRIPTION AŞK FM ANKARA
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/30/:ANKARA HAVALARI
 #DESCRIPTION ANKARA HAVALARI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.arabeskfm.biz%3a8042/;:Arabesk FM
-#DESCRIPTION Arabesk FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.arabeskradyo.biz%3a2011/;:Arabesk Radyo
 #DESCRIPTION Arabesk Radyo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//37.247.100.100/best//babaradyo.stream:Baba Radyo
@@ -401,8 +371,6 @@
 #DESCRIPTION Best FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.126:Best FM 98.4
 #DESCRIPTION Best FM 98.4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.34bit.net/ar.mp3:Acik  Radyo 94.9
-#DESCRIPTION Acik  Radyo 94.9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.173.188.166%3a9986/:Bizim Radyo 104.4
 #DESCRIPTION Bizim Radyo 104.4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.damarfm.com%3a8080/:Damar FM
@@ -449,6 +417,8 @@
 #DESCRIPTION METRO_FM_SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mfm1.webradiostreaming.de%3a8200/;:Metropol FM
 #DESCRIPTION Metropol FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6:Pop90
+#DESCRIPTION Pop90
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//powerfm.listenpowerapp.com/powerfm/abr/powerfm/96/chunks.m3u8:Power FM
 #DESCRIPTION Power FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933:RetroTurk
