@@ -155,6 +155,8 @@
 #DESCRIPTION First Music Channel Russia HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8:FM Italia
 #DESCRIPTION FM Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.rtcommufa.ru%3a1935/ptica/ptica1/playlist.m3u8:Firebird
+#DESCRIPTION Firebird
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//glasdrine.cutuk.net%3a1935/3ghu788/GlasDrine:GLas Drine Music HD
 #DESCRIPTION GLas Drine Music HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hitmusic.hu/hitmusic.m3u8:Hit Music Channel (Hungary)
@@ -195,16 +197,14 @@
 #DESCRIPTION Magic TV greek
 #SERVICE 4097:0:1:2C:2:4:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/magic/:Magic TV (muziek - UK)
 #DESCRIPTION Magic TV (muziek - UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8:matur-tv.ru
+#DESCRIPTION matur-tv.ru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM Top
 #DESCRIPTION MCM Top
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM TOP
-#DESCRIPTION MCM TOP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.155.200.118%3a1935/live/MelodyChannel/playlist.m3u8:Melody Channel
 #DESCRIPTION Melody Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//186.155.200.118%3a1935/live/MelodyChannel:Melody Channel
 #DESCRIPTION Melody Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo
-#DESCRIPTION Mezzo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo
 #DESCRIPTION Mezzo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Mooz Dance HD
@@ -251,6 +251,8 @@
 #DESCRIPTION Ocko Expres
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8:Ocko Star
 #DESCRIPTION Ocko Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8:one hd music
+#DESCRIPTION one hd music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.opoja.tv%3a1935/tvopoja/tvopoja/playlist.m3u8:OPOJA
 #DESCRIPTION OPOJA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.182.192.240%3a8080/hls/ottofmtv/index.m3u8:OTTO FM TV
@@ -313,6 +315,8 @@
 #DESCRIPTION Sky Folk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webmobile.xdev.ro%3a81/tv12/playlist.m3u8:Somax TV
 #DESCRIPTION Somax TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//songtvru.ru%3a8060/hd/playlist.m3u8:SONG TV Russia
+#DESCRIPTION SONG TV Russia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8:Steel Bird Music
 #DESCRIPTION Steel Bird Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:STYLE CITY MUSIC2
@@ -451,6 +455,8 @@
 #DESCRIPTION Slow Karadeniz FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyo.duhnet.tv/slowturk:SLOWTURK
 #DESCRIPTION SLOWTURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:strana fm hd
+#DESCRIPTION strana fm hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.175.227.10/SUPER_FM_SC?/;stream.mp3:Super Fm
 #DESCRIPTION Super Fm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=5f5ce410-ba94-4cfc-a10f-70e4eec5cbf9:SUPER_FM
