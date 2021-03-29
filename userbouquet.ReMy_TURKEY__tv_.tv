@@ -47,6 +47,8 @@
 #DESCRIPTION TRT 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/playlist.m3u8:24 TV
+#DESCRIPTION 24 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kanal24/smil%3akanal24_hd.smil/playlist.m3u8:24 HD
 #DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 TV
@@ -283,6 +285,24 @@
 #DESCRIPTION TURKMEN OWAZY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch002_400/index.m3u8:TURKMEN YASLIK
 #DESCRIPTION TURKMEN YASLIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8:KRAL HD
+#DESCRIPTION KRAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8:KRAL POP
+#DESCRIPTION KRAL POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&type=live&service=wowza&protocol=https&output=playlist.m3u8:MC EU
+#DESCRIPTION MC EU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//broadcasttr.com%3a446/naturaltv/bant1/chunklist.m3u8:Natural TV (Turkije)
+#DESCRIPTION Natural TV (Turkije)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//139.162.182.79/live/test/index.m3u8:Satranç TV
+#DESCRIPTION Satranç TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler TV
+#DESCRIPTION Siteler TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.tiviturk.de/live/tiviturk.m3u8:Tivi TURK
+#DESCRIPTION Tivi TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8:Yaban TV
+#DESCRIPTION Yaban TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yol.tv%3a9485/medialive/yol.m3u8:YOL TV
+#DESCRIPTION YOL TV
 #SERVICE 1:64:84:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s01.vpis.io/besiktas/besiktas.m3u8:besiktas TV

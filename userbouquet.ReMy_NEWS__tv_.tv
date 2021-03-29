@@ -1,6 +1,14 @@
 #NAME == ★★ReMy | NEWS★★ ==
-#SERVICE 1:64:8B:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:8D:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8:Roku | ABC News
+#DESCRIPTION Roku | ABC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_roku_lat=1&platform=web&content=fc509fc922805196b5930e519de58fc8&genre=news&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=nbc&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908:Roku | NBC News Now
+#DESCRIPTION Roku | NBC News Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8:Roku | Euronews | ENG
+#DESCRIPTION Roku | Euronews | ENG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weathernationtv.roku.wurl.com/manifest/playlist.m3u8:Roku | Weather Nation
+#DESCRIPTION Roku | Weather Nation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8:CNN
 #DESCRIPTION CNN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8:BBC TWO
@@ -13,7 +21,11 @@
 #DESCRIPTION aljazeera mubasher HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajm.getaj.net/AJM/01.m3u8:aljazeera mubasher FHD
 #DESCRIPTION aljazeera mubasher FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/004:BBC News 24
+#DESCRIPTION BBC News 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8:BBC World News
+#DESCRIPTION BBC World News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8:BBC World News
 #DESCRIPTION BBC World News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1:Bloomberght
 #DESCRIPTION Bloomberght
@@ -23,8 +35,6 @@
 #DESCRIPTION HALK TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/finansturktv/finansturktv/playlist.m3u8:FINANS TURK
 #DESCRIPTION FINANS TURK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kanal24/smil%3akanal24_hd.smil/playlist.m3u8:24 HD
-#DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 HD
 #DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/line/C4@!a3a1@!w72A/129:CNN TÜRK
@@ -51,6 +61,18 @@
 #DESCRIPTION Istanbul 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000034@HHZT:Reuters
 #DESCRIPTION Reuters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows:Redbox | Cheddar
+#DESCRIPTION Redbox | Cheddar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows:Redbox | USA today
+#DESCRIPTION Redbox | USA today
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8:Redbox | Black News Channel
+#DESCRIPTION Redbox | Black News Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8:Redbox | CBC News
+#DESCRIPTION Redbox | CBC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8:Redbox | Wired
+#DESCRIPTION Redbox | Wired
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows:Redbox | Now This
+#DESCRIPTION Redbox | Now This
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/alhiwar_live/smil%3aalhiwar.smil/playlist.m3u8:Al Hiwar
 #DESCRIPTION Al Hiwar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:AL HURRA
@@ -71,6 +93,14 @@
 #DESCRIPTION Bloomberg TV Europa (UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8:Bloomberg UK
 #DESCRIPTION Bloomberg UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8:Bloomberg
+#DESCRIPTION Bloomberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8:Bloomberg TV Asia Live Event
+#DESCRIPTION Bloomberg TV Asia Live Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8:Bloomberg TV EMEA Live Event
+#DESCRIPTION Bloomberg TV EMEA Live Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8:Bloomberg TV Politics Live Event
+#DESCRIPTION Bloomberg TV Politics Live Event
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8:CBC News
 #DESCRIPTION CBC News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?tecnotv.info?iptv.m3u8:CBN espana

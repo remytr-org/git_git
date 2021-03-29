@@ -11,6 +11,10 @@
 #DESCRIPTION SilenceTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8:KRAL HD
 #DESCRIPTION KRAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8:KRAL POP
+#DESCRIPTION KRAL POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8:KRAL HD
+#DESCRIPTION KRAL HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
 #DESCRIPTION KRAL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8:KRAL POP HD
@@ -19,14 +23,42 @@
 #DESCRIPTION KRAL POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yerelmedya.tv%3a1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8:MAVI KARADENIZ
 #DESCRIPTION MAVI KARADENIZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler TV
+#DESCRIPTION Siteler TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler Muzik ANGARA
 #DESCRIPTION Siteler Muzik ANGARA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Hot Country
+#DESCRIPTION Redbox | Hot Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Greatest Hits
+#DESCRIPTION Redbox | Greatest Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevoholiday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows:Redbox | Vevo Holiday
+#DESCRIPTION Redbox | Vevo Holiday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Vevo
+#DESCRIPTION Redbox | Vevo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Classic Rock
+#DESCRIPTION Redbox | Classic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Hit List
+#DESCRIPTION Redbox | Hit List
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Soul Storm
+#DESCRIPTION Redbox | Soul Storm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8:Xumo | 810 Stingray Hitlist
+#DESCRIPTION Xumo | 810 Stingray Hitlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8:Xumo | 811 S'Ray Greatest Hits
+#DESCRIPTION Xumo | 811 S'Ray Greatest Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8:Xumo | 812 S'Ray Hot Country
+#DESCRIPTION Xumo | 812 S'Ray Hot Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8:Xumo | 813 S'Ray Classic Rock
+#DESCRIPTION Xumo | 813 S'Ray Classic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8:Xumo | 814 Stingray Soul Storm
+#DESCRIPTION Xumo | 814 Stingray Soul Storm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//de1se01.v2beat.live/playlist.m3u8:V2BEAT TV
 #DESCRIPTION V2BEAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4 Fun TV
 #DESCRIPTION 4 Fun TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:30A Music
+#DESCRIPTION 30A Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale51/canale51/playlist.m3u8:51 Radio TV
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/playlist.m3u8:88 Stereo TV
@@ -57,6 +89,8 @@
 #DESCRIPTION Chanson TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8:Classic Arts Showcase
 #DESCRIPTION Classic Arts Showcase
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8:California Music Channel
+#DESCRIPTION California Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8:California Music Channel
 #DESCRIPTION California Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
@@ -331,6 +365,92 @@
 #DESCRIPTION Wixlar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
 #DESCRIPTION Zeta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:Chau TV (Letland)
+#DESCRIPTION Chau TV (Letland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8:Cine Voice (muziek - India)
+#DESCRIPTION Cine Voice (muziek - India)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/foxtv/foxtv/playlist.m3u8:Fox TV (Griekenland)
+#DESCRIPTION Fox TV (Griekenland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:Hit Music (Belaarus, Wit-Rusland)
+#DESCRIPTION Hit Music (Belaarus, Wit-Rusland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8:IndieWave
+#DESCRIPTION IndieWave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8:Jhanjar Music (muziek - India)
+#DESCRIPTION Jhanjar Music (muziek - India)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//208.93.117.113/live/Stream1/chunklist.m3u8:Kayhan TV (muziek - Afghanistan)
+#DESCRIPTION Kayhan TV (muziek - Afghanistan)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.opoja.tv%3a1935/tvopoja/tvopoja/playlist.m3u8 :Kosovo OPOJA (muziek - Kosovo)
+#DESCRIPTION Kosovo OPOJA (muziek - Kosovo)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onlinetv.ktrk.kg%3a1935/live/myStream2/playlist.m3u8:KTPK Music
+#DESCRIPTION KTPK Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8:Kuriakos Music
+#DESCRIPTION Kuriakos Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming02.arcast.com.ar%3a1935/la90fm/la90fm/chunklist_w379053794.m3u8:La 90 FM
+#DESCRIPTION La 90 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.235.35.243%3a1935/lamegamundial/lamegamundial2/playlist.m3u8:La Lega Mundial
+#DESCRIPTION La Lega Mundial
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//68.235.35.243%3a1935/lamegamundial/lamegamundial2/playlist.m3u8:La Mega Mundial TV (Georgia, USA)
+#DESCRIPTION La Mega Mundial TV (Georgia, USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mntv.livebox.co.in/musichls/live.m3u8:MN Music TV (muziek - India)
+#DESCRIPTION MN Music TV (muziek - India)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/playlist.m3u8:Nancy WebTV (Frankrijk)
+#DESCRIPTION Nancy WebTV (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/NGradio/NGradio/playlist.m3u8:NG Radio TV (Griekenland)
+#DESCRIPTION NG Radio TV (Griekenland)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8:Ocko (Tsjechië)
+#DESCRIPTION Ocko (Tsjechië)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8:Ocko expres (Tsjechië)
+#DESCRIPTION Ocko expres (Tsjechië)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8:Ocko Express
+#DESCRIPTION Ocko Express
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8:Ocko Gold (Tsjechië)
+#DESCRIPTION Ocko Gold (Tsjechië)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8:Ocko Hits
+#DESCRIPTION Ocko Hits
+#SERVICE 4097:0:1:1335:CA2:3:EB0000:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/master.m3u8:Ocko Star (muziek - Tsjechë)
+#DESCRIPTION Ocko Star (muziek - Tsjechë)
+#SERVICE 1:0:1:1451:C98:3:EB0000:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8:Ocko TV (muziek - Tsjechë)
+#DESCRIPTION Ocko TV (muziek - Tsjechë)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/chunklist_w1223558379.m3u8:Radio 88 Stereo (muziek - Costa Rica)
+#DESCRIPTION Radio 88 Stereo (muziek - Costa Rica)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8:Radio Contact TV
+#DESCRIPTION Radio Contact TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1 (LIT)  (Web Radio)
+#DESCRIPTION Radio M-1 (LIT)  (Web Radio)
+#SERVICE 4097:0:1:40:2:6:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1 Visual Radio (muziek - Litouwen)
+#DESCRIPTION Radio M-1 Visual Radio (muziek - Litouwen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8:Radio Number One TV (muziek)
+#DESCRIPTION Radio Number One TV (muziek)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//flash2.streaming.xdevel.com%3a80/radiouniversaltv/radiouniversaltv:Radio Universal Tv
+#DESCRIPTION Radio Universal Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/21.ts:Smash Cam
+#DESCRIPTION Smash Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/12.ts:Smash Country
+#DESCRIPTION Smash Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/10.ts:Smash Jazz
+#DESCRIPTION Smash Jazz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/8.ts:Smash Music
+#DESCRIPTION Smash Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/48.ts:Smash Retro
+#DESCRIPTION Smash Retro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/25.ts:Smash Rock
+#DESCRIPTION Smash Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com/telesur/telesur/chunklist_w1240568243.m3u8:TeleSUR (muziek - Costa Rica)
+#DESCRIPTION TeleSUR (muziek - Costa Rica)
+#SERVICE 4097:0:1:131:2:4:0:0:0:0:http%3a//hls.tmacaraibes.com/live/index.m3u8:TMA - Television Musicale Antillaise (muziek - Ant
+#DESCRIPTION TMA - Television Musicale Antillaise (muziek - Ant
+#SERVICE 4097:0:1:234:0:0:0:0:0:0:http%3a//84.16.66.109%3a1935/livecast/tvm3/master.m3u8:TVM3 (Zwitserland)
+#DESCRIPTION TVM3 (Zwitserland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de1se01.v2beat.live/playlist.m3u8?fluxustv.m3u8:V2BEAT TV
+#DESCRIPTION V2BEAT TV
+#SERVICE 4097:0:1:4CFC:81C:600:FFFF0000:0:0:0:http%3a//ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8 :XITE HD (muziek NL)
+#DESCRIPTION XITE HD (muziek NL)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:Первый Музыкальный BY (Russisch)
+#DESCRIPTION Первый Музыкальный BY (Russisch)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2200:Первый Музыкальный RU BY (Russisc
+#DESCRIPTION Первый Музыкальный RU BY (Russisc
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:Страна FM TV (Russisch)
+#DESCRIPTION Страна FM TV (Russisch)
 #SERVICE 1:64:89:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.xradio.com.tr%3a8770/stream:xradio
@@ -603,3 +723,61 @@
 #DESCRIPTION WRCF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
+#SERVICE 1:64:8B:0:0:0:0:0:0:0::AFN Global: Music and Spoken Word Radio
+#DESCRIPTION AFN Global: Music and Spoken Word Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18683.live.streamtheworld.com/AFN_CTY_SC?csegid=3:AFN Country
+#DESCRIPTION AFN Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18133.live.streamtheworld.com/AFN_FANAAC.aac:AFN Fans
+#DESCRIPTION AFN Fans
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//16693.live.streamtheworld.com/AFN_FRE_SC?csegid=3:AFN Freedom
+#DESCRIPTION AFN Freedom
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//16693.live.streamtheworld.com/AFN_GRV_SC?csegid=3:AFN Gravity
+#DESCRIPTION AFN Gravity
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21283.live.streamtheworld.com/AFN_SEA_SC?csegid=3:AFN Holiday
+#DESCRIPTION AFN Holiday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//16693.live.streamtheworld.com/AFN_HOT_SC?csegid=3:AFN Hot AC
+#DESCRIPTION AFN Hot AC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//18443.live.streamtheworld.com/AFN_JOE.mp3:AFN Joe Radio
+#DESCRIPTION AFN Joe Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22833.live.streamtheworld.com/AFN_LGY_SC?csegid=3:AFN Legacy
+#DESCRIPTION AFN Legacy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//15363.live.streamtheworld.com/AFN_PTK.mp3:AFN Powertalk
+#DESCRIPTION AFN Powertalk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//14943.live.streamtheworld.com/AFN_VCE.mp3:AFN The Voice
+#DESCRIPTION AFN The Voice
+#SERVICE 1:64:8C:0:0:0:0:0:0:0::AFN Local Stations
+#DESCRIPTION AFN Local Stations
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/AFNE_AVN_SC?csegid=1:AFN Aviano
+#DESCRIPTION AFN Aviano
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22323.live.streamtheworld.com/AFNE_BHN_SC?csegid=16:AFN Bahrain
+#DESCRIPTION AFN Bahrain
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21313.live.streamtheworld.com/AFNE_BAV_SC?csegid=2:AFN Bavaria
+#DESCRIPTION AFN Bavaria
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21273.live.streamtheworld.com%3a80/AFNE_BLXAAC_SC:AFN Benelux - The Eagle
+#DESCRIPTION AFN Benelux - The Eagle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/AFNE_GMO_SC?csegid=17:AFN Guantanamo Bay - GTMO
+#DESCRIPTION AFN Guantanamo Bay - GTMO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20853.live.streamtheworld.com/AFNE_ICK.mp3:AFN Incirlik
+#DESCRIPTION AFN Incirlik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21283.live.streamtheworld.com%3a80/AFNE_KTNAAC_SC:AFN Kaiserslautern
+#DESCRIPTION AFN Kaiserslautern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21313.live.streamtheworld.com/AFNE_LJS_SC?csegid=5:AFN Lajes
+#DESCRIPTION AFN Lajes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20873.live.streamtheworld.com/AFNE_NAP.mp3:AFN Naples
+#DESCRIPTION AFN Naples
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22323.live.streamtheworld.com/AFNE_RTA_SC?csegid=8:AFN Rota
+#DESCRIPTION AFN Rota
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//22323.live.streamtheworld.com%3a3690/AFNE_SDB_SC:AFN Sauda Bay
+#DESCRIPTION AFN Sauda Bay
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_SIG_SC?csegid=9:AFN Sigonella
+#DESCRIPTION AFN Sigonella
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_SDB_SC?csegid=10:AFN Souda Bay
+#DESCRIPTION AFN Souda Bay
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21233.live.streamtheworld.com/AFNE_SPG_SC?csegid=11:AFN Spangdahlem
+#DESCRIPTION AFN Spangdahlem
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22593.live.streamtheworld.com/AFNE_STU_SC?csegid=12:AFN Stuttgart
+#DESCRIPTION AFN Stuttgart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21283.live.streamtheworld.com/AFNE_VIC_SC?csegid=14:AFN Vicenza
+#DESCRIPTION AFN Vicenza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21283.live.streamtheworld.com%3a80/AFNE_WBNAAC_SC:AFN Wiesbaden
+#DESCRIPTION AFN Wiesbaden
