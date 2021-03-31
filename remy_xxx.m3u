@@ -12,14 +12,6 @@ http://187.188.147.165:8000/play/a012/index.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815880410.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV HD (18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",NuArtTV [18+]
-http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Russian Night (18+)
-http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Blue Hustler (18+)
-http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",BlueHustler HD
-http://213.234.9.46:7088/udp/239.1.13.5:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Miami TV - Jenny Live (18+)
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Miami TV Latino (18+)
