@@ -136,8 +136,6 @@ https://www.ast.tv/stream/2/normal.m3u8
 #EXTINF:-1 tvg-id="ASTTV2.cy" tvg-name="AST TV 2" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2 (PC) (1080p)
 http://www.ast.tv/stream/2/master.m3u8
 
-#EXTINF:-1 group-title="WodPro24","WodPro24"
-"WodPro24"
 #EXTINF:-1 group-title="WodPro24",Xxx-adult-video(10)
 http://wodpro24.tr4545.in:8080/xporn/xxx-adult-video(10).mp4
 #EXTINF:-1 group-title="WodPro24",Xxx-adult-video(11)
