@@ -43,6 +43,14 @@
 #DESCRIPTION Whitney Owens (documentaires, storm chasers)
 #SERVICE 1:64:8E:0:0:0:0:0:0:0::+++techniek+++
 #DESCRIPTION +++techniek+++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=s4BJG6XSJcCm/s4BJG6XSJcCm-20200316151750_5-audio=128000-video=2200000.m3u8?v=20200316151750_5:20200310 Venetia, kanalen helder
+#DESCRIPTION 20200310 Venetia, kanalen helder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=I4JMqsVIiECS/I4JMqsVIiECS-20200319104836_5-audio=128000-video=3600000.m3u8?v=20200319104836_5:20200313 Venetia leeg
+#DESCRIPTION 20200313 Venetia leeg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=1BZgW8gDiAo2/1BZgW8gDiAo2-20200421145708_5-audio=128000-video=2200000.m3u8?v=20200421145708_5:20200421 Kamagurka waarom alles in het Engels?
+#DESCRIPTION 20200421 Kamagurka waarom alles in het Engels?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=nAJEiegDqcgk/nAJEiegDqcgk-20200428134723_5-audio=128000-video=2200000.m3u8?v=20200428134723_5:20200428 Kamagurka maakt het zelf
+#DESCRIPTION 20200428 Kamagurka maakt het zelf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.rovid.nl/rech/rvdr/2020/rech-rvdr-20200604-id39etunn-bron.mp4 :00000000 rechtbank online
 #DESCRIPTION 00000000 rechtbank online
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudflare.tv/hls/live.m3u8 :Cloudflare TV

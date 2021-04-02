@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | WEB_CAMS★★ ==
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8:Earth TV
 #DESCRIPTION Earth TV
@@ -21,8 +21,8 @@
 #DESCRIPTION S. YOLU EMİNÖNÜ SOS.TE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/573.stream/chunklist_w1293060139.m3u8:Avrasya Tüneli - Sahilyolu Kumkapı
 #DESCRIPTION Avrasya Tüneli - Sahilyolu Kumkapı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/20.stream/chunklist_w2077785237.m3u8:BAĞDAT CD. ŞAŞKINBAKKAL
-#DESCRIPTION BAĞDAT CD. ŞAŞKINBAKKAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/20.stream/chunklist_w2077785237.m3u8:BAgDAT CD. ŞAŞKINBAKKAL
+#DESCRIPTION BAgDAT CD. ŞAŞKINBAKKAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/257.stream/chunklist_w47539693.m3u8:Bebek Arnavutköy Burun
 #DESCRIPTION Bebek Arnavutköy Burun
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
@@ -95,7 +95,7 @@
 #DESCRIPTION Germany - Frankfurt
 #SERVICE 4097:0:0:133:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/bukovina_cam_c632c4/bukovina_cam_c632c4.stream/playlist.m3u8:POLANDHOTELBUKOVINA
 #DESCRIPTION POLANDHOTELBUKOVINA
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::*** Hrvatska ***
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::*** Hrvatska ***
 #DESCRIPTION *** Hrvatska ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist.m3u8:TRG KRAJINE, BANJA LUKA
 #DESCRIPTION TRG KRAJINE, BANJA LUKA
@@ -139,7 +139,7 @@
 #DESCRIPTION Hrvatska  - Varazdin
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist_w873016047_b350000.m3u8:Banja luka (trg krajine)
 #DESCRIPTION Banja luka (trg krajine)
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
 #DESCRIPTION * * * WEBCAM livespotting * * *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4646.flv/playlist.m3u8:Aruba - Bucuti Beach Wing
 #DESCRIPTION Aruba - Bucuti Beach Wing

@@ -585,6 +585,94 @@
 #DESCRIPTION TRANS 7 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/transtv/smil%3atranstv.smil/playlist.m3u8:TRANS TV HD
 #DESCRIPTION TRANS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajd.getaj.net/AJD/index.m3u8:Al Jazeera Documentary
+#DESCRIPTION Al Jazeera Documentary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=0BJNPYjb00uk/0BJNPYjb00uk-20200305133021_5-audio=128000-video=3600000.m3u8?v=20200305133021_5:20200303 Groningen: Blauwe Loper
+#DESCRIPTION 20200303 Groningen: Blauwe Loper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=8CIIzMUaVksg/8CIIzMUaVksg-20200426141450_5-audio=128000-video=2200000.m3u8?v=20200426141450_5:20200426 Hubble 30 jaar
+#DESCRIPTION 20200426 Hubble 30 jaar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=dDAErMwbZxu0/dDAErMwbZxu0-20200128181203_6-audio=128000-video=3600000.m3u8?v=20200128181203_6:NB: QinetiQ bouwt satelliet in Kruibeke (BE) 20200
+#DESCRIPTION NB: QinetiQ bouwt satelliet in Kruibeke (BE) 20200
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tBRoXcgYlBUE/item=KaJMScUKFhi0/KaJMScUKFhi0-20200129173516_5-audio=128000-video=3600000.m3u8?v=20200129173516_5:NB: SpaceX lanceert Falcon-draagraket met zestig s
+#DESCRIPTION NB: SpaceX lanceert Falcon-draagraket met zestig s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/007:ITV 4
+#DESCRIPTION ITV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/006:ITV 3
+#DESCRIPTION ITV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/008:Film 4
+#DESCRIPTION Film 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
+#DESCRIPTION 92 News UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/index.m3u8:Akaal Channel UK (Engels)
+#DESCRIPTION Akaal Channel UK (Engels)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8:Bloomberg TV Europa (nieuws - Engeland)
+#DESCRIPTION Bloomberg TV Europa (nieuws - Engeland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8:British Muslim TV (Engeland - religie)
+#DESCRIPTION British Muslim TV (Engeland - religie)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8:Cruise 1st TV (Engeland)
+#DESCRIPTION Cruise 1st TV (Engeland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8:Deutsche Welle (Engels)
+#DESCRIPTION Deutsche Welle (Engels)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net%3a80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8:MTA 1 (Engeland)
+#DESCRIPTION MTA 1 (Engeland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8?sd=10&rebase=on:MTA 2
+#DESCRIPTION MTA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on:MTA 3
+#DESCRIPTION MTA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net/1106.m3u8?streamType=live:RT UK
+#DESCRIPTION RT UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.sheffieldlive.org/hls/main.m3u8:Sheffield Live (Engeland)
+#DESCRIPTION Sheffield Live (Engeland)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8:Sunburn TV
+#DESCRIPTION Sunburn TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/church-online/ingles2/playlist.m3u8:TV MANA (Engels)
+#DESCRIPTION TV MANA (Engels)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//str81.creacast.com/grandlilletv/high/playlist.m3u8:BFM Grand Lille
+#DESCRIPTION BFM Grand Lille
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w2.kringvarp.fo/uttanlands/_definst_/smil%3auttanlands.smil/chunklist_slfao.m3u8:KVF (Faerer eilanden)
+#DESCRIPTION KVF (Faerer eilanden)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8:Channel 11 KAN (Israel)
+#DESCRIPTION Channel 11 KAN (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200.m3u8:Channel 12 Keshet (Israel)
+#DESCRIPTION Channel 12 Keshet (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//reshet-live-il.ctedgecdn.net/13tv-desktop/nodvr/r13_1400.m3u8:Channel 13 Reshet (Israel)
+#DESCRIPTION Channel 13 Reshet (Israel)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8:Channel 2 News - N12 HD (Israel)
+#DESCRIPTION Channel 2 News - N12 HD (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8:Channel 20 (Israel)
+#DESCRIPTION Channel 20 (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil%3aShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8:Channel 21 Shopping (Israel)
+#DESCRIPTION Channel 21 Shopping (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8:Channel 23 Kan Edu (Israel)
+#DESCRIPTION Channel 23 Kan Edu (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8:Channel 24 Music (Israel)
+#DESCRIPTION Channel 24 Music (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kanlivep2event-i.akamaihd.net/hls/live/747613/747613/playlist.m3u8:Channel 33 Makan (Israel)
+#DESCRIPTION Channel 33 Makan (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8:Channel 96 Kaballah (Israel)
+#DESCRIPTION Channel 96 Kaballah (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream71.shidur.net/htvlive2/_definst_/smil%3alive2.smil/chunklist_b1248000.m3u8:Channel 97 Hidraboot (Israel)
+#DESCRIPTION Channel 97 Hidraboot (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gstream4.panet.co.il/edge/halaTV/playlist.m3u8:Hala TV Arab (Israel)
+#DESCRIPTION Hala TV Arab (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8:Kaballah Russian (Israel)
+#DESCRIPTION Kaballah Russian (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8:Musayof Live (Israel)
+#DESCRIPTION Musayof Live (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8:Sport 5 Live (Israel)
+#DESCRIPTION Sport 5 Live (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ynet-lh.akamaihd.net/i/ynet_1@123290/index_2_av-p.m3u8 :Ynet (Israel)
+#DESCRIPTION Ynet (Israel)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/switcher/smil%3amcas8.smil/master.m3u8:Gunma TV (Japan)
+#DESCRIPTION Gunma TV (Japan)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhknewsreal5-i.akamaihd.net/hls/live/267603/nhknewsreal5/playlist.m3u8:NHK Kishou-Saigai (Weather and Disaster Prevention
+#DESCRIPTION NHK Kishou-Saigai (Weather and Disaster Prevention
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/mcas/smil%3amx1_prod.smil/master.m3u8:Tokyo MX1 (Japan)
+#DESCRIPTION Tokyo MX1 (Japan)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/mcas/smil%3amx2_prod.smil/master.m3u8:Tokyo MX2 (Japan)
+#DESCRIPTION Tokyo MX2 (Japan)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8:Dao Lane Xang
+#DESCRIPTION Dao Lane Xang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8:30A Investment Pitch
 #DESCRIPTION 30A Investment Pitch
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:30A Music

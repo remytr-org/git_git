@@ -15,6 +15,8 @@
 #DESCRIPTION GS TV
 #SERVICE 1:64:87:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/17.ts:Smash Sports
+#DESCRIPTION Smash Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8:True Sports HD 1
 #DESCRIPTION True Sports HD 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8:True Sports HD 2

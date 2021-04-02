@@ -255,6 +255,8 @@
 #DESCRIPTION Power TV HD (ARG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8:Q Music (NL)
 #DESCRIPTION Q Music (NL)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8:QMusic studiocam BE
+#DESCRIPTION QMusic studiocam BE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale51/canale51/chunklist_w1897160883.m3u8:Radio 51
 #DESCRIPTION Radio 51
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Radio Banovina
