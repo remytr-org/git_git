@@ -178,6 +178,13 @@ http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_Tivibu
 ReMy_Tivibu
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="MÜZİK", TRT1 HD (tivibu)
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS|User-agent=desk_win32
+
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="MÜZİK", TRT1 HD (tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS
+
 #EXTINF: -1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="http://pici.life/trt1hdtr_2.png" group-title="ULUSAL", TRT 1 (Tivibu)
 #EXTVLCOPT:http-user-agent=desk_win32
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS
@@ -3609,12 +3616,8 @@ https://www.djing.com/tv/s-27963-04-summer-vibes.m3u8
 https://www.djing.com/tv/u-27971-04.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DİJİNG UNDERGROUND HD
 https://www.djing.com/tv/u-27777-04.m3u8
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="MÜZİK", TRT1 HD (tivibu)
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS
 #EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_muzik.png" group-title="MÜZİK", TRT MÜZİK
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS|User-agent=desk_win32
 #EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/nr1_turk.png" group-title="MÜZİK", NR1 TURK
 #EXTVLCOPT:http-user-agent=desk_win32
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
