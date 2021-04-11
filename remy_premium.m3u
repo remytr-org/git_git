@@ -837,8 +837,8 @@ http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",TeleArena
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="FASHION_FLIX",FASHION_FLIX
-FASHION_FLIX
+#EXTINF:-1 group-title="FASHION_FLIX",FASHION FLIX
+FASHION FLIX
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FASHION TV PARIS
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",Fashion TV (SK)
