@@ -178,10 +178,13 @@ http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_Tivibu
 ReMy_Tivibu
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="MÜZİK", TRT1 HD (tivibu)
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS|User-agent=desk_win32
+#EXTINF:0 user-agent="desk_win32" tvg-id=""123" tvg-name="TRT 1 Full HD" tvg-logo="" group-title="ULUSAL",TRT 1
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS
 
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="MÜZİK", TRT1 HD (tivibu)
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="ULUSAL", TRT1 HD (tivibu)
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS | User-agent=desk_win32
+
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="ULUSAL", TRT1 HD (tivibu)
 #EXTVLCOPT:http-user-agent=desk_win32
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS
 
