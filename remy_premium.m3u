@@ -1,5 +1,7 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_ULUSAL
+ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 2 HD
 https://tv-trt2.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
@@ -172,6 +174,178 @@ http://217.174.225.146/legacyhls/ch005_400/index.m3u8
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Türkmenistan TV
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
+
+
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_Tivibu
+ReMy_Tivibu
+#EXTINF: -1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="http://pici.life/trt1hdtr_2.png" group-title="ULUSAL", TRT 1 (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="trt2.tr" tvg-name="TRT 2 HD" tvg-logo="https://i.hizliresim.com/iu5Eh0.png" group-title="ULUSAL", TRT 2 (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="showtv.tr" tvg-name="Show TV HD" tvg-logo="http://pici.life/TR/showtvtr.png" group-title="ULUSAL", Show TV (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$SHOW_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="showtv.tr" tvg-name="Show TV HD" tvg-logo="http://pici.life/TR/showtvtr.png" group-title="ULUSAL", Show TV
+https://tv.kuzeytv.com/hls/show.m3u8
+#EXTINF: -1 tvg-id="startv.tr" tvg-name="Star TV HD" tvg-logo="http://pici.life/TR/startvtr.png" group-title="ULUSAL", STAR TV (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$STAR_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="fox.tr" tvg-name="FOX" tvg-logo="http://pici.life/TR/foxhd.png" group-title="ULUSAL", FOX TV (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$FOX_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="fox.tr" tvg-name="FOX" tvg-logo="http://pici.life/TR/foxhd.png" group-title="ULUSAL", FOX TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+#EXTINF: -1 tvg-id="fox.tr" tvg-name="FOX" tvg-logo="http://pici.life/TR/foxhd.png" group-title="ULUSAL", FOX TV
+https://tv.kuzeytv.com/hls/fox.m3u8
+#EXTINF: -1 tvg-id="atv.tr" tvg-name="ATV HD" tvg-logo="http://pici.life/TR/atvtr.png" group-title="ULUSAL", ATV HD (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ATV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="atv.tr" tvg-name="ATV HD" tvg-logo="http://pici.life/TR/atvtr.png" group-title="ULUSAL", ATV HD
+http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+#EXTINF: -1 tvg-id="kanald.tr" tvg-name="Kanal D HD" tvg-logo="http://pici.life/TR/kanald.png" group-title="ULUSAL", Kanal D HD (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KANAL_D/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="kanald.tr" tvg-name="Kanal D HD" tvg-logo="http://pici.life/TR/kanald.png" group-title="ULUSAL", Kanal D HD
+https://tv.kuzeytv.com/hls/kanald.m3u8
+#EXTINF: -1 tvg-id="skyturk360.tr" tvg-name="360 HD" tvg-logo="http://pici.life/tv360tr.png" group-title="ULUSAL", 360 TV (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$360_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="tv8.tr" tvg-name="TV8 HD" tvg-logo="http://pici.life/TR/tv8tr.png" group-title="ULUSAL", TV8 (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV8_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="tv85.tr" tvg-name="TV 8,5" tvg-logo="http://pici.life/tv85tr.png" group-title="ULUSAL", TV8.5 (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV_85_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="http://pici.life/kanal7tr.png" group-title="ULUSAL", KANAL 7 (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KANAL_7_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="http://pici.life/kanal7tr.png" group-title="ULUSAL", KANAL 7
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/83
+#EXTINF: -1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="http://pici.life/TR/beyaztvtr.png" group-title="ULUSAL", BEYAZ TV (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BEYAZ_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="tv2.tr" tvg-name="Teve2 HD" tvg-logo="http://pici.life/TR/teve2tr.png" group-title="ULUSAL", TEVE2 (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="tv2.tr" tvg-name="Teve2 HD" tvg-logo="http://pici.life/TR/teve2tr.png" group-title="ULUSAL", TEVE2
+https://tv.kuzeytv.com/hls/teve2.m3u8
+#EXTINF: -1 tvg-id="a2.tr" tvg-name="A2" tvg-logo="http://pici.life/TR/a2hdtr.png" group-title="ULUSAL", A2 (Tivibu)
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="a2.tr" tvg-name="A2" tvg-logo="http://pici.life/TR/a2hdtr.png" group-title="ULUSAL", A2
+https://tv.kuzeytv.com/hls/a2.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.hizliresim.com/SHWWoF.png" group-title="ULUSAL", BIZIMEV TV HD (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/LIVE/shls/LIVE$BIZIMEV_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="ntv.tr" tvg-name="NTV HD" tvg-logo="https://i.hizliresim.com/E290VC.png" group-title="ULUSAL", NTV (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NTV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="ntv.tr" tvg-name="NTV HD" tvg-logo="https://i.hizliresim.com/E290VC.png" group-title="ULUSAL", NTV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
+#EXTINF: -1 tvg-id="ntv.tr" tvg-name="NTV HD" tvg-logo="https://i.hizliresim.com/E290VC.png" group-title="ULUSAL", NTV
+https://tv.kuzeytv.com/hls/ntv.m3u8
+#EXTINF: -1 tvg-id="trthaber.tr" tvg-name="TRT Haber" tvg-logo="http://pici.life/TR/trthaberhdtr.png" group-title="ULUSAL", TRT Haber (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="haberturk.tr" tvg-name="HABERTURK HD" tvg-logo="http://pici.life/TR/haberturktr.png" group-title="ULUSAL", HABERTURK (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$HABERTURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="haberturk.tr" tvg-name="HABERTURK HD" tvg-logo="http://pici.life/TR/haberturktr.png" group-title="ULUSAL", HABERTURK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
+#EXTINF: -1 tvg-id="haberturk.tr" tvg-name="HABERTURK HD" tvg-logo="http://pici.life/TR/haberturktr.png" group-title="ULUSAL", HABERTURK
+https://tv.kuzeytv.com/hls/haberturk.m3u8
+#EXTINF: -1 tvg-id="halktv.tr" tvg-name="Halk TV" tvg-logo="http://pici.life/TR/halktvtr.png" group-title="ULUSAL", Halk TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
+#EXTINF: -1 tvg-id="halktv.tr" tvg-name="Halk TV" tvg-logo="http://pici.life/TR/halktvtr.png" group-title="ULUSAL", Halk TV
+https://tv.kuzeytv.com/hls/halk.m3u8
+#EXTINF: -1 tvg-id="tele1.tr" tvg-name="TELE 1" tvg-logo="http://pici.life/TR/Tele_1.png" group-title="ULUSAL", TELE 1
+http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
+#EXTINF: -1 tvg-id="tele1.tr" tvg-name="TELE 1" tvg-logo="http://pici.life/TR/Tele_1.png" group-title="ULUSAL", TELE 1
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
+#EXTINF: -1 tvg-logo="https://i.hizliresim.com/YNfmlL.png" group-title="ULUSAL", KANAL B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF: -1 tvg-logo="http://pici.life/TR/TRT_turk.png" group-title="ULUSAL", TRT TÜRK HD (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_TURK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="cnnturk.tr" tvg-name="CNN TÜRK HD" tvg-logo="http://pici.life/TR/cnnturkradio.png" group-title="ULUSAL", CNN TÜRK (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CNN_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-id="cnnturk.tr" tvg-name="CNN TÜRK HD" tvg-logo="http://pici.life/TR/cnnturkradio.png" group-title="ULUSAL", CNN TÜRK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
+#EXTINF: -1 tvg-id="cnnturk.tr" tvg-name="CNN TÜRK HD" tvg-logo="http://pici.life/TR/cnnturkradio.png" group-title="ULUSAL", CNN TÜRK
+https://tv.kuzeytv.com/hls/cnnturk.m3u8
+#EXTINF: -1 tvg-id="tgrt-haber.tr" tvg-name="TGRT HABER" tvg-logo="https://i.hizliresim.com/50zidn.png" group-title="ULUSAL", TGRT HABER (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TGRT_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://i.hizliresim.com/OmX4gD.png" group-title="ULUSAL", KONTV (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KON_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://i.hizliresim.com/XoAH6c.png" group-title="ULUSAL", VİZYON TV
+https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w1148765115.m3u8
+#EXTINF: -1 tvg-id="animalplanet.tr" tvg-name="Animal Planet" tvg-logo="http://pici.life/RU/animalplanet.png" group-title="BELGESEL", Animal Planet
+http://2.58.193.242:25461/live/yasinnyell/yelcii0803/269.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8
+#EXTINF: -1 tvg-id="animalplanet.tr" tvg-name="Animal Planet" tvg-logo="http://pici.life/RU/animalplanet.png" group-title="BELGESEL", Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.10.1
+https://x.birakmamseni.xyz/kaynakstreamradarco/3/strmrdr.m3u8
+#EXTINF: -1 tvg-id="bbcearth.tr" tvg-name="BBC EARTH HD" tvg-logo="http://pici.life/bbcearth_2.png" group-title="BELGESEL", BBC EARTH
+http://2.58.193.242:25461/live/yasinnyell/yelcii0803/258.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8
+#EXTINF: -1 tvg-id="bbcearth.tr" tvg-name="BBC EARTH HD" tvg-logo="http://pici.life/bbcearth_2.png" group-title="BELGESEL", BBC EARTH
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.10.1
+https://x.birakmamseni.xyz/kaynakstreamradarco/6/strmrdr.m3u8
+#EXTINF: -1 tvg-id="historychannel.tr" tvg-name="History HD" tvg-logo="http://pici.life/history_2.png" group-title="BELGESEL", History HD
+http://streams.iptvdk.co:8880/R9WC9vIIli/2VpcWfNsdg/390
+#EXTINF: -1 tvg-id="historychannel.tr" tvg-name="History HD" tvg-logo="http://pici.life/history_2.png" group-title="BELGESEL", History HD
+http://2.58.193.242:25461/live/yasinnyell/yelcii0803/278.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8
+#EXTINF: -1 tvg-id="natgeo.tr" tvg-name="National Geographic" tvg-logo="http://pici.life/natgeo_2.png" group-title="BELGESEL", National Geographic
+http://2.58.193.242:25461/live/yasinnyell/yelcii0803/286.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8
+#EXTINF: -1 tvg-id="natgeo.tr" tvg-name="National Geographic" tvg-logo="http://pici.life/natgeo_2.png" group-title="BELGESEL", National Geographic
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.10.1
+https://x.birakmamseni.xyz/kaynakstreamradarco/56/strmrdr.m3u8
+#EXTINF: -1 tvg-id="natgeowild.tr" tvg-name="Nat Geo Wild HD" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="BELGESEL", Nat Geo Wild HD
+http://2.58.193.242:25461/live/yasinnyell/yelcii0803/282.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8
+#EXTINF: -1 tvg-id="natgeowild.tr" tvg-name="Nat Geo Wild HD" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="BELGESEL", Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.10.1
+https://x.birakmamseni.xyz/kaynakstreamradarco/55/strmrdr.m3u8 
+#EXTINF: -1 tvg-id="discoverychannel.tr" tvg-name="Discovery Channel HD" tvg-logo="https://i.hizliresim.com/LN1Nbz.png" group-title="BELGESEL", Discovery Channel HD
+http://2.58.193.242:25461/live/yasinnyell/yelcii0803/264.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8
+#EXTINF: -1 tvg-id="discoverychannel.tr" tvg-name="Discovery Channel HD" tvg-logo="https://i.hizliresim.com/LN1Nbz.png" group-title="BELGESEL", Discovery Channel HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.10.1
+https://x.birakmamseni.xyz/kaynakstreamradarco/32/strmrdr.m3u8 
+#EXTINF: -1 tvg-id="DTX.tr" tvg-name="DTX" tvg-logo="https://i.hizliresim.com/Wx0iey.png" group-title="BELGESEL", DTX
+http://stream99.astalavistababy.xyz/selcuksportsbelgesel/dtx/playlist.m3u8
+#EXTINF: -1 tvg-id="discoveryscience.tr" tvg-name="Discovery Science HD" tvg-logo="https://i.hizliresim.com/IFAq7U.png" group-title="BELGESEL", Discovery Science HD
+http://2.58.193.242:25461/live/yasinnyell/yelcii0803/262.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8
+#EXTINF: -1 tvg-id="discoveryscience.tr" tvg-name="Discovery Science HD" tvg-logo="https://i.hizliresim.com/IFAq7U.png" group-title="BELGESEL", Discovery Science HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.10.1
+https://x.birakmamseni.xyz/kaynakstreamradarco/33/strmrdr.m3u8 
+#EXTINF: -1 tvg-id="tlc.tr" tvg-name="TLC" tvg-logo="http://pici.life/RO/tlc.png" group-title="BELGESEL", TLC (BluTV)
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF: -1 tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="https://i.hizliresim.com/CZK7R2.png" group-title="BELGESEL", DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/Mehmet.m3u8
+#EXTINF: -1 tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="https://i.hizliresim.com/CZK7R2.png" group-title="BELGESEL", DMAX (Tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NTV_SPOR_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.turunculevye.com/wp-content/uploads/2020/01/nimo-tv-%C3%BClkemize-giri%C5%9F-yapacak-scaled.jpg" group-title="ÇOCUK", LARVA İZLE
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF: -1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network" tvg-logo="http://pici.life/SE/cartoonnetwork.png" group-title="ÇOCUK", Cartoon Network
+https://streams.livetv.az/turk/cartoon/playlist.m3u8
+#EXTINF: -1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network" tvg-logo="http://pici.life/SE/cartoonnetwork.png" group-title="ÇOCUK", Cartoon Network
+http://94.46.195.170:9000/cartoonnetwork/live.m3u8
+#EXTINF: -1 tvg-id="disney.tr" tvg-name="Disney Channel" tvg-logo="http://pici.life/disneychannel_2.png" group-title="ÇOCUK", Disney Channel
+http://a.yenisistem2.space:8022/taraftartv4/disneychannel/playlist.m3u8
+#EXTINF: -1 tvg-id="disney.tr" tvg-name="Disney Channel" tvg-logo="http://pici.life/disneychannel_2.png" group-title="ÇOCUK", Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0 
+https://IPTV--iptv.repl.co/Turkish/disney_channel
+#EXTINF: -1 tvg-id="disney.tr" tvg-name="Disney Channel" tvg-logo="http://pici.life/disneychannel_2.png" group-title="ÇOCUK", Disney Channel
+http://94.46.195.170:9000/disneychannel/live.m3u8
+#EXTINF: -1 tvg-logo="https://miro.medium.com/max/1200/1*O2XZiaw63W3u5AvnYfJyFA.png" group-title="SİNEMA", ALMANYADA TÜRK 
+http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://surmeli.tv.tr/radyodinle3.png" group-title="SİNEMA", SÜRMELİ TV
+http://srmltv66.4kradyotv.com:8080/srmltv/srmltv/ckunklist.m3u8
+
+
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_WORLD_NEWS
 ReMy_WORLD_NEWS
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera English
@@ -3205,30 +3379,18 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="ReMy_NILESAT_ARABIC",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+
+
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ReMy_MUSIC_CHANNELS
 ReMy_MUSIC_CHANNELS
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Silence TV
-http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DOGA ICIN CAL 11 - CARSAMBA'YI SEL ALDI
-https://1drv.ws/u/s!AmlGjvQBird1gQa3Twms4PEWzmPd?e=XM56ZZ
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Samida - Lazuri nana
-https://1drv.ws/u/s!AmlGjvQBird1gQn0DOp411xyvSo8?e=PHF6VA
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Müslüm Gürses feat. Rubato - İsyankar AAC
-https://1drv.ws/v/s!AmlGjvQBird1gQczNrD2btKomNWR?e=llYz9Z
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Cengiz Kurtoglu,Hakan Altun - Usta Cirak FulL
-https://1drv.ws/u/s!AmlGjvQBird1eMLSwi9Z_3OS1Zw?e=e3vOE9
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",SilenceTV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",4 Turk Billboard
+http://51.210.199.30/hls/stream.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Siteler Muzik ANGARA
 http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TV
-https://soledge13.duhnet.tv//S2/hls_LIVE/dreamtvnp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamtv
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TURK
-https://soledge13.duhnet.tv//S2/hls_LIVE/dreamturknp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamturk
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TURK
-http://live.netd.com.tr/S1/hls_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TV
-https://live.dogannet.tv/S2/hls_LIVE/dreamtv/1000/prog_index.m3u8?
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TV
-http://live.dogannet.tv/S2/hls_LIVE/dreamtv/index.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Damar TV
+http://51.255.7.18:8080/hls/damar.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL HD
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL TV
@@ -3241,12 +3403,6 @@ https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL POP HD
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL WORLD TV
-https://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",POWER TURK HD
-http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",POWER TURK HD
-https://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",1Music Channel Hungary
 http://1music.hu/1music.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",4Fun TV
@@ -3255,104 +3411,44 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",A1 Regio TV
 http://stream.a1mediagroep.eu/hls/a1tv.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",AAHO Music!!
-https://v.viralshit.in/live/aahomusic.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ALBUK HD
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",İNDİAN MSC
-http://45.251.116.114:9981/stream/channelid/1880958846?ticket=C3461CA34CC85D3D14CCF577BD41013FDC34CF39&profile=pass
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ALB MUSIC HD
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MY3 MUSİC TV
-http://91.231.233.161:8080/udp/239.195.57.54:1234
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",BRIDGE DELUXE TV HD
-http://91.231.233.161:8080/udp/239.195.59.213:1234
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Baeble Music
-https://dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Baraza TV Classic Hits
-https://video1.getstreamhosting.com:1936/8452/8452/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Baraza TV Greek Music Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Bluegrass 4U
 https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",BOK TV
-http://boktv.interworks.in:1935/live/boktv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Brandnite TV HD
-https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Bridge TV
-http://ott-cdn.ucom.am/s34/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Bridge TV Russian hit
-http://ott-cdn.ucom.am/s78/index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Capital Radio
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ch au tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Chanson TV
-http://hls#EXTINF:-1 group-title="ReMy_SPORT"ansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",City TV
-https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",CMC TV
 http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Company TV
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",CzWORKA
-http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",D+ Duga plus rs
-http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DHTV denhaag tv
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DMF
 http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DSTV BG
-rtmp://46.249.95.140/live/livestream
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Duga TV
-http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Etno tv
-http://46.20.136.59/live3/_definst_/etno/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Q1Kjknl.png" group-title="ReMy_MUSIC_CHANNELS",Eamar Music
-http://82.212.74.3:8000/live/7514.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",FEN TV
-http://185.150.27.125:9981/stream/channelid/407664117?ticket=40005FBBD34F4C5D0D925929BE44C507C3FB775D&profile=pass
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",First Music Channel
 http://rtmp.one.by:1200
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",First Music Channel HD
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",First Music Channel Russia HD
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",GENIAL TV
-http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Gigante TV
-http://85.214.130.95:8080/live/stream.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",GLas Drine Music HD
 rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Gong Base
-http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Hit Music Channel (Hungary)
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",HIT RU
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",HQM BALADAS
-https://livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",HQM LATINO
-https://livelist01.yowi.tv/lista/beb3dc68b9581e926f166d498fa18fceac8eb346/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Ibiza Global TV
-https://ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",I Dj Music Srbija Tv
-http://live.cast-control.eu:1935/VitezevoTv/VitezevoTv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",IMPACT TV
-http://89.36.10.12:8080
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Javan TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Jefimija HD
-rtmp://212.200.108.253/live/jefimija.flv
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",JUCE TV
-http://api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kayhan TV HD
 http://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Keep It Country TV * UK
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kcn2 Tv
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kcn3 Tv
@@ -3367,92 +3463,30 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KURIAKOS MUSIC
 http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Latinos Up! TV
-https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",m2otv
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",m2otv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MCM TOP
-http://ott-cdn.ucom.am/s49/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Melody Channel
-rtmp://186.155.200.118:1935/live/MelodyChannel
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MESSINIA
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MESSINIA WEB TV
 rtmp://176.9.123.140:1935/messinia/messinia
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Mezzo
-http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MOOZ DANCE 
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Mooz Dance HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/247.m3u8/Level(3670016)?start=LIVE&end=END 
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MOOZ HD 
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Mooz HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MOOZ HITS 
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Mooz RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/247.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV Europe
-http://84.22.33.254/unicast.mtveurope/tracks-a2/mono.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV_Hits
-http://185.176.117.243/live/eds/MTV_Hits/hls_encr/MTV_Hits.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV_Hits
-http://213.252.252.17/live/eds/MTV_Hits/hls_encr/MTV_Hits.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV_Hits
-http://213.252.252.2/live/eds/MTV_Hits/hls_encr/MTV_Hits.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV (Latin America)
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV
-http://31.177.62.139:8011/play/s28
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV (Latin America)
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV-SD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV Norge
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV,NIck,CC
-http://31.177.62.139:8011/play/s29
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music1 gr
 http://wpso.com:1936/hls/music1.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Box
-http://213.81.153.221:8080/nasa
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Box UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Box Gold
-http://live.musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Choice Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KABKzdl.png" group-title="ReMy_MUSIC_CHANNELS",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KABKzdl.png" group-title="ReMy_MUSIC_CHANNELS",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Top
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Musig24
-https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",New Radio TV
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",NexTV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Nisville TV
 http://92.60.237.32:1935/live/nisville/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",NRJ TV
-http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",NRG91.gr TV
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Q'hubo TV
-http://st2.worldkast.com/8030/8030/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Ocko Expres
@@ -3461,47 +3495,20 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta HD
-#EXTVLCOPT:network-caching=333
-http://185.150.27.125:9981/stream/channelid/179733707?ticket=20C05FDF390EBBBA6DC926E8798FAE14AAFD0431&profile=pass
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta TV
-#EXTVLCOPT:network-caching=333
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta FOLK
-http://185.150.27.125:9981/stream/channelid/96840001?ticket=5CD0C867E28F2B6735CA9C8FE76ADFA26065D4FC&profile=pass
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Polskie Radio 24 WEB
-http://stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Portion HD (С.-Petersburg)
-rtmp://91.209.128.203:1935/live/teledom3
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",RETRO
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ROMA TV
-http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ROMAN TV Tr
-http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio 105 TV
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio 105 Network TV (IT)
-http://tv.105.net/live/105Test3/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Banovina
 rtmp://video.radio-banovina.hr/live/myStream
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Belllae monella TV
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist_w1052766946.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Beverwijk
-http://84.22.97.59:80/beverwijk/studio/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Birikina TV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w130186106.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Bruno
-http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Country FM TV
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Contact Vision
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Futuro Tv
-http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Lina TV
@@ -3510,84 +3517,22 @@ https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/playlist.m3u8
 https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio M-1
 http://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Monte Carlo TV
-rtmp://fms.105.net/live/rmc1
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Monte Carlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Monte Carlo TV (IT)
-http://tv.105.net/live/rmc3/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Sorrriso TV
 https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w800169359.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Tivu
-http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Peloritana TV
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Priggipesa TV
-https://itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio TV USA
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Weser TV Bremen
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio Zero Tv
-http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",RTV Zeri
-http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Sarajevo 1 Tv
-rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Sky Folk
 http://skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",SoNus FM [18+]
 http://138.201.226.83:1935/public/stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Super ROCK HD
-http://91.235.165.77:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Super Tv
-http://91.235.165.77:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Super Tv HD
-http://91.235.165.77:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE Africa
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE Kitoko
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE Naija
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE Toca
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE Tropical
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",UrbanMusic4U
-https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",UTV
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="ReMy_MUSIC_CHANNELS",VH1 Europe
-http://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="ReMy_MUSIC_CHANNELS",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",VH1 HD USA
-http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%25253D53da17a30bd0d3c946a41c86cb5873f1%252526_vmn_ar%25253Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%25252C53da17a30bd0d3c946a41c86cb5873f1%25252C_vmn_ar%25252Ctrue%25252C_fw_vcid2%25252C82125%253avh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697:
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",XCORPS-TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",view tv local kapang hd
-http://streamingserver001.viewtvgroup.com:80/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",view tv local kapang hd
-http://streamingserver001.viewtvgroup.com:80/kapanglocal-playout-master/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",YU PLANET
-http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Zeta TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ZFMRADIO.NL
-rtmp://kippingmultimediaal.nl:1935/live/ZFM1
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ZICO TV
-http://84.22.33.254/unicast.zicotv/mpegts
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJing Animation 
 https://www.djing.com/tv/animation.m3u8%20
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJing Dancefloor 
@@ -3664,7 +3609,9 @@ https://www.djing.com/tv/s-27963-04-summer-vibes.m3u8
 https://www.djing.com/tv/u-27971-04.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DİJİNG UNDERGROUND HD
 https://www.djing.com/tv/u-27777-04.m3u8
-
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="MÜZİK", TRT1 HD (tivibu)
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS
 #EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_muzik.png" group-title="MÜZİK", TRT MÜZİK
 #EXTVLCOPT:http-user-agent=desk_win32
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS
@@ -5396,3 +5343,228 @@ http://live.vnanet.vn/720P/playlist.m3u8
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vitv.vn/Content/Images/logo.png" tvg-name="VITV" group-title="VietNam",VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/66DVZ8SAi3o/maxresdefault.jpg" group-title="ÇOCUK", Şirinler Derleme 1
+http://fmeaddons.net/cocuk/COCUK:60_dakika_uzunlugunda_sirinler_Derleme_1.mp4
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8ItQJjwiX-Y/maxresdefault.jpg" group-title="ÇOCUK", Şirinler Derleme 2
+http://fmeaddons.net/cocuk/COCUK:60_dakika_uzunlugunda_sirinler_Derleme_2.mp4
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/c0Um4kXfs4U/maxresdefault.jpg" group-title="ÇOCUK", MR.Bean Canlı
+https://ws.flv.nimo.tv:443/live/su1599512427628r795aa3513d96486ecb48bf44496b8fd7_high.flv
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="DİZİ", The Flash Devamlı
+http://ws.flv.nimo.tv:80/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.flv
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="ÇOCUK", Tom and Jerry Willy Wonka and the Chocolate Factory 2017
+http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://cms-tc.pbskids.org/global/mezzanines/shows/super-why.jpg?mtime=20160224173339" group-title="ÇOCUK", SÜPER WHY
+https://ixfuture.cubecdn.net/gwCCa0UqrYc/1080p.m3u8
+
+#EXTINF: -1 tvg-logo="https://admin.rectv.co/uploads/cache/poster_thumb/uploads/jpg/5b977feeaca0b094696edd473e6f6487.jpg" group-title="FİLMLER", Rafadan Tayfa Dehliz Macerası
+http://reporectv.net/cdn/13756/10000000_533271517548617_2239455126989933010_n.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", HEP YEK 1
+http://94.20.21.194/storage/movie/10/10119/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", HEP YEK 2
+http://94.20.21.40/storage/movie/12/12429/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", HEP YEK 3
+http://94.20.21.34/storage/movie/15/15403/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Tosun Paşa
+http://94.20.21.36/storage/movie/13/12978/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", 100 Numaralı Adam_1978
+http://94.20.21.36/storage/movie/13/12972/video.mp4 
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kanlı Nigar
+http://94.20.21.40/storage/movie/13/12819/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Doktor Civanım_1983
+http://94.20.21.42/storage/movie/13/12818/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Gurbetçi Şaban
+http://94.20.21.42/storage/movie/13/12974/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Katma Değer Şaban
+http://vod.tsvipsmart.eu/turkishyesilcam/Katma%20De%c4%9fer%20%c5%9eaban%20-%20HD%20Film%20%28Restorasyonlu%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Gol Kralı_1980
+http://vod.tsvipsmart.eu/turkishyesilcam/Gol%20Kral%c4%b1%20-%20HD%20Film%20%28Restorasyonlu%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kibar Feyzo_1978
+http://94.20.21.40/storage/movie/13/12975/video.mp4 
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Korkusuz Korkak_1979
+http://vod.tsvipsmart.eu/turkishyesilcam/Korkusuz%20Korkak%20-%20HD%20Film%20%28Restorasyonlu%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Köşeyi Dönen Adam
+http://vod.tsvipsmart.eu/turkishyesilcam/K%c3%b6%c5%9feyi%20D%c3%b6nen%20Adam%20-%20Kemal%20SUNAL%20%28HD%20Restorasyonlu%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Tokatci_1983
+http://vod.tsvipsmart.eu/turkishyesilcam/tokatci.1983.Yerli.Film.HDTV.1080p.x264.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Salak Milyoner
+http://vod.tsvipsmart.eu/turkishyesilcam/Salak.Milyoner.1974.720p.WEB-DL.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Postacı
+http://vod.tsvipsmart.eu/turkishyesilcam/Postac%c4%b1%20-%20T%c3%bcrk%20Filmi%20HD%20Film%20%28Restorasyonlu%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Köyden İndim Şehire
+http://vod.tsvipsmart.eu/turkishyesilcam/K%c3%b6yden%20%c4%b0ndim%20%c5%9eehire%20_%20FULL%20HD.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sinifi Merhaba (2004)
+http://vod2.tsvipsmart.eu/vodmovie/download/turk/Hababam%20S%C4%B1n%C4%B1f%C4%B1%20Merhaba%20-%20T%C3%BCrk%20Filmi%20HD.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sinifi Askerde (2005)
+http://vod2.tsvipsmart.eu/vodmovie/download/turk/Hababam%20S%C4%B1n%C4%B1f%C4%B1%20Askerde%20-%20HD%20Film%20%28Restorasyonlu%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sinifi Üç Buçuk (2005)
+http://vod2.tsvipsmart.eu/vodmovie/download/turk/Hababam%20S%C4%B1n%C4%B1f%C4%B1%20%C3%9C%C3%A7%20Bu%C3%A7uk%20-%20T%C3%BCrk%20Filmi.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sınıfı_1975
+http://94.20.21.35/storage/movie/12/12666/video.mp4 
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sınıfı Sınıfta Kaldı_1975
+http://94.20.21.40/storage/movie/12/12665/video.mp4 
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sınıfı Tatilde_1977
+http://94.20.21.42/storage/movie/12/12664/video.mp4 
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hababam Sınıfı Uyanıyor_1976
+http://vod.tsvipsmart.eu/turkishcinemamovies/Hababam%20S%c4%b1n%c4%b1f%c4%b1%20Uyan%c4%b1yor%20_%20FULL%20HD.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Batan Güneş
+http://vod2.tsvipsmart.eu/vodmovie/download/yesilcam/Batan%20G%C3%BCne%C5%9F-%20T%C3%BCrk%20Filmi%20%28Restorasyonlu%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Keloglan 1971
+http://vod2.tsvipsmart.eu/vodmovie/download/yesilcam/Kelo%C4%9Flan%20-%20HD%20T%C3%BCrk%20Filmi.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Dügün Dernek (2013)  
+http://94.20.21.40/storage/movie/5/5587/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Dügün Dernek 2: Sünnet (2015)
+http://94.20.21.35/storage/movie/10/9810/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ay Lav Yu_2010
+http://vod2.tsvipsmart.eu/vodmovie/download/turk/Ay%20Lav%20Yu%20-%20Tek%20Par%C3%A7a%20Film%20%28Yerli%20Film%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ay Lav Yu Tuu_2017
+http://vod.tsvipsmart.eu/turkishcinemamovies/Ay%20Lav%20Yu%20Tuu%20%282017%29%20HDTV%201080p%20x264%20AC3%20TDRG.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hükümet Kadın_2013
+http://94.20.21.42/storage/movie/4/3662/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hükümet Kadın 2_2013
+http://94.20.21.42/storage/movie/5/5160/video.mp4 
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", AYKUT ENİŞTE
+http://reporectv.net/cdn2/13719/12saa12sdfdsg23443.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Şansımı Seveyim 2017
+http://reporectv.net/cdn/13712/x56fg.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ali Kundilli 1
+http://94.20.21.35/storage/movie/10/10732/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ali Kundilli 2
+http://vod.tsvipsmart.eu/turkishcinemamovies/Ali%20Kundilli%202.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Oflu Hoca'nın Şifresi 2
+http://94.20.21.36/storage/movie/11/11391/video.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9b/Mucize.jpeg" group-title="FİLMLER", Mucize_Wunder (2015)
+http://vod.tsvipsmart.eu/turkishcinemamovies/Yeni%20Filmler/Mucize%20%282015-HD%29%20_%20T%C3%BCrk%20Filmi.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Arif V 216 (2018)
+http://vod.tsvipsmart.eu/turkishcinemamovies/Arif.v.216.2018.m720p.x264.UHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Celal ile Ceren_2013
+http://vod.tsvipsmart.eu/turkishcinemamovies/Celal%20ile%20Ceren%202013%20Yerli%201080p%20NF%20WEB-DL%20H264%20AC3%205.1%20-%20HdT.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kayhan
+http://vod.tsvipsmart.eu/turkishcinemamovies/Kayhan%20%282018%29%20m720p%20WEB-DL%20x264%20AC3%20%5BLSRG%5D.mkv
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/4Ag2wjMtkhrPdHQHCT6YN2EHUvd.jpg" group-title="FİLMLER", Rəcəb İvedik (2008)
+http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.1.2008.1080p.h264.DD5.1.TR.UHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Recep Ivedik 2
+http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.2.2009.1080p.h264.DD5.1.TR.UHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Recep Ivedik 3
+http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.3.2010.1080p.h264.DD5.1.TR.UHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Recep Ivedik 4
+http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.4.2014.1080p.h264.DD5.1.TR.UHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Recep Ivedik 5
+http://vod.tsvipsmart.eu/turkishcinemamovies/Recep.ivedik.5.2017.1080p.h264.DD5.1.TR.UHD.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Eyyvah Eyvah 1_2010
+http://vod.tsvipsmart.eu/turkishcinemamovies/Eyvah.Eyvah.2010.DVDRip.avi
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Eyyvah Eyvah 2_2011
+http://vod.tsvipsmart.eu/turkishcinemamovies/Eyvah.Eyvah.2.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Eyyvah Eyvah 3_2014
+http://vod.tsvipsmart.eu/turkishcinemamovies/Eyvah.Eyvah.3.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", İftarlık Gazoz
+http://vod.tsvipsmart.eu/turkishcinemamovies/Yeni%20Filmler/%C4%B0ftarl%C4%B1k%20Gazoz%20izle%20%20%20Full%20izle%2C%20Hd%20izle%2C%20720p%20izle%2C%20Fullhdfilmizlesene5.net%20%5Boload.website%20-%2044731%5D%20%28null%29%20%28via%20Skyload%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Babam ve Oglum
+http://vod.tsvipsmart.eu/turkishcinemamovies/Yeni%20Filmler/Babam%20ve%20O%C4%9Flum%20-%20Full%20Film%20%28Tek%20Par%C3%A7a%29.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Genis Aile Yapıştır
+http://94.20.21.194/storage/movie/9/9379/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Genis Aile 2: Her Türlü (2016)
+http://vod.tsvipsmart.eu/turkishcinemamovies/Genis%20Aile%202%20Her%20Turlu.mkv
+
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Edge of Tomorrow (2014)
+http://entertainment1.vodiplay.com/filmler/Edge%20Of%20Tomorrow%20Dublaj.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Avengers: Infinity War (2018)
+http://vod.tsvipsmart.eu/turkishdublaj/Avengers.Infinity.War.2018.720p.BluRay.x264.DUAL.TR.ENG.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Enigma 2014
+https://a3db52e314.pourkaviani.space/mt/NNQbkTSGtuXXDQcb8pDwvZ3ZG00NwZmZqmf868HmXFfj0vb1080
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Jack Reacher: Asla Geri Dönme
+https://admin.rectv.co/uploads/mp4/73b9d138b090aa0641101767fd92a787.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Django Unchained
+https://admin.rectv.co/uploads/mp4/73b9d138b090aa0641101767fd92a787.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Karayip Korsanları: Salazar'ın İntikamı (2017)
+http://164.68.114.112/film/out/karayipsaltazar.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Furious Seven
+https://admin.rectv.co/uploads/mp4/6c4a1f7f4c2fd09b904d6b05232c25cc.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Hızlı Öfkeli 8
+http://vod.tsvipsmart.eu/turkishdublaj/Hizli.ve.Ofkeli.8.2017.TR.BRRip.XviD.avi
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Fast & Furious Presents: Hobbs & Shaw
+http://cdn10.ovid.monster/storage/movie/16/16198/video.mp4
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/1oU5hdNF0O9Do4NkDezHofSFXDN.jpg" group-title="FİLMLER", Skyscraper (2018)
+http://vod.tsvipsmart.eu/turkishdublaj/Skyscr.2018.1080p.BluRay.x264.DUAL.TR.ENG.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kod Adı: Olympus (2013)
+https://i9bd0ed.chirtladze.space/m2/NDjAAJmAlNwAlRGXeRAqYwlvDmvlXbjpFajPJGQZlZw1gtFYZa6mmGqlZAK0C588b1080
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Matrix (1999)
+https://admin.rectv.co/uploads/mp4/9e0eeb9ea7ec4d7d25705dff9568c1c5.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Matrix Reloaded (2003)
+https://admin.rectv.co/uploads/mp4/be9f574764aca63a95c870224e4d8a3f.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Matrix Revolutions (2003)
+https://admin.rectv.co/uploads/mp4/e684a27d6a1db556d4a36596e6c3781f.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Star Trek Beyond
+http://198.16.100.210:12012/vod/359111068247FFA1/wuJje_WS3BbWGYCLU_L20fJWM5ZDLm691bMGn7gXpSnJqEKN_JGZcmGSAdvmDR1D/F99C3692F94443E8.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Batman v Superman: Dawn of Justice (2016)
+http://198.16.100.210:12012/vod/359111068247FFA1/Oj2xW6PPl6QsuDNd1G8nsGR1GEytwFJU5gmQsn9LCLhCJBmk3c5xRXskxbZj_PPY/BAA9FF767FE84780.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Doctor Strange (2016)
+http://vod.tsvipsmart.eu/turkishdublaj/Doktor.Strange.2016.IMAX.BDRip.XviD.TR.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Terminator Kara Kader
+http://51.89.98.4/vodmovie/download/terminator_dark_fate_2019_dublaj.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", John Wick: Chapter 2
+http://198.16.100.210:12012/vod/359111068247FFA1/uKCVd_4-bbNKlMSRg8VylrQ7YcJhMsjhEf2RjHwFZSlqrIitaLFbLB49TdUr0N5m/EA3FCA3FBE414572.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", John Wick: Chapter 3_Parabellum
+http://51.89.98.4/vodmovie/download/john_wick3_parabellum_2019_dublaj.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kaçış Planı
+http://h81d1f0.schlagenhauff.site/m9/DNAZrGZjNw0CKOVkvGB1lpHiZmWu8PJmvmZ508b1080
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Kaçış Planı 2
+http://baed9d997ea.lambrigger.space/m6/NNjgWzN9mOAXjNYAmDAeX1DXXCU00PwZmLqYWkRFmY9ZGmpFViD1VkvGB1lpb1080
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Escape Plan: The Extractors (2019)
+http://145.239.66.197/vodmovie/download/kacis_plani_3_2019_dublaj.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Evde Tek Başına 1
+http://t100v.com/redvod/play.php?u=773625&p=305883&id=21792
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Evde Tek Başına 2
+http://t100v.com/redvod/play.php?u=773625&p=305883&id=21793
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Equalizer 2 (2018
+http://vod.tsvipsmart.eu/turkishdublaj/Adalet%202%20-%20The%20Equalizer%202%20%282018%29%20BRR%C3%9DP%20Tr%20Dublaj.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Oyunbozan Ralph
+http://94.20.21.36/storage/movie/3/3321/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", MADAGASKAR PENGUENLERİ
+http://94.20.21.36/storage/movie/8/8019/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Coco (2017)
+http://94.20.21.40/storage/movie/14/14261/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Jurassic.World.Yikilmis.Krallik.2018
+http://vod.tsvipsmart.eu/turkishdublaj/Jurassic.World.Fallen.Kingdom.2018.BRRip..TR.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Yıldızlara Doğru
+http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Yildizlara.Dogru.1080p.DUAL.mkv
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftRlQifY05qWbT3gSdVEjiYw52A.jpg" group-title="FİLMLER", Godzilla (2014)
+http://vod.tsvipsmart.eu/turkishdublaj/Godzilla.2014.m1080p.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Godzilla II: Canavarlar Kralı (2019)
+http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Godzilla%20%20King%20of%20the%20Monsters%202019%20720p%20DUAL%20BluRay%20x264%20AC3%205.1%20HdT.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Deadpool 2
+http://vod.tsvipsmart.eu/turkishdublaj/Deadpool.2.2018.THEATRiCAL.m720p.BluRay.x264-DUAL.TR.ENG.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", San Andreas (2015)
+http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/San%20Andreas%20Fayi.avi
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Independence Day: Resurgence (2016)
+http://94.20.21.36/storage/movie/11/11061/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ready Player One (2018)
+http://vod.tsvipsmart.eu/turkishcinemamovies/Ready.Player.One.2018.720p.BluRay.x264-DUAL.TR.ENG.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Pacific Rim Uprising 2018
+http://vod.tsvipsmart.eu/turkishcinemamovies/Pasifik.Savasi.%C4%B0syan.2018.TR.BDRip.MKV.Mnike.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", The Smurfs 2 (2013)
+http://94.20.21.42/storage/movie/5/4610/video.mp4 
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Smurfs The Lost Village 2017
+http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Sirinler%20Kayip%20Koy%20-%20Smurfs%20The%20Lost%20Village%20%282017%29%20TR%20BDRip%20XviD-.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Men in Black: International (2019)
+http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Siyah%20Giyen%20Adamlar%20Global%20Tehdit%20-%20Men%20in%20Black%20International%202019%20720p%20DUAL%20BluRay%20x264%20AC3%205.1%20-%20HdT.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Pokémon Dedektif Pikachu
+http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Pokemon%20Dedektif%20Pikachu%20-%20Pokemon%20Detective%20Pikachu%202019%20BLURAY%20720p%20DUAL%20%5BTR-ENG%5D%20x264-%20LS.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Ant-Man and the Wasp
+http://vod.tsvipsmart.eu/turkishdublaj/Karinca.Adam.ve.Esek.Arisi.2018.TR.BRRip.XviD.www.filmindirgen.org.avi
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Charlies Angels 2019
+http://35.206.150.84/v/files/Charlies.Angels.2019.m1080p.BluRay.H264.DuaL-OpeD.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Fantastic Beasts: The Crimes of Grindelwald (2018)(2018)
+http://vod.tsvipsmart.eu/turkishdublaj/Fantastik.Canavarlar.2.Grindelwaldin.Suclari.2018.1080p.HDTS.TRDUB.mkv.mp4
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhNirNChLkDv9YCEStn857h7BoI.jpg" group-title="FİLMLER", Despicable Me 2
+http://94.20.21.40/storage/movie/4/4468/video.mp4
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teNvNrHtsb435KklxKwk02G5FA3.jpg" group-title="FİLMLER", Despicable Me 3
+http://94.20.21.40/storage/movie/13/13435/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Angry Birds Movie
+http://94.20.21.36/storage/movie/11/11087/video.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Minions 2015
+http://vod.tsvipsmart.eu/turkishcinemamovies/Minyonlar.mp4
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Mortal Engines 2018
+http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Olumcul.Makineler.2018.%20720p.WEB-DL.TR.mkv
+#EXTINF: -1 tvg-logo="" group-title="FİLMLER", Gemini Man (2019)
+http://vod2.tsvipsmart.eu/vodmovie/download/dublaj/Gemini.Man.2019.m1080p.BluRay.x264.Dua.mkv
