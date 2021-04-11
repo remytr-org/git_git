@@ -3547,8 +3547,6 @@ http://mp3.ffh.de/ffhchannels/top40.mp3
 http://dinle.arabeskradyo.biz:2011/;
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ASK FM
 http://yayin.asymedya.com:8020/;stream.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Alem FM
-http://46.20.3.246/stream/104/;stream.nsv
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Baba Radyo
 http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Baba Radyo
@@ -3629,8 +3627,6 @@ http://yayin1.canliyayin.org:7424/;
 http://18463.live.streamtheworld.com/RETROTURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Türkü-izmir
 http://radioturku.com:9400/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Ankarali
-https://19643.live.streamtheworld.com/SC6_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=ccf11eb9-8c91-4773-cab9-ff9a255e22d8
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Pop90
 https://17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",RetroTurk
@@ -3729,16 +3725,10 @@ http://stream.jewishmusicstream.com:8000/stream
 http://50.7.71.219:7412
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Schlagerparadies Webstream
 http://91.250.77.9:8090
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",A-0 Top Country Radio
-http://hemnos.cdnstream.com/1290_128
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",The Very Best of Country
 http://HearMe.fm:8022/stream
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",96.7 The Coyote
-http://ice8.securenetsystems.net/KCYTFM
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",1000 90er
 http://stream.laut.fm/100090er
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",American Roots
-http://stream.sonixcast.com:9175
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Athens Country Radio
 http://live.athenscountryradio.com:8000/stream
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BLUE BOSSA NOVA
@@ -3913,8 +3903,6 @@ http://streaming203.radionomy.com:80/WLSSlow
 http://streaming204.radionomy.com:80/Xtrem-Live-Radio
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ZIKRADIO1
 http://streaming208.radionomy.com:80/ZIKRADIO1
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",[ADFM]AreaDanceFM
-http://streaming206.radionomy.com:80/-AD-FM-AreaDanceFM
 
 #EXTINF:-1 group-title="ReMy_YEREL",ReMy_YEREL
 ReMy_YEREL
