@@ -3569,9 +3569,9 @@ http://17773.live.streamtheworld.com:3690/JOY_FM_SC
 http://18463.live.streamtheworld.com/JOYTURK_ROCK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",JOY_TURK_SC
 http://18463.live.streamtheworld.com/JOY_TURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ITU Radio Jazz/Blues
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",iTu Radio Jazz/Blues
 http://160.75.86.29:8088/stream/3/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Ibiza Global Station
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ibiza Global Station
 http://46.105.171.218:8024
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Metropol FM
 http://mfm1.webradiostreaming.de:8200/;
@@ -3579,8 +3579,6 @@ http://mfm1.webradiostreaming.de:8200/;
 http://17733.live.streamtheworld.com:3690/METRO_FM_SC
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",WORLD HIT
 http://37.247.98.8/stream/34/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo ilef
-http://radyo.cc.ankara.edu.TR_FILM:8089/;
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Slow Time
 http://46.20.7.104/;
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Fenomen
@@ -3611,16 +3609,10 @@ http://37.247.98.8/stream/29/
 http://37.247.98.8/stream/35/
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",TaksimFM - Arabesk
 http://95.211.162.32:8008
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Alaturka
-http://stream.radyoalaturka.com.TR_FILM:9100/;
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Ahmet Kaya
 http://ahmetkaya.canliyayinda.com:9999/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Avrasya Turk
-http://radyoavrasya.radyolarburada.com:1071/;
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Arabesk
 http://37.247.101.101:5934
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Derman
-http://sunucu2.radyolarburada.com:3636/;stream.mp3
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo 34
 http://yayin1.canliyayin.org:7424/;
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",RETRO TURK
