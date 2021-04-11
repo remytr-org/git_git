@@ -3258,269 +3258,269 @@ http://51.158.73.206/hls/stream.m3u8
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
 
 
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",ReMy_MUSIC_TVCHANNELS
-ReMy_MUSIC_TVCHANNELS
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Silence TV ADTS SOUND
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ReMy_MUSIC_TV
+ReMy_MUSIC_TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Silence TV ADTS SOUND
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",4 Turk Billboard
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",4 Turk Billboard
 http://51.210.199.30/hls/stream.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Siteler Muzik ANGARA
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Siteler Muzik ANGARA
 http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Damar TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Damar TV
 http://51.255.7.18:8080/hls/damar.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",KRAL HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL HD
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",KRAL TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL TV
 https://bqgsd19q.rocketcdn.com/kraltv_360/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",KRAL TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL TV
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",KRAL POP TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL POP TV
 https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",KRAL POP TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL POP TV
 http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",KRAL POP HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL POP HD
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",1Music Channel Hungary
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",1Music Channel Hungary
 http://1music.hu/1music.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",4Fun TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",88 Stereo TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",88 Stereo TV
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",A1 Regio TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",A1 Regio TV
 http://stream.a1mediagroep.eu/hls/a1tv.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",ALBUK HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALBUK HD
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",ALB MUSIC HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALB MUSIC HD
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Baraza TV Greek Music Hits
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Baraza TV Greek Music Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Bluegrass 4U
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Bluegrass 4U
 https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Box Hits
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Capital Radio
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Capital Radio
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",ch au tv
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ch au tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",CMC TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",CMC TV
 http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Company TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Company TV
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DHTV denhaag tv
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DHTV denhaag tv
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DMF
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DMF
 http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",First Music Channel
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",First Music Channel
 http://rtmp.one.by:1200
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",First Music Channel HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",First Music Channel HD
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",First Music Channel Russia HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",First Music Channel Russia HD
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",GLas Drine Music HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",GLas Drine Music HD
 rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Hit Music Channel (Hungary)
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Hit Music Channel (Hungary)
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",HIT RU
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",HIT RU
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Javan TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Javan TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Kayhan TV HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kayhan TV HD
 http://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Kcn2 Tv
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kcn2 Tv
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Kcn3 Tv
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kcn3 Tv
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Kiss TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kiss TV
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",KissKissTV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KissKissTV
 http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Kronehit TV HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Kurai (Ufa)
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kurai (Ufa)
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",KURIAKOS MUSIC
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KURIAKOS MUSIC
 http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",m2otv
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",m2otv
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",m2otv
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",m2otv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Magic TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",MESSINIA
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",MESSINIA
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",MESSINIA WEB TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",MESSINIA WEB TV
 rtmp://176.9.123.140:1935/messinia/messinia
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",MTV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",MTV-SD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",MTV-SD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",MTV Norge
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",MTV Norge
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Music1 gr
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Music1 gr
 http://wpso.com:1936/hls/music1.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Music Top
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Music Top
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",New Radio TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",New Radio TV
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Nisville TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Nisville TV
 http://92.60.237.32:1935/live/nisville/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Ocko
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Ocko Expres
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Ocko Star
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",OPOJA
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",PortalFoxMix Tv
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",RETRO
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",RETRO
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Banovina
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Banovina
 rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Belllae monella TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Belllae monella TV
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist_w1052766946.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Birikina TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Birikina TV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w130186106.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Country FM TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Country FM TV
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Contact Vision
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Contact Vision
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Italia TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Lina TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Lina TV
 https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Lombardia TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Lombardia TV
 https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio M-1
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio M-1
 http://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Piterpan TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Sorrriso TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Sorrriso TV
 https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w800169359.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio Peloritana TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Peloritana TV
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Radio TV USA
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio TV USA
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",Sky Folk
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Sky Folk
 http://skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",SoNus FM [18+]
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",SoNus FM [18+]
 http://138.201.226.83:1935/public/stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",UTV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",UTV
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="ReMy_MUSIC_TVCHANNELS",VH1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="ReMy_MUSIC_TV",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJing Animation 
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJing Animation 
 https://www.djing.com/tv/animation.m3u8%20
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJing Dancefloor 
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJing Dancefloor 
 https://www.djing.com/tv/dancefloor.m3u8%20
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJing Hits 
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJing Hits 
 https://www.djing.com/tv/hits.m3u8%20
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJing Karaoke 
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJing Karaoke 
 https://www.djing.com/tv/karaoke.m3u8%20
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJing KARAOKE HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJing KARAOKE HD
 http://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJing Live 
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJing Live 
 https://www.djing.com/tv/live.m3u8%20
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJing Underground 
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJing Underground 
 https://www.djing.com/tv/underground.m3u8%20
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",D-HOT
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",D-HOT
 https://www.djing.com/tv/h-02-fta.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING HOT HOT
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING HOT HOT
 https://www.djing.com/tv/h-01-fta.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJing HOT Live
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJing HOT Live
 https://www.djing.com/tv/28031-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING
 https://www.djing.com/tv/27963-03.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING M
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING M
 https://www.djing.com/tv/27971-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING HD
 https://www.djing.com/tv/27818-03.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING ANIMATION
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING ANIMATION
 https://www.djing.com/tv/a-27971-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING ANIMATION HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING ANIMATION HD
 https://www.djing.com/tv/a-27777-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING AVICII
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING AVICII
 https://djing.com/tv/s-28416-05-avicii.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING AVICII HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING AVICII HD
 https://djing.com/tv/s-28730-05-avicii.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING CLASSICS HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING CLASSICS HD
 https://www.djing.com/tv/i-27777-03.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING DANCE
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING DANCE
 https://www.djing.com/tv/i-27971-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING DANCE HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING DANCE HD
 https://www.djing.com/tv/i-27777-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DIJING ELEKTRO ROCK
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DIJING ELEKTRO ROCK
 https://www.djing.com/tv/s-27777-03-electro-rock.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING ELECTRO ROCK HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING ELECTRO ROCK HD
 https://www.djing.com/tv/s-27963-04-electro-rock.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING FRENCH TOUCH
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING FRENCH TOUCH
 https://www.djing.com/tv/s-27777-03-french-touch.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING FRENCH TOUCH M
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING FRENCH TOUCH M
 https://www.djing.com/tv/s-27963-04-french-touch.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING FRENCH TOUCH HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING FRENCH TOUCH HD
 https://www.djing.com/tv/s-27777-04-french-touch.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING HENDONIST
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING HENDONIST
 https://www.djing.com/tv/s-27777-03-hedonist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING HENDONIST HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING HENDONIST HD
 https://www.djing.com/tv/s-27963-03-hedonist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING HITS
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING HITS
 https://www.djing.com/tv/i-27963-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING HITS HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING HITS HD
 https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING IBIZA
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING IBIZA
 https://www.djing.com/tv/d-27971-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING IBIZA HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING IBIZA HD
 https://www.djing.com/tv/d-27963-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING KARAOKE
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING KARAOKE
 https://www.djing.com/tv/k-27963-03.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING KARAOKE M
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING KARAOKE M
 https://www.djing.com/tv/k-27963-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING KARAOKE HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING KARAOKE HD
 https://www.djing.com/tv/k-27777-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING SUMMER VIBES
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING SUMMER VIBES
 https://www.djing.com/tv/s-27777-03-summer-vibes.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING SUMMER VIBES HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING SUMMER VIBES HD
 https://www.djing.com/tv/s-27963-04-summer-vibes.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DJING UNDERGROUND
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DJING UNDERGROUND
 https://www.djing.com/tv/u-27971-04.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TVCHANNELS",DİJİNG UNDERGROUND HD
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DİJİNG UNDERGROUND HD
 https://www.djing.com/tv/u-27777-04.m3u8
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_muzik.png" group-title="ReMy_MUSIC_TVCHANNELS", TRT MÜZİK
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_muzik.png" group-title="ReMy_MUSIC_TV", TRT MÜZİK
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS|User-agent=desk_win32
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/nr1_turk.png" group-title="ReMy_MUSIC_TVCHANNELS", NR1 TURK
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/nr1_turk.png" group-title="ReMy_MUSIC_TV", NR1 TURK
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/powerturktv_logo.png" group-title="ReMy_MUSIC_TVCHANNELS", POWERTURK HD
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/powerturktv_logo.png" group-title="ReMy_MUSIC_TV", POWERTURK HD
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$POWER_TURK_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_arabesk.png" group-title="ReMy_MUSIC_TVCHANNELS", ARABESK
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_arabesk.png" group-title="ReMy_MUSIC_TV", ARABESK
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ARABESK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_turkce-pop.png" group-title="ReMy_MUSIC_TVCHANNELS", TURKCE POP
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_turkce-pop.png" group-title="ReMy_MUSIC_TV", TURKCE POP
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_slow.png" group-title="ReMy_MUSIC_TVCHANNELS", TURKCE SLOW
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_slow.png" group-title="ReMy_MUSIC_TV", TURKCE SLOW
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_SLOW/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tivibu_cocuk_logo.png" group-title="ReMy_MUSIC_TVCHANNELS", COCUK MASAL
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tivibu_cocuk_logo.png" group-title="ReMy_MUSIC_TV", COCUK MASAL
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MASAL/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_halk.png" group-title="ReMy_MUSIC_TVCHANNELS", TURK HALK MUZIGI
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_halk.png" group-title="ReMy_MUSIC_TV", TURK HALK MUZIGI
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURK_HALK_MUZIGI/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_pop_dms.png" group-title="ReMy_MUSIC_TVCHANNELS", YABANCI POP
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_pop_dms.png" group-title="ReMy_MUSIC_TV", YABANCI POP
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$YABANCI_POP/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tasplak.png" group-title="ReMy_MUSIC_TVCHANNELS", TAS PLAK
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tasplak.png" group-title="ReMy_MUSIC_TV", TAS PLAK
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TAS_PLAK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dini_musiki_logo.png" group-title="ReMy_MUSIC_TVCHANNELS", DINI MUZIK
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dini_musiki_logo.png" group-title="ReMy_MUSIC_TV", DINI MUZIK
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TASAVVUF/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/90lar.png" group-title="ReMy_MUSIC_TVCHANNELS", 90 LAR
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/90lar.png" group-title="ReMy_MUSIC_TV", 90 LAR
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$90_LAR/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_slow_logo.png" group-title="ReMy_MUSIC_TVCHANNELS", ROMANTIK
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_slow_logo.png" group-title="ReMy_MUSIC_TV", ROMANTIK
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ROMANTIK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_klasik.png" group-title="ReMy_MUSIC_TVCHANNELS", KLASIK MUZIK
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_klasik.png" group-title="ReMy_MUSIC_TV", KLASIK MUZIK
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KLASIK_MUZIK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/calisiyorken.png" group-title="ReMy_MUSIC_TVCHANNELS", ÇALIŞIYORKEN
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/calisiyorken.png" group-title="ReMy_MUSIC_TV", ÇALIŞIYORKEN
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CALISIRKEN/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/mutlu_dms.png" group-title="ReMy_MUSIC_TVCHANNELS", MUTLU
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/mutlu_dms.png" group-title="ReMy_MUSIC_TV", MUTLU
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MUTLU/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/lounge.png" group-title="ReMy_MUSIC_TVCHANNELS", LOUNGE
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/lounge.png" group-title="ReMy_MUSIC_TV", LOUNGE
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$LOUNGE/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/akustik.png" group-title="ReMy_MUSIC_TVCHANNELS", AKUSTIK
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/akustik.png" group-title="ReMy_MUSIC_TV", AKUSTIK
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$AKUSTIK/index.m3u8?start=LIVE&end=END&device=HLS
 
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ReMy_MUSIC_iTunes_Radio
