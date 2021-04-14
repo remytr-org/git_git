@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
-#SERVICE 1:64:8C:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
+#SERVICE 1:64:8F:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
 #DESCRIPTION ::::___MOVIES_CHANNELS____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8:BLUTV Aksiyon
 #DESCRIPTION BLUTV Aksiyon
@@ -57,7 +57,7 @@
 #DESCRIPTION Spydar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/transtv/smil%3atranstv.smil/playlist.m3u8:Trans TV
 #DESCRIPTION Trans TV
-#SERVICE 1:64:8D:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
+#SERVICE 1:64:90:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_MOVIES________:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.239.66.197/vodmovie/download/dip_08_bolum_web_dl_1080p_final_oped.mkv:DİP (PUHUTV) S01 B08 FİNAL
 #DESCRIPTION DİP (PUHUTV) S01 B08 FİNAL
@@ -141,7 +141,7 @@
 #DESCRIPTION Abominable(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dreams47.com/movie.mp4:Sonic. La película [HD]
 #DESCRIPTION Sonic. La película [HD]
-#SERVICE 1:64:8E:0:0:0:0:0:0:0::::::___filmmodu___::::
+#SERVICE 1:64:91:0:0:0:0:0:0:0::::::___filmmodu___::::
 #DESCRIPTION ::::___filmmodu___::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv100.filmmodu.xyz/tt9580138/720p.tr.m3u8:TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İn
 #DESCRIPTION TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İn
@@ -215,7 +215,7 @@
 #DESCRIPTION TR_FILM: sihirli halı (animasyon)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv17.filmmodu.xyz/tt6324278/720p.tr.m3u8:TR_FILM: yeti efsanesi (animasyon)
 #DESCRIPTION TR_FILM: yeti efsanesi (animasyon)
-#SERVICE 1:64:8F:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
+#SERVICE 1:64:92:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ga.video.cdn.pbs.org/videos/nature/bf2826a1-a3d3-4a2c-85c8-cdbefaa5640e/182800/hd-mezzanine-16x9/d024d04a_naat_3211_1080p-16x9-hls-2500k.m3u8:NATURE HD
 #DESCRIPTION NATURE HD
@@ -2171,7 +2171,7 @@
 #DESCRIPTION Zero Tolerance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newtube.ps/components/com_contushdvideoshare/videos/1651807038.mp4:Zodiac
 #DESCRIPTION Zodiac
-#SERVICE 1:64:90:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
+#SERVICE 1:64:93:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/series/Turkey/other.se/jsoor/CESURVEGUZELEP12.mp4:Cesur Ve Güzel S01 E12
 #DESCRIPTION Cesur Ve Güzel S01 E12
@@ -6945,7 +6945,7 @@
 #DESCRIPTION Titans S02 E06
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Series/en/Titans.2018/S02/Titans.2018.S02E07.mp4:Titans S02 E07
 #DESCRIPTION Titans S02 E07
-#SERVICE 1:64:91:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
+#SERVICE 1:64:94:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dal1.mp4:101 DALMATIONS
 #DESCRIPTION 101 DALMATIONS
@@ -7629,7 +7629,7 @@
 #DESCRIPTION XMEN 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/origin.mp4:XMEN ORIGIN
 #DESCRIPTION XMEN ORIGIN
-#SERVICE 1:64:92:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_SERIES____::::
+#SERVICE 1:64:95:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_SERIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
@@ -7841,7 +7841,7 @@
 #DESCRIPTION Scandal Season 3 Episode 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e11.mp4:Scandal Season 3 Episode 11
 #DESCRIPTION Scandal Season 3 Episode 11
-#SERVICE 1:64:93:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
+#SERVICE 1:64:96:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1124.mkv:007-Spectre
 #DESCRIPTION 007-Spectre
@@ -9273,7 +9273,7 @@
 #DESCRIPTION Zoolander 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/zootopia.avi:Zootopia
 #DESCRIPTION Zootopia
-#SERVICE 1:64:94:0:0:0:0:0:0:0::::::____ReMy_filmovi_SERIES____::::
+#SERVICE 1:64:97:0:0:0:0:0:0:0::::::____ReMy_filmovi_SERIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh110.mp4:Konak kod Hilmije S01E10
 #DESCRIPTION Konak kod Hilmije S01E10
@@ -9679,7 +9679,7 @@
 #DESCRIPTION Lud Zbunjen Normalan S01E39
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/517.mkv:Lud Zbunjen Normalan S01E40
 #DESCRIPTION Lud Zbunjen Normalan S01E40
-#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
+#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_SERIES________:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E01.mkv:3% 1X01
 #DESCRIPTION 3% 1X01

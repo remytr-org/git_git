@@ -3,8 +3,6 @@
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.30/hls/stream.m3u8:4 Turk Billboard
 #DESCRIPTION 4 Turk Billboard
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.30/hls/stream.m3u8:4 Turk Music
-#DESCRIPTION 4 Turk Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.18%3a8080/hls/damar.m3u8:Damar TV
 #DESCRIPTION Damar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtmuzik.live.trt.com.tr/master_720.m3u8:TRT MÜZİK
@@ -57,8 +55,6 @@
 #DESCRIPTION V2BEAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:30A Music
-#DESCRIPTION 30A Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale51/canale51/playlist.m3u8:51 Radio TV
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/playlist.m3u8:88 Stereo TV
@@ -77,18 +73,20 @@
 #DESCRIPTION Bucovina TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital Radio
 #DESCRIPTION Capital Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:ChAu Ttv
-#DESCRIPTION ChAu Ttv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/3.m3u8:City TV
 #DESCRIPTION City TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8:Chanson TV
 #DESCRIPTION Chanson TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:Chau TV (Letland)
+#DESCRIPTION Chau TV (Letland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8:California Music Channel
 #DESCRIPTION California Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8:California Music Channel
 #DESCRIPTION California Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
 #DESCRIPTION CMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8:Cine Voice (muziek - India)
+#DESCRIPTION Cine Voice (muziek - India)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:COLOSAL TV COSTA RICA
 #DESCRIPTION COLOSAL TV COSTA RICA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/smil%3aCompanyTV.smil/playlist.m3u8:COMPANY TV
@@ -97,6 +95,8 @@
 #DESCRIPTION Company TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-stranafm.cdnvideo.ru/stranafm/smil%3astranafm.smil/playlist.m3u8:Country FM
 #DESCRIPTION Country FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:CTPAHA FM TV
+#DESCRIPTION CTPAHA FM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8:CzWORKA
 #DESCRIPTION CzWORKA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on:DeejayTv
@@ -181,30 +181,52 @@
 #DESCRIPTION First Music Channel Russia HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.rtcommufa.ru%3a1935/ptica/ptica1/playlist.m3u8:Firebird
 #DESCRIPTION Firebird
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/foxtv/foxtv/playlist.m3u8:Fox TV (Griekenland)
+#DESCRIPTION Fox TV (Griekenland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//glasdrine.cutuk.net%3a1935/3ghu788/GlasDrine:GLas Drine Music HD
 #DESCRIPTION GLas Drine Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:Hit Music (Belaarus, Wit-Rusland)
+#DESCRIPTION Hit Music (Belaarus, Wit-Rusland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hitmusic.hu/hitmusic.m3u8:Hit Music Channel (Hungary)
 #DESCRIPTION Hit Music Channel (Hungary)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:HIT RU
-#DESCRIPTION HIT RU
 #SERVICE 4097:0:0:281:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC
 #DESCRIPTION HOBOC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rjtv.tv/live/smil%3arjtv.smil/playlist.m3u8:Javan TV
 #DESCRIPTION Javan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8:Jhanjar Music (muziek - India)
+#DESCRIPTION Jhanjar Music (muziek - India)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8:Kayhan TV HD
 #DESCRIPTION Kayhan TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//208.93.117.113/live/Stream1/chunklist.m3u8:Kayhan TV (muziek - Afghanistan)
+#DESCRIPTION Kayhan TV (muziek - Afghanistan)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/rtp/239.0.0.2%3a5000:Kcn 2 Tv
 #DESCRIPTION Kcn 2 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/rtp/239.0.0.3%3a5000:Kcn 3 Tv
 #DESCRIPTION Kcn 3 Tv
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/:Kerrang
 #DESCRIPTION Kerrang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8:Kiss TV
+#DESCRIPTION Kiss TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8:KissKissTV
+#DESCRIPTION KissKissTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.opoja.tv%3a1935/tvopoja/tvopoja/playlist.m3u8 :Kosovo OPOJA (muziek - Kosovo)
+#DESCRIPTION Kosovo OPOJA (muziek - Kosovo)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8:Kronehit TV HD
 #DESCRIPTION Kronehit TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:KRONEHIT TV HD
 #DESCRIPTION KRONEHIT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onlinetv.ktrk.kg%3a1935/live/myStream2/playlist.m3u8:KTPK Music
+#DESCRIPTION KTPK Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8:Kuriakos Music
+#DESCRIPTION Kuriakos Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kmusic/kmusic3/TeamBlue.m3u8:KURIAKOS MUSIC
 #DESCRIPTION KURIAKOS MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming02.arcast.com.ar%3a1935/la90fm/la90fm/chunklist_w379053794.m3u8:La 90 FM
+#DESCRIPTION La 90 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.235.35.243%3a1935/lamegamundial/lamegamundial2/playlist.m3u8:La Lega Mundial
+#DESCRIPTION La Lega Mundial
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//68.235.35.243%3a1935/lamegamundial/lamegamundial2/playlist.m3u8:La Mega Mundial TV (Georgia, USA)
+#DESCRIPTION La Mega Mundial TV (Georgia, USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net%3a80/i/m2oTv_1@186074/index_600_av-b.m3u8:m2otv
 #DESCRIPTION m2otv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8:m20 TV
@@ -217,6 +239,8 @@
 #DESCRIPTION Magic TV (muziek - UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8:matur-tv.ru
 #DESCRIPTION matur-tv.ru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mntv.livebox.co.in/musichls/live.m3u8:MN Music TV (muziek - India)
+#DESCRIPTION MN Music TV (muziek - India)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8:MTV
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?sd=10&rebase=on:MTV Music
@@ -229,6 +253,10 @@
 #DESCRIPTION Music Top
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.60.237.32%3a1935/live/nisville/playlist.m3u8:Nisville TV
 #DESCRIPTION Nisville TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/playlist.m3u8:Nancy WebTV (Frankrijk)
+#DESCRIPTION Nancy WebTV (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/NGradio/NGradio/playlist.m3u8:NG Radio TV (Griekenland)
+#DESCRIPTION NG Radio TV (Griekenland)
 #SERVICE 4097:0:0:279:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/NGradio/NGradio/playlist.m3u8:NG RADIO
 #DESCRIPTION NG RADIO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.nrg91.gr%3a1935/onweb/live/master.m3u8:NRG91.GR TV
@@ -239,6 +267,20 @@
 #DESCRIPTION Ocko Expres
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8:Ocko Star
 #DESCRIPTION Ocko Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8:Ocko
+#DESCRIPTION Ocko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8:Ocko expres
+#DESCRIPTION Ocko expres
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8:Ocko Express
+#DESCRIPTION Ocko Express
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8:Ocko Gold
+#DESCRIPTION Ocko Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8:Ocko Hits
+#DESCRIPTION Ocko Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/master.m3u8:Ocko Star
+#DESCRIPTION Ocko Star
+#SERVICE 1:0:1:1451:C98:3:EB0000:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8:Ocko TV
+#DESCRIPTION Ocko TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8:one hd music
 #DESCRIPTION one hd music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.opoja.tv%3a1935/tvopoja/tvopoja/playlist.m3u8:OPOJA
@@ -259,6 +301,10 @@
 #DESCRIPTION QMusic studiocam BE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale51/canale51/chunklist_w1897160883.m3u8:Radio 51
 #DESCRIPTION Radio 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/chunklist_w1223558379.m3u8:Radio 88 Stereo (muziek - Costa Rica)
+#DESCRIPTION Radio 88 Stereo (muziek - Costa Rica)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8:Radio Contact TV
+#DESCRIPTION Radio Contact TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Radio Banovina
 #DESCRIPTION Radio Banovina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8:Radio Contact
@@ -275,10 +321,16 @@
 #DESCRIPTION Radio Italia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8:Radio Lombardia TV
 #DESCRIPTION Radio Lombardia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1 (LIT)  (Web Radio)
+#DESCRIPTION Radio M-1 (LIT)  (Web Radio)
+#SERVICE 4097:0:1:40:2:6:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1 Visual Radio (muziek - Litouwen)
+#DESCRIPTION Radio M-1 Visual Radio (muziek - Litouwen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1
 #DESCRIPTION Radio M-1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8:Radio No 1
 #DESCRIPTION Radio No 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8:Radio Number One TV (muziek)
+#DESCRIPTION Radio Number One TV (muziek)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash5.streaming.xdevel.com/radionorbatv/smil%3aradionorbatv.smil/playlist.m3u8:Radionorba
 #DESCRIPTION Radionorba
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:Radio Peloritana TV
@@ -287,6 +339,8 @@
 #DESCRIPTION Radio U TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8:Radio TV USA
 #DESCRIPTION Radio TV USA
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//flash2.streaming.xdevel.com%3a80/radiouniversaltv/radiouniversaltv:Radio Universal Tv
+#DESCRIPTION Radio Universal Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8:RDS Social TV
 #DESCRIPTION RDS Social TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/video/video/playlist.m3u8:Reload Play GREEK
@@ -295,84 +349,12 @@
 #DESCRIPTION RETRO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8:RTL 102.5 TV (IT)
 #DESCRIPTION RTL 102.5 TV (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:Ru one.by
+#DESCRIPTION Ru one.by
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2200:RU ONE BY
+#DESCRIPTION RU ONE BY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk
 #DESCRIPTION Sky Folk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webmobile.xdev.ro%3a81/tv12/playlist.m3u8:Somax TV
-#DESCRIPTION Somax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//songtvru.ru%3a8060/hd/playlist.m3u8:SONG TV Russia
-#DESCRIPTION SONG TV Russia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8:Steel Bird Music
-#DESCRIPTION Steel Bird Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:STYLE CITY MUSIC2
-#DESCRIPTION STYLE CITY MUSIC2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8:Sunburn TV
-#DESCRIPTION Sunburn TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.aritv.ch%3a6969/live/ari/tv/1.ts:TV Ari
-#DESCRIPTION TV Ari
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8:UrbanMusic4U
-#DESCRIPTION UrbanMusic4U
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/wixlar/wixlar/playlist.m3u8:Wixlar
-#DESCRIPTION Wixlar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
-#DESCRIPTION Zeta TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:Chau TV (Letland)
-#DESCRIPTION Chau TV (Letland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8:Cine Voice (muziek - India)
-#DESCRIPTION Cine Voice (muziek - India)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/foxtv/foxtv/playlist.m3u8:Fox TV (Griekenland)
-#DESCRIPTION Fox TV (Griekenland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:Hit Music (Belaarus, Wit-Rusland)
-#DESCRIPTION Hit Music (Belaarus, Wit-Rusland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8:IndieWave
-#DESCRIPTION IndieWave
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8:Jhanjar Music (muziek - India)
-#DESCRIPTION Jhanjar Music (muziek - India)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//208.93.117.113/live/Stream1/chunklist.m3u8:Kayhan TV (muziek - Afghanistan)
-#DESCRIPTION Kayhan TV (muziek - Afghanistan)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.opoja.tv%3a1935/tvopoja/tvopoja/playlist.m3u8 :Kosovo OPOJA (muziek - Kosovo)
-#DESCRIPTION Kosovo OPOJA (muziek - Kosovo)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onlinetv.ktrk.kg%3a1935/live/myStream2/playlist.m3u8:KTPK Music
-#DESCRIPTION KTPK Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8:Kuriakos Music
-#DESCRIPTION Kuriakos Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming02.arcast.com.ar%3a1935/la90fm/la90fm/chunklist_w379053794.m3u8:La 90 FM
-#DESCRIPTION La 90 FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.235.35.243%3a1935/lamegamundial/lamegamundial2/playlist.m3u8:La Lega Mundial
-#DESCRIPTION La Lega Mundial
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//68.235.35.243%3a1935/lamegamundial/lamegamundial2/playlist.m3u8:La Mega Mundial TV (Georgia, USA)
-#DESCRIPTION La Mega Mundial TV (Georgia, USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mntv.livebox.co.in/musichls/live.m3u8:MN Music TV (muziek - India)
-#DESCRIPTION MN Music TV (muziek - India)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/playlist.m3u8:Nancy WebTV (Frankrijk)
-#DESCRIPTION Nancy WebTV (Frankrijk)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/NGradio/NGradio/playlist.m3u8:NG Radio TV (Griekenland)
-#DESCRIPTION NG Radio TV (Griekenland)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8:Ocko (Tsjechië)
-#DESCRIPTION Ocko (Tsjechië)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8:Ocko expres (Tsjechië)
-#DESCRIPTION Ocko expres (Tsjechië)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8:Ocko Express
-#DESCRIPTION Ocko Express
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8:Ocko Gold (Tsjechië)
-#DESCRIPTION Ocko Gold (Tsjechië)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8:Ocko Hits
-#DESCRIPTION Ocko Hits
-#SERVICE 4097:0:1:1335:CA2:3:EB0000:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/master.m3u8:Ocko Star (muziek - Tsjechë)
-#DESCRIPTION Ocko Star (muziek - Tsjechë)
-#SERVICE 1:0:1:1451:C98:3:EB0000:0:0:0:https%3a//ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8:Ocko TV (muziek - Tsjechë)
-#DESCRIPTION Ocko TV (muziek - Tsjechë)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/chunklist_w1223558379.m3u8:Radio 88 Stereo (muziek - Costa Rica)
-#DESCRIPTION Radio 88 Stereo (muziek - Costa Rica)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8:Radio Contact TV
-#DESCRIPTION Radio Contact TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1 (LIT)  (Web Radio)
-#DESCRIPTION Radio M-1 (LIT)  (Web Radio)
-#SERVICE 4097:0:1:40:2:6:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1 Visual Radio (muziek - Litouwen)
-#DESCRIPTION Radio M-1 Visual Radio (muziek - Litouwen)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8:Radio Number One TV (muziek)
-#DESCRIPTION Radio Number One TV (muziek)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//flash2.streaming.xdevel.com%3a80/radiouniversaltv/radiouniversaltv:Radio Universal Tv
-#DESCRIPTION Radio Universal Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/21.ts:Smash Cam
 #DESCRIPTION Smash Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/12.ts:Smash Country
@@ -385,6 +367,18 @@
 #DESCRIPTION Smash Retro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/25.ts:Smash Rock
 #DESCRIPTION Smash Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webmobile.xdev.ro%3a81/tv12/playlist.m3u8:Somax TV
+#DESCRIPTION Somax TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//songtvru.ru%3a8060/hd/playlist.m3u8:SONG TV Russia
+#DESCRIPTION SONG TV Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8:Steel Bird Music
+#DESCRIPTION Steel Bird Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:STYLE CITY MUSIC
+#DESCRIPTION STYLE CITY MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8:Sunburn TV
+#DESCRIPTION Sunburn TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.aritv.ch%3a6969/live/ari/tv/1.ts:TV Ari
+#DESCRIPTION TV Ari
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com/telesur/telesur/chunklist_w1240568243.m3u8:TeleSUR (muziek - Costa Rica)
 #DESCRIPTION TeleSUR (muziek - Costa Rica)
 #SERVICE 4097:0:1:131:2:4:0:0:0:0:http%3a//hls.tmacaraibes.com/live/index.m3u8:TMA - Television Musicale Antillaise (muziek - Ant
@@ -393,14 +387,12 @@
 #DESCRIPTION TVM3 (Zwitserland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de1se01.v2beat.live/playlist.m3u8?fluxustv.m3u8:V2BEAT TV
 #DESCRIPTION V2BEAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/wixlar/wixlar/playlist.m3u8:Wixlar
+#DESCRIPTION Wixlar
 #SERVICE 4097:0:1:4CFC:81C:600:FFFF0000:0:0:0:http%3a//ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8 :XITE HD (muziek NL)
 #DESCRIPTION XITE HD (muziek NL)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:Первый Музыкальный BY (Russisch)
-#DESCRIPTION Первый Музыкальный BY (Russisch)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2200:Первый Музыкальный RU BY (Russisc
-#DESCRIPTION Первый Музыкальный RU BY (Russisc
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:Страна FM TV (Russisch)
-#DESCRIPTION Страна FM TV (Russisch)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
+#DESCRIPTION Zeta TV
 #SERVICE 1:64:89:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.xradio.com.tr%3a8770/stream:xradio

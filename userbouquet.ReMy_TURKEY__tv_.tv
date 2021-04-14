@@ -3,6 +3,8 @@
 #DESCRIPTION ==== **REMY_ENIGMA|TURK_TEAM** ====
 #SERVICE 1:64:82:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS|User-agent=desk_win32:TRT_1_HD tivibu
+#DESCRIPTION TRT_1_HD tivibu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.livetv.az/turk/atv_turk_sd/playlist.m3u8:ATV HD
 #DESCRIPTION ATV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams2.livetv.az/turk/kanald_stream/chunks.m3u8:Kanal D HD
