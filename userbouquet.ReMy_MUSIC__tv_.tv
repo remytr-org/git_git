@@ -27,13 +27,17 @@
 #DESCRIPTION Siteler TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler Muzik ANGARA
 #DESCRIPTION Siteler Muzik ANGARA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/1280x720_5000000/index.m3u8:Redbox | Vevo HD
+#DESCRIPTION Redbox | Vevo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevoholiday/CDN/1280x720_5000000/index.m3u8:Redbox | Vevo Holiday HD
+#DESCRIPTION Redbox | Vevo Holiday HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Hot Country
 #DESCRIPTION Redbox | Hot Country
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Greatest Hits
 #DESCRIPTION Redbox | Greatest Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevoholiday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows:Redbox | Vevo Holiday
 #DESCRIPTION Redbox | Vevo Holiday
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Vevo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows:Redbox | Vevo
 #DESCRIPTION Redbox | Vevo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Classic Rock
 #DESCRIPTION Redbox | Classic Rock

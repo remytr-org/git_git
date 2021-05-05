@@ -271,6 +271,102 @@
 #DESCRIPTION Redbox | Hit List
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Soul Storm
 #DESCRIPTION Redbox | Soul Storm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true: tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="General",Action Movies
+#DESCRIPTION  Action Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_americanClassics.png" group-title="Entertainment",American Classics
+#DESCRIPTION  American Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true: tvg-logo="http://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/featuredImage.jpg" group-title="Game Show",BUZZR
+#DESCRIPTION  BUZZR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//news.cgtn.com/resource/live/document/cgtn-doc.m3u8: tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="Documentaries",CGTN Documentary
+#DESCRIPTION  CGTN Documentary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8: tvg-logo="https://pbs.twimg.com/profile_images/1044272252072521728/IWUQk2nK_400x400.jpg" group-title="Entertainment",CONtv
+#DESCRIPTION  CONtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true: tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/featuredImage.jpg" group-title="Legal",Court TV
+#DESCRIPTION  Court TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8: group-title="Documentaries",Docurama
+#DESCRIPTION  Docurama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8: tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t1.0-9/49342330_820886054909505_4383462502973833216_n.png?_nc_cat=110&_nc_ohc=IcHBajrpdVgAX_wbW6A&_nc_ht=scontent.fosu1-1.fna&oh=aec08fb9f1f38e4dfb78f0825b18f627&oe=5EFC2A7E" group-title="General",Dove Channel
+#DESCRIPTION  Dove Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8: tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" group-title="General",Dove Channel
+#DESCRIPTION  Dove Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8: tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="Entertainment",ElectricNOW
+#DESCRIPTION  ElectricNOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal: tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/01/03214531-586b-4683-813e-a3252999e063/thumbnail/1280x720/e359894b45362a16a256ad90e5a1aec2/et-live-logo-1920x1080.jpg" group-title="Entertainment",ET Live
+#DESCRIPTION  ET Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_Family_Feud.png" group-title="Entertainment",Family Feud
+#DESCRIPTION  Family Feud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_filmHub-copy.png" group-title="Entertainment",FilmHub
+#DESCRIPTION  FilmHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://yt3.ggpht.com/a/AGF-l78Hdk9rq6wjchysWzLLxFQKClhBfyHghiKRCw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Entertainment",Filmrise
+#DESCRIPTION  Filmrise
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/629190/food52_small.jpg" group-title="Entertainment",Food52
+#DESCRIPTION  Food52
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxforensicfiles/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Forensic_Files_Titlecard_Seasons_1-6.png/220px-Forensic_Files_Titlecard_Seasons_1-6.png" group-title="Entertainment",Forensic Files
+#DESCRIPTION  Forensic Files
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://image.xumo.com/v1/channels/channel/9999224/300x300.png?type=smartCast_channelTile" group-title="General",Global Got Talent
+#DESCRIPTION  Global Got Talent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/pa/event/EpqgwRlpQKq73ySVSohJWA/stream/f3b56329-3ec7-4684-948c-4194ef970a86%3aCBF2/master.m3u8: tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" group-title="General",Gravitas Movies
+#DESCRIPTION  Gravitas Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/ea4252d9b74c473aa46fd933a3168f1b/index.m3u8: tvg-logo="https://s17-us2.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSMAv4Ez2ex9hX9Hz3G0lJ_pGM-433RTx5a15EQTI86wf3xBMqAHsLajnLz%26s&sp=72ebd69c96ae934080effaec510ebd69&anticache=812593" group-title="General",HBO Now
+#DESCRIPTION  HBO Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t31.0-8/p960x960/14940215_683032278531461_8289967831208298707_o.jpg?_nc_cat=105&_nc_ohc=e2k6r305u3cAX8ldMvQ&_nc_ht=scontent.fosu1-1.fna&_nc_tp=6&oh=a638e9e83a1c348e075a90287eae3233&oe=5EB59C19" group-title="General",Hi-Yah!
+#DESCRIPTION  Hi-Yah!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/fdff572d836e4cbd84624de01d1e7a3d/index.m3u8: tvg-logo="https://whitelist.tv/wp-content/uploads/2018/03/Hulu-300x300.png" group-title="General",Hulu
+#DESCRIPTION  Hulu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true: tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="General",IGN
+#DESCRIPTION  IGN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://pbs.twimg.com/profile_images/1093651342051074048/qBCrwQ4i_400x400.jpg" group-title="Live",Journy
+#DESCRIPTION  Journy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8: tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="Live",Law & Crime
+#DESCRIPTION  Law & Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8: tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="Live",Law & Crime 2
+#DESCRIPTION  Law & Crime 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-lawandcrime.simplestreamcdn.com/landc_d3/live.m3u8: tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="Live",Law & Crime 3
+#DESCRIPTION  Law & Crime 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-lawandcrime.simplestreamcdn.com/landc_d4/live.m3u8: tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="Live",Law & Crime 4
+#DESCRIPTION  Law & Crime 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/a468bdd3-a0e5-4a4b-bae7-3e784ee5f4e4%3aCBF2/master.m3u8: tvg-logo="https://i.ytimg.com/vi/cSJsoHA8xdg/hqdefault.jpg" group-title="General",MovieMix
+#DESCRIPTION  MovieMix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true: tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" group-title="General",MTV
+#DESCRIPTION  MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true: tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/MTV2_Guy_Code.jpg" group-title="General",MTV Guy Code
+#DESCRIPTION  MTV Guy Code
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true: tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/colorful-mtv-logo-white-png-20.png" group-title="General",MTV Dating
+#DESCRIPTION  MTV Dating
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true: tvg-logo="http://north.viacom.com/wp-content/uploads/2016/11/Teen-Mom-Uk_1920x1080-1024x576.jpg" group-title="General",MTV Teen
+#DESCRIPTION  MTV Teen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_Maverick.png" group-title="General",Maverick Black Cinema
+#DESCRIPTION  Maverick Black Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true: tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/180820194833-the-hills-large-169.jpg" group-title="General",MTV The Hills
+#DESCRIPTION  MTV The Hills
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/64dbd5b891be430e944f5efad225b549/index.m3u8: tvg-logo="https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=578%2C578&strip=all" group-title="General",Netflix
+#DESCRIPTION  Netflix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Now_This_Logo_White.svg/1200px-Now_This_Logo_White.svg.png" group-title="General",NowThis
+#DESCRIPTION  NowThis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true: tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/paramount-channel-png-7.png" group-title="General",Paramount Movie Channel
+#DESCRIPTION  Paramount Movie Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8" group-title="General",People Are Awesome
+#DESCRIPTION  People Are Awesome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true: tvg-logo="https://pmcvariety.files.wordpress.com/2017/05/pluto-tv.jpg?w=1000&h=563&crop=1" group-title="General",Pluto Movies
+#DESCRIPTION  Pluto Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true: tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59976841a09fd13c9b590ce8/featuredImage.jpg" group-title="General",Pluto Movies 2
+#DESCRIPTION  Pluto Movies 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true: tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5887ba337b8e94223eb121bd/featuredImage.jpg" group-title="General",Pluto TV Her
+#DESCRIPTION  Pluto TV Her
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/1920x1080_4870800/index.m3u8: tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/rush_300x300.png" group-title="General",Redbox Rush
+#DESCRIPTION  Redbox Rush
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/1920x1080_4870800/index.m3u8: tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/spotlight_300x300.png" group-title="General",Redbox Spotlight
+#DESCRIPTION  Redbox Spotlight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a: tvg-logo="http://tbd.com/social-graph-image.png" group-title="General",TBD
+#DESCRIPTION  TBD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png" group-title="General",The Pet Collective
+#DESCRIPTION  The Pet Collective
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8: tvg-logo="https://pbs.twimg.com/profile_images/1020450526742233089/XaX7h5fe_400x400.jpg" group-title="General",Revry
+#DESCRIPTION  Revry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8: tvg-logo="http://shopboxingday.ca/wp-content/uploads/2012/12/the-shopping-channel-boxing-day.png" group-title="Shopping",The Shopping Channel Canada
+#DESCRIPTION The Shopping Channel Canada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8: tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2u-REuYyJGfioNMEdcSnCED6KqZlcDR0hccDiOZByDoozHRVD" group-title="General",Unsolved Mysteries with Robert Stack
+#DESCRIPTION Unsolved Mysteries with Robert Stack
 #SERVICE 1:64:9E:0:0:0:0:0:0:0::USA ROKU
 #DESCRIPTION USA ROKU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?News:** News **
