@@ -3543,6 +3543,8 @@ http://kralpopwmp.radyotvonline.com/;stream.nsv
 http://listen.181fm.com/181-uktop40_128k.mp3?noPreRoll=true
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",iTunes Top 40
 http://mp3.ffh.de/ffhchannels/top40.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ALEM FM
+https://turkmedya.radyotvonline.net/alemfmaac
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Arabesk Radyo
 http://dinle.arabeskradyo.biz:2011/;
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ASK FM
@@ -3599,6 +3601,8 @@ http://fenomenkarisik.listenfenomen.com/fenomenkarisik/128/icecast.audio
 http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",FenomenTurk
 http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",metropolfm.de
+https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Virgin Radio Türkiye
 http://17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ANKARA HAVALARI
