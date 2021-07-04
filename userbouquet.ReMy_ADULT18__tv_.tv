@@ -1,40 +1,24 @@
 #NAME == ★★ReMy | ADULT+18★★ ==
 #SERVICE 1:64:A6:0:0:0:0:0:0:0::== ★★ReMy | ADULT+18★★ ==
 #DESCRIPTION == ★★ReMy | ADULT+18★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.207.145.71%3a8000/play/a031/index.m3u8:PLAYBOY TV
-#DESCRIPTION PLAYBOY TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//187.202.54.80%3a5001/udp/225.1.1.193%3a5193:PlayboyTV.us new
-#DESCRIPTION PlayboyTV.us new
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//187.202.54.80%3a5001/udp/225.1.1.191%3a5191:BRAZZERS
-#DESCRIPTION BRAZZERS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//187.202.54.80%3a5001/udp/225.1.1.190%3a5190:VENUS
-#DESCRIPTION VENUS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//181.198.252.231%3a8000/play/a012/index.m3u8:Playboy
-#DESCRIPTION Playboy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//147.78.163.247%3a8000/play/a022:EroX
-#DESCRIPTION EroX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//147.78.163.247%3a8000/play/a021:EroXXX HD
-#DESCRIPTION EroXXX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_360p/chunklist_w974670813.m3u8:TV8
-#DESCRIPTION TV8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream:JASMIN TV
+#DESCRIPTION JASMIN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO:Jasmin.tv 720p
 #DESCRIPTION Jasmin.tv 720p
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/hd.jasminchannel.stream/playlist.m3u8:Jasmin TV HD (18+)
 #DESCRIPTION Jasmin TV HD (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/hd.jasminchannel.stream/chunklist_w815880410.m3u8:Jasmin TV (18+) high
 #DESCRIPTION Jasmin TV (18+) high
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream:JASMIN TV
-#DESCRIPTION JASMIN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8:Jasmin HD
 #DESCRIPTION Jasmin HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8:JASMIN TV
 #DESCRIPTION JASMIN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net%3a1935/mexicotv/smil%3amiamitvmexicoROKU/chunklist_b1896000.m3u8:Miami TV - Jenny Live (18+)
+#DESCRIPTION Miami TV - Jenny Live (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/miamitv/smil%3amiamitvROKU/chunklist_w1195980091_b2592000.m3u8:Miami TV
 #DESCRIPTION Miami TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/canal18/smil%3acanal18/chunklist_w577650521_b2592000.m3u8:Miami TV Latino
 #DESCRIPTION Miami TV Latino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net%3a1935/mexicotv/smil%3amiamitvmexicoROKU/chunklist_b1896000.m3u8:Miami TV - Jenny Live (18+)
-#DESCRIPTION Miami TV - Jenny Live (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net/canal18/smil%3acanal18/chunklist_b2592000.m3u8:Miami TV Latino (18+)
 #DESCRIPTION Miami TV Latino (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//server.miamitvchannel.com/canal18/smil%3acanal18/playlist.m3u8:Miami TV Latina
@@ -43,6 +27,8 @@
 #DESCRIPTION VISIT-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_360p/chunklist_w974670813.m3u8:TV8
+#DESCRIPTION TV8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/anal.m3u8:RedTraffic Anal
 #DESCRIPTION RedTraffic Anal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:RedTraffic Big Ass (18+)

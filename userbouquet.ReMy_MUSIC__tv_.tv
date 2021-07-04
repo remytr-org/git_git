@@ -1,22 +1,12 @@
 #NAME == ★★ReMy | MUSIC★★ ==
 #SERVICE 1:64:89:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.30/hls/stream.m3u8:4 Turk Billboard
-#DESCRIPTION 4 Turk Billboard
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.18%3a8080/hls/damar.m3u8:Damar TV
 #DESCRIPTION Damar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtmuzik.live.trt.com.tr/master_720.m3u8:TRT MÜZİK
 #DESCRIPTION TRT MÜZİK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
 #DESCRIPTION SilenceTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8:KRAL HD
-#DESCRIPTION KRAL HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
-#DESCRIPTION KRAL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8:KRAL POP HD
-#DESCRIPTION KRAL POP HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8:KRAL POP TV
-#DESCRIPTION KRAL POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yerelmedya.tv%3a1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8:MAVI KARADENIZ
 #DESCRIPTION MAVI KARADENIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler TV
@@ -289,10 +279,6 @@
 #DESCRIPTION RETRO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8:RTL 102.5 TV (IT)
 #DESCRIPTION RTL 102.5 TV (IT)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:Ru one.by
-#DESCRIPTION Ru one.by
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2200:RU ONE BY
-#DESCRIPTION RU ONE BY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk
 #DESCRIPTION Sky Folk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/21.ts:Smash Cam
