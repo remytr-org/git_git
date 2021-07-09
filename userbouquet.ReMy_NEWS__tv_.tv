@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | NEWS★★ ==
-#SERVICE 1:64:8D:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:8E:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8:Roku | ABC News
 #DESCRIPTION Roku | ABC News
@@ -9,6 +9,8 @@
 #DESCRIPTION Roku | Euronews | ENG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weathernationtv.roku.wurl.com/manifest/playlist.m3u8:Roku | Weather Nation
 #DESCRIPTION Roku | Weather Nation
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.tvtap.live%3a8081/live/us-cnn.stream/playlist.m3u8:CNN
+#DESCRIPTION CNN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8:CNN
 #DESCRIPTION CNN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8:BBC TWO
@@ -195,6 +197,8 @@
 #DESCRIPTION M24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8:Mirror Now
 #DESCRIPTION Mirror Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8:MOSCOW 24 (1080p)
+#DESCRIPTION MOSCOW 24 (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8:Mordovia 24
 #DESCRIPTION Mordovia 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3am24.smil/chunklist_b1600000.m3u8:Moscow 24

@@ -7,6 +7,20 @@
 #DESCRIPTION My Planet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/leonovtv/test-abr/playlist.m3u8:Travel Guide TV
 #DESCRIPTION Travel Guide TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tbs01-edge17.itdc.ge/viasatnat/index.m3u8?token=I81hffdgWzAoVwi1IQ00-1uwZtwl4n8A3lyZO7OFqSDh01ypB1UD2oaLAWX6kURCCotIVXliMMklyDANN-RD9XyQv3wM_WhK_tmUnRz_ZTpjVbGGlr4wh4FkajCUnhLJyZX8kbUd-vc_kGJDKihR-8XKYWZYNaMb3tmgG_mVX74LDcK17r5w_CBHXUie0P21p8gKClexMk1-2v0ZoerOqsa3fBLaHX7FxC28gypwOsGupnM67KH4Fed8nRxqsc9IiYrYYbIOKenCki3Htc3q2w**:travel+
+#DESCRIPTION travel+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tbs01-edge17.itdc.ge/viasathist/index.m3u8?token=zASXmb_GSENKNuhmg78i9gSvSbodG7fSwa1hIqITM7TQf2HfCxYjODPQ72vDjCd-jhezxtOg37gUgym99EbtEc9yJsi-Ror7k9NQ0zeP08HorjXUPQwCsFTBdPCt3zJouoAJQzsnaC7HSacLMhsoTs6i5j6oDbcarkusjEYND1XFE2YM45YAWIWDiTh_w-LTvx31XJR2TK624Vo5MGpZKAm-WWvU1XMyGVUzDJq1os4CgDG1RMBw9fy-BwEpWD5jw5Ek5hxkx0s4Ek1LEdi6ng**:viasathistory
+#DESCRIPTION viasathistory
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tbs01-edge11.itdc.ge/viasatsport/index.m3u8?token=oEza3GVV1MaaJGSrYgc0qUtqffGupPq0GtQfBe0E_eZm-x7ZgkVQZ2Nsz8aPEAHsR_VzWWPe4X_zRi0VHjzjSzJ_L8Y8AZbFqQqqpEnqIre5BZJ6nf1FRqj2rPZwV7GY7C4yWM99Kuinm-mqWtpO0azJKuV9_pd6MgqnyR9BPKYKtPC0XX8e7S8pl3M_IvU2ktLNUOAPU8vDKCcB6iJHYMsVNRloRInddTIUtj1J3sOBMpMcSn89UbP0hxPw7keg927NVAq9pvAmYS-cRQts2A**:viasatsport
+#DESCRIPTION viasatsport
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8:Loupe 4K
+#DESCRIPTION Loupe 4K
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//bamus-eng-roku.amagi.tv/playlist.m3u8:Love Nature (1080p)
+#DESCRIPTION Love Nature (1080p)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8:National Geographic Abu Dhabi
+#DESCRIPTION National Geographic Abu Dhabi
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Natgeowild/playlist.m3u8:National Geographic Wild Asia
+#DESCRIPTION National Geographic Wild Asia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudflare.tv/hls/live.m3u8:Cloudflare TV (docu/techniek, wereldwijd)
 #DESCRIPTION Cloudflare TV (docu/techniek, wereldwijd)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/playlist.m3u8:National Geographic Abu Dhabi (VAE)
@@ -41,7 +55,7 @@
 #DESCRIPTION Scott Roberts (documentaires, storm chasers)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3n45htqf0nnxz.cloudfront.net/hls/whitney.owens/whitney.owens.m3u8:Whitney Owens (documentaires, storm chasers)
 #DESCRIPTION Whitney Owens (documentaires, storm chasers)
-#SERVICE 1:64:8E:0:0:0:0:0:0:0::+++techniek+++
+#SERVICE 1:64:8F:0:0:0:0:0:0:0::+++techniek+++
 #DESCRIPTION +++techniek+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=s4BJG6XSJcCm/s4BJG6XSJcCm-20200316151750_5-audio=128000-video=2200000.m3u8?v=20200316151750_5:20200310 Venetia, kanalen helder
 #DESCRIPTION 20200310 Venetia, kanalen helder

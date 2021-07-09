@@ -1,20 +1,34 @@
 #NAME == ★★ReMy | SPORT★★ ==
-#SERVICE 1:64:86:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:87:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor1.live.trt.com.tr/master_720.m3u8:TRT SPOR HD
-#DESCRIPTION TRT SPOR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtSPOR1.live.trt.com.tr/master_720.m3u8:TRT Spor
-#DESCRIPTION TRT Spor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor2.live.trt.com.tr/master_720.m3u8:TRT Spor 2
 #DESCRIPTION TRT Spor 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
-#DESCRIPTION TJK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tjktv.ercdn.net/tjktv.m3u8:TJK
-#DESCRIPTION TJK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8:GS TV
 #DESCRIPTION GS TV
-#SERVICE 1:64:87:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 1:64:88:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//persik.tv/stream/3602/287583/10249.m3u8:Viasat Sport East
+#DESCRIPTION Viasat Sport East
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//biptv.tv%3a80/live/biptvstream_orig/index.m3u8:BIP TV
+#DESCRIPTION BIP TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//51.210.199.17/hls/stream.m3u8:POKER TV
+#DESCRIPTION POKER TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//139.162.182.79/live/test/index.m3u8:Satranç TV
+#DESCRIPTION Satranç TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8:TIVIBU SPOR HD
+#DESCRIPTION TIVIBU SPOR HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//185.236.229.21%3a9981/play/a05v:Eleven Sports 1 (Portugal) (1080p)
+#DESCRIPTION Eleven Sports 1 (Portugal) (1080p)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//185.236.229.21%3a9981/play/a05x:Eleven Sports 4 (Portugal) (1080p)
+#DESCRIPTION Eleven Sports 4 (Portugal) (1080p)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//185.236.229.21%3a9981/play/a05y:Eleven Sports 5 (Portugal) (1080p)
+#DESCRIPTION Eleven Sports 5 (Portugal) (1080p)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8:Sports Tonight
+#DESCRIPTION Sports Tonight
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.tvtap.live%3a8081/live/espnusahd.stream/playlist.m3u8:ESPN (360p)
+#DESCRIPTION ESPN (360p)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.tvtap.live%3a8081/live/espn2hd.stream/playlist.m3u8:ESPN 2 (360p)
+#DESCRIPTION ESPN 2 (360p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/17.ts:Smash Sports
 #DESCRIPTION Smash Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8:True Sports HD 1
@@ -181,8 +195,6 @@
 #DESCRIPTION Sharjah Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8:Sharjah Sports
 #DESCRIPTION Sharjah Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8:Sportskool
-#DESCRIPTION Sportskool
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22697/+0000/c.m3u8:Sportskool TV
 #DESCRIPTION Sportskool TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/hls/ch004_720/index.m3u8:Turkmenistan Sport
@@ -191,9 +203,5 @@
 #DESCRIPTION Turkmenistan Sport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport
 #DESCRIPTION Türkmen Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
-#DESCRIPTION World Of Free Sports Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8:Xcorp
-#DESCRIPTION Xcorp
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/yastv/smil%3ayastv.stream.smil/playlist.m3u8?adtv:Yas Sport
 #DESCRIPTION Yas Sport

@@ -11,6 +11,18 @@
 #DESCRIPTION MAVI KARADENIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler TV
 #DESCRIPTION Siteler TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM Top (480p)
+#DESCRIPTION MCM Top (480p)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hls.tmacaraibes.com/live/index.m3u8:TMA Caraïbes
+#DESCRIPTION TMA Caraïbes
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8:MTV Biggest Pop (720p)
+#DESCRIPTION MTV Biggest Pop (720p)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8:MTV Block Party (720p)
+#DESCRIPTION MTV Block Party (720p)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8:MTV Mistle YO! (720p)
+#DESCRIPTION MTV Mistle YO! (720p)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8:MTV Spankin' New (720p)
+#DESCRIPTION MTV Spankin' New (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/1280x720_5000000/index.m3u8:Redbox | Vevo HD
 #DESCRIPTION Redbox | Vevo HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevoholiday/CDN/1280x720_5000000/index.m3u8:Redbox | Vevo Holiday HD
