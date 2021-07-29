@@ -3262,6 +3262,10 @@ http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
 ReMy_MUSIC_TV
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",traceurban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",mcm top
+http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",tma caraibes
+http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",Silence TV ADTS SOUND
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",4 Turk Billboard
