@@ -11,6 +11,8 @@
 #DESCRIPTION MAVI KARADENIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler TV
 #DESCRIPTION Siteler TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lightning-traceurban-samsungau.amagi.tv/playlist.m3u8:traceurban
+#DESCRIPTION traceurban
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM Top (480p)
 #DESCRIPTION MCM Top (480p)
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hls.tmacaraibes.com/live/index.m3u8:TMA Caraïbes
@@ -561,8 +563,8 @@
 #DESCRIPTION Radio NovaSofia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.155.136.27%3a8000/:Radio SevlievoSevlievo
 #DESCRIPTION Radio SevlievoSevlievo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.80.96.25%3a3060/:Radio Ultra BlagoevgradBlagoevgrad
-#DESCRIPTION Radio Ultra BlagoevgradBlagoevgrad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.80.96.25%3a3060/:Radio Ultra Blagoevgrad
+#DESCRIPTION Radio Ultra Blagoevgrad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.80.96.25%3a8020/:Radio Ultra PernikPernik
 #DESCRIPTION Radio Ultra PernikPernik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.80.96.25%3a8000/:Radio Ultra PetrichPetrich
@@ -583,16 +585,12 @@
 #DESCRIPTION Zen fm
 #SERVICE 1:64:8C:0:0:0:0:0:0:0::AFN Global: Music and Spoken Word Radio
 #DESCRIPTION AFN Global: Music and Spoken Word Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18683.live.streamtheworld.com/AFN_CTY_SC?csegid=3:AFN Country
-#DESCRIPTION AFN Country
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18133.live.streamtheworld.com/AFN_FANAAC.aac:AFN Fans
 #DESCRIPTION AFN Fans
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//16693.live.streamtheworld.com/AFN_FRE_SC?csegid=3:AFN Freedom
 #DESCRIPTION AFN Freedom
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//16693.live.streamtheworld.com/AFN_GRV_SC?csegid=3:AFN Gravity
 #DESCRIPTION AFN Gravity
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21283.live.streamtheworld.com/AFN_SEA_SC?csegid=3:AFN Holiday
-#DESCRIPTION AFN Holiday
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//16693.live.streamtheworld.com/AFN_HOT_SC?csegid=3:AFN Hot AC
 #DESCRIPTION AFN Hot AC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//18443.live.streamtheworld.com/AFN_JOE.mp3:AFN Joe Radio
@@ -605,40 +603,14 @@
 #DESCRIPTION AFN The Voice
 #SERVICE 1:64:8D:0:0:0:0:0:0:0::AFN Local Stations
 #DESCRIPTION AFN Local Stations
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/AFNE_AVN_SC?csegid=1:AFN Aviano
-#DESCRIPTION AFN Aviano
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22323.live.streamtheworld.com/AFNE_BHN_SC?csegid=16:AFN Bahrain
-#DESCRIPTION AFN Bahrain
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21313.live.streamtheworld.com/AFNE_BAV_SC?csegid=2:AFN Bavaria
-#DESCRIPTION AFN Bavaria
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21273.live.streamtheworld.com%3a80/AFNE_BLXAAC_SC:AFN Benelux - The Eagle
-#DESCRIPTION AFN Benelux - The Eagle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/AFNE_GMO_SC?csegid=17:AFN Guantanamo Bay - GTMO
 #DESCRIPTION AFN Guantanamo Bay - GTMO
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20853.live.streamtheworld.com/AFNE_ICK.mp3:AFN Incirlik
 #DESCRIPTION AFN Incirlik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21283.live.streamtheworld.com%3a80/AFNE_KTNAAC_SC:AFN Kaiserslautern
-#DESCRIPTION AFN Kaiserslautern
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21313.live.streamtheworld.com/AFNE_LJS_SC?csegid=5:AFN Lajes
-#DESCRIPTION AFN Lajes
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20873.live.streamtheworld.com/AFNE_NAP.mp3:AFN Naples
 #DESCRIPTION AFN Naples
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22323.live.streamtheworld.com/AFNE_RTA_SC?csegid=8:AFN Rota
-#DESCRIPTION AFN Rota
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//22323.live.streamtheworld.com%3a3690/AFNE_SDB_SC:AFN Sauda Bay
-#DESCRIPTION AFN Sauda Bay
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_SIG_SC?csegid=9:AFN Sigonella
 #DESCRIPTION AFN Sigonella
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_SDB_SC?csegid=10:AFN Souda Bay
-#DESCRIPTION AFN Souda Bay
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21233.live.streamtheworld.com/AFNE_SPG_SC?csegid=11:AFN Spangdahlem
-#DESCRIPTION AFN Spangdahlem
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22593.live.streamtheworld.com/AFNE_STU_SC?csegid=12:AFN Stuttgart
-#DESCRIPTION AFN Stuttgart
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21283.live.streamtheworld.com/AFNE_VIC_SC?csegid=14:AFN Vicenza
-#DESCRIPTION AFN Vicenza
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//21283.live.streamtheworld.com%3a80/AFNE_WBNAAC_SC:AFN Wiesbaden
-#DESCRIPTION AFN Wiesbaden
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//relay.181.fm%3a8134:80-s-Country
 #DESCRIPTION 80-s-Country
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//relay.181.fm%3a8014:80-s-Hairband
