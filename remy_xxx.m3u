@@ -6,6 +6,10 @@
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815880410.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",Jasmin TV HD (18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",Playboy TV
+http://187.188.147.165:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",Playboy TV Latin America
+http://186.101.216.211:8000/play/pboy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",Miami TV Jenny Live (18+)
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",Miami TV Latino (18+)
