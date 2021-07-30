@@ -15,8 +15,8 @@
 #DESCRIPTION traceurban
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM Top (480p)
 #DESCRIPTION MCM Top (480p)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hls.tmacaraibes.com/live/index.m3u8:TMA Caraïbes
-#DESCRIPTION TMA Caraïbes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.40.68.167/russia/mtv_hits/playlist.m3u8:mtv_hits
+#DESCRIPTION mtv_hits
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8:MTV Biggest Pop (720p)
 #DESCRIPTION MTV Biggest Pop (720p)
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8:MTV Block Party (720p)
@@ -321,6 +321,8 @@
 #DESCRIPTION TV Ari
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com/telesur/telesur/chunklist_w1240568243.m3u8:TeleSUR (muziek - Costa Rica)
 #DESCRIPTION TeleSUR (muziek - Costa Rica)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hls.tmacaraibes.com/live/index.m3u8:TMA Caraïbes
+#DESCRIPTION TMA Caraïbes
 #SERVICE 4097:0:1:131:2:4:0:0:0:0:http%3a//hls.tmacaraibes.com/live/index.m3u8:TMA - Television Musicale Antillaise (muziek - Ant
 #DESCRIPTION TMA - Television Musicale Antillaise (muziek - Ant
 #SERVICE 4097:0:1:234:0:0:0:0:0:0:http%3a//84.16.66.109%3a1935/livecast/tvm3/master.m3u8:TVM3 (Zwitserland)

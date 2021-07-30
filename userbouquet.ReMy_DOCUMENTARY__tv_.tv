@@ -31,6 +31,8 @@
 #DESCRIPTION National Geographic Russia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.195.44.53%3a8081/tv/nat-geo-wild/playlist.m3u8:National Geographic Wild Russia
 #DESCRIPTION National Geographic Wild Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/wixlar/wixlar/playlist.m3u8:Wixlar
+#DESCRIPTION Wixlar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:Silence TV World
 #DESCRIPTION Silence TV World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8:Classical Harmony
