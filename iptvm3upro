@@ -1,0 +1,48 @@
+#!/bin/sh
+cd /tmp
+rm -rf /tmp/*.m3u
+rm -rf /tmp//usr/lib/enigma2/python/Plugins/Extensions/m3u_Pro/m3u_ProM3U/*.m3u
+rm -rf /etc/enigma2/*.del > /dev/null
+rm -rf /etc/enigma2/*.tv_org
+rm -rf /etc/enigma2/*.tv_bak
+sleep 1
+
+curl -Lko /tmp/ReMy_XxX.m3u "https://raw.githubusercontent.com/remytr-org/git_git/master/remy_xxx.m3u"
+
+curl -Lko /tmp/XX-PORN-fr.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/fr.m3u"
+
+curl -Lko /tmp/XXX-PORN-ASTV.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/cy.m3u"
+
+curl -Lko /tmp/ReMy_Premium.m3u "https://raw.githubusercontent.com/remytr-org/git_git/master/remy_premium.m3u"
+
+curl -Lko /tmp/TURKEY.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/tr.m3u"
+
+curl -Lko /tmp/ARABIAN.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ae.m3u"
+
+curl -Lko /tmp/CHINESS.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/cn.m3u"
+
+curl -Lko /tmp/GERMAN.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/de.m3u"
+
+curl -Lko /tmp/GREEK.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/gr.m3u"
+
+curl -Lko /tmp/INDIAN.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/in.m3u"
+
+curl -Lko /tmp/IRANIAN.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ir.m3u"
+
+curl -Lko /tmp/ITALIAN.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/it.m3u"
+
+curl -Lko /tmp/ROMANIAN.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ro.m3u"
+
+curl -Lko /tmp/RUSSIAN.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ru.m3u"
+
+curl -Lko /tmp/UNITED_KINGDOM.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/uk.m3u"
+
+curl -Lko /tmp/UNITED_AMERICA.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/us.m3u"
+
+curl -Lko /tmp/MIX.m3u "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/unsorted.m3u"
+
+sleep 1
+rm -rf /tmp/iptvm3upro
+
+
+exit 0
