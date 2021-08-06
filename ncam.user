@@ -1,0 +1,11 @@
+# ncam.user generated automatically by NCAM 10.5
+# Read more: https://www.tunisia-sat.com/forums/threads/3539021/
+
+[account]
+user = remy
+pwd = 1212
+description                   = dvbapi
+monlevel                      = 4
+au                            = 1
+group                         = 1,2,3,4,5,9
+
