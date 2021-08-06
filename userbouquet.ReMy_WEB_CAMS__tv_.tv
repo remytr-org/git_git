@@ -1,6 +1,16 @@
 #NAME == ★★ReMy | WEB_CAMS★★ ==
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.231.236.13%3a4022/udp/239.255.1.2%3a1234:Hlawni namesti
+#DESCRIPTION Hlawni namesti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.231.236.13%3a4022/udp/239.255.1.3%3a1234:Radnice zapad
+#DESCRIPTION Radnice zapad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.231.236.13%3a4022/udp/239.255.1.4%3a1234:Radnice vychod
+#DESCRIPTION Radnice vychod
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.231.236.13%3a4022/udp/239.255.1.1%3a1234:www.moses.cz
+#DESCRIPTION www.moses.cz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.231.236.13%3a4022/udp/239.255.1.5%3a1234:USA SKY AREA
+#DESCRIPTION USA SKY AREA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8:Earth TV
 #DESCRIPTION Earth TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/79.stream/chunklist.m3u8:İstanbul Boğaziçi Köprüsü
@@ -95,7 +105,7 @@
 #DESCRIPTION Germany - Frankfurt
 #SERVICE 4097:0:0:133:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/bukovina_cam_c632c4/bukovina_cam_c632c4.stream/playlist.m3u8:POLANDHOTELBUKOVINA
 #DESCRIPTION POLANDHOTELBUKOVINA
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::*** Hrvatska ***
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::*** Hrvatska ***
 #DESCRIPTION *** Hrvatska ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist.m3u8:TRG KRAJINE, BANJA LUKA
 #DESCRIPTION TRG KRAJINE, BANJA LUKA
@@ -139,7 +149,7 @@
 #DESCRIPTION Hrvatska  - Varazdin
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist_w873016047_b350000.m3u8:Banja luka (trg krajine)
 #DESCRIPTION Banja luka (trg krajine)
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
 #DESCRIPTION * * * WEBCAM livespotting * * *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4646.flv/playlist.m3u8:Aruba - Bucuti Beach Wing
 #DESCRIPTION Aruba - Bucuti Beach Wing

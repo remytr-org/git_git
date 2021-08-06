@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | RUSSIAN★★ ==
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
 #DESCRIPTION === ★★ReMy | RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8:1HD Music TV
 #DESCRIPTION 1HD Music TV
@@ -587,7 +587,7 @@
 #DESCRIPTION Zoo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a11062/f:ZOOM
 #DESCRIPTION ZOOM
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
 #DESCRIPTION === ★★BOLGESEL |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s10/index.m3u8:21TV
 #DESCRIPTION 21TV
