@@ -17,6 +17,13 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",LTV X Art 2 18+
 http://epsilon-c1.liux.tv/adl-x-art2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",XXX_1
+http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",XXX_2
+http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",XXX_3
+http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",RedTraffic Woman
 http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18+ TV",RedTraffic Threesome
@@ -308,6 +315,29 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6257/index.m3u8
 #EXTINF:-1 group-title="18+ EDMONST TV",Tiny4K
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6258/index.m3u8
 
+
+#EXTINF:-1 group-title="vidshd",xxx1
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/460.mp4
+#EXTINF:-1 group-title="vidshd",xxx2
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/23621.mp4
+#EXTINF:-1 group-title="vidshd",xxx3
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/18160.mp4
+#EXTINF:-1 group-title="vidshd",xxx4
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/20606.mp4
+#EXTINF:-1 group-title="vidshd",xxx5
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/14002.mp4
+#EXTINF:-1 group-title="vidshd",xxx6
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/16443.mp4
+#EXTINF:-1 group-title="vidshd",xxx7
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/3108.mp4
+#EXTINF:-1 group-title="vidshd",xxx8
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/4507.mp4
+#EXTINF:-1 group-title="vidshd",xxx9
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/6892.mp4
+#EXTINF:-1 group-title="vidshd",xxx10
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/1110.mp4
+#EXTINF:-1 group-title="vidshd",xxx11
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/10334.mp4
 
 #EXTINF:-1 group-title="NVID-OVH-CDN SITES",The White Boxxx pussy pissing massage
 http://nvid101.cdnii.com/2020/0/20200825-720p.mp4
