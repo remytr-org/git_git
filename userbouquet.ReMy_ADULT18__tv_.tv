@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | ADULT+18★★ ==
-#SERVICE 1:64:55:0:0:0:0:0:0:0::== ★★ReMy | ADULT+18★★ ==
+#SERVICE 1:64:54:0:0:0:0:0:0:0::== ★★ReMy | ADULT+18★★ ==
 #DESCRIPTION == ★★ReMy | ADULT+18★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream:JASMIN TV
 #DESCRIPTION JASMIN TV
@@ -31,11 +31,11 @@
 #DESCRIPTION VISIT-X.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_360p/chunklist_w974670813.m3u8:TV8
 #DESCRIPTION TV8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.filmon.com/vr-streams/6152.high/playlist.m3u8:XXX_1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.filmon.com/vr-streams/6152.high/playlist.m3u8:filmonXXX_1
 #DESCRIPTION filmonXXX_1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.filmon.com/vr-streams/6170.high/playlist.m3u8:XXX_2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.filmon.com/vr-streams/6170.high/playlist.m3u8:filmonXXX_2
 #DESCRIPTION filmonXXX_2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.filmon.com/vr-streams/6158.high/playlist.m3u8:XXX_3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.filmon.com/vr-streams/6158.high/playlist.m3u8:filmonXXX_3
 #DESCRIPTION filmonXXX_3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/anal.m3u8:RedTraffic Anal
 #DESCRIPTION RedTraffic Anal
@@ -81,7 +81,7 @@
 #DESCRIPTION RedTraffic Teen (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/threesome.m3u8:RedTraffic Threesome (18+)
 #DESCRIPTION RedTraffic Threesome (18+)
-#SERVICE 1:64:56:0:0:0:0:0:0:0::=== ★★nvid101-cdn.bgp20-ADULT-mov★★
+#SERVICE 1:64:55:0:0:0:0:0:0:0::=== ★★nvid101-cdn.bgp20-ADULT-mov★★
 #DESCRIPTION === ★★nvid101-cdn.bgp20-ADULT-mov★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/460.mp4:xxx1
 #DESCRIPTION xxx1
@@ -2735,7 +2735,7 @@
 #DESCRIPTION Turma do Sexo - A Primeira Vez de Mirella Man
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.bgp20.xyz%3a80/movie/denilton/denilton1/24357.mp4:Turma do Sexo - Apareceu uma MC Muito Safada
 #DESCRIPTION Turma do Sexo - Apareceu uma MC Muito Safada
-#SERVICE 1:64:57:0:0:0:0:0:0:0::=== ★★vod-redtraffic-ADULT-mov★★
+#SERVICE 1:64:56:0:0:0:0:0:0:0::=== ★★vod-redtraffic-ADULT-mov★★
 #DESCRIPTION === ★★vod-redtraffic-ADULT-mov★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//12204.vod.redtraffic.xyz/ph593d76c75c52f/play.m3u8:18 anal
 #DESCRIPTION 18 anal

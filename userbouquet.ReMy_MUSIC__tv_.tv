@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | MUSIC★★ ==
-#SERVICE 1:64:89:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:3E:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.18%3a8080/hls/damar.m3u8:Damar TV
 #DESCRIPTION Damar TV
@@ -333,7 +333,39 @@
 #DESCRIPTION XITE HD (muziek NL)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
 #DESCRIPTION Zeta TV
-#SERVICE 1:64:8A:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s02.diazol.hu%3a10192/stream.m3u8:MUSIC +
+#DESCRIPTION MUSIC +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/mtvkosova.m3u8:MTV Kosova
+#DESCRIPTION MTV Kosova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/himusic.m3u8:Hi Music
+#DESCRIPTION Hi Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8:Fun Radio
+#DESCRIPTION Fun Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.bestvideostreaming.is/8717/index.m3u8:First
+#DESCRIPTION First
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/fluturatv.m3u8:Flutura TV
+#DESCRIPTION Flutura TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//584b0aa350b92.streamlock.net%3a1935/folk-tv/myStream.sdp/playlist.m3u8:Folk TV
+#DESCRIPTION Folk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.bestvideostreaming.is/8795/index.m3u8:BBF Music TV
+#DESCRIPTION BBF Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//albportal.net/albkanalemusic.m3u8:AlbKanale Music TV
+#DESCRIPTION AlbKanale Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB Music (720p) [Not 24/7]
+#DESCRIPTION ALB Music (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.212.150.248/AdriaMusicTV/index.m3u8:Adria Music RS
+#DESCRIPTION Adria Music RS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/RTV21PLUS.m3u8:21 Plus
+#DESCRIPTION 21 Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.bestvideostreaming.is/8793/playlist.m3u8:Dasma TV
+#DESCRIPTION Dasma TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8:DeepHouse District
+#DESCRIPTION DeepHouse District
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvarberia4.flashmediacast.com%3a1935/RtvArberia4/livestream/playlist.m3u8:RTV Arberia Musik
+#DESCRIPTION RTV Arberia Musik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/VIZIONPLUS.m3u8:Vizion Plus
+#DESCRIPTION Vizion Plus
+#SERVICE 1:64:3F:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//turkmedya.radyotvonline.net/alemfmaac:Alem FM
 #DESCRIPTION Alem FM
@@ -459,7 +491,7 @@
 #DESCRIPTION TURKUAZ FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
 #DESCRIPTION Virgin Radio Türkiye
-#SERVICE 1:64:8B:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:40:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm112.1.fm/chilloutlounge_mobile_mp3:1.FM - Chillout Lounge
 #DESCRIPTION 1.FM - Chillout Lounge
@@ -585,7 +617,7 @@
 #DESCRIPTION WRCF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
-#SERVICE 1:64:8C:0:0:0:0:0:0:0::AFN Global: Music and Spoken Word Radio
+#SERVICE 1:64:41:0:0:0:0:0:0:0::AFN Global: Music and Spoken Word Radio
 #DESCRIPTION AFN Global: Music and Spoken Word Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18133.live.streamtheworld.com/AFN_FANAAC.aac:AFN Fans
 #DESCRIPTION AFN Fans
@@ -603,7 +635,7 @@
 #DESCRIPTION AFN Powertalk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//14943.live.streamtheworld.com/AFN_VCE.mp3:AFN The Voice
 #DESCRIPTION AFN The Voice
-#SERVICE 1:64:8D:0:0:0:0:0:0:0::AFN Local Stations
+#SERVICE 1:64:42:0:0:0:0:0:0:0::AFN Local Stations
 #DESCRIPTION AFN Local Stations
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/AFNE_GMO_SC?csegid=17:AFN Guantanamo Bay - GTMO
 #DESCRIPTION AFN Guantanamo Bay - GTMO

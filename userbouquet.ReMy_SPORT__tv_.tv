@@ -1,12 +1,20 @@
 #NAME == ★★ReMy | SPORT★★ ==
-#SERVICE 1:64:87:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:3C:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor2.live.trt.com.tr/master_720.m3u8:TRT Spor 2
 #DESCRIPTION TRT Spor 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8:GS TV
 #DESCRIPTION GS TV
-#SERVICE 1:64:88:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 1:64:3D:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.1616.ro%3a1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=:LookSport (404p)
+#DESCRIPTION LookSport (404p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.1616.ro%3a1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=:LookSport 2 (404p) [Not 24/7]
+#DESCRIPTION LookSport 2 (404p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.1616.ro%3a1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=:LookSport 3 (404p) [Not 24/7]
+#DESCRIPTION LookSport 3 (404p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.1616.ro%3a1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=:LookSport Plus (404p)
+#DESCRIPTION LookSport Plus (404p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//persik.tv/stream/3602/287583/10249.m3u8:Viasat Sport East
 #DESCRIPTION Viasat Sport East
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//biptv.tv%3a80/live/biptvstream_orig/index.m3u8:BIP TV

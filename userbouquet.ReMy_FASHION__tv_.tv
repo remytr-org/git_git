@@ -1,4 +1,6 @@
 #NAME == ★★ReMy | FASHION★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8:Fashion TV UHD (2160p)
+#DESCRIPTION Fashion TV UHD (2160p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FASHION TV SPAIN
 #DESCRIPTION FASHION TV SPAIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8:Fashion TV (SK)
