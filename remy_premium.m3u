@@ -489,8 +489,14 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u
 
 #EXTINF:-1 group-title="ReMy_SPORT",ReMy_SPORT
 ReMy_SPORT
-#EXTINF:-1 group-title="ReMy_SPORT",beIN SPORTS HD 1
-http://iptv.rent:8080/live/823qo82o8s/knfusyte968/6908.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",LookSport (404p)
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="ReMy_SPORT",LookSport 2 (404p) [Not 24/7]
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="ReMy_SPORT",LookSport 3 (404p) [Not 24/7]
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="ReMy_SPORT",LookSport Plus (404p)
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 group-title="ReMy_SPORT",VARZESH TV
 http://51.158.176.190/hls/stream.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Eurosport 2 HD Poland
@@ -839,6 +845,8 @@ http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="FASHION_FLIX",FASHION FLIX
 FASHION FLIX
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-name="Fashion TV UHD" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="FASHION_FLIX",Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FASHION TV PARIS
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",Fashion TV (SK)
@@ -3272,6 +3280,38 @@ http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",mtv block part
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",MUSIC +
+http://s02.diazol.hu:10192/stream.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",MTV Kosova
+https://t2.tvmak.com/tv/mtvkosova.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Hi Music
+https://t2.tvmak.com/tv/himusic.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Fun Radio
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",First
+http://us.bestvideostreaming.is/8717/index.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Flutura TV
+https://t2.tvmak.com/tv/fluturatv.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",BBF Music TV
+http://us.bestvideostreaming.is/8795/index.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALB Music (720p) [Not 24/7]
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Adria Music RS
+http://91.212.150.248/AdriaMusicTV/index.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",21 Plus
+https://t2.tvmak.com/tv/RTV21PLUS.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dasma TV
+http://us.bestvideostreaming.is/8793/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DeepHouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",RTV Arberia Musik
+http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Vizion Plus
+https://t2.tvmak.com/tv/VIZIONPLUS.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",Silence TV ADTS SOUND
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",4 Turk Billboard
