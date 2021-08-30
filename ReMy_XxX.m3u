@@ -17,11 +17,11 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="18+ TV",LTV X Art 2 18+
 http://epsilon-c1.liux.tv/adl-x-art2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
 
-#EXTINF:-1 group-title="18+ TV",XXX_1
+#EXTINF:-1 group-title="18+ TV",FILMON TV_1
 http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1 group-title="18+ TV",XXX_2
+#EXTINF:-1 group-title="18+ TV",FILMON TV_2
 http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-#EXTINF:-1 group-title="18+ TV",XXX_3
+#EXTINF:-1 group-title="18+ TV",FILMON TV_3
 http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
 #EXTINF:-1 group-title="18+ TV",RedTraffic Woman
