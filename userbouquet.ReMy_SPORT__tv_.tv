@@ -17,6 +17,10 @@
 #DESCRIPTION LookSport Plus (404p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//persik.tv/stream/3602/287583/10249.m3u8:Viasat Sport East
 #DESCRIPTION Viasat Sport East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8:Astrakhan.Ru Sport
+#DESCRIPTION Astrakhan.Ru Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8:Astrakhan.Ru Sport
+#DESCRIPTION Astrakhan.Ru Sport
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//biptv.tv%3a80/live/biptvstream_orig/index.m3u8:BIP TV
 #DESCRIPTION BIP TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//51.210.199.17/hls/stream.m3u8:POKER TV
