@@ -1,6 +1,8 @@
 #NAME == ★★ReMy | SPORT★★ ==
 #SERVICE 1:64:3C:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8:TIVIBU SPOR HD
+#DESCRIPTION TIVIBU SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor2.live.trt.com.tr/master_720.m3u8:TRT Spor 2
 #DESCRIPTION TRT Spor 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8:GS TV
@@ -27,8 +29,6 @@
 #DESCRIPTION POKER TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//139.162.182.79/live/test/index.m3u8:Satranç TV
 #DESCRIPTION Satranç TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8:TIVIBU SPOR HD
-#DESCRIPTION TIVIBU SPOR HD
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//185.236.229.21%3a9981/play/a05v:Eleven Sports 1 (Portugal) (1080p)
 #DESCRIPTION Eleven Sports 1 (Portugal) (1080p)
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//185.236.229.21%3a9981/play/a05x:Eleven Sports 4 (Portugal) (1080p)
@@ -43,18 +43,6 @@
 #DESCRIPTION ESPN 2 (360p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/17.ts:Smash Sports
 #DESCRIPTION Smash Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8:True Sports HD 1
-#DESCRIPTION True Sports HD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8:True Sports HD 2
-#DESCRIPTION True Sports HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8:True Sports HD 3
-#DESCRIPTION True Sports HD 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livedoomovie.com/02_sport5_480p/chunklist.m3u8:True Sports HD 5
-#DESCRIPTION True Sports HD 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livedoomovie.com/02_sport6_480p/chunklist.m3u8:True Sports HD 6
-#DESCRIPTION True Sports HD 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livedoomovie.com/02_sport7_480p/chunklist.m3u8:True Sports HD 7
-#DESCRIPTION True Sports HD 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8?deviceid=&is_lat=&subp=RedboxdesktopWebWindows:Redbox | PAC 12
 #DESCRIPTION Redbox | PAC 12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows:Redbox | World Poker Tour

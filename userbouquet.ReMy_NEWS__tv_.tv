@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | NEWS★★ ==
-#SERVICE 1:64:8E:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:43:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8:Roku | ABC News
 #DESCRIPTION Roku | ABC News
@@ -10,8 +10,6 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//weathernationtv.roku.wurl.com/manifest/playlist.m3u8:Roku | Weather Nation
 #DESCRIPTION Roku | Weather Nation
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.tvtap.live%3a8081/live/us-cnn.stream/playlist.m3u8:CNN
-#DESCRIPTION CNN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8:CNN
 #DESCRIPTION CNN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8:BBC TWO
 #DESCRIPTION BBC TWO
@@ -31,24 +29,14 @@
 #DESCRIPTION BBC World News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1:Bloomberght
 #DESCRIPTION Bloomberght
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8:CNN
-#DESCRIPTION CNN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_halktv/smil%3ahalktv_hd.smil/playlist.m3u8:HALK TV HD
-#DESCRIPTION HALK TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/finansturktv/finansturktv/playlist.m3u8:FINANS TURK
 #DESCRIPTION FINANS TURK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 HD
-#DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.215%3a25461/line/C4@!a3a1@!w72A/129:CNN TÜRK
 #DESCRIPTION CNN TÜRK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV HD
 #DESCRIPTION NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberglobal/smil%3ahaberglobal_hd.smil/playlist.m3u8:Haber Global HD
-#DESCRIPTION Haber Global HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberturk/smil%3ahaberturk_hd.smil/playlist.m3u8:HABER TURK HD
-#DESCRIPTION HABER TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trthaber.live.trt.com.tr/master_720.m3u8:TRT HABER HD
 #DESCRIPTION TRT HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtworld.live.trt.com.tr/master_720.m3u8:TRT World
