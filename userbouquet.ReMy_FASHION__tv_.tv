@@ -1,37 +1,71 @@
 #NAME == ★★ReMy | FASHION★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8:Fashion TV UHD (2160p)
 #DESCRIPTION Fashion TV UHD (2160p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FASHION TV SPAIN
-#DESCRIPTION FASHION TV SPAIN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8:Fashion TV (SK)
-#DESCRIPTION Fashion TV (SK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:Fashion TV PG16
-#DESCRIPTION Fashion TV PG16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FTV-巴黎
-#DESCRIPTION FTV-巴黎
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/playlist.m3u8:Fashion Television us
+#DESCRIPTION Fashion Television us
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:Fashion TV (1080p)
+#DESCRIPTION Fashion TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8:Fashion TV (1080p)
+#DESCRIPTION Fashion TV (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8:Fashion TV (576p)
+#DESCRIPTION Fashion TV (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8:Fashion TV (England) (1080p)
+#DESCRIPTION Fashion TV (England) (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:Fashion TV (HD)
 #DESCRIPTION Fashion TV (HD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/058v:Fashion One
-#DESCRIPTION Fashion One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8:Models Inc.
-#DESCRIPTION Models Inc.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/luxury.m3u8:Luxury TV
-#DESCRIPTION Luxury TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8:Fashion TV (Italy) (1080p)
+#DESCRIPTION Fashion TV (Italy) (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8:Fashion TV (SK)
+#DESCRIPTION Fashion TV (SK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8:Fashion TV (Spain) (1080p)
+#DESCRIPTION Fashion TV (Spain) (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8:Fashion TV L'Original (1080p)
+#DESCRIPTION Fashion TV L'Original (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8:Fashion TV Midnight Secrets
 #DESCRIPTION Fashion TV Midnight Secrets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8:Fashion TV Midnite Secrets
+#DESCRIPTION Fashion TV Midnite Secrets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8:Fashion TV Midnite Secrets (1080p)
+#DESCRIPTION Fashion TV Midnite Secrets (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8:FASHION TV PARIS
+#DESCRIPTION FASHION TV PARIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8:Fashion TV Paris (1080p)
+#DESCRIPTION Fashion TV Paris (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8:Fashion TV PG13 England
+#DESCRIPTION Fashion TV PG13 England
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:Fashion TV PG16
+#DESCRIPTION Fashion TV PG16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8:Fashion TV PG16 (1080p)
+#DESCRIPTION Fashion TV PG16 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8:Fashion TV Singapore (1080p)
+#DESCRIPTION Fashion TV Singapore (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FASHION TV SPAIN
+#DESCRIPTION FASHION TV SPAIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8:Fashion TV Tokyo (PG13)
+#DESCRIPTION Fashion TV Tokyo (PG13)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8:Fashion TV Tokyo (PG13) (1080p)
+#DESCRIPTION Fashion TV Tokyo (PG13) (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8:FashionTV Mumbai FHD
+#DESCRIPTION FashionTV Mumbai FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8:FTV Midnight Secrets (FHD) (New!)
 #DESCRIPTION FTV Midnight Secrets (FHD) (New!)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FTV Midnight Secrets (HD) (New!)
 #DESCRIPTION FTV Midnight Secrets (HD) (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8:FTV Midnight Secrets (UHD) (New!)
+#DESCRIPTION FTV Midnight Secrets (UHD) (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FTV-paris
+#DESCRIPTION FTV-paris
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_mid/index.m3u8:HD Fashion
+#DESCRIPTION HD Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:HD Fashion
 #DESCRIPTION HD Fashion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8:HD FASHION TV
 #DESCRIPTION HD FASHION TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:HD Fashion
-#DESCRIPTION HD Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/luxury.m3u8:Luxury TV
+#DESCRIPTION Luxury TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:Victoria’s Secret Fashion Show
+#DESCRIPTION Victoria’s Secret Fashion Show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268137586424/120617_FS_LIVE_PINK-Carpet_1180x664x.mp4:Victoria’s Secret PINK CARPET
 #DESCRIPTION Victoria’s Secret PINK CARPET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268111608911/VS_TLAA_Master_1600x900.mp4:Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
 #DESCRIPTION Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:Victoria’s Secret Fashion Show
-#DESCRIPTION Victoria’s Secret Fashion Show
