@@ -22,10 +22,18 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",EURO STAR
 http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",DMAX HD
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TLC HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Minika COCUK
 http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",CNN TURK HD
 http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",Halk TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
+#EXTINF:-1 group-title="ReMy_ULUSAL",TELE 1
+http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Bloomberght AUTO
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1
 #EXTINF:-1 group-title="ReMy_ULUSAL",NTV HD
@@ -40,10 +48,6 @@ http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",AKIT HD
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",DMAX HD
-http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",TLC HD
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TGRT BELGESEL
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1
@@ -146,6 +150,8 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TARIM TV
 http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",ALMANYADA TÜRK 
+http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",MAKINE TV
 rtmp://streaming.imajnetwork.com:80/makinetv/makinetv
 #EXTINF:-1 group-title="ReMy_ULUSAL",CIFTCI TV
@@ -172,7 +178,6 @@ http://217.174.225.146/legacyhls/ch005_400/index.m3u8
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Türkmenistan TV
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
-
 
 #EXTINF:-1 group-title="tivibu",tivibu
 tivibu
@@ -241,14 +246,6 @@ http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$HABERTURK_HD/index.m3u8?star
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
 #EXTINF: -1 tvg-id="haberturk.tr" tvg-name="HABERTURK HD" tvg-logo="http://pici.life/TR/haberturktr.png" group-title="tivibu", HABERTURK
 https://tv.kuzeytv.com/hls/haberturk.m3u8
-#EXTINF: -1 tvg-id="halktv.tr" tvg-name="Halk TV" tvg-logo="http://pici.life/TR/halktvtr.png" group-title="tivibu", Halk TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
-#EXTINF: -1 tvg-id="halktv.tr" tvg-name="Halk TV" tvg-logo="http://pici.life/TR/halktvtr.png" group-title="tivibu", Halk TV
-https://tv.kuzeytv.com/hls/halk.m3u8
-#EXTINF: -1 tvg-id="tele1.tr" tvg-name="TELE 1" tvg-logo="http://pici.life/TR/Tele_1.png" group-title="tivibu", TELE 1
-http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
-#EXTINF: -1 tvg-id="tele1.tr" tvg-name="TELE 1" tvg-logo="http://pici.life/TR/Tele_1.png" group-title="tivibu", TELE 1
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
 #EXTINF: -1 tvg-logo="https://i.hizliresim.com/YNfmlL.png" group-title="tivibu", KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF: -1 tvg-logo="http://pici.life/TR/TRT_turk.png" group-title="tivibu", TRT TÜRK HD (Tivibu)
@@ -307,21 +304,6 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/Mehmet.m3u8
 #EXTINF: -1 tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="https://i.hizliresim.com/CZK7R2.png" group-title="BELGESEL", DMAX (Tivibu)
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NTV_SPOR_HD/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network" tvg-logo="http://pici.life/SE/cartoonnetwork.png" group-title="ÇOCUK", Cartoon Network
-https://streams.livetv.az/turk/cartoon/playlist.m3u8
-#EXTINF: -1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network" tvg-logo="http://pici.life/SE/cartoonnetwork.png" group-title="ÇOCUK", Cartoon Network
-http://94.46.195.170:9000/cartoonnetwork/live.m3u8
-#EXTINF: -1 tvg-id="disney.tr" tvg-name="Disney Channel" tvg-logo="http://pici.life/disneychannel_2.png" group-title="ÇOCUK", Disney Channel
-http://a.yenisistem2.space:8022/taraftartv4/disneychannel/playlist.m3u8
-#EXTINF: -1 tvg-id="disney.tr" tvg-name="Disney Channel" tvg-logo="http://pici.life/disneychannel_2.png" group-title="ÇOCUK", Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0 
-https://IPTV--iptv.repl.co/Turkish/disney_channel
-#EXTINF: -1 tvg-id="disney.tr" tvg-name="Disney Channel" tvg-logo="http://pici.life/disneychannel_2.png" group-title="ÇOCUK", Disney Channel
-http://94.46.195.170:9000/disneychannel/live.m3u8
-#EXTINF: -1 tvg-logo="https://miro.medium.com/max/1200/1*O2XZiaw63W3u5AvnYfJyFA.png" group-title="SİNEMA", ALMANYADA TÜRK 
-http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://surmeli.tv.tr/radyodinle3.png" group-title="SİNEMA", SÜRMELİ TV
-http://srmltv66.4kradyotv.com:8080/srmltv/srmltv/ckunklist.m3u8
 
 
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_WORLD_NEWS
@@ -880,9 +862,9 @@ https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="Fashion TV" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Lifestyle",Fashion TV L'Original (1080p)
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnite Secrets" tvg-country="FR" tvg-language="" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="XXX",Fashion TV Midnite Secrets (1080p)
+#EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnite Secrets" tvg-country="FR" tvg-language="" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Lifestyle",Fashion TV Midnite Secrets (1080p)
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnite Secrets" tvg-country="FR" tvg-language="" tvg-logo="" group-title="XXX",Fashion TV Midnite Secrets
+#EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnite Secrets" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Lifestyle",Fashion TV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVNewYork.fr" tvg-name="Fashion TV New York (PG13)" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Lifestyle",Fashion TV New York (PG13) (720p) [Not 24/7]
 https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
@@ -4540,14 +4522,6 @@ http://live.vnanet.vn/720P/playlist.m3u8
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vitv.vn/Content/Images/logo.png" tvg-name="VITV" group-title="VietNam",VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/66DVZ8SAi3o/maxresdefault.jpg" group-title="ÇOCUK", Şirinler Derleme 1
-http://fmeaddons.net/cocuk/COCUK:60_dakika_uzunlugunda_sirinler_Derleme_1.mp4
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8ItQJjwiX-Y/maxresdefault.jpg" group-title="ÇOCUK", Şirinler Derleme 2
-http://fmeaddons.net/cocuk/COCUK:60_dakika_uzunlugunda_sirinler_Derleme_2.mp4
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="ÇOCUK", Tom and Jerry Willy Wonka and the Chocolate Factory 2017
-http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://cms-tc.pbskids.org/global/mezzanines/shows/super-why.jpg?mtime=20160224173339" group-title="ÇOCUK", SÜPER WHY
-https://ixfuture.cubecdn.net/gwCCa0UqrYc/1080p.m3u8
 
 #EXTINF:-1 group-title="ReMy_FILM",TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İntikamı
 https://srv100.filmmodu.xyz/tt9580138/720p.tr.m3u8
