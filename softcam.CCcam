@@ -1,0 +1,26 @@
+#!/bin/sh
+case "$1" in
+start)
+    ulimit -s 1024
+    exec start-stop-daemon -S -x /usr/bin/CCcam
+    ;;
+stop)
+    exec start-stop-daemon -K -R 2 -x /usr/bin/CCcam
+    ;;
+restart|reload)
+    $0 stop
+    sleep 1
+    $0 start
+    ;;
+version)
+    echo "2.3.2"
+    ;;
+info)
+    echo "CCcam 2.3.2"
+    ;;
+*)
+    echo "Usage: $0 start|stop|restart"
+    exit 1
+    ;;
+esac
+exit 0

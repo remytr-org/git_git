@@ -1,0 +1,50 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          softcam
+# Required-Start:    $local_fs
+# Required-Stop:     
+# Should-Start:      $time $remote_fs cardserver
+# Should-Stop:     
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: oscam
+# Description:       oscam SoftCAM, card reader and server.
+### END INIT INFO
+
+case "$1" in
+start)
+	ulimit -s 1024
+	/usr/bin/oscam --wait 0 --config-dir /etc/tuxbox/config --daemon --pidfile /tmp/oscam.pid --restart 2 --utf8
+	;;
+stop)
+	kill `cat /tmp/oscam.pid` 2> /dev/null
+	;;
+restart|reload)
+	$0 stop
+	sleep 1
+	$0 start
+	;;
+status)
+	echo -n "$DESC: "
+	if [ -e $PIDFILE ]; then
+		PIDDIR=/proc/$(cat $PIDFILE)
+		if [ -d ${PIDDIR} ] && [[ $(readlink -f ${PIDDIR}/exe) == $DAEMON ]]; then
+			echo "Running."
+			exit 0
+		fi
+	fi
+	echo "Stopped."
+	exit 1
+	;;
+version)
+	$CAM -V | grep 'Version\|IPv6' | sed 's/Version:[ ]*//' | sed 's/IPv6.*yes/with IPv6/g' | sed 's/IPv6.*no/IPv4-only/g' | sed ':a;N;$!ba;s/\n/ /g'
+	;;
+info)
+	$CAM -V | grep 'Version\|IPv6' | sed 's/Version:[ ]*//' | sed 's/IPv6.*yes/with IPv6/g' | sed 's/IPv6.*no/IPv4-only/g' | sed ':a;N;$!ba;s/\n/ /g'
+	;;
+*)
+	echo "Usage: $0 start|stop|restart|status"
+	exit 1
+	;;
+esac
+exit 0
