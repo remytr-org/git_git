@@ -1,34 +1,18 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
 #SERVICE 1:64:45:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
 #DESCRIPTION ::::___MOVIES_CHANNELS____::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8:CINE5 TV
-#DESCRIPTION CINE5 TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//145.239.37.125%3a20458/sabantv3/sabantv3/chunklist_w603026520.m3u8:Şaban TV
 #DESCRIPTION Şaban TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8:AnimePlus
 #DESCRIPTION AnimePlus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.antenaplay.ro/live/smil%3aComedyPlay.smil/playlist.m3u8:Antena Comedy
 #DESCRIPTION Antena Comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8:Bollywood TV
-#DESCRIPTION Bollywood TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/001:BBC SCOT
-#DESCRIPTION BBC SCOT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8:Docurama
-#DESCRIPTION Docurama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:Extrema TV
 #DESCRIPTION Extrema TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8:Filmrise Crime
 #DESCRIPTION Filmrise Crime
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8:Filmrise Movies
 #DESCRIPTION Filmrise Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/MNX_pull/master.m3u8:MNX Movies
-#DESCRIPTION MNX Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/MN_pull/master.m3u8:Movies Now
-#DESCRIPTION Movies Now
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.creacast.com/mycomedy/smil%3amycomedy.smil/chunklist_w1113167704_b1928000.m3u8:MYComedy
-#DESCRIPTION MYComedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8:Mylife4U
-#DESCRIPTION Mylife4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8:RedBox Battery Pop
 #DESCRIPTION RedBox Battery Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8:RedBox Comedy
@@ -43,52 +27,14 @@
 #DESCRIPTION RedBox Rush
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8:RedBox Spotlight
 #DESCRIPTION RedBox Spotlight
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/RN_pull/master.m3u8:Romedy Now
-#DESCRIPTION Romedy Now
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8:Romedy Now
-#DESCRIPTION Romedy Now
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8:Screamfest
 #DESCRIPTION Screamfest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8:Spydar TV
-#DESCRIPTION Spydar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.253.75%3a8008/manifest.m3u8:SINTEL MOVIE
 #DESCRIPTION SINTEL MOVIE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/transtv/smil%3atranstv.smil/playlist.m3u8:Trans TV
 #DESCRIPTION Trans TV
 #SERVICE 1:64:46:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_MOVIES________:::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8:Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
-#DESCRIPTION Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv19.filmmodu.xyz/tt6292852/720p.tr.m3u8:Ben Bir Anneyim - 2019 - Gerilim, Bilimkurgu
-#DESCRIPTION Ben Bir Anneyim - 2019 - Gerilim, Bilimkurgu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv53.filmmodu.xyz/tt4154664/720p.tr.m3u8:Captain Marvel - 2019 - AKSİYON
-#DESCRIPTION Captain Marvel - 2019 - AKSİYON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv35.filmmodu.xyz/tt9562694/720p.tr.m3u8:Denizciler Uzaylılara Karşı - 2019 - AKSİYON
-#DESCRIPTION Denizciler Uzaylılara Karşı - 2019 - AKSİYON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv31.filmmodu.xyz/tt4463894/720p.tr.m3u8:Denge - Shaft -2019 - AKSİYON-SUÇ
-#DESCRIPTION Denge - Shaft -2019 - AKSİYON-SUÇ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv97.filmmodu.xyz/tt8743064/720p.tr.m3u8:Dünü Kurtarmak - You Yesterday - 2019 - Bilim Ku
-#DESCRIPTION Dünü Kurtarmak - You Yesterday - 2019 - Bilim Ku
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv96.filmmodu.xyz/tt1860242/720p.tr.m3u8:he Highwaymen - 2019 - Gerilim, Gizem, Suç, Dram,
-#DESCRIPTION he Highwaymen - 2019 - Gerilim, Gizem, Suç, Dram,
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv93.filmmodu.xyz/tt6823368/720p.tr.m3u8:Glass - 2019 - Gerilim, Gizem, Fantastik, Dram, Bi
-#DESCRIPTION Glass - 2019 - Gerilim, Gizem, Fantastik, Dram, Bi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv17.filmmodu.xyz/tt8976832/720p.tr.m3u8:Issız Bir Adaya Düşsen Yanına Kimi Alırdın?
-#DESCRIPTION Issız Bir Adaya Düşsen Yanına Kimi Alırdın?
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv87.filmmodu.xyz/tt8323104/720p.tr.m3u8:Nancy Drew ve Gizli Merdiven - 2019 - GİZEL,AİLE
-#DESCRIPTION Nancy Drew ve Gizli Merdiven - 2019 - GİZEL,AİLE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv41.filmmodu.xyz/tt8155288/720p.tr.m3u8:Ölüm Günün Kutlu Olsun 2 - Happy Death Day 2U
-#DESCRIPTION Ölüm Günün Kutlu Olsun 2 - Happy Death Day 2U
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv84.filmmodu.xyz/tt5886046/720p.tr.m3u8:Ölümcül Labirent - 2019 - Aksiyon, Gerilim, Giz
-#DESCRIPTION Ölümcül Labirent - 2019 - Aksiyon, Gerilim, Giz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv17.filmmodu.xyz/tt7052494/720p.tr.m3u8:Paint - EFSANE SÜRÜCÜ - 2019 - AKSİYON
-#DESCRIPTION Paint - EFSANE SÜRÜCÜ - 2019 - AKSİYON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv70.filmmodu.xyz/tt0448115/720p.tr.m3u8:Shazam!-Shazam! 6 Güç - 2019 - MACERA - FANTASTi
-#DESCRIPTION Shazam!-Shazam! 6 Güç - 2019 - MACERA - FANTASTi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv49.filmmodu.xyz/tt9815714/720p.tr.m3u8:The Hard - Ortak 2019 - AKSİYON
-#DESCRIPTION The Hard - Ortak 2019 - AKSİYON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv37.filmmodu.xyz/tt7772580/720p.tr.m3u8:The Perfection - 2019 - GERİLİM
-#DESCRIPTION The Perfection - 2019 - GERİLİM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Acceleration.2019.mkv:Acceleration.2019.mkv
 #DESCRIPTION Acceleration.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Cosmos.2019.mkv:Cosmos.2019.mkv
@@ -101,8 +47,6 @@
 #DESCRIPTION Dora.and.the.Lost.City.of.Gold.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Ellipse.2019.mkv:Ellipse.2019.mkv
 #DESCRIPTION Ellipse.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English Movies/2019/#Followme (2019) WEBRip 1080p/#Followme.2019.1080p.WEBRip.x264-[YTS.AM].mp4:Followme (2019)
-#DESCRIPTION Followme (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Good.Boys.2019.mkv:Good.Boys.2019.mkv
 #DESCRIPTION Good.Boys.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Joker.2019.mkv:Joker.2019.mkv
@@ -137,86 +81,10 @@
 #DESCRIPTION Abominable(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dreams47.com/movie.mp4:Sonic. La película [HD]
 #DESCRIPTION Sonic. La película [HD]
-#SERVICE 1:64:47:0:0:0:0:0:0:0::::::___filmmodu___::::
-#DESCRIPTION ::::___filmmodu___::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv100.filmmodu.xyz/tt9580138/720p.tr.m3u8:TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İn
-#DESCRIPTION TR_FILM: Ölümcül Dövüş Efsanesi: Akrebin İn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv51.filmmodu.xyz/tt0095631/720p.tr.m3u8:TR_FILM: Geceyarısı Avı
-#DESCRIPTION TR_FILM: Geceyarısı Avı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv8.filmmodu.xyz/tt8783532/720p.tr.m3u8:TR_FILM: öğrenci ofisi
-#DESCRIPTION TR_FILM: öğrenci ofisi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv69.filmmodu.xyz/tt4832640/720p.tr.m3u8:TR_FILM: Sultan
-#DESCRIPTION TR_FILM: Sultan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv49.filmmodu.xyz/tt9311062/720p.tr.m3u8:TR_FILM: Samuray marason
-#DESCRIPTION TR_FILM: Samuray marason
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv97.filmmodu.xyz/tt3387520/720p.tr.m3u8:TR_FILM: Scary Stories to Tell in the Dark
-#DESCRIPTION TR_FILM: Scary Stories to Tell in the Dark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv33.filmmodu.xyz/tt0403358/720p.tr.m3u8:TR_FILM: gece nobeti
-#DESCRIPTION TR_FILM: gece nobeti
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv59.filmmodu.xyz/tt4269118/720p.tr.m3u8:TR_FILM: cennette 7 dakika
-#DESCRIPTION TR_FILM: cennette 7 dakika
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv31.filmmodu.xyz/tt5774060/720p.tr.m3u8:TR_FILM: derin sular
-#DESCRIPTION TR_FILM: derin sular
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv57.filmmodu.xyz/tt7713068/720p.tr.m3u8:TR_FILM: Yırtıcı Kuşlar ve Muhteşem Harley Qu
-#DESCRIPTION TR_FILM: Yırtıcı Kuşlar ve Muhteşem Harley Qu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt1634106/720p.tr.m3u8:TR_FILM: Bloodshot: Durdurulamaz Güç
-#DESCRIPTION TR_FILM: Bloodshot: Durdurulamaz Güç
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv60.filmmodu.xyz/tt9243946/720p.tr.m3u8:TR_FILM: El Camino A Breaking Bad
-#DESCRIPTION TR_FILM: El Camino A Breaking Bad
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv24.filmmodu.xyz/tt7286456/720p.tr.m3u8:TR_FILM: Joker
-#DESCRIPTION TR_FILM: Joker
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv17.filmmodu.xyz/tt6772804/720p.tr.m3u8:TR_FILM: Kaçış Planı 3
-#DESCRIPTION TR_FILM: Kaçış Planı 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv76.filmmodu.xyz/tt9806322/720p.tr.m3u8:TR_FILM: Isi & Ossi
-#DESCRIPTION TR_FILM: Isi & Ossi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv99.filmmodu.xyz/tt0493402/720p.tr.m3u8:TR_FILM: Boarding Gate
-#DESCRIPTION TR_FILM: Boarding Gate
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv18.filmmodu.xyz/tt7456310/720p.tr.m3u8:TR_FILM: Anna
-#DESCRIPTION TR_FILM: Anna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv77.filmmodu.xyz/tt2948356/720p.tr.m3u8:TR_FILM: HAYVANLAR SEHRİ
-#DESCRIPTION TR_FILM: HAYVANLAR SEHRİ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv19.filmmodu.xyz/tt1618450/720p.tr.m3u8:TR_FILM: Winx Club - Sihirli Macera
-#DESCRIPTION TR_FILM: Winx Club - Sihirli Macera
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv444.filmmodu.xyz/tt1621039/720p.tr.m3u8:TR_FILM: Kahraman İkili
-#DESCRIPTION TR_FILM: Kahraman İkili
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv54.filmmodu.xyz/tt1217209/720p.tr.m3u8:TR_FILM: CESUR
-#DESCRIPTION TR_FILM: CESUR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv63.filmmodu.xyz/tt6095472/720p.tr.m3u8:TR_FILM: Angry Birds Filmi 2
-#DESCRIPTION TR_FILM: Angry Birds Filmi 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv9.filmmodu.xyz/tt7869818/720p.tr.m3u8:TR_FILM: Unutulmuş Arkadaşlıklar
-#DESCRIPTION TR_FILM: Unutulmuş Arkadaşlıklar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv88.filmmodu.xyz/tt4215332/720p.tr.m3u8:TR_FILM: Barbie güçlü prenses
-#DESCRIPTION TR_FILM: Barbie güçlü prenses
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv52.filmmodu.xyz/tt8936646/720p.tr.m3u8:TR_FILM: Extraction
-#DESCRIPTION TR_FILM: Extraction
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv74.filmmodu.xyz/tt2639336/720p.tr.m3u8:TR_FILM: GRETA
-#DESCRIPTION TR_FILM: GRETA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv93.filmmodu.xyz/tt0355954/480p.tr.m3u8:TR_FILM: ölüm yolu
-#DESCRIPTION TR_FILM: ölüm yolu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv59.filmmodu.xyz/tt0172156/720p.tr.m3u8:TR_FILM: çılgın ikili 2
-#DESCRIPTION TR_FILM: çılgın ikili 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv64.filmmodu.xyz/tt0150377/720p.tr.m3u8:TR_FILM: çifte tehlike
-#DESCRIPTION TR_FILM: çifte tehlike
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv98.filmmodu.xyz/tt2766104/720p.tr.m3u8:TR_FILM: Asla yanlız uçmayacaksın (animasyon)
-#DESCRIPTION TR_FILM: Asla yanlız uçmayacaksın (animasyon)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv69.filmmodu.xyz/tt5814534/720p.tr.m3u8:TR_FILM: ajanlar iş başında (animasyon)
-#DESCRIPTION TR_FILM: ajanlar iş başında (animasyon)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv40.filmmodu.xyz/tt0118617/720p.tr.m3u8:TR_FILM: Anastasia (animasyon)
-#DESCRIPTION TR_FILM: Anastasia (animasyon)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv9.filmmodu.xyz/tt4520988/720p.tr.m3u8:TR_FILM: Karlar Ülkesi 2 (animasyon)
-#DESCRIPTION TR_FILM: Karlar Ülkesi 2 (animasyon)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv20.filmmodu.xyz/tt1620981/480p.tr.m3u8:TR_FILM: Addams Ailesi (animasyon)
-#DESCRIPTION TR_FILM: Addams Ailesi (animasyon)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv98.filmmodu.xyz/tt5848640/720p.tr.m3u8:TR_FILM: sihirli halı (animasyon)
-#DESCRIPTION TR_FILM: sihirli halı (animasyon)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv17.filmmodu.xyz/tt6324278/720p.tr.m3u8:TR_FILM: yeti efsanesi (animasyon)
-#DESCRIPTION TR_FILM: yeti efsanesi (animasyon)
-#SERVICE 1:64:48:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
+#SERVICE 1:64:47:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ga.video.cdn.pbs.org/videos/nature/bf2826a1-a3d3-4a2c-85c8-cdbefaa5640e/182800/hd-mezzanine-16x9/d024d04a_naat_3211_1080p-16x9-hls-2500k.m3u8:NATURE HD
 #DESCRIPTION NATURE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Ayla.The.Daughter.of.War.2017.mp4:Ayla: The Daughter of War (2017)
-#DESCRIPTION Ayla: The Daughter of War (2017)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Arabic/one-heart.mp4:Birlesen Gonuller
 #DESCRIPTION Birlesen Gonuller
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/deleha.mp4:Deliha
@@ -239,14 +107,10 @@
 #DESCRIPTION 93 Days
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/9th.Company.mp4:9th Company
 #DESCRIPTION 9th Company
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/931_video.mp4:A Cat and a Mouse
-#DESCRIPTION A Cat and a Mouse
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/A.Conspiracy.of.Faith.2016.mp4:A Conspiracy of Faith
 #DESCRIPTION A Conspiracy of Faith
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/a.hijacking.2012.mp4:A Hijacking
 #DESCRIPTION A Hijacking
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2955_video.mp4:A Late Quartet
-#DESCRIPTION A Late Quartet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/rajol.1980.mp4:A man who lost his mind
 #DESCRIPTION A man who lost his mind
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/A.Royal.Affair.2012.mp4:A Royal Affair
@@ -255,12 +119,6 @@
 #DESCRIPTION A Score to Settle (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/A.Twelve.Year.Night.2018.mp4:A Twelve-Year Night
 #DESCRIPTION A Twelve-Year Night
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2741_video.mp4:Abo Rabea
-#DESCRIPTION Abo Rabea
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v1.zaytonatube.com%3a8008/movie/TkHzlpCoCi/OuT5lxv8t6/72191.mp4:Abominable
-#DESCRIPTION Abominable
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2740_video.mp4:Abu girls
-#DESCRIPTION Abu girls
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Ad.Astra.2019.mp4:Ad Astra
 #DESCRIPTION Ad Astra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Adopt.A.Highway.2019.mp4:Adopt a Highway
@@ -273,8 +131,6 @@
 #DESCRIPTION All Star Superman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Se3a.W.Noss.2019.mp4:An hour and a half
 #DESCRIPTION An hour and a half
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2923_video.mp4:Another Cinderella Story
-#DESCRIPTION Another Cinderella Story
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/Animation/Arctic.Dogs.2019.mp4:Arctic Dogs
 #DESCRIPTION Arctic Dogs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Are.You.Here.2013.mp4:Are You Here
@@ -287,8 +143,6 @@
 #DESCRIPTION Avengers Age of Ultron 2015
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/movies/ibn-evil.mp4:Azazel, the son of Satan
 #DESCRIPTION Azazel, the son of Satan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2944_video.mp4:Backtrack
-#DESCRIPTION Backtrack
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/Badland.2019.mp4:Badland
 #DESCRIPTION Badland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Ballon.2018.mp4:Balloon
@@ -323,20 +177,10 @@
 #DESCRIPTION Beneath Hill 60
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/en/919/Between.Two.Ferns.The.Movie.2019.mp4:Between Two Ferns: The Movie
 #DESCRIPTION Between Two Ferns: The Movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2945_video.mp4:Beyond the Mask
-#DESCRIPTION Beyond the Mask
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2935_video.mp4:Bhaag Milkha Bhaag
-#DESCRIPTION Bhaag Milkha Bhaag
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2936_video.mp4:Bhoothnath Returns
-#DESCRIPTION Bhoothnath Returns
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2937_video.mp4:Black
-#DESCRIPTION Black
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Black.Butterfly.2017.mp4:Black Butterfly
 #DESCRIPTION Black Butterfly
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/22/blow-black.mass.2015.720p.bluray.x264[EtHD].mp4:Black Mass
 #DESCRIPTION Black Mass
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v1.zaytonatube.com%3a8008/movie/TkHzlpCoCi/OuT5lxv8t6/799.mp4:Blackhat
-#DESCRIPTION Blackhat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/17/1984_video.mp4:Blade II
 #DESCRIPTION Blade II
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/en/X19/Bloodline.2018.1080p_cut.mp4:Bloodline
@@ -347,18 +191,8 @@
 #DESCRIPTION Boy Missing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Breach.2007.mp4:Breach
 #DESCRIPTION Breach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2919_video.mp4:Brothers
-#DESCRIPTION Brothers
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2931_video.mp4:Bullet to the Head
-#DESCRIPTION Bullet to the Head
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/934_video.mp4:Cairo Time
-#DESCRIPTION Cairo Time
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2515_video.mp4:Captain Egypt
-#DESCRIPTION Captain Egypt
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/newt/Captain.Phillips.2013.720p.BluRay.X264-AMIABLE_cut.mp4:Captain Phillips
 #DESCRIPTION Captain Phillips
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/1978_video.mp4:Cash Flow
-#DESCRIPTION Cash Flow
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/Cell.211.2009.mp4:Cell 211
 #DESCRIPTION Cell 211
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/Animation/City.Hunter.Shinjuku.Private.Eyes.2019.mp4:City Hunter: Shinjuku Private Eyes
@@ -369,16 +203,10 @@
 #DESCRIPTION Coffee Egypt Stock Exchange
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Coming.To.America.1988.mp4:Coming to America
 #DESCRIPTION Coming to America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v1.zaytonatube.com%3a8008/movie/TkHzlpCoCi/OuT5lxv8t6/70965.mp4:Conviction (2010)
-#DESCRIPTION Conviction (2010)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/en/919/Crawl.2019.mp4:Crawl
 #DESCRIPTION Crawl
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2924_video.mp4:Dark Shadows
-#DESCRIPTION Dark Shadows
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Diego.Maradona.2019.MP4:Diego Maradona
 #DESCRIPTION Diego Maradona
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2960_video.mp4:Dilwale
-#DESCRIPTION Dilwale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/Doctor.Sleep.2019.mp4:Doctor Sleep
 #DESCRIPTION Doctor Sleep
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/Doctor.Who.The.Time.Of.The.Doctor.2013.mp4:Doctor Who: The Time of the Doctor
@@ -393,16 +221,12 @@
 #DESCRIPTION Downrange
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/en/X19/El.Camino.A.Breaking.Bad.Movie.2019.mp4:El Camino: A Breaking Bad Movie
 #DESCRIPTION El Camino: A Breaking Bad Movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2921_video.mp4:Elektra
-#DESCRIPTION Elektra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/images/movies/Eternal.mp4:Eternal Sunshine of the Spotless Mind
 #DESCRIPTION Eternal Sunshine of the Spotless Mind
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Evaru.2019.mp4:Evaru
 #DESCRIPTION Evaru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/22/Everest.2015.720p.BluRay.x264-SPARKS.mp4:Everest
 #DESCRIPTION Everest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2951_video.mp4:Exposed (2016)
-#DESCRIPTION Exposed (2016)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.mp4:Fast & Furious Presents: Hobbs & Shaw (2019)
 #DESCRIPTION Fast & Furious Presents: Hobbs & Shaw (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Series/en/Faer.The.Walking.Dead/S05/Fear.The.Walking.Dead.S05E14.mp4:Fear the Walking Dead S05 E14
@@ -413,8 +237,6 @@
 #DESCRIPTION Flypaper
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Arabic/youm1.mp4:Foolproof day required
 #DESCRIPTION Foolproof day required
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2733_video.mp4:For 131
-#DESCRIPTION For 131
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/ar/Min.Dahr.Rajel.mp4:From Dahr Rajel
 #DESCRIPTION From Dahr Rajel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/24/Frozen.2010.mp4:Frozen
@@ -431,18 +253,12 @@
 #DESCRIPTION Gemini Man
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/Animation/Genocidal.Organ.2017.mp4:Genocidal Organ
 #DESCRIPTION Genocidal Organ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2952_video.mp4:Get the Gringo
-#DESCRIPTION Get the Gringo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/1421_video.mp4:Ghadi_glandular
-#DESCRIPTION Ghadi_glandular
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdc/sdc/extended/movies/8/Gone.Girl.2014.mp4:Gone Girl
 #DESCRIPTION Gone Girl
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/Gone.With.The.Wind.1939.mp4:Gone with the Wind
 #DESCRIPTION Gone with the Wind
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/Animation/Grand.Isle.2019.mp4:Grand Isle
 #DESCRIPTION Grand Isle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2956_video.mp4:Grease
-#DESCRIPTION Grease
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Green.Lantern.First.Flight.2009.mp4:Green Lantern: First Flight
 #DESCRIPTION Green Lantern: First Flight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/ar/Hamada.toto.1982.mp4:Hamada and Tutu gang
@@ -451,10 +267,6 @@
 #DESCRIPTION Harmony
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/I.Lost.My.Body.2019.mp4:I Lost My Body
 #DESCRIPTION I Lost My Body
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2734_video.mp4:I will never go back
-#DESCRIPTION I will never go back
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2735_video.mp4:Ibn Tahayah Azouz
-#DESCRIPTION Ibn Tahayah Azouz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/El.Abla.Tamtam.2018.mp4:Idiot TM TM
 #DESCRIPTION Idiot TM TM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/Haevnen.2010.mp4:In a Better World
@@ -463,14 +275,10 @@
 #DESCRIPTION In the Shadow of the Moon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Incendies.2010.mp4:Incendies
 #DESCRIPTION Incendies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/928_video.mp4:iron
-#DESCRIPTION iron
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Ironclad.2011.mp4:Ironclad
 #DESCRIPTION Ironclad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/en/X19/It.Chapter.Two.2019.mp4:It Chapter Two (2019)
 #DESCRIPTION It Chapter Two (2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/933_video.mp4:It was my patch
-#DESCRIPTION It was my patch
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/JCVD.2008.mp4:JCVD
 #DESCRIPTION JCVD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/Animation/JLA.Adventures.Trapped.In.Time.2014.mp4:JLA Adventures: Trapped in Time
@@ -499,8 +307,6 @@
 #DESCRIPTION Killing Lincoln
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/King.of.Devils.mp4:King of Devils Island
 #DESCRIPTION King of Devils Island
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2932_video.mp4:Kiss of the Spider Woman
-#DESCRIPTION Kiss of the Spider Woman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Kon.Tiki.2012.mp4:Kon-Tiki
 #DESCRIPTION Kon-Tiki
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/10/Koyla.1997.720p.x264.mp4:Koyla
@@ -509,20 +315,8 @@
 #DESCRIPTION Kung Fu Panda 3 (2016)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Lawrence.of.Arabia1962_cut.mp4:Lawrence of Arabia
 #DESCRIPTION Lawrence of Arabia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2957_video.mp4:Leon The Professional
-#DESCRIPTION Leon The Professional
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Let.The.Right.One.In.2008.mp4:Let the Right One In
 #DESCRIPTION Let the Right One In
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2731_video.mp4:Lied and lied
-#DESCRIPTION Lied and lied
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2038_video.mp4:Limitless
-#DESCRIPTION Limitless
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2927_video.mp4:Littleman
-#DESCRIPTION Littleman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2732_video.mp4:Love 24 hour
-#DESCRIPTION Love 24 hour
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/984_video.mp4:Lucky Number Slevin
-#DESCRIPTION Lucky Number Slevin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/22/Macbeth.2015.1080p.mp4:Macbeth
 #DESCRIPTION Macbeth
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/EL.Mahraga.2018.mp4:Maharaja
@@ -539,22 +333,12 @@
 #DESCRIPTION Max Manus: Man of War
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/May.God.Save.Us.mp4:May God Save Us
 #DESCRIPTION May God Save Us
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/1632_video.mp4:Minions
-#DESCRIPTION Minions
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/soatafahm.mp4:Misunderstanding
 #DESCRIPTION Misunderstanding
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/newt/2958_video_cut.mp4:Moulin Rouge!
 #DESCRIPTION Moulin Rouge!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/22/excess-xvid-mbh.mp4:Mr. Bean's Holiday
 #DESCRIPTION Mr. Bean's Holiday
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2738_video.mp4:My daughter and wolves
-#DESCRIPTION My daughter and wolves
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2739_video.mp4:my dear daughter
-#DESCRIPTION my dear daughter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2742_video.mp4:My father is above the tree
-#DESCRIPTION My father is above the tree
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2095_video.mp4:My wife and wife
-#DESCRIPTION My wife and wife
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Narc.2002.mp4:Narc
 #DESCRIPTION Narc
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/ar/WAJIB2017.mp4:Necessary
@@ -563,14 +347,8 @@
 #DESCRIPTION New York
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Nothing.But.the.Truth.2008.mp4:Nothing But the Truth
 #DESCRIPTION Nothing But the Truth
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2743_video.mp4:Oh night_time
-#DESCRIPTION Oh night_time
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/929_video.mp4:Omar and Salwa
-#DESCRIPTION Omar and Salwa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/once.upon.a.time.in.anatolia.2011.mp4:Once Upon a Time in Anatolia
 #DESCRIPTION Once Upon a Time in Anatolia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/924_video.mp4:one level
-#DESCRIPTION one level
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdd1/movies/r/Ong.Bak.2003.mp4:Ong-bak
 #DESCRIPTION Ong-bak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdd1/movies/r/Ong.Bak.2.2008.mp4:Ong-bak 2
@@ -583,22 +361,16 @@
 #DESCRIPTION Out of service_film
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Lahon.W.Habs.2019.mp4:Out of prison
 #DESCRIPTION Out of prison
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2959_video.mp4:Out of Sight
-#DESCRIPTION Out of Sight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Outpost.2007.mp4:Outpost
 #DESCRIPTION Outpost
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/Overcomer.2019.mp4:Overcomer
 #DESCRIPTION Overcomer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2942_video.mp4:Pan
-#DESCRIPTION Pan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/movies/pandemic.2016.720p.bluray.x264-veto.mp4:Pandemic (2016)
 #DESCRIPTION Pandemic (2016)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/datasdc/sr-3/Movies/Arabic/3/Paradis.Now.2005.mp4:Paradise Now
 #DESCRIPTION Paradise Now
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/ar/Bani.Adam.2018.mp4:person
 #DESCRIPTION person
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2940_video.mp4:PK
-#DESCRIPTION PK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/22/Planes.Fire.and.Rescue.2014.1080p.BluRay.x264-GECKOS.mp4:Planes Fire and Rescue
 #DESCRIPTION Planes Fire and Rescue
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Plastic.2014.mp4:plastic
@@ -607,12 +379,6 @@
 #DESCRIPTION Poms (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Poseidon.2006.mp4:Poseidon
 #DESCRIPTION Poseidon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2946_video.mp4:Prem Ratan Dhan Payo
-#DESCRIPTION Prem Ratan Dhan Payo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2964_video.mp4:Queen of the Desert
-#DESCRIPTION Queen of the Desert
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2961_video.mp4:Ransom
-#DESCRIPTION Ransom
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Ready.or.Not.2019.mp4:Ready or Not
 #DESCRIPTION Ready or Not
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Red.Lights.2012.mp4:Red Lights
@@ -627,10 +393,6 @@
 #DESCRIPTION Retribution
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/22/retribution.2015.720p.bluray.x264-usury[EtHD].mp4:Retribution
 #DESCRIPTION Retribution
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2933_video.mp4:Robin Hood: Men in Tights
-#DESCRIPTION Robin Hood: Men in Tights
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2962_video.mp4:Rocky
-#DESCRIPTION Rocky
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/ar/The.Monsters.Running.1987.mp4:Run monsters
 #DESCRIPTION Run monsters
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Running.with.the.Devil.2019.mp4:Running with the Devil
@@ -643,18 +405,12 @@
 #DESCRIPTION Satan Island
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdd1/movies/x/10/Saw.IV.2007_cut.mp4:Saw IV
 #DESCRIPTION Saw IV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newtube.ps/components/com_contushdvideoshare/videos/1018501460.mp4:Saw V
-#DESCRIPTION Saw V
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newtube.ps/components/com_contushdvideoshare/videos/1683903300.mp4:Saw VI
-#DESCRIPTION Saw VI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Scarborough.2019.mp4:Scarborough
 #DESCRIPTION Scarborough
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2963_video.mp4:Scarface
 #DESCRIPTION Scarface
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/en/X19/Scary.Stories.to.Tell.in.the.Dark.2019.mp4:Scary Stories to Tell in the Dark (2019)
 #DESCRIPTION Scary Stories to Tell in the Dark (2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2943_video.mp4:Secret in Their Eyes
-#DESCRIPTION Secret in Their Eyes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/See.You.Up.There.2017.mp4:See You Up There
 #DESCRIPTION See You Up There
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/ar/sh3ban1980.mp4:Shaaban is below zero
@@ -665,38 +421,22 @@
 #DESCRIPTION Sheyab youth
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Shock.Wave.2017.mp4:Shock Wave
 #DESCRIPTION Shock Wave
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2953_video.mp4:Short Term 12
-#DESCRIPTION Short Term 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2489_video.mp4:sleep of the hills
-#DESCRIPTION sleep of the hills
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Sniper.Ultimate.Kill.2017.mp4:Sniper: Ultimate Kill
 #DESCRIPTION Sniper: Ultimate Kill
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Son.of.Batman.2014/Son.of.Batman.2014.mp4:Son of Batman (2014)
 #DESCRIPTION Son of Batman (2014)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2736_video.mp4:Son of Maine in society
-#DESCRIPTION Son of Maine in society
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/22/song.of.the.sea.2014.limited.1080p.bluray.x264-amiable.mp4:Song of The Sea
 #DESCRIPTION Song of The Sea
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2737_video.mp4:Sons for sale
-#DESCRIPTION Sons for sale
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/932_video.mp4:Soo 'Tfahom
-#DESCRIPTION Soo 'Tfahom
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/22/Spectre.2015.1080p.BluRay.x264-SPARKS_new.enc.mp4:Spectre
 #DESCRIPTION Spectre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2928_video.mp4:Step Up Revolution
-#DESCRIPTION Step Up Revolution
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/street.Kings.2.Motor.City.mp4:Street Kings 2: Motor City
 #DESCRIPTION Street Kings 2: Motor City
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2947_video.mp4:Suffragette
-#DESCRIPTION Suffragette
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Suite.Francaise.2014_cut.mp4:Suite Francaise
 #DESCRIPTION Suite Francaise
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Superman.Vs.The.Elite.mp4:Superman vs. The Elite
 #DESCRIPTION Superman vs. The Elite
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Superman.Unbound.2013.MP4:Superman: Unbound
 #DESCRIPTION Superman: Unbound
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/1420_video.mp4:sweeper
-#DESCRIPTION sweeper
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/movies/Tamasha2015.mp4:Tamasha
 #DESCRIPTION Tamasha
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/taxi.5.2018.MP4:Taxi 5
@@ -709,8 +449,6 @@
 #DESCRIPTION The Art of Self-Defense
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/alg.1967.mp4:The Battle of Algiers
 #DESCRIPTION The Battle of Algiers
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2744_video.mp4:The best days of a lifetime
-#DESCRIPTION The best days of a lifetime
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/movies/22/The.Book.of.Life.2014.1080p.BluRay.x264-GECKOS.mp4:The Book of Life
 #DESCRIPTION The Book of Life
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/the.bouncer.2018.mp4:The Bouncer
@@ -731,8 +469,6 @@
 #DESCRIPTION The Exception
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/The.Goldfinch.2019.MP4:The Goldfinch
 #DESCRIPTION The Goldfinch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2918_video.mp4:The Good Dinosaur
-#DESCRIPTION The Good Dinosaur
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/The.Great.Raid.2005.mp4:The Great Raid
 #DESCRIPTION The Great Raid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/The.Guilty.2018.mp4:The Guilty
@@ -771,12 +507,8 @@
 #DESCRIPTION The Meyerowitz Stories
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Akhlaa.Al.Abeed.mp4:The morals of slaves
 #DESCRIPTION The morals of slaves
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2925_video.mp4:The Naked Gun 3
-#DESCRIPTION The Naked Gun 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/ar/Asmaa.2011.mp4:The names
 #DESCRIPTION The names
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2100_video.mp4:The Night's Nest
-#DESCRIPTION The Night's Nest
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/The.Nightingale.2018.mp4:The Nightingale
 #DESCRIPTION The Nightingale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/The.Operative.2019.mp4:The Operative
@@ -787,14 +519,10 @@
 #DESCRIPTION The Parts You Lose
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/arabic/7afla.mp4:the party
 #DESCRIPTION the party
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/927_video.mp4:the party
-#DESCRIPTION the party
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/ElMamar.2019/ElMamar.2019.mp4:The Passage_Movie lane
 #DESCRIPTION The Passage_Movie lane
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/movies/The.Princess.Diaries.2001.480p.BluRay.x264-mSD.mp4:The Princess Diaries
 #DESCRIPTION The Princess Diaries
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2948_video.mp4:The Program
-#DESCRIPTION The Program
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/The.Red.Baron.2008.mp4:The Red Baron
 #DESCRIPTION The Red Baron
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/The.Report.2019.MP4:The Report
@@ -809,8 +537,6 @@
 #DESCRIPTION The Son
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/he.Spy.Who.Fell.to.Earth.2019.MP4:The Spy Who Fell to Earth
 #DESCRIPTION The Spy Who Fell to Earth
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2954_video.mp4:The Station Agent
-#DESCRIPTION The Station Agent
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.84/storagea/A/sf-4/Movies/8/The.Usual.Suspects.1995.mp4:The Usual Suspects
 #DESCRIPTION The Usual Suspects
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/The.Wandering.Earth.2019.mp4:The Wandering Earth
@@ -843,28 +569,18 @@
 #DESCRIPTION Unknown Soldier
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Viceroy.House.2017.mp4:Viceroy House
 #DESCRIPTION Viceroy House
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2965_video.mp4:Victor Frankenstein
-#DESCRIPTION Victor Frankenstein
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/818604130.mp4:Vitamin
-#DESCRIPTION Vitamin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/Animation/Vixen.The.Movie.2017.mp4:Vixen: The Movie
 #DESCRIPTION Vixen: The Movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/images/movies/Wadjda.mp4:Wadjda_Is one
 #DESCRIPTION Wadjda_Is one
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Warm.Bodies.2013.MP4:Warm Bodies
 #DESCRIPTION Warm Bodies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/1977_video.mp:We got horror
-#DESCRIPTION We got horror
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2745_video.mp4:We who stole the thief
-#DESCRIPTION We who stole the thief
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/ar/khyaneh1987.mp4:Well betrayal
 #DESCRIPTION Well betrayal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/Belyj.tigr.2012.mp4:White Tiger
 #DESCRIPTION White Tiger
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Wonder.Woman.mp4:Wonder Woman
 #DESCRIPTION Wonder Woman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/930_video.mp4:World War III
-#DESCRIPTION World War III
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/WWE/205.Live/WWE.205.Live.2019.09.17.mp4:WWE 205 Live 2019/09/17
 #DESCRIPTION WWE 205 Live 2019/09/17
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/WWE/205.Live/WWE.205.Live.2019.09.24.mp4:WWE 205 Live 2019/09/24
@@ -879,8 +595,6 @@
 #DESCRIPTION WWE 205 Live 2019/12/06
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/WWE/205.Live/WWE.205.Live.2019.12.13.mp4:WWE 205 Live 2019/12/13
 #DESCRIPTION WWE 205 Live 2019/12/13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2971_video.mp4:WWE Fastlane
-#DESCRIPTION WWE Fastlane
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/WWE/Smackdown/WWE.Smackdown.2019.10.04.mp4:WWE Friday Night Smackdown 2019/10/04
 #DESCRIPTION WWE Friday Night Smackdown 2019/10/04
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Movies/WWE/Smackdown/WWE.Smackdown.2019.10.11.mp4:WWE Friday Night Smackdown 2019/10/11
@@ -955,13 +669,9 @@
 #DESCRIPTION WWE Superstars 2016.02.19
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/arabic/abaa.s3ar.mp4:Young parents
 #DESCRIPTION Young parents
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2922_video.mp4:Zero Tolerance
-#DESCRIPTION Zero Tolerance
-#SERVICE 1:64:49:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
+#SERVICE 1:64:48:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_SERIES____::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/series/Turkey/other.se/jsoor/CESURVEGUZELEP12.mp4:Cesur Ve Güzel S01 E12
-#DESCRIPTION Cesur Ve Güzel S01 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/wadi10/wadi-10-1-2.mp4:Kurtlar Vadisi S10 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/series/wadi10/wadi-10-1-2.mp4:Kurtlar Vadisi S10 E01
 #DESCRIPTION Kurtlar Vadisi S10 E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/series/wadi10/wadi-10-3-4.mp4:Kurtlar Vadisi S10 E02
 #DESCRIPTION Kurtlar Vadisi S10 E02
@@ -999,9 +709,9 @@
 #DESCRIPTION Kurtlar Vadisi S10 E19
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/series/wadi10/wadi10-39-40.mp4:Kurtlar Vadisi S10 E20
 #DESCRIPTION Kurtlar Vadisi S10 E20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/movies/Wad10-1-done.mp4:Kurtlar Vadisi S10 E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/series/wadi10/Wad10-1-done.mp4:Kurtlar Vadisi S10 E25
 #DESCRIPTION Kurtlar Vadisi S10 E25
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/wadi10/wadi-10-55-56.mp4:Kurtlar Vadisi S10 E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/series/wadi10/wadi-10-55-56.mp4:Kurtlar Vadisi S10 E26
 #DESCRIPTION Kurtlar Vadisi S10 E26
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/series/wadi10/wadi10-41-42.mp4:Kurtlar Vadisi S10 E30
 #DESCRIPTION Kurtlar Vadisi S10 E30
@@ -1051,102 +761,6 @@
 #DESCRIPTION Savaşçı S04 E02
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Savasci.S04/Savasci.S04E008..MP4:Savaşçı S04 E08
 #DESCRIPTION Savaşçı S04 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-001.mp4:Eve Düşen Yıldırım_Yetim S01 E01
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-002.mp4:Eve Düşen Yıldırım_Yetim S01 E02
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-003.mp4:Eve Düşen Yıldırım_Yetim S01 E03
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-004.mp4:Eve Düşen Yıldırım_Yetim S01 E04
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-005.mp4:Eve Düşen Yıldırım_Yetim S01 E05
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-006.mp4:Eve Düşen Yıldırım_Yetim S01 E06
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-007.mp4:Eve Düşen Yıldırım_Yetim S01 E07
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-008.mp4:Eve Düşen Yıldırım_Yetim S01 E08
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-009.mp4:Eve Düşen Yıldırım_Yetim S01 E09
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0010.mp4:Eve Düşen Yıldırım_Yetim S01 E10
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0011.mp4:Eve Düşen Yıldırım_Yetim S01 E11
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0012.mp4:Eve Düşen Yıldırım_Yetim S01 E12
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0013.mp4:Eve Düşen Yıldırım_Yetim S01 E13
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0014.mp4:Eve Düşen Yıldırım_Yetim S01 E14
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0015.mp4:Eve Düşen Yıldırım_Yetim S01 E15
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0016.mp4:Eve Düşen Yıldırım_Yetim S01 E16
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0017.mp4:Eve Düşen Yıldırım_Yetim S01 E17
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0018.mp4:Eve Düşen Yıldırım_Yetim S01 E18
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0019.mp4:Eve Düşen Yıldırım_Yetim S01 E19
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0020.mp4:Eve Düşen Yıldırım_Yetim S01 E20
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0021.mp4:Eve Düşen Yıldırım_Yetim S01 E21
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0022.mp4:Eve Düşen Yıldırım_Yetim S01 E22
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0023.mp4:Eve Düşen Yıldırım_Yetim S01 E23
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0024.mp4:Eve Düşen Yıldırım_Yetim S01 E24
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0025.mp4:Eve Düşen Yıldırım_Yetim S01 E25
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E25
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0026.mp4:Eve Düşen Yıldırım_Yetim S01 E26
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E26
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0027.mp4:Eve Düşen Yıldırım_Yetim S01 E27
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E27
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0028.mp4:Eve Düşen Yıldırım_Yetim S01 E28
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E28
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0029.mp4:Eve Düşen Yıldırım_Yetim S01 E29
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E29
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0030.mp4:Eve Düşen Yıldırım_Yetim S01 E30
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E30
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0031.mp4:Eve Düşen Yıldırım_Yetim S01 E31
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E31
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0032.mp4:Eve Düşen Yıldırım_Yetim S01 E32
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E32
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0033.mp4:Eve Düşen Yıldırım_Yetim S01 E33
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E33
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0034.mp4:Eve Düşen Yıldırım_Yetim S01 E34
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0035.mp4:Eve Düşen Yıldırım_Yetim S01 E35
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E35
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0036.mp4:Eve Düşen Yıldırım_Yetim S01 E36
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E36
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0037.mp4:Eve Düşen Yıldırım_Yetim S01 E37
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E37
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0038.mp4:Eve Düşen Yıldırım_Yetim S01 E38
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E38
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0039.mp4:Eve Düşen Yıldırım_Yetim S01 E39
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E39
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0040.mp4:Eve Düşen Yıldırım_Yetim S01 E40
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0041.mp4:Eve Düşen Yıldırım_Yetim S01 E41
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E41
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0042.mp4:Eve Düşen Yıldırım_Yetim S01 E42
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E42
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0043.mp4:Eve Düşen Yıldırım_Yetim S01 E43
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E43
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0044.mp4:Eve Düşen Yıldırım_Yetim S01 E44
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E44
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0045.mp4:Eve Düşen Yıldırım_Yetim S01 E45
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E45
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0046.mp4:Eve Düşen Yıldırım_Yetim S01 E46
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E46
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0047.mp4:Eve Düşen Yıldırım_Yetim S01 E47
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E47
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Alyateema-S01/Eve-Dusen-Yildirim-0048.mp4:Eve Düşen Yıldırım_Yetim S01 E48
-#DESCRIPTION Eve Düşen Yıldırım_Yetim S01 E48
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Yasak.Elma.S03/Yasak.Elma.S03E003.co.mp4:Yasak Elma S03 E03
 #DESCRIPTION Yasak Elma S03 E03
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Yasak.Elma.S03/Yasak.Elma.S03E004.co.mp4:Yasak Elma S03 E04
@@ -1165,6 +779,30 @@
 #DESCRIPTION Elimi Birakma S02 E05
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/elimi.birakma.S02/elimi.birakma.S02E007.co.mp4:Elimi Birakma S02 E07
 #DESCRIPTION Elimi Birakma S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E014.co.mp4:Afili Aşk S01 E14
+#DESCRIPTION Afili Aşk S01 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E015.co.mp4:Afili Aşk S01 E15
+#DESCRIPTION Afili Aşk S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E016.co.mp4:Afili Aşk S01 E16
+#DESCRIPTION Afili Aşk S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E017.co.mp4:Afili Aşk S01 E17
+#DESCRIPTION Afili Aşk S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E018.co.mp4:Afili Aşk S01 E18
+#DESCRIPTION Afili Aşk S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E002.mp4:Aşk Ağlatır S01 E02
+#DESCRIPTION Aşk Ağlatır S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E003.co.mp4:Aşk Ağlatır S01 E03
+#DESCRIPTION Aşk Ağlatır S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E004.mp4:Aşk Ağlatır S01 E04
+#DESCRIPTION Aşk Ağlatır S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E005.co.mp4:Aşk Ağlatır S01 E05
+#DESCRIPTION Aşk Ağlatır S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E006.co.mp4:Aşk Ağlatır S01 E06
+#DESCRIPTION Aşk Ağlatır S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E007.co.mp4:Aşk Ağlatır S01 E07
+#DESCRIPTION Aşk Ağlatır S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E013.mp4:Aşk Ağlatır S01 E13
+#DESCRIPTION Aşk Ağlatır S01 E13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/bir.zamanlar.cukurova.S02/bir.zamanlar.cukurova.S02E001.co.mp4:Bir Zamanlar Cukurova S02 E01
 #DESCRIPTION Bir Zamanlar Cukurova S02 E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/bir.zamanlar.cukurova.S02/bir.zamanlar.cukurova.S02E002.co.mp4:Bir Zamanlar Cukurova S02 E02
@@ -1175,6 +813,116 @@
 #DESCRIPTION Bir Zamanlar Cukurova S02 E04
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/bir.zamanlar.cukurova.S02/bir.zamanlar.cukurova.S02E005.co.mp4:Bir Zamanlar Cukurova S02 E05
 #DESCRIPTION Bir Zamanlar Cukurova S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Canevim/Canevim.S01E015.co.mp4:Canevim S01 E15
+#DESCRIPTION Canevim S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Canevim/Canevim.S01E016.co.mp4:Canevim S01 E16
+#DESCRIPTION Canevim S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Canevim/Canevim.S01E017.co.mp4:Canevim S01 E17
+#DESCRIPTION Canevim S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Cocuk.S01/Cocuk.S01E003.co.mp4:Cocuk S01 E03
+#DESCRIPTION Cocuk S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Cocuk.S01/Cocuk.S01E004.co.mp4:Cocuk S01 E04
+#DESCRIPTION Cocuk S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Cocuk.S01/Cocuk.S01E005.co.mp4:Cocuk S01 E05
+#DESCRIPTION Cocuk S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Cocuk.S01/Cocuk.S01E006.co.mp4:Cocuk S01 E06
+#DESCRIPTION Cocuk S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E014.co.mp4:Her Yerde Sen S01 E14
+#DESCRIPTION Her Yerde Sen S01 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E015.co.mp4:Her Yerde Sen S01 E15
+#DESCRIPTION Her Yerde Sen S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E016.co.mp4:Her Yerde Sen S01 E16
+#DESCRIPTION Her Yerde Sen S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E017.co.mp4:Her Yerde Sen S01 E17
+#DESCRIPTION Her Yerde Sen S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E018.co.mp4:Her Yerde Sen S01 E18
+#DESCRIPTION Her Yerde Sen S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.S02E001.co.mp4:Hercai S02 E01
+#DESCRIPTION Hercai S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.S02E002.co.mp4:Hercai S02 E02
+#DESCRIPTION Hercai S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.s02E003.co.mp4:Hercai S02 E03
+#DESCRIPTION Hercai S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.s02E004.co.mp4:Hercai S02 E04
+#DESCRIPTION Hercai S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.s02E005.co.mp4:Hercai S02 E05
+#DESCRIPTION Hercai S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Incir.Agaci.S01/Incir.Agaci.S01E033..MP4:Incir Agaci S01 E33
+#DESCRIPTION Incir Agaci S01 E33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kardes.cocuklari.S01/Kardes.cocukları.S01E018.co.mp4:Kardeş Çocukları S01 E18
+#DESCRIPTION Kardeş Çocukları S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kardes.cocuklari.S01/Kardes.cocukları.S01E019.co.mp4:Kardeş Çocukları S01 E19
+#DESCRIPTION Kardeş Çocukları S01 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kardes.cocuklari.S01/Kardes.cocukları.S01E020.co.mp4:Kardeş Çocukları S01 E20
+#DESCRIPTION Kardeş Çocukları S01 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kardes.cocuklari.S01/Kardes.cocukları.S01E021.co.mp4:Kardeş Çocukları S01 E21
+#DESCRIPTION Kardeş Çocukları S01 E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E001.co.mp4:Kuzgun S02 E01
+#DESCRIPTION Kuzgun S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E002.co.mp4:Kuzgun S02 E02
+#DESCRIPTION Kuzgun S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E003.co.mp4:Kuzgun S02 E03
+#DESCRIPTION Kuzgun S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E004.co.mp4:Kuzgun S02 E04
+#DESCRIPTION Kuzgun S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E005.co.mp4:Kuzgun S02 E05
+#DESCRIPTION Kuzgun S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E002.co.mp4:Mucize Doktor S01 E02
+#DESCRIPTION Mucize Doktor S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E003.co.mp4:Mucize Doktor S01 E03
+#DESCRIPTION Mucize Doktor S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E004.co.mp4:Mucize Doktor S01 E04
+#DESCRIPTION Mucize Doktor S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E005.co.mp4:Mucize Doktor S01 E05
+#DESCRIPTION Mucize Doktor S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E006.co.mp4:Mucize Doktor S01 E06
+#DESCRIPTION Mucize Doktor S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E014.co.mp4:Kimse Bilmez S01 E14
+#DESCRIPTION Kimse Bilmez S01 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E015.co.mp4:Kimse Bilmez S01 E15
+#DESCRIPTION Kimse Bilmez S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E016.co.mp4:Kimse Bilmez S01 E16
+#DESCRIPTION Kimse Bilmez S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E017.co.mp4:Kimse Bilmez S01 E17
+#DESCRIPTION Kimse Bilmez S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E018.co.mp4:Kimse Bilmez S01 E18
+#DESCRIPTION Kimse Bilmez S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E024.mp4:Kimse Bilmez S01 E24
+#DESCRIPTION Kimse Bilmez S01 E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E002.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E02
+#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E003.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E03
+#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E004.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E04
+#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E005.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E05
+#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E006.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E06
+#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E002.mp4:Şampiyon S01 E02
+#DESCRIPTION Şampiyon S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E003.mp4:Şampiyon S01 E03
+#DESCRIPTION Şampiyon S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E004.mp4:Şampiyon S01 E04
+#DESCRIPTION Şampiyon S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E005.mp4:Şampiyon S01 E05
+#DESCRIPTION Şampiyon S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E006.mp4:Şampiyon S01 E06
+#DESCRIPTION Şampiyon S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E011..MP4:Şampiyon S01 E11
+#DESCRIPTION Şampiyon S01 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E001.mp4:Sevgili Geçmis S01 E01
+#DESCRIPTION Sevgili Geçmis S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E002.mp4:Sevgili Geçmis S01 E02
+#DESCRIPTION Sevgili Geçmis S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E003.mp4:Sevgili Geçmis S01 E03
+#DESCRIPTION Sevgili Geçmis S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E005.mp4:Sevgili Geçmis S01 E05
+#DESCRIPTION Sevgili Geçmis S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E006.mp4:Sevgili Geçmis S01 E06
+#DESCRIPTION Sevgili Geçmis S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Vuslat.S02/Vuslat.S02E011.mp4:Vuslat S02 E11
+#DESCRIPTION Vuslat S02 E11
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/YEMiN.S02/YEMiN.S02E007.co.mp4:YEMiN S02 E07
 #DESCRIPTION YEMiN S02 E07
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/YEMiN.S02/YEMiN.S02E008.co.mp4:YEMiN S02 E08
@@ -1223,28 +971,6 @@
 #DESCRIPTION YEMiN S02 E29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/YEMiN.S02/YEMiN.S02E030.co.mp4:YEMiN S02 E30
 #DESCRIPTION YEMiN S02 E30
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E014.co.mp4:Afili Aşk S01 E14
-#DESCRIPTION Afili Aşk S01 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E015.co.mp4:Afili Aşk S01 E15
-#DESCRIPTION Afili Aşk S01 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E016.co.mp4:Afili Aşk S01 E16
-#DESCRIPTION Afili Aşk S01 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E017.co.mp4:Afili Aşk S01 E17
-#DESCRIPTION Afili Aşk S01 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Afili.Ask/Afili.Ask.S01E018.co.mp4:Afili Aşk S01 E18
-#DESCRIPTION Afili Aşk S01 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E014.co.mp4:Kimse Bilmez S01 E14
-#DESCRIPTION Kimse Bilmez S01 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E015.co.mp4:Kimse Bilmez S01 E15
-#DESCRIPTION Kimse Bilmez S01 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E016.co.mp4:Kimse Bilmez S01 E16
-#DESCRIPTION Kimse Bilmez S01 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E017.co.mp4:Kimse Bilmez S01 E17
-#DESCRIPTION Kimse Bilmez S01 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E018.co.mp4:Kimse Bilmez S01 E18
-#DESCRIPTION Kimse Bilmez S01 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/No.One.Know/S01/No.One.KnowS01E024.mp4:Kimse Bilmez S01 E24
-#DESCRIPTION Kimse Bilmez S01 E24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Zalim.istanbul.S02/Zalim.istanbul.S02.E002.c.mp4:Zalim İstanbul S02 E02
 #DESCRIPTION Zalim İstanbul S02 E02
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Zalim.istanbul.S02/Zalim.istanbul.S02E003.co.mp4:Zalim İstanbul S02 E03
@@ -1257,118 +983,6 @@
 #DESCRIPTION Zalim İstanbul S02 E06
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Zalim.istanbul.S02/Zalim.istanbul.S02E012.mp4:Zalim İstanbul S02 E12
 #DESCRIPTION Zalim İstanbul S02 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Canevim/Canevim.S01E015.co.mp4:Canevim S01 E15
-#DESCRIPTION Canevim S01 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Canevim/Canevim.S01E016.co.mp4:Canevim S01 E16
-#DESCRIPTION Canevim S01 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Canevim/Canevim.S01E017.co.mp4:Canevim S01 E17
-#DESCRIPTION Canevim S01 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E002.mp4:Aşk Ağlatır S01 E02
-#DESCRIPTION Aşk Ağlatır S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E003.co.mp4:Aşk Ağlatır S01 E03
-#DESCRIPTION Aşk Ağlatır S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E004.mp4:Aşk Ağlatır S01 E04
-#DESCRIPTION Aşk Ağlatır S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E005.co.mp4:Aşk Ağlatır S01 E05
-#DESCRIPTION Aşk Ağlatır S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E006.co.mp4:Aşk Ağlatır S01 E06
-#DESCRIPTION Aşk Ağlatır S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E007.co.mp4:Aşk Ağlatır S01 E07
-#DESCRIPTION Aşk Ağlatır S01 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Ask.Aglatir.S01/Ask.Aglatir.S01E013.mp4:Aşk Ağlatır S01 E13
-#DESCRIPTION Aşk Ağlatır S01 E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Cocuk.S01/Cocuk.S01E003.co.mp4:Cocuk S01 E03
-#DESCRIPTION Cocuk S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Cocuk.S01/Cocuk.S01E004.co.mp4:Cocuk S01 E04
-#DESCRIPTION Cocuk S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Cocuk.S01/Cocuk.S01E005.co.mp4:Cocuk S01 E05
-#DESCRIPTION Cocuk S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Cocuk.S01/Cocuk.S01E006.co.mp4:Cocuk S01 E06
-#DESCRIPTION Cocuk S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E014.co.mp4:Her Yerde Sen S01 E14
-#DESCRIPTION Her Yerde Sen S01 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E015.co.mp4:Her Yerde Sen S01 E15
-#DESCRIPTION Her Yerde Sen S01 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E016.co.mp4:Her Yerde Sen S01 E16
-#DESCRIPTION Her Yerde Sen S01 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E017.co.mp4:Her Yerde Sen S01 E17
-#DESCRIPTION Her Yerde Sen S01 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Her.Yerde.Sen.S01/Her.Yerde.Sen.S01E018.co.mp4:Her Yerde Sen S01 E18
-#DESCRIPTION Her Yerde Sen S01 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kardes.cocuklari.S01/Kardes.cocukları.S01E018.co.mp4:Kardeş Çocukları S01 E18
-#DESCRIPTION Kardeş Çocukları S01 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kardes.cocuklari.S01/Kardes.cocukları.S01E019.co.mp4:Kardeş Çocukları S01 E19
-#DESCRIPTION Kardeş Çocukları S01 E19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kardes.cocuklari.S01/Kardes.cocukları.S01E020.co.mp4:Kardeş Çocukları S01 E20
-#DESCRIPTION Kardeş Çocukları S01 E20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kardes.cocuklari.S01/Kardes.cocukları.S01E021.co.mp4:Kardeş Çocukları S01 E21
-#DESCRIPTION Kardeş Çocukları S01 E21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E001.co.mp4:Kuzgun S02 E01
-#DESCRIPTION Kuzgun S02 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E002.co.mp4:Kuzgun S02 E02
-#DESCRIPTION Kuzgun S02 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E003.co.mp4:Kuzgun S02 E03
-#DESCRIPTION Kuzgun S02 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E004.co.mp4:Kuzgun S02 E04
-#DESCRIPTION Kuzgun S02 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzgun.S02/Kuzgun.S02E005.co.mp4:Kuzgun S02 E05
-#DESCRIPTION Kuzgun S02 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E002.co.mp4:Mucize Doktor S01 E02
-#DESCRIPTION Mucize Doktor S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E003.co.mp4:Mucize Doktor S01 E03
-#DESCRIPTION Mucize Doktor S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E004.co.mp4:Mucize Doktor S01 E04
-#DESCRIPTION Mucize Doktor S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E005.co.mp4:Mucize Doktor S01 E05
-#DESCRIPTION Mucize Doktor S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Mucize.Doktor.S01/Mucize.Doktor.S01E006.co.mp4:Mucize Doktor S01 E06
-#DESCRIPTION Mucize Doktor S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E002.mp4:Şampiyon S01 E02
-#DESCRIPTION Şampiyon S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E003.mp4:Şampiyon S01 E03
-#DESCRIPTION Şampiyon S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E004.mp4:Şampiyon S01 E04
-#DESCRIPTION Şampiyon S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E005.mp4:Şampiyon S01 E05
-#DESCRIPTION Şampiyon S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E006.mp4:Şampiyon S01 E06
-#DESCRIPTION Şampiyon S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sampiyon.S01/Sampiyon.S1E011..MP4:Şampiyon S01 E11
-#DESCRIPTION Şampiyon S01 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E001.mp4:Sevgili Geçmis S01 E01
-#DESCRIPTION Sevgili Geçmis S01 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E002.mp4:Sevgili Geçmis S01 E02
-#DESCRIPTION Sevgili Geçmis S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E003.mp4:Sevgili Geçmis S01 E03
-#DESCRIPTION Sevgili Geçmis S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E005.mp4:Sevgili Geçmis S01 E05
-#DESCRIPTION Sevgili Geçmis S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Sevgili.Gecmis.S01/Sevgili.Gecmis.S01E006.mp4:Sevgili Geçmis S01 E06
-#DESCRIPTION Sevgili Geçmis S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E002.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E02
-#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E003.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E03
-#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E004.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E04
-#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E005.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E05
-#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Kuzey.Yildizi.ilk.Ask/Kuzey.Yildizi.ilk.Ask.S01E006.co.mp4:Kuzey Yıldızı  İlk Aşk S01 E06
-#DESCRIPTION Kuzey Yıldızı  İlk Aşk S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Vuslat.S02/Vuslat.S02E011.mp4:Vuslat S02 E11
-#DESCRIPTION Vuslat S02 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.S02E001.co.mp4:Hercai S02 E01
-#DESCRIPTION Hercai S02 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.S02E002.co.mp4:Hercai S02 E02
-#DESCRIPTION Hercai S02 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.s02E003.co.mp4:Hercai S02 E03
-#DESCRIPTION Hercai S02 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.s02E004.co.mp4:Hercai S02 E04
-#DESCRIPTION Hercai S02 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Hercai.S02/Hercai.s02E005.co.mp4:Hercai S02 E05
-#DESCRIPTION Hercai S02 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Another.Series/Turkey/Incir.Agaci.S01/Incir.Agaci.S01E033..MP4:Incir Agaci S01 E33
-#DESCRIPTION Incir Agaci S01 E33
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Series/Nat.Geo.Abu.Dhabi/General/Nat.Geo.Abu.Dhabi.S01E025.mp4:National Geographic_National Geographic Abu Dhabi
 #DESCRIPTION National Geographic_National Geographic Abu Dhabi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Series/Nat.Geo.Abu.Dhabi/General/Nat.Geo.Abu.Dhabi.S01E026.mp4:National Geographic_National Geographic Abu Dhabi
@@ -4943,7 +4557,7 @@
 #DESCRIPTION Titans S02 E06
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Series/en/Titans.2018/S02/Titans.2018.S02E07.mp4:Titans S02 E07
 #DESCRIPTION Titans S02 E07
-#SERVICE 1:64:4A:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
+#SERVICE 1:64:49:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dal1.mp4:101 DALMATIONS
 #DESCRIPTION 101 DALMATIONS

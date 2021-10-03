@@ -1,7 +1,7 @@
 #NAME == ★★ReMy | RUSSIAN★★ ==
-#SERVICE 1:64:52:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
+#SERVICE 1:64:51:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
 #DESCRIPTION === ★★ReMy | RUSSIAN★★ ====
-#SERVICE 1:64:53:0:0:0:0:0:0:0::=== ★★ott-cdn.ucom |RUSSIAN★★ ====
+#SERVICE 1:64:52:0:0:0:0:0:0:0::=== ★★ott-cdn.ucom |RUSSIAN★★ ====
 #DESCRIPTION === ★★ott-cdn.ucom |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s10/index.m3u8:21TV
 #DESCRIPTION 21TV
@@ -131,7 +131,7 @@
 #DESCRIPTION Yerkir Media
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s92/index.m3u8:Zoo TV
 #DESCRIPTION Zoo TV
-#SERVICE 1:64:54:0:0:0:0:0:0:0::=== ★★MIX |RUSSIAN★★ ====
+#SERVICE 1:64:53:0:0:0:0:0:0:0::=== ★★MIX |RUSSIAN★★ ====
 #DESCRIPTION === ★★MIX |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/1tvod/1tvod-abr/playlist.m3u8:1TV Odessa
 #DESCRIPTION 1TV Odessa
@@ -441,7 +441,7 @@
 #DESCRIPTION World Premium (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/wave/wave-abr/playlist.m3u8:Yuzhnaja Volna
 #DESCRIPTION Yuzhnaja Volna
-#SERVICE 1:64:55:0:0:0:0:0:0:0::=== ★★MIX2 |RUSSIAN★★ ====
+#SERVICE 1:64:54:0:0:0:0:0:0:0::=== ★★MIX2 |RUSSIAN★★ ====
 #DESCRIPTION === ★★MIX2 |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//acbtv.vintera.tv%3a8081/acbtv/acbtv_stream/playlist.m3u8:ACB TV (720p)
 #DESCRIPTION ACB TV (720p)
