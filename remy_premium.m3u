@@ -26,6 +26,8 @@ http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TLC HD
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",BEYAZ TV BLUTV
+https://blutv-stg.doracdn.com/live_abr/beyaztvhd/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Minika COCUK
 http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",CNN TURK HD
@@ -108,6 +110,70 @@ http://mn-nl.mncdn.com/karamel/karamel/playlist.m3u8
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",24 TV
 http://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TRT 2 HD
+http://tv-trt2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",KANAL D HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
+#EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
+#EXTINF:-1 group-title="ReMy_ULUSAL",FOX HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+#EXTINF:-1 group-title="ReMy_ULUSAL",BEYAZ TV HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
+#EXTINF:-1 group-title="ReMy_ULUSAL",KANAL 7 HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/83
+#EXTINF:-1 group-title="ReMy_ULUSAL",KANAL 7 HD
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TV 8 HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
+#EXTINF:-1 group-title="ReMy_ULUSAL",TRT HABER
+http://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",BLOOMBERG TV
+http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",EBA TV ILKOKUL
+http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",EBA TV ORTAOKUL
+http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",EBA TV LISE
+http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TRT BELGESEL HD
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",KRT HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/135
+#EXTINF:-1 group-title="ReMy_ULUSAL",TV 100 HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
+#EXTINF:-1 group-title="ReMy_ULUSAL",ARTI TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
+#EXTINF:-1 group-title="ReMy_ULUSAL",TELE 1
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
+#EXTINF:-1 group-title="ReMy_ULUSAL",HALK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
+#EXTINF:-1 group-title="ReMy_ULUSAL",ULUSAL KANAL
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/142
+#EXTINF:-1 group-title="ReMy_ULUSAL",BLOOMBERG HT HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/151
+#EXTINF:-1 group-title="ReMy_ULUSAL",ERT SAH TV-1
+http://win20.yayin.com.tr:80/ertsahtv/ertsahtv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",EKO TURK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/152
+#EXTINF:-1 group-title="ReMy_ULUSAL",WAAR TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/52
+#EXTINF:-1 group-title="ReMy_ULUSAL",NRT NEWS
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/53
+#EXTINF:-1 group-title="ReMy_ULUSAL",NRT2
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/54
+#EXTINF:-1 group-title="ReMy_ULUSAL",SAHAR KURDI
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/56
+#EXTINF:-1 group-title="ReMy_ULUSAL",KIRKUK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/58
+#EXTINF:-1 group-title="ReMy_ULUSAL",ZAROK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
+#EXTINF:-1 group-title="ReMy_ULUSAL",NRT3
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/61
+#EXTINF:-1 group-title="ReMy_ULUSAL",KURDMAX
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/62
 #EXTINF:-1 group-title="ReMy_ULUSAL",WOMAN TV
 http://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",AKILLI TV
