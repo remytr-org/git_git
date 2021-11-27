@@ -1,17 +1,5 @@
-# oscam.user generated automatically by Streamboard OSCAM 1.20_svn-satlodge-team SVN r11539-797
-# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.user.txt
-
 [account]
-disabled  = 1
-user  = cacchepush
-pwd  = 123
-group = 1
-
-[account]
-description = dvbapi
-user = remy
-pwd = 1212
-monlevel = 4
-au = 1
-group = 1,2,3,4,5
-keepalive = 1
+disabled                      = 0
+user                          = dvbapi
+au                            = 1
+group                         = 1,7,8
