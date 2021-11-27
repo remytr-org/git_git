@@ -13,8 +13,6 @@
 #DESCRIPTION Siteler TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lightning-traceurban-samsungau.amagi.tv/playlist.m3u8:TRACE URBAN
 #DESCRIPTION TRACE URBAN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.40.68.167/russia/mtv_hits/playlist.m3u8:MTV HITS
-#DESCRIPTION MTV HITS
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8:MTV Biggest Pop (720p)
 #DESCRIPTION MTV Biggest Pop (720p)
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8:MTV Block Party (720p)
@@ -25,62 +23,32 @@
 #DESCRIPTION MTV Spankin' New (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/RTV21PLUS.m3u8:21 Plus
-#DESCRIPTION 21 Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale51/canale51/playlist.m3u8:51 Radio TV
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/playlist.m3u8:88 Stereo TV
 #DESCRIPTION 88 Stereo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.212.150.248/AdriaMusicTV/index.m3u8:Adria Music RS
 #DESCRIPTION Adria Music RS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB Music (720p) [Not 24/7]
-#DESCRIPTION ALB Music (720p) [Not 24/7]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//albportal.net/albkanalemusic.m3u8:AlbKanale Music TV
-#DESCRIPTION AlbKanale Music TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh%3a443/BarazaClassic/BarazaClassic/playlist.m3u8:Baraza Classic
-#DESCRIPTION Baraza Classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Music Hits
 #DESCRIPTION Baraza TV Greek Music Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.bestvideostreaming.is/8795/index.m3u8:BBF Music TV
-#DESCRIPTION BBF Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8:Blue ANT EXTREME
 #DESCRIPTION Blue ANT EXTREME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
-#DESCRIPTION Box Hits
-#SERVICE 4097:0:1:375:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits (UK)
-#DESCRIPTION Box Hits (UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.4.14.12%3a9999/btvsvlive/playlist.m3u8:Bucovina TV
 #DESCRIPTION Bucovina TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8:California Music Channel
-#DESCRIPTION California Music Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8:California Music Channel
-#DESCRIPTION California Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital Radio
 #DESCRIPTION Capital Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8:Chanson TV
-#DESCRIPTION Chanson TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:Chau TV (Letland)
-#DESCRIPTION Chau TV (Letland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8:Cine Voice (muziek - India)
-#DESCRIPTION Cine Voice (muziek - India)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8:Cine Voice
+#DESCRIPTION Cine Voice
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/3.m3u8:City TV
 #DESCRIPTION City TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
-#DESCRIPTION CMC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:COLOSAL TV COSTA RICA
 #DESCRIPTION COLOSAL TV COSTA RICA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/smil%3aCompanyTV.smil/playlist.m3u8:COMPANY TV
-#DESCRIPTION COMPANY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/_definst_/mp4%3alivestream_720p/playlist.m3u8:Company TV
 #DESCRIPTION Company TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-stranafm.cdnvideo.ru/stranafm/smil%3astranafm.smil/playlist.m3u8:Country FM
 #DESCRIPTION Country FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:CTPAHA FM TV
 #DESCRIPTION CTPAHA FM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8:CzWORKA
-#DESCRIPTION CzWORKA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.bestvideostreaming.is/8793/playlist.m3u8:Dasma TV
-#DESCRIPTION Dasma TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8:Deejay TV (IT)
 #DESCRIPTION Deejay TV (IT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on:DeejayTv
@@ -89,16 +57,10 @@
 #DESCRIPTION DeepHouse District
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8:Ditty TV
 #DESCRIPTION Ditty TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/u-27777-04.m3u8:DJING UNDERGROUND HD
-#DESCRIPTION DJING UNDERGROUND HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.artcom-venture.de%3a1322/dmf/tv_360.m3u8:DMF
 #DESCRIPTION DMF
-#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
-#DESCRIPTION Duga TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.rtcommufa.ru%3a1935/ptica/ptica1/playlist.m3u8:Firebird
 #DESCRIPTION Firebird
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.bestvideostreaming.is/8717/index.m3u8:First
-#DESCRIPTION First
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:First Music Channel
 #DESCRIPTION First Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:First Music Channel HD
@@ -107,8 +69,6 @@
 #DESCRIPTION First Music Channel Ru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:First Music Channel Russia HD
 #DESCRIPTION First Music Channel Russia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/fluturatv.m3u8:Flutura TV
-#DESCRIPTION Flutura TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//584b0aa350b92.streamlock.net%3a1935/folk-tv/myStream.sdp/playlist.m3u8:Folk TV
 #DESCRIPTION Folk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/foxtv/foxtv/playlist.m3u8:Fox TV (Griekenland)
@@ -117,8 +77,6 @@
 #DESCRIPTION Fun Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//glasdrine.cutuk.net%3a1935/3ghu788/GlasDrine:GLas Drine Music HD
 #DESCRIPTION GLas Drine Music HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/himusic.m3u8:Hi Music
-#DESCRIPTION Hi Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:Hit Music (Belaarus, Wit-Rusland)
 #DESCRIPTION Hit Music (Belaarus, Wit-Rusland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hitmusic.hu/hitmusic.m3u8:Hit Music Channel (Hungary)
@@ -177,8 +135,6 @@
 #DESCRIPTION MN Music TV (muziek - India)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8:MTV
 #DESCRIPTION MTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/mtvkosova.m3u8:MTV Kosova
-#DESCRIPTION MTV Kosova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?sd=10&rebase=on:MTV Music
 #DESCRIPTION MTV Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8:MTV Norge
@@ -347,8 +303,6 @@
 #DESCRIPTION V2BEAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de1se01.v2beat.live/playlist.m3u8?fluxustv.m3u8:V2BEAT TV
 #DESCRIPTION V2BEAT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//t2.tvmak.com/tv/VIZIONPLUS.m3u8:Vizion Plus
-#DESCRIPTION Vizion Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/wixlar/wixlar/playlist.m3u8:Wixlar
 #DESCRIPTION Wixlar
 #SERVICE 4097:0:1:4CFC:81C:600:FFFF0000:0:0:0:http%3a//ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8 :XITE HD (muziek NL)
