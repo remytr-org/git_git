@@ -1,0 +1,29 @@
+http://serverswe.tv:8080
+00:1A:79:AA:B4:40
+00:1A:79:BA:1A:4B
+00:1A:79:B2:4A:F3
+
+
+
+
+http://xxxxxxxxxxxxx.com:8000
+00:1a:79:53:1f:2e;December 9, 2021, 9:49
+00:1a:79:5c:eb:0b;October 17, 2021, 8:38
+00:1a:79:54:99:99;April 11, 2022, 7:04
+00:1a:79:3a:dd:af;February 15, 2022, 8:10
+00:1a:79:27:64:83;September 13, 2021, 2:30
+:::
+
+
+http://xxxxxxxxxxxxxxxx.ml:2095
+MAC: 00:1a:79:5d:01:15
+MAC: 00:1a:79:4e:38:71
+Vence:July 5, 2021, 9:24 am
+MAC: 00:1a:79:43:bd:2c
+Vence:September 16, 2021, 11:05 am
+MAC: 00:1a:79:68:00:a0
+Vence:April 23, 2022, 3:48 pm
+MAC: 00:1a:79:64:86:d3
+Vence:July 13, 2021, 10:31 pm
+MAC: 00:1a:79:55:4c:6f
+:::
