@@ -1,6 +1,4 @@
 #NAME == ★★ReMy | DOCUMENTARY★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8:TLC
-#DESCRIPTION TLC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s55/04.m3u8:Hunter and Fisherman
 #DESCRIPTION Hunter and Fisherman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3amplan.smil/chunklist_b1600000.m3u8:My Planet
@@ -57,7 +55,7 @@
 #DESCRIPTION Scott Roberts (documentaires, storm chasers)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3n45htqf0nnxz.cloudfront.net/hls/whitney.owens/whitney.owens.m3u8:Whitney Owens (documentaires, storm chasers)
 #DESCRIPTION Whitney Owens (documentaires, storm chasers)
-#SERVICE 1:64:44:0:0:0:0:0:0:0::+++techniek+++
+#SERVICE 1:64:42:0:0:0:0:0:0:0::+++techniek+++
 #DESCRIPTION +++techniek+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=s4BJG6XSJcCm/s4BJG6XSJcCm-20200316151750_5-audio=128000-video=2200000.m3u8?v=20200316151750_5:20200310 Venetia, kanalen helder
 #DESCRIPTION 20200310 Venetia, kanalen helder
