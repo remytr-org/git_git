@@ -38,4 +38,9 @@
 <playlist_url><![CDATA[https://github.com/PrivateTr/IPTV/raw/master/REMY-KARISIK-FILMLER.xml]]></playlist_url>
 </channel>
 
+<channel>
+<title><![CDATA[ReMy_TeaM-STALKER]]></title>
+<description></description>
+<playlist_url><![CDATA[https://github.com/PrivateTr/IPTV/raw/master/stalker.txt]]></playlist_url>
+</channel>
 </items>
