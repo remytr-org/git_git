@@ -26,4 +26,82 @@
 <playlist_url><![CDATA[https://github.com/PrivateTr/IPTV/raw/master/REMY-KARISIK-FILMLER.xml]]></playlist_url>
 </channel>
 
+<channel>
+<title><![CDATA[REMY-ADULT-VK]]></title>
+<description></description>
+<playlist_url><![CDATA[https://github.com/PrivateTr/IPTV/raw/master/REMY-ADULT-VK.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[REMY-ADULT-2018-MOVIESl]]></title>
+<description></description>
+<playlist_url><![CDATA[https://github.com/PrivateTr/IPTV/raw/master/REMY-ADULT-2018-MOVIES.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[GUNLUK CCCAM INDIR]]></title>
+<description></description>
+<stream_url><![CDATA[cccam]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[GUNLUK OSCAM INDIR]]></title>
+<description></description>
+<stream_url><![CDATA[cccam::path::/etc/tuxbox/config/oscam]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[GUNLUK NCAM INDIR]]></title>
+<description></description>
+<stream_url><![CDATA[cccam::ncam::path::/etc/tuxbox/config]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[GUNLUK GCAM INDIR]]></title>
+<description></description>
+<stream_url><![CDATA[cccam::gcam::path::/etc/tuxbox/config]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[OSCAM_OPENATV: /etc/tuxbox/config]]></title>
+<description></description>
+<stream_url><![CDATA[cccam::path::/etc/tuxbox/config]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[OSCAM_DREAM-ELITE: /var/tuxbox/config]]></title>
+<description></description>
+<stream_url><![CDATA[cccam::path::/var/tuxbox/config]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[STALKER PORTAL]]></title>
+<description></description>
+<playlist_url><![CDATA[TRModules@stlkr::url=http://XXXXXXXX.XXX:XX::mac=00:1A:79:XX:XX:XX@start@stlkr]]></playlist_url>
+</channel>
+	
+<channel>
+<title><![CDATA[ORNEK FILM LINKI]]></title>
+<description></description>
+<stream_url><![CDATA[https://videoapi.my.mail.ru/videos/embed/bk/hdfilmcehennemi2/_myvideo/1419.html]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[ORNEK IPTV LINKI]]></title>
+<description></description>
+<stream_url><![CDATA[http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[ORNEK XML LINKI]]></title>
+<description></description>
+<playlist_url><![CDATA[http://turkvod.me/90/TURKvodLokal.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ORNEK M3U LINKI ]]></title>
+<description></description>
+<playlist_url><![CDATA[TURKvodModul@http://cpradof.darkwebrepo.gq/logos/Listas/regiotv.m3u@m3u@TURKvod]]></playlist_url>
+</channel>
+
 </items>
