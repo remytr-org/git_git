@@ -3,8 +3,10 @@
 *ReMy_TeaM_EXTRA_PLUGINS_TEST SECENEGI OSCAM-ICAM INDIRMEYE AYARLANMISTIR*
              *★★28.09.2022★★*
 *ReMy_SATELLITE_ChannelList GUNCELLENDI*
-             *★★28.09.2022★★* 
+             *★★28.09.2022★★*
 *pyt3 Cccam_server_updater GUNCELLENDI*
+             *★★30.08.2022★★*
+*FREE SERVER PLUGINI GUNCELLENMISTIR*
              *★★30.08.2022★★*
 *OpenVPN Serverlar GUNCELLENMISTIR*
              *★★24.09.2022★★*
