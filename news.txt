@@ -3,9 +3,9 @@
 *ReMy_TEAM v7.1 SURUMUNE GUNCELLENDI**
              *★★07.10.2022★★*
 *ReMy_TeaM_OSCAM-ICAM EKLENDI*
-             *★★07.10.2022★★* 
+             *★★07.10.2022★★*
 *Free_server_plugini EKLENDI*
-             *★★02.10.2022★★*
+             *★★07.10.2022★★*
 *ReMy_SATELLITE_ChannelList GUNCELLENDI*
              *★★30.08.2022★★*
 *OpenVPN Serverlar GUNCELLENDI*
@@ -21,4 +21,4 @@
 *FuLL_KeyS ve SOFTCAM PANELLER GUNCELLENDI*
 *ILETISIM: enigma2_teknik_servis@hotmail.com*
        *☪️ ®ReMy EnigmaTurk TeaM ☪️*
-https://remyteam-org.github.io/enigma_turk_team	
+https://remyteam-org.github.io/enigma_turk_team
