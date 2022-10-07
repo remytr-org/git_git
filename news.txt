@@ -1,10 +1,12 @@
        *☪️ ®ReMy EnigmaTurk TeaM ☪️*
-	         *★★02.10.2022★★*
-*ReMy_TeaM_EXTRA_PLUGINS_TEST SECENEGI OSCAM-ICAM INDIRMEYE AYARLANMISTIR*
+             *★★07.10.2022★★*
+*ReMy_TEAM v7.1 SURUMUNE GUNCELLENDI**
+	         *★★07.10.2022★★*
+*ReMy_TeaM_OSCAM-ICAM EKLENDI*
+             *★★07.10.2022★★* 
+*Free_server_plugini EKLENDI*
              *★★02.10.2022★★*
 *ReMy_SATELLITE_ChannelList GUNCELLENDI*
-             *★★02.10.2022★★* 
-*Cccam_server_updater GUNCELLENDI*
              *★★30.08.2022★★*
 *OpenVPN Serverlar GUNCELLENDI*
              *★★24.09.2022★★*
@@ -13,10 +15,8 @@
 *OpenATV Softcam Panel GUNCELLENDI*
              *★★30.08.2022★★*
 *MULTISTALKER PLUGINI GUNCELLENDI*
-             *★★23.09.2022★★*
-*ReMy_TEAM v5.2-ReMy_TEAM v7.0 GUNCELLENDI**
              *★★30.08.2022★★*
-*ReMy_Infinity_FHD Skin ReMyTeaMe eklendi*
+*ReMy_Infinity_FHD Skin ReMy_TeaM'e EKLENMISTIR*
              *★★30.08.2022★★*
 *FuLL_KeyS ve SOFTCAM PANELLER GUNCELLENDI*
 *ILETISIM: enigma2_teknik_servis@hotmail.com*
