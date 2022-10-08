@@ -1,4 +1,8 @@
 #NAME == ★★ReMy | DOCUMENTARY★★ ==
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8:Loupe 4K
+#DESCRIPTION Loupe 4K
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//bamus-eng-roku.amagi.tv/playlist.m3u8:Love Nature (1080p)
+#DESCRIPTION Love Nature (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s55/04.m3u8:Hunter and Fisherman
 #DESCRIPTION Hunter and Fisherman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3amplan.smil/chunklist_b1600000.m3u8:My Planet
@@ -11,30 +15,12 @@
 #DESCRIPTION viasathistory
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tbs01-edge11.itdc.ge/viasatsport/index.m3u8?token=oEza3GVV1MaaJGSrYgc0qUtqffGupPq0GtQfBe0E_eZm-x7ZgkVQZ2Nsz8aPEAHsR_VzWWPe4X_zRi0VHjzjSzJ_L8Y8AZbFqQqqpEnqIre5BZJ6nf1FRqj2rPZwV7GY7C4yWM99Kuinm-mqWtpO0azJKuV9_pd6MgqnyR9BPKYKtPC0XX8e7S8pl3M_IvU2ktLNUOAPU8vDKCcB6iJHYMsVNRloRInddTIUtj1J3sOBMpMcSn89UbP0hxPw7keg927NVAq9pvAmYS-cRQts2A**:viasatsport
 #DESCRIPTION viasatsport
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8:Loupe 4K
-#DESCRIPTION Loupe 4K
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//bamus-eng-roku.amagi.tv/playlist.m3u8:Love Nature (1080p)
-#DESCRIPTION Love Nature (1080p)
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8:National Geographic Abu Dhabi
 #DESCRIPTION National Geographic Abu Dhabi
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Natgeowild/playlist.m3u8:National Geographic Wild Asia
-#DESCRIPTION National Geographic Wild Asia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudflare.tv/hls/live.m3u8:Cloudflare TV (docu/techniek, wereldwijd)
 #DESCRIPTION Cloudflare TV (docu/techniek, wereldwijd)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn2.cdn.mangomolo.com/nagtv/smil%3anagtv.stream.smil/playlist.m3u8:National Geographic Abu Dhabi (VAE)
 #DESCRIPTION National Geographic Abu Dhabi (VAE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.161.82%3a8278/streams/d/Natgeowild/playlist.m3u8:National Geographic Wild Asia
-#DESCRIPTION National Geographic Wild Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.195.44.53%3a8081/tv/national-geographic/chunks.m3u8:National Geographic Russia
-#DESCRIPTION National Geographic Russia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.195.44.53%3a8081/tv/nat-geo-wild/playlist.m3u8:National Geographic Wild Russia
-#DESCRIPTION National Geographic Wild Russia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/wixlar/wixlar/playlist.m3u8:Wixlar
-#DESCRIPTION Wixlar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:Silence TV World
-#DESCRIPTION Silence TV World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8:Classical Harmony
-#DESCRIPTION Classical Harmony
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp.elektrika.cz/live/myStream.sdp:Elektrika TV
 #DESCRIPTION Elektrika TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=hABgrOXajdmg/hABgrOXajdmg-20200214110413_5-audio=128000-video=3600000.m3u8?v=20200214110413_5:DS: Lam Gods van gebr. Van Eyck
@@ -55,7 +41,7 @@
 #DESCRIPTION Scott Roberts (documentaires, storm chasers)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3n45htqf0nnxz.cloudfront.net/hls/whitney.owens/whitney.owens.m3u8:Whitney Owens (documentaires, storm chasers)
 #DESCRIPTION Whitney Owens (documentaires, storm chasers)
-#SERVICE 1:64:42:0:0:0:0:0:0:0::+++techniek+++
+#SERVICE 1:64:52:0:0:0:0:0:0:0::+++techniek+++
 #DESCRIPTION +++techniek+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=s4BJG6XSJcCm/s4BJG6XSJcCm-20200316151750_5-audio=128000-video=2200000.m3u8?v=20200316151750_5:20200310 Venetia, kanalen helder
 #DESCRIPTION 20200310 Venetia, kanalen helder
