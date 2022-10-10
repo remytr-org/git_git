@@ -7,7 +7,7 @@
 *Free_server_plugini EKLENDI*
              *★★07.10.2022★★*
 *ReMy_SATELLITE_ChannelList GUNCELLENDI*
-             *★★07.10.2022★★*
+             *★★10.10.2022★★*
 *python2.7 icin M3U_PRO IPTVLERI GUNCELLENDI*
              *★★30.08.2022★★*
 *OpenVPN Serverlar GUNCELLENDI*
