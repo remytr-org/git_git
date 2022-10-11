@@ -41,7 +41,7 @@
 #DESCRIPTION Scott Roberts (documentaires, storm chasers)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3n45htqf0nnxz.cloudfront.net/hls/whitney.owens/whitney.owens.m3u8:Whitney Owens (documentaires, storm chasers)
 #DESCRIPTION Whitney Owens (documentaires, storm chasers)
-#SERVICE 1:64:52:0:0:0:0:0:0:0::+++techniek+++
+#SERVICE 1:64:51:0:0:0:0:0:0:0::+++techniek+++
 #DESCRIPTION +++techniek+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=s4BJG6XSJcCm/s4BJG6XSJcCm-20200316151750_5-audio=128000-video=2200000.m3u8?v=20200316151750_5:20200310 Venetia, kanalen helder
 #DESCRIPTION 20200310 Venetia, kanalen helder

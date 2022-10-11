@@ -85,7 +85,7 @@
 #DESCRIPTION BeeTV | Maury
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us:BeeTV | External Ottera
 #DESCRIPTION BeeTV | External Ottera
-#SERVICE 1:64:5C:0:0:0:0:0:0:0::USA REDBOX
+#SERVICE 1:64:5B:0:0:0:0:0:0:0::USA REDBOX
 #DESCRIPTION USA REDBOX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Movies:** Redbox | Movies **
 #DESCRIPTION ** Redbox | Movies **
@@ -369,7 +369,7 @@
 #DESCRIPTION The Shopping Channel Canada
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8:Unsolved Mysteries with Robert Stack
 #DESCRIPTION Unsolved Mysteries with Robert Stack
-#SERVICE 1:64:5D:0:0:0:0:0:0:0::USA ROKU
+#SERVICE 1:64:5C:0:0:0:0:0:0:0::USA ROKU
 #DESCRIPTION USA ROKU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?News:** News **
 #DESCRIPTION ** News **
@@ -539,7 +539,7 @@
 #DESCRIPTION Roku | Love Nature
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8:Roku | WeatherSpy
 #DESCRIPTION Roku | WeatherSpy
-#SERVICE 1:64:5E:0:0:0:0:0:0:0::USA XUMO
+#SERVICE 1:64:5D:0:0:0:0:0:0:0::USA XUMO
 #DESCRIPTION USA XUMO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8:Xumo | 123 NBC News Now
 #DESCRIPTION Xumo | 123 NBC News Now

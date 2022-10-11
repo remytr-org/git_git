@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | ARABIAN★★ ==
-#SERVICE 1:64:58:0:0:0:0:0:0:0::==== ★★ReMy | 1.ARABIC★★ ====
+#SERVICE 1:64:57:0:0:0:0:0:0:0::==== ★★ReMy | 1.ARABIC★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.ARABIC★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.28/hls/stream.m3u8:4 Kurd
 #DESCRIPTION 4 Kurd
@@ -153,7 +153,7 @@
 #DESCRIPTION Yas Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8:Yemen TV
 #DESCRIPTION Yemen TV
-#SERVICE 1:64:59:0:0:0:0:0:0:0::==== ★★ReMy | 2.ARABIC★★ ====
+#SERVICE 1:64:58:0:0:0:0:0:0:0::==== ★★ReMy | 2.ARABIC★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.ARABIC★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvajyal.mada.ps%3a8888/ajyal/tracks-v1a1/mono.m3u8:AJYAL TV
 #DESCRIPTION AJYAL TV

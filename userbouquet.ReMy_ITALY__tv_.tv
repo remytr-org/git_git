@@ -89,8 +89,8 @@
 #DESCRIPTION ETV Marche
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.224.197%3a1935/euroindiemusic/euroindiemusic/playlist.m3u8:Euro Indie Music Chart TV
 #DESCRIPTION Euro Indie Music Chart TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8:FM Italia TV 
-#DESCRIPTION FM Italia TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8:FM Italia TV
+#DESCRIPTION FM Italia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.0.207.99%3a1935/GoldTV/GOLD_17/playlist.m3u8:Gold TV Roma
 #DESCRIPTION Gold TV Roma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8:History Lab (270p)
@@ -119,8 +119,8 @@
 #DESCRIPTION Pescara TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sb.top-ix.org/streamtech/tvlive1/playlist.m3u8:Prima Tivvu
 #DESCRIPTION Prima Tivvu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8:Prima TV 
-#DESCRIPTION Prima TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8:Prima TV
+#DESCRIPTION Prima TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8:Primocanale Liguria
 #DESCRIPTION Primocanale Liguria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8:Radio 51
@@ -153,8 +153,8 @@
 #DESCRIPTION Rai News 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8:Rai News 24
 #DESCRIPTION Rai News 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8:Rai Sport 
-#DESCRIPTION Rai Sport 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8:Rai Sport
+#DESCRIPTION Rai Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8:RDS Social TV
 #DESCRIPTION RDS Social TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8:ReggioTV
@@ -171,8 +171,8 @@
 #DESCRIPTION RTC Telecalabria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8:RTC Telecalabria
 #DESCRIPTION RTC Telecalabria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:RTP 
-#DESCRIPTION RTP 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:RTP
+#DESCRIPTION RTP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8:Sardegna Uno
 #DESCRIPTION Sardegna Uno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8:Sophia TV
@@ -245,8 +245,8 @@
 #DESCRIPTION Vera TV Marche
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8:VH1
 #DESCRIPTION VH1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreaming.videolina.it/live/Videolina/playlist.m3u8:Videolina (Sardegna) 
-#DESCRIPTION Videolina (Sardegna) 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreaming.videolina.it/live/Videolina/playlist.m3u8:Videolina (Sardegna)
+#DESCRIPTION Videolina (Sardegna)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale51/canale51/playlist.m3u8:51 Radio TV
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.72.196.214%3a8554/live/AltoAdigeTV/livestream.m3u8:Alto Adige TV
