@@ -7,6 +7,206 @@
 #DESCRIPTION GS TV
 #SERVICE 1:64:4A:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sport.canada.ca.m3u8?checkedby%3aiptvcat.com:Bein Sports CA
+#DESCRIPTION Bein Sports CA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listplay4k.live%3a8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby%3aiptvcat.com:Bein Sports HD
+#DESCRIPTION Bein Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/8376?checkedby%3aiptvcat.com:beIN Sports HD CA
+#DESCRIPTION beIN Sports HD CA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listplay4k.live%3a8080/play/sEqGlXBK924GUbV9yuY_SAK1RwPLDfDa4ef8_84d1zk/ts?checkedby%3aiptvcat.com:Bein Sport HD (EN)
+#DESCRIPTION Bein Sport HD (EN)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listplay4k.live%3a8080/play/sEqGlXBK924GUbV9yuY_SKsm1QLF590kcaDkeQtuvKI/ts?checkedby%3aiptvcat.com:Bein Sports LaLiga
+#DESCRIPTION Bein Sports LaLiga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8?checkedby%3aiptvcat.com:BeIN SPORT 1 HD
+#DESCRIPTION BeIN SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8?checkedby%3aiptvcat.com:BeIN SPORT 3 HD
+#DESCRIPTION BeIN SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//platin4k.eu%3a80/eagleiptv/SsFAljPDDi/1684?checkedby%3aiptvcat.com:Bein Sports - 2 HD
+#DESCRIPTION Bein Sports - 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//platin4k.eu%3a80/eagleiptv/SsFAljPDDi/4?checkedby%3aiptvcat.com:Bein Sports - 2 HD+
+#DESCRIPTION Bein Sports - 2 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//platin4k.eu%3a80/eagleiptv/SsFAljPDDi/1803?checkedby%3aiptvcat.com:Bein Sports - 3 HD
+#DESCRIPTION Bein Sports - 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//platin4k.eu%3a80/eagleiptv/SsFAljPDDi/5?checkedby%3aiptvcat.com:Bein Sports - 3 HD+
+#DESCRIPTION Bein Sports - 3 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//platin4k.eu%3a80/eagleiptv/SsFAljPDDi/1804?checkedby%3aiptvcat.com:Bein Sports - 4 HD
+#DESCRIPTION Bein Sports - 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//platin4k.eu%3a80/eagleiptv/SsFAljPDDi/1398?checkedby%3aiptvcat.com:Bein Sports - 4 HD+
+#DESCRIPTION Bein Sports - 4 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//platin4k.eu%3a80/eagleiptv/SsFAljPDDi/11456?checkedby%3aiptvcat.com:Bein Sports Haber
+#DESCRIPTION Bein Sports Haber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//platin4k.eu%3a80/eagleiptv/SsFAljPDDi/4196?checkedby%3aiptvcat.com:Bein Sports Max 1 HD
+#DESCRIPTION Bein Sports Max 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//platin4k.eu%3a80/eagleiptv/SsFAljPDDi/4197?checkedby%3aiptvcat.com:Bein Sports Max 2 HD
+#DESCRIPTION Bein Sports Max 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.221.121.137%3a8585/ntvspor.ts?checkedby%3aiptvcat.com:1beIN SPORTS HD 1,2TV8.5 Spor
+#DESCRIPTION 1beIN SPORTS HD 1,2TV8.5 Spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby%3aiptvcat.com:BEIN SPORTS PREMIUM 1HD
+#DESCRIPTION BEIN SPORTS PREMIUM 1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.152.174.144%3a4000/play/bein1fr/index.m3u8?checkedby%3aiptvcat.com:Bein Sport 1 FR
+#DESCRIPTION Bein Sport 1 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.152.174.144%3a4000/play/bein2fr/index.m3u8?checkedby%3aiptvcat.com:Bein Sports 2 FR
+#DESCRIPTION Bein Sports 2 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.152.174.144%3a4000/play/bein3fr/index.m3u8?checkedby%3aiptvcat.com:Bein Sports 3 FR
+#DESCRIPTION Bein Sports 3 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.xtra.us.m3u8?checkedby%3aiptvcat.com:Bein Sports Xtra
+#DESCRIPTION Bein Sports Xtra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94450?checkedby%3aiptvcat.com:beIN SPORTS 1 EN
+#DESCRIPTION beIN SPORTS 1 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94446?checkedby%3aiptvcat.com:beIN SPORTS 2 EN
+#DESCRIPTION beIN SPORTS 2 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94442?checkedby%3aiptvcat.com:beIN SPORTS 3 EN
+#DESCRIPTION beIN SPORTS 3 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94487?checkedby%3aiptvcat.com:beIN Sports 1 4K AR
+#DESCRIPTION beIN Sports 1 4K AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94499?checkedby%3aiptvcat.com:beIN Sports 1 4K FHD AR
+#DESCRIPTION beIN Sports 1 4K FHD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94484?checkedby%3aiptvcat.com:beIN Sports 1 AR
+#DESCRIPTION beIN Sports 1 AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.1.au.m3u8?checkedby%3aiptvcat.com:beIN Sports 1 AU
+#DESCRIPTION beIN Sports 1 AU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94453?checkedby%3aiptvcat.com:beIN Sports 1 FHD EN
+#DESCRIPTION beIN Sports 1 FHD EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/27738?checkedby%3aiptvcat.com:beIN Sports 1 FHD FR
+#DESCRIPTION beIN Sports 1 FHD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94486?checkedby%3aiptvcat.com:beIN Sports 1 HD AR
+#DESCRIPTION beIN Sports 1 HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94452?checkedby%3aiptvcat.com:beIN Sports 1 HD EN
+#DESCRIPTION beIN Sports 1 HD EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/14415?checkedby%3aiptvcat.com:beIN Sports 1 HD FR
+#DESCRIPTION beIN Sports 1 HD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94485?checkedby%3aiptvcat.com:beIN Sports 1 Hevc AR
+#DESCRIPTION beIN Sports 1 Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94451?checkedby%3aiptvcat.com:beIN Sports 1 Hevc EN
+#DESCRIPTION beIN Sports 1 Hevc EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94496?checkedby%3aiptvcat.com:beIN Sports 1 PREMIUM AR
+#DESCRIPTION beIN Sports 1 PREMIUM AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94498?checkedby%3aiptvcat.com:beIN Sports 1 PREMIUM HD AR
+#DESCRIPTION beIN Sports 1 PREMIUM HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94497?checkedby%3aiptvcat.com:beIN Sports 1 PREMIUM Hevc AR
+#DESCRIPTION beIN Sports 1 PREMIUM Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.1.us.m3u8?checkedby%3aiptvcat.com:beIN Sports 1 US
+#DESCRIPTION beIN Sports 1 US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94483?checkedby%3aiptvcat.com:beIN Sports 2 4K FHD AR
+#DESCRIPTION beIN Sports 2 4K FHD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94480?checkedby%3aiptvcat.com:beIN Sports 2 AR
+#DESCRIPTION beIN Sports 2 AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.2.au.m3u8?checkedby%3aiptvcat.com:beIN Sports 2 AU
+#DESCRIPTION beIN Sports 2 AU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94449?checkedby%3aiptvcat.com:beIN Sports 2 FHD EN
+#DESCRIPTION beIN Sports 2 FHD EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/27737?checkedby%3aiptvcat.com:beIN Sports 2 FHD FR
+#DESCRIPTION beIN Sports 2 FHD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94482?checkedby%3aiptvcat.com:beIN Sports 2 HD AR
+#DESCRIPTION beIN Sports 2 HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94448?checkedby%3aiptvcat.com:beIN Sports 2 HD EN
+#DESCRIPTION beIN Sports 2 HD EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/14414?checkedby%3aiptvcat.com:beIN Sports 2 HD FR
+#DESCRIPTION beIN Sports 2 HD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94481?checkedby%3aiptvcat.com:beIN Sports 2 Hevc AR
+#DESCRIPTION beIN Sports 2 Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94447?checkedby%3aiptvcat.com:beIN Sports 2 Hevc EN
+#DESCRIPTION beIN Sports 2 Hevc EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94495?checkedby%3aiptvcat.com:beIN Sports 2 PREMIUM 4K FHD AR
+#DESCRIPTION beIN Sports 2 PREMIUM 4K FHD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94492?checkedby%3aiptvcat.com:beIN Sports 2 PREMIUM AR
+#DESCRIPTION beIN Sports 2 PREMIUM AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94494?checkedby%3aiptvcat.com:beIN Sports 2 PREMIUM HD AR
+#DESCRIPTION beIN Sports 2 PREMIUM HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94493?checkedby%3aiptvcat.com:beIN Sports 2 PREMIUM Hevc AR
+#DESCRIPTION beIN Sports 2 PREMIUM Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94479?checkedby%3aiptvcat.com:beIN Sports 3 4K FHD AR
+#DESCRIPTION beIN Sports 3 4K FHD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94476?checkedby%3aiptvcat.com:beIN Sports 3 AR
+#DESCRIPTION beIN Sports 3 AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.3.au.m3u8?checkedby%3aiptvcat.com:beIN Sports 3 AU
+#DESCRIPTION beIN Sports 3 AU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94445?checkedby%3aiptvcat.com:beIN Sports 3 FHD EN
+#DESCRIPTION beIN Sports 3 FHD EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/27736?checkedby%3aiptvcat.com:beIN Sports 3 FHD FR
+#DESCRIPTION beIN Sports 3 FHD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94478?checkedby%3aiptvcat.com:beIN Sports 3 HD AR
+#DESCRIPTION beIN Sports 3 HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94444?checkedby%3aiptvcat.com:beIN Sports 3 HD EN
+#DESCRIPTION beIN Sports 3 HD EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/14413?checkedby%3aiptvcat.com:beIN Sports 3 HD FR
+#DESCRIPTION beIN Sports 3 HD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94477?checkedby%3aiptvcat.com:beIN Sports 3 Hevc AR
+#DESCRIPTION beIN Sports 3 Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94443?checkedby%3aiptvcat.com:beIN Sports 3 Hevc EN
+#DESCRIPTION beIN Sports 3 Hevc EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94491?checkedby%3aiptvcat.com:beIN Sports 3 PREMIUM 4K FHD AR
+#DESCRIPTION beIN Sports 3 PREMIUM 4K FHD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94488?checkedby%3aiptvcat.com:beIN Sports 3 PREMIUM AR
+#DESCRIPTION beIN Sports 3 PREMIUM AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94490?checkedby%3aiptvcat.com:beIN Sports 3 PREMIUM HD AR
+#DESCRIPTION beIN Sports 3 PREMIUM HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94489?checkedby%3aiptvcat.com:beIN Sports 3 PREMIUM Hevc AR
+#DESCRIPTION beIN Sports 3 PREMIUM Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94475?checkedby%3aiptvcat.com:beIN Sports 4 4K FHD AR
+#DESCRIPTION beIN Sports 4 4K FHD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94472?checkedby%3aiptvcat.com:beIN Sports 4 AR
+#DESCRIPTION beIN Sports 4 AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94474?checkedby%3aiptvcat.com:beIN Sports 4 HD AR
+#DESCRIPTION beIN Sports 4 HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94473?checkedby%3aiptvcat.com:beIN Sports 4 Hevc AR
+#DESCRIPTION beIN Sports 4 Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.4.us.m3u8?checkedby%3aiptvcat.com:beIN Sports 4 US
+#DESCRIPTION beIN Sports 4 US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94471?checkedby%3aiptvcat.com:beIN Sports 5 4K FHD AR
+#DESCRIPTION beIN Sports 5 4K FHD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94468?checkedby%3aiptvcat.com:beIN Sports 5 AR
+#DESCRIPTION beIN Sports 5 AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94470?checkedby%3aiptvcat.com:beIN Sports 5 HD AR
+#DESCRIPTION beIN Sports 5 HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94469?checkedby%3aiptvcat.com:beIN Sports 5 Hevc AR
+#DESCRIPTION beIN Sports 5 Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.5.us.m3u8?checkedby%3aiptvcat.com:beIN Sports 5 US
+#DESCRIPTION beIN Sports 5 US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94467?checkedby%3aiptvcat.com:beIN Sports 6 4K AR
+#DESCRIPTION beIN Sports 6 4K AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94464?checkedby%3aiptvcat.com:beIN Sports 6 AR
+#DESCRIPTION beIN Sports 6 AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94466?checkedby%3aiptvcat.com:beIN Sports 6 HD AR
+#DESCRIPTION beIN Sports 6 HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94465?checkedby%3aiptvcat.com:beIN Sports 6 Hevc AR
+#DESCRIPTION beIN Sports 6 Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.6.us.m3u8?checkedby%3aiptvcat.com:beIN Sports 6 US
+#DESCRIPTION beIN Sports 6 US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94463?checkedby%3aiptvcat.com:beIN Sports 7 4K FHD AR
+#DESCRIPTION beIN Sports 7 4K FHD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94460?checkedby%3aiptvcat.com:beIN Sports 7 AR
+#DESCRIPTION beIN Sports 7 AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94462?checkedby%3aiptvcat.com:beIN Sports 7 HD AR
+#DESCRIPTION beIN Sports 7 HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94461?checkedby%3aiptvcat.com:beIN Sports 7 Hevc AR
+#DESCRIPTION beIN Sports 7 Hevc AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.7.us.m3u8?checkedby%3aiptvcat.com:beIN Sports 7 US
+#DESCRIPTION beIN Sports 7 US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.8.us.m3u8?checkedby%3aiptvcat.com:beIN Sports 8 US
+#DESCRIPTION beIN Sports 8 US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94501?checkedby%3aiptvcat.com:beIN Sports Global FHD AR
+#DESCRIPTION beIN Sports Global FHD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/94500?checkedby%3aiptvcat.com:beIN Sports Global HD AR
+#DESCRIPTION beIN Sports Global HD AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/39506?checkedby%3aiptvcat.com:beIN Sports HD US
+#DESCRIPTION beIN Sports HD US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.liga.us.m3u8?checkedby%3aiptvcat.com:beIN Sports Liga US
+#DESCRIPTION beIN Sports Liga US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/23012?checkedby%3aiptvcat.com:beIN Sports MAX 10 FHD FR
+#DESCRIPTION beIN Sports MAX 10 FHD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/23018?checkedby%3aiptvcat.com:beIN Sports MAX 4 FHD FR
+#DESCRIPTION beIN Sports MAX 4 FHD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/23017?checkedby%3aiptvcat.com:beIN Sports MAX 5 FHD FR
+#DESCRIPTION beIN Sports MAX 5 FHD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/23016?checkedby%3aiptvcat.com:beIN Sports MAX 6 FHD FR
+#DESCRIPTION beIN Sports MAX 6 FHD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/23015?checkedby%3aiptvcat.com:beIN Sports MAX 7 FHD FR
+#DESCRIPTION beIN Sports MAX 7 FHD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/23014?checkedby%3aiptvcat.com:beIN Sports MAX 8 FHD FR
+#DESCRIPTION beIN Sports MAX 8 FHD FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvworld.nl%3a2095/nlinenodric/4sR2SwYYeg/23013?checkedby%3aiptvcat.com:beIN Sports MAX 9 FHD FR
+#DESCRIPTION beIN Sports MAX 9 FHD FR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8:Astrakhan.Ru Sport
 #DESCRIPTION Astrakhan.Ru Sport
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//biptv.tv%3a80/live/biptvstream_orig/index.m3u8:BIP TV

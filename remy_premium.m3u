@@ -2,6 +2,207 @@
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_ULUSAL
 ReMy_ULUSAL
+#EXTM3U
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sport.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",beIN Sports HD CA
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8376?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sport HD (EN)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAK1RwPLDfDa4ef8_84d1zk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sports LaLiga
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKsm1QLF590kcaDkeQtuvKI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="Sport",BeIN SPORT 1 HD
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports3.png" group-title="Sport",BeIN SPORT 3 HD
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports2.tr.png" group-title="Sport",Bein Sports - 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1684?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports2.tr.png" group-title="Sport",Bein Sports - 2 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports3.tr.png" group-title="Sport",Bein Sports - 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1803?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports3.tr.png" group-title="Sport",Bein Sports - 3 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beinsports4.tr.png" group-title="Sport",Bein Sports - 4 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1804?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beinsports4.tr.png" group-title="Sport",Bein Sports - 4 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1398?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beinsportsHaber.tr.png" group-title="Sport",Bein Sports Haber
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/11456?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSportsMax1.tr.png" group-title="Sport",Bein Sports Max 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4196?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSportsMax2.tr.png" group-title="Sport",Bein Sports Max 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4197?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://m3u-editor.com/storage/channel-logos/57f67320-26ce-11ed-b030-8b6a7122a77a/3555316/626120501.jpg" group-title="Sport",1beIN SPORTS HD 1,2TV8.5 Spor
+http://37.221.121.137:8585/ntvspor.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports Xtra
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.xtra.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN SPORTS 1 EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94450?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN SPORTS 2 EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94446?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN SPORTS 3 EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94442?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 4K AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94487?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 4K FHD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 AU
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.1.au.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 FHD EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94453?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/27738?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94486?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 HD EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94452?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 HD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14415?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94485?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 Hevc EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94451?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 PREMIUM AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94496?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 PREMIUM HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94498?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 PREMIUM Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.1.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 4K FHD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94483?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94480?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 AU
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.2.au.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 FHD EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94449?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/27737?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94482?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 HD EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94448?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 HD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14414?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94481?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 Hevc EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94447?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM 4K FHD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94495?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94493?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 4K FHD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94479?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94476?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 AU
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.3.au.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 FHD EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94445?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/27736?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94478?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 HD EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94444?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 HD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14413?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94477?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 Hevc EN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 PREMIUM 4K FHD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 PREMIUM AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 PREMIUM HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94490?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 PREMIUM Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94489?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 4K FHD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94475?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94472?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94474?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.4.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 4K FHD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94471?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94468?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94470?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94469?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.5.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 4K AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94467?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94464?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94466?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94465?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.6.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 4K FHD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94460?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94462?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 Hevc AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.7.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 8 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.8.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Global FHD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94501?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Global HD AR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94500?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports HD US
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39506?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Liga US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.liga.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 10 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23012?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 4 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23018?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 5 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23017?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 6 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23016?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 7 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23015?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 8 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23014?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 9 FHD FR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23013?checkedby:iptvcat.com
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 2 HD
 https://tv-trt2.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
@@ -3373,16 +3574,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",MUSIC +
 http://s02.diazol.hu:10192/stream.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",MTV Kosova
-https://t2.tvmak.com/tv/mtvkosova.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Hi Music
-https://t2.tvmak.com/tv/himusic.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",Fun Radio
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",First
 http://us.bestvideostreaming.is/8717/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Flutura TV
-https://t2.tvmak.com/tv/fluturatv.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",BBF Music TV
@@ -3393,16 +3588,12 @@ https://albportal.net/albkanalemusic.m3u8
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",Adria Music RS
 http://91.212.150.248/AdriaMusicTV/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",21 Plus
-https://t2.tvmak.com/tv/RTV21PLUS.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",Dasma TV
 http://us.bestvideostreaming.is/8793/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",DeepHouse District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",RTV Arberia Musik
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Vizion Plus
-https://t2.tvmak.com/tv/VIZIONPLUS.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",Silence TV ADTS SOUND
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_TV",4 Turk Billboard
