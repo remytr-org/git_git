@@ -1,44 +1,74 @@
 #NAME == ★★ReMy | ITALY★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/34.ts:Net TV (Malta)
-#DESCRIPTION Net TV (Malta)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/39.ts:TVM (Malta)
-#DESCRIPTION TVM (Malta)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/40.ts:TVM 2 (Malta)
-#DESCRIPTION TVM 2 (Malta)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/30.ts:Erga Lura
-#DESCRIPTION Erga Lura
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/23.ts:Mr Fish TV
-#DESCRIPTION Mr Fish TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/26.ts:MTU
-#DESCRIPTION MTU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/33.ts:One
-#DESCRIPTION One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/5.ts:Smash TV
-#DESCRIPTION Smash TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/29.ts:Smash 7 News
-#DESCRIPTION Smash 7 News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/21.ts:Smash Cam
-#DESCRIPTION Smash Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/12.ts:Smash Country
-#DESCRIPTION Smash Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/27.ts:Smash Entertainment
-#DESCRIPTION Smash Entertainment
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/15.ts:Smash Food
-#DESCRIPTION Smash Food
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/10.ts:Smash Jazz
-#DESCRIPTION Smash Jazz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/8.ts:Smash Music
-#DESCRIPTION Smash Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/19.ts:Smash Politika
-#DESCRIPTION Smash Politika
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/48.ts:Smash Retro
-#DESCRIPTION Smash Retro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/25.ts:Smash Rock
-#DESCRIPTION Smash Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/17.ts:Smash Sports (Malta)
-#DESCRIPTION Smash Sports (Malta)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/14.ts:TV Shop Channel
-#DESCRIPTION TV Shop Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8:The Design Network 
+#DESCRIPTION The Design Network 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8:Bloomberg TV+ UHD (2160p)
+#DESCRIPTION Bloomberg TV+ UHD (2160p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8:Canale Europa 
+#DESCRIPTION Canale Europa 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8:Duck TV 
+#DESCRIPTION Duck TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8:Euronews Italiano 
+#DESCRIPTION Euronews Italiano 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8:Fashion TV (Italy) 
+#DESCRIPTION Fashion TV (Italy) 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8:Fuel TV 
+#DESCRIPTION Fuel TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sofytv-samsungit.amagi.tv/playlist.m3u8:Sofy TV 
+#DESCRIPTION Sofy TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8:Alma TV Food
+#DESCRIPTION Alma TV Food
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//promosrl-almatvtravel-1-it.samsung.wurl.tv/playlist.m3u8:Alma TV Travel
+#DESCRIPTION Alma TV Travel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amuse-amuseanimation-1-it.samsung.wurl.tv/playlist.m3u8:Amuse Animation
+#DESCRIPTION Amuse Animation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8:Bizzarro Movies
+#DESCRIPTION Bizzarro Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8:CGTV
+#DESCRIPTION CGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8:Cinema Segreto
+#DESCRIPTION Cinema Segreto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8:Donna TV
+#DESCRIPTION Donna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//failarmy-international-it.samsung.wurl.tv/playlist.m3u8:Failarmy
+#DESCRIPTION Failarmy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8:Italian Fishing TV
+#DESCRIPTION Italian Fishing TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8:Mondo TV Kids
+#DESCRIPTION Mondo TV Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8:Motor1 TV
+#DESCRIPTION Motor1 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8:People are Awesome
+#DESCRIPTION People are Awesome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8:Planeta Junior
+#DESCRIPTION Planeta Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioitalia-samsungitaly.amagi.tv/playlist.m3u8:Radio Italia Trend
+#DESCRIPTION Radio Italia Trend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8:Rakuten Action Movies
+#DESCRIPTION Rakuten Action Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8:Rakuten Comedy Movies
+#DESCRIPTION Rakuten Comedy Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-documentaries-6-it.samsung.wurl.tv/playlist.m3u8:Rakuten Documentaries
+#DESCRIPTION Rakuten Documentaries
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8:Rakuten Drama
+#DESCRIPTION Rakuten Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8:Rakuten Family
+#DESCRIPTION Rakuten Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rakuten-spotlight-6-it.samsung.wurl.tv/playlist.m3u8:Rakuten Spotlight
+#DESCRIPTION Rakuten Spotlight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8:Sportoutdoor.tv
+#DESCRIPTION Sportoutdoor.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsitalia-samsungitaly.amagi.tv/playlist.m3u8:Sports Italia
+#DESCRIPTION Sports Italia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8:Teletubbies
+#DESCRIPTION Teletubbies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8:Televisa Telenovelas
+#DESCRIPTION Televisa Telenovelas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8:The Pet Collective
+#DESCRIPTION The Pet Collective
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8:WP Minerva Pictures
+#DESCRIPTION WP Minerva Pictures
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8:Yamato Animation
+#DESCRIPTION Yamato Animation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale51/canale51/playlist.m3u8:51 Radio TV
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ef7ad665d1d.streamlock.net%3a1443/abchannel/abchannel/playlist.m3u8:AB Channel

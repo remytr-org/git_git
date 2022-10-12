@@ -687,6 +687,8 @@
 #DESCRIPTION Akaal Channel UK (Engels)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content.jwplatform.com/manifests/vM7nH0Kl.m3u8:Beto TV
 #DESCRIPTION Beto TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//584b0aa350b92.streamlock.net%3a1935/folk-tv/myStream.sdp/playlist.m3u8:BINGE
+#DESCRIPTION BINGE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8:byu TV
 #DESCRIPTION byu TV
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8:Bloomberg TV Europa (nieuws - Engeland)
