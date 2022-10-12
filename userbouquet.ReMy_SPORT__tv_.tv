@@ -235,7 +235,7 @@
 #DESCRIPTION Redbox | Outside TV+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8:Roku | FTF (For the Fans)
 #DESCRIPTION Roku | FTF (For the Fans)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-roku-us.amagi.tv/playlist.m3u8:Roku | Pac-12: Pac-12 Insider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-roku-us.amagi.tv/playlist.m3u8:Roku | Pac-12%3a Pac-12 Insider
 #DESCRIPTION Roku | Pac-12: Pac-12 Insider
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerstv-roku-us.amagi.tv/playlist.m3u8:Roku | Players.tv
 #DESCRIPTION Roku | Players.tv
@@ -297,3 +297,5 @@
 #DESCRIPTION Türkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/yastv/smil%3ayastv.stream.smil/playlist.m3u8?adtv:Yas Sport
 #DESCRIPTION Yas Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8:FreeSports (1080p) [Not 24/7]
+#DESCRIPTION FreeSports (1080p) [Not 24/7]

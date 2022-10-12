@@ -1,4 +1,42 @@
 #NAME == ★★ReMy | U.S.A & U.K★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ecable.tv/afrobeats/index.m3u8:Afrobeats
+#DESCRIPTION Afrobeats
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w4.12all.tv%3a4000/play/bbc1/index.m3u8:BBCOneHD
+#DESCRIPTION BBCOneHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w4.12all.tv%3a4000/play/bbc2/index.m3u8:BBCTwoHD
+#DESCRIPTION BBCTwoHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
+#DESCRIPTION Box Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w4.12all.tv%3a4000/play/itv1/index.m3u8:ITV 1
+#DESCRIPTION ITV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.139.35%3a8278/streams/d/itv2_antik/playlist.m3u8:ITV2 (576p) [Not 24/7]
+#DESCRIPTION ITV2 (576p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8:Channel S (720p) [Not 24/7]
+#DESCRIPTION Channel S (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ap02.iqplay.tv%3a8082/iqb8002/ch4n3ls/playlist.m3u8:Channel S (576p) [Not 24/7]
+#DESCRIPTION Channel S (576p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8:FreeSports (1080p) [Not 24/7]
+#DESCRIPTION FreeSports (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8:Ski TV (1080p) [Not 24/7]
+#DESCRIPTION Ski TV (1080p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8:Ski TV
+#DESCRIPTION Ski TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8:Sky News Extra 1
+#DESCRIPTION Sky News Extra 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8:Sky News Extra 2
+#DESCRIPTION Sky News Extra 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8:Sky News Extra 3
+#DESCRIPTION Sky News Extra 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8:TalkTV
+#DESCRIPTION TalkTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abr.de1se01.v2beat.live/playlist.m3u8:V2BEAT
+#DESCRIPTION V2BEAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//de1se01.v2beat.live/playlist.m3u8:V2BEAT
+#DESCRIPTION V2BEAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8:Latest TV
+#DESCRIPTION Latest TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8:Shelanu TV
+#DESCRIPTION Shelanu TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8:A+E | Lively Place
 #DESCRIPTION A+E | Lively Place
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8:BeeTV | Taste It
@@ -419,7 +457,7 @@
 #DESCRIPTION ** Sports **
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8:Roku | FTF (For the Fans)
 #DESCRIPTION Roku | FTF (For the Fans)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-roku-us.amagi.tv/playlist.m3u8:Roku | Pac-12: Pac-12 Insider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-roku-us.amagi.tv/playlist.m3u8:Roku | Pac-12%3a Pac-12 Insider
 #DESCRIPTION Roku | Pac-12: Pac-12 Insider
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerstv-roku-us.amagi.tv/playlist.m3u8:Roku | Players.tv
 #DESCRIPTION Roku | Players.tv
@@ -685,13 +723,13 @@
 #DESCRIPTION TRANS TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajd.getaj.net/AJD/index.m3u8:Al Jazeera Documentary
 #DESCRIPTION Al Jazeera Documentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=0BJNPYjb00uk/0BJNPYjb00uk-20200305133021_5-audio=128000-video=3600000.m3u8?v=20200305133021_5:20200303 Groningen: Blauwe Loper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=0BJNPYjb00uk/0BJNPYjb00uk-20200305133021_5-audio=128000-video=3600000.m3u8?v=20200305133021_5:20200303 Groningen%3a Blauwe Loper
 #DESCRIPTION 20200303 Groningen: Blauwe Loper
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=8CIIzMUaVksg/8CIIzMUaVksg-20200426141450_5-audio=128000-video=2200000.m3u8?v=20200426141450_5:20200426 Hubble 30 jaar
 #DESCRIPTION 20200426 Hubble 30 jaar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=dDAErMwbZxu0/dDAErMwbZxu0-20200128181203_6-audio=128000-video=3600000.m3u8?v=20200128181203_6:NB: QinetiQ bouwt satelliet in Kruibeke (BE) 20200
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=dDAErMwbZxu0/dDAErMwbZxu0-20200128181203_6-audio=128000-video=3600000.m3u8?v=20200128181203_6:NB%3a QinetiQ bouwt satelliet in Kruibeke (BE) 20200
 #DESCRIPTION NB: QinetiQ bouwt satelliet in Kruibeke (BE) 20200
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tBRoXcgYlBUE/item=KaJMScUKFhi0/KaJMScUKFhi0-20200129173516_5-audio=128000-video=3600000.m3u8?v=20200129173516_5:NB: SpaceX lanceert Falcon-draagraket met zestig s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tBRoXcgYlBUE/item=KaJMScUKFhi0/KaJMScUKFhi0-20200129173516_5-audio=128000-video=3600000.m3u8?v=20200129173516_5:NB%3a SpaceX lanceert Falcon-draagraket met zestig s
 #DESCRIPTION NB: SpaceX lanceert Falcon-draagraket met zestig s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/007:ITV 4
 #DESCRIPTION ITV 4
@@ -1711,11 +1749,11 @@
 #DESCRIPTION SBN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8:SBN Global
 #DESCRIPTION SBN Global
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN HD (16:9)(WTVE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN HD (16%3a9)(WTVE)
 #DESCRIPTION SBN HD (16:9)(WTVE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (16:9)(WPHY-CD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (16%3a9)(WPHY-CD)
 #DESCRIPTION SBN SD (16:9)(WPHY-CD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (4:3)(WPSJ-CD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (4%3a3)(WPSJ-CD)
 #DESCRIPTION SBN SD (4:3)(WPSJ-CD)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?remyteam.m3u8:Sci-fi 4U
 #DESCRIPTION Sci-fi 4U

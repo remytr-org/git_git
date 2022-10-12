@@ -45,12 +45,16 @@
 #DESCRIPTION 51 Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/playlist.m3u8:88 Stereo TV
 #DESCRIPTION 88 Stereo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ecable.tv/afrobeats/index.m3u8:Afrobeats
+#DESCRIPTION Afrobeats
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Music Hits
 #DESCRIPTION Baraza TV Greek Music Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//st.biztv.uz/hls/m_hi/index.m3u8:BIZ MUSIC
 #DESCRIPTION BIZ MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8:Blue ANT EXTREME
 #DESCRIPTION Blue ANT EXTREME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
+#DESCRIPTION Box Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.4.14.12%3a9999/btvsvlive/playlist.m3u8:Bucovina TV
 #DESCRIPTION Bucovina TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital Radio
@@ -241,6 +245,8 @@
 #DESCRIPTION RETRO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvarberia4.flashmediacast.com%3a1935/RtvArberia4/livestream/playlist.m3u8:RTV Arberia Musik
 #DESCRIPTION RTV Arberia Musik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8:Shelanu TV
+#DESCRIPTION Shelanu TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk
 #DESCRIPTION Sky Folk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.smashmalta.com%3a82/live/smash/smash/21.ts:Smash Cam
@@ -267,10 +273,12 @@
 #DESCRIPTION TMA Caraïbes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.aritv.ch%3a6969/live/ari/tv/1.ts:TV Ari
 #DESCRIPTION TV Ari
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//de1se01.v2beat.live/playlist.m3u8:V2BEAT TV
-#DESCRIPTION V2BEAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de1se01.v2beat.live/playlist.m3u8?fluxustv.m3u8:V2BEAT TV
 #DESCRIPTION V2BEAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abr.de1se01.v2beat.live/playlist.m3u8:V2BEAT
+#DESCRIPTION V2BEAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//de1se01.v2beat.live/playlist.m3u8:V2BEAT
+#DESCRIPTION V2BEAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/wixlar/wixlar/playlist.m3u8:Wixlar
 #DESCRIPTION Wixlar
 #SERVICE 4097:0:1:4CFC:81C:600:FFFF0000:0:0:0:http%3a//ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8 :XITE HD (muziek NL)
@@ -521,7 +529,7 @@
 #DESCRIPTION WRCF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
-#SERVICE 1:64:4E:0:0:0:0:0:0:0::AFN Global: Music and Spoken Word Radio
+#SERVICE 1:64:4E:0:0:0:0:0:0:0::AFN Global%3a Music and Spoken Word Radio
 #DESCRIPTION AFN Global: Music and Spoken Word Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18133.live.streamtheworld.com/AFN_FANAAC.aac:AFN Fans
 #DESCRIPTION AFN Fans
