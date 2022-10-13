@@ -219,10 +219,10 @@
 #DESCRIPTION POKER TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//139.162.182.79/live/test/index.m3u8:Satranç TV
 #DESCRIPTION Satranç TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.152.174.144%3a4000/play/barcatv/index.m3u8:Barça TV 
-#DESCRIPTION Barça TV 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8:Sevilla FC TV  
-#DESCRIPTION Sevilla FC TV  
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.152.174.144%3a4000/play/barcatv/index.m3u8:Barça TV
+#DESCRIPTION Barça TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8:Sevilla FC TV
+#DESCRIPTION Sevilla FC TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8:Sports Tonight
 #DESCRIPTION Sports Tonight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8?deviceid=&is_lat=&subp=RedboxdesktopWebWindows:Redbox | PAC 12
@@ -243,7 +243,7 @@
 #DESCRIPTION Redbox | Outside TV+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8:Roku | FTF (For the Fans)
 #DESCRIPTION Roku | FTF (For the Fans)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-roku-us.amagi.tv/playlist.m3u8:Roku | Pac-12%3a Pac-12 Insider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-roku-us.amagi.tv/playlist.m3u8:Roku | Pac-12: Pac-12 Insider
 #DESCRIPTION Roku | Pac-12: Pac-12 Insider
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerstv-roku-us.amagi.tv/playlist.m3u8:Roku | Players.tv
 #DESCRIPTION Roku | Players.tv

@@ -1,14 +1,14 @@
 #NAME == ★★ReMy | BALKAN★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//584b0aa350b92.streamlock.net%3a1935/folk-tv/myStream.sdp/playlist.m3u8:BINGE
 #DESCRIPTION BINGE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/index.m3u8:City TV 
-#DESCRIPTION City TV 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.249.95.140%3a8081/hls/data.m3u8:DSTV 
-#DESCRIPTION DSTV 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ecomservice.bg/hls/stream.m3u8:Evrokom 
-#DESCRIPTION Evrokom 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8:Light Channel 
-#DESCRIPTION Light Channel 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/index.m3u8:City TV
+#DESCRIPTION City TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.249.95.140%3a8081/hls/data.m3u8:DSTV
+#DESCRIPTION DSTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ecomservice.bg/hls/stream.m3u8:Evrokom
+#DESCRIPTION Evrokom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8:Light Channel
+#DESCRIPTION Light Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8:notélé
 #DESCRIPTION notélé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.187.142.147%3a1935/ch10live/high.stream/live.m3u8:Canale 10
@@ -37,14 +37,14 @@
 #DESCRIPTION RBW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//vod.tv7.fi/tv7-fi/mp4%3atv7-fi.stream_360p?PAZ_Chega_de_Guerras:TV7
 #DESCRIPTION TV7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlilletv/smil%3agrandlilletv.smil/playlist.m3u8:BFM Grand Lille 
-#DESCRIPTION BFM Grand Lille 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlittoral/smil%3agrandlittoral.smil/playlist.m3u8:BFM Grand Littoral 
-#DESCRIPTION BFM Grand Littoral 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlilletv/smil%3agrandlilletv.smil/playlist.m3u8:BFM Grand Lille
+#DESCRIPTION BFM Grand Lille
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlittoral/smil%3agrandlittoral.smil/playlist.m3u8:BFM Grand Littoral
+#DESCRIPTION BFM Grand Littoral
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//biptv.tv/live/biptvstream_orig/index.m3u8:BipTV
 #DESCRIPTION BipTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/d5tv/smil%3ad5tv.smil/playlist.m3u8:D5 TV 
-#DESCRIPTION D5 TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/d5tv/smil%3ad5tv.smil/playlist.m3u8:D5 TV
+#DESCRIPTION D5 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dbmtv.vedge.infomaniak.com/livecast/smil%3adbmtv.smil/manifest.m3u8:DBM (1080p)
 #DESCRIPTION DBM (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8:Fashion TV Midnite Secrets
@@ -61,25 +61,25 @@
 #DESCRIPTION Fashion TV PG16
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8:Fashion TV PG16
 #DESCRIPTION Fashion TV PG16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8:Francophonie 
-#DESCRIPTION Francophonie 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlilletv/smil%3agrandlilletv.smil/chunklist.m3u8:Grand Lille TV 
-#DESCRIPTION Grand Lille TV 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM Top 
-#DESCRIPTION MCM Top 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8:Francophonie
+#DESCRIPTION Francophonie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/grandlilletv/smil%3agrandlilletv.smil/chunklist.m3u8:Grand Lille TV
+#DESCRIPTION Grand Lille TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM Top
+#DESCRIPTION MCM Top
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.mondeduloisir.fr%3a1935/tixtv/smil%3aweb.smil/playlist.m3u8:MDL
 #DESCRIPTION MDL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo 
-#DESCRIPTION Mezzo 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo
+#DESCRIPTION Mezzo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/mirabelletv/smil%3amirabelletv.smil/playlist.m3u8:moselle
 #DESCRIPTION moselle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/mycomedy/smil%3amycomedy.smil/playlist.m3u8:MYComedy 
-#DESCRIPTION MYComedy 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8:TV3V 
-#DESCRIPTION TV3V 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8:TV7 Colmar 
-#DESCRIPTION TV7 Colmar 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.cdn.dvmr.fr/TV78/ngrp%3atv78.stream_all/master.m3u8:TV78 
-#DESCRIPTION TV78 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.cdn.dvmr.fr/TVR/ngrp%3atvr.stream_all/master.m3u8:TVR 
-#DESCRIPTION TVR 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.creacast.com/mycomedy/smil%3amycomedy.smil/playlist.m3u8:MYComedy
+#DESCRIPTION MYComedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8:TV3V
+#DESCRIPTION TV3V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8:TV7 Colmar
+#DESCRIPTION TV7 Colmar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.cdn.dvmr.fr/TV78/ngrp%3atv78.stream_all/master.m3u8:TV78
+#DESCRIPTION TV78
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamtv.cdn.dvmr.fr/TVR/ngrp%3atvr.stream_all/master.m3u8:TVR
+#DESCRIPTION TVR

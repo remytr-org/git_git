@@ -457,7 +457,7 @@
 #DESCRIPTION ** Sports **
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8:Roku | FTF (For the Fans)
 #DESCRIPTION Roku | FTF (For the Fans)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-roku-us.amagi.tv/playlist.m3u8:Roku | Pac-12%3a Pac-12 Insider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pac12-roku-us.amagi.tv/playlist.m3u8:Roku | Pac-12: Pac-12 Insider
 #DESCRIPTION Roku | Pac-12: Pac-12 Insider
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playerstv-roku-us.amagi.tv/playlist.m3u8:Roku | Players.tv
 #DESCRIPTION Roku | Players.tv
@@ -725,13 +725,13 @@
 #DESCRIPTION TRANS TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-hls-web-ajd.getaj.net/AJD/index.m3u8:Al Jazeera Documentary
 #DESCRIPTION Al Jazeera Documentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=0BJNPYjb00uk/0BJNPYjb00uk-20200305133021_5-audio=128000-video=3600000.m3u8?v=20200305133021_5:20200303 Groningen%3a Blauwe Loper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=0BJNPYjb00uk/0BJNPYjb00uk-20200305133021_5-audio=128000-video=3600000.m3u8?v=20200305133021_5:20200303 Groningen: Blauwe Loper
 #DESCRIPTION 20200303 Groningen: Blauwe Loper
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=8CIIzMUaVksg/8CIIzMUaVksg-20200426141450_5-audio=128000-video=2200000.m3u8?v=20200426141450_5:20200426 Hubble 30 jaar
 #DESCRIPTION 20200426 Hubble 30 jaar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=dDAErMwbZxu0/dDAErMwbZxu0-20200128181203_6-audio=128000-video=3600000.m3u8?v=20200128181203_6:NB%3a QinetiQ bouwt satelliet in Kruibeke (BE) 20200
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=dDAErMwbZxu0/dDAErMwbZxu0-20200128181203_6-audio=128000-video=3600000.m3u8?v=20200128181203_6:NB: QinetiQ bouwt satelliet in Kruibeke (BE) 20200
 #DESCRIPTION NB: QinetiQ bouwt satelliet in Kruibeke (BE) 20200
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tBRoXcgYlBUE/item=KaJMScUKFhi0/KaJMScUKFhi0-20200129173516_5-audio=128000-video=3600000.m3u8?v=20200129173516_5:NB%3a SpaceX lanceert Falcon-draagraket met zestig s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tBRoXcgYlBUE/item=KaJMScUKFhi0/KaJMScUKFhi0-20200129173516_5-audio=128000-video=3600000.m3u8?v=20200129173516_5:NB: SpaceX lanceert Falcon-draagraket met zestig s
 #DESCRIPTION NB: SpaceX lanceert Falcon-draagraket met zestig s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/007:ITV 4
 #DESCRIPTION ITV 4
@@ -1751,11 +1751,11 @@
 #DESCRIPTION SBN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8:SBN Global
 #DESCRIPTION SBN Global
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN HD (16%3a9)(WTVE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN HD (16:9)(WTVE)
 #DESCRIPTION SBN HD (16:9)(WTVE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (16%3a9)(WPHY-CD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (16:9)(WPHY-CD)
 #DESCRIPTION SBN SD (16:9)(WPHY-CD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (4%3a3)(WPSJ-CD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (4:3)(WPSJ-CD)
 #DESCRIPTION SBN SD (4:3)(WPSJ-CD)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?remyteam.m3u8:Sci-fi 4U
 #DESCRIPTION Sci-fi 4U

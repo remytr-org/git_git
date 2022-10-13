@@ -29,9 +29,9 @@
 #DESCRIPTION National Geographic Abu Dhabi (VAE)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp.elektrika.cz/live/myStream.sdp:Elektrika TV
 #DESCRIPTION Elektrika TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=hABgrOXajdmg/hABgrOXajdmg-20200214110413_5-audio=128000-video=3600000.m3u8?v=20200214110413_5:DS%3a Lam Gods van gebr. Van Eyck
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=hABgrOXajdmg/hABgrOXajdmg-20200214110413_5-audio=128000-video=3600000.m3u8?v=20200214110413_5:DS: Lam Gods van gebr. Van Eyck
 #DESCRIPTION DS: Lam Gods van gebr. Van Eyck
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=cCRgeoTIjlKW/cCRgeoTIjlKW-20200227170747_5-audio=128000-video=2200000.m3u8?v=20200227170747_5:DS%3a Nasa laat ons meekijken door de ogen van Apoll
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=cCRgeoTIjlKW/cCRgeoTIjlKW-20200227170747_5-audio=128000-video=2200000.m3u8?v=20200227170747_5:DS: Nasa laat ons meekijken door de ogen van Apoll
 #DESCRIPTION DS: Nasa laat ons meekijken door de ogen van Apoll
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3n45htqf0nnxz.cloudfront.net/hls/dan.fitts/dan.fitts.m3u8:Dan Frits (documentaires, storm chasers)
 #DESCRIPTION Dan Frits (documentaires, storm chasers)

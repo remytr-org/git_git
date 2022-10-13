@@ -57,12 +57,12 @@
 #DESCRIPTION Box Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.4.14.12%3a9999/btvsvlive/playlist.m3u8:Bucovina TV
 #DESCRIPTION Bucovina TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8004/index.m3u8:Cadena Elite  
-#DESCRIPTION Cadena Elite  
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8004/index.m3u8:Cadena Elite
+#DESCRIPTION Cadena Elite
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8:Cine Voice
 #DESCRIPTION Cine Voice
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/index.m3u8:City TV 
-#DESCRIPTION City TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/index.m3u8:City TV
+#DESCRIPTION City TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/3.m3u8:City TV
 #DESCRIPTION City TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:COLOSAL TV COSTA RICA
@@ -71,8 +71,8 @@
 #DESCRIPTION Country FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8:DeepHouse District
 #DESCRIPTION DeepHouse District
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.249.95.140%3a8081/hls/data.m3u8:DSTV 
-#DESCRIPTION DSTV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.249.95.140%3a8081/hls/data.m3u8:DSTV
+#DESCRIPTION DSTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:First Music Channel
 #DESCRIPTION First Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:First Music Channel HD
@@ -91,8 +91,8 @@
 #DESCRIPTION Hit Music (Belaarus, Wit-Rusland)
 #SERVICE 4097:0:0:281:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC
 #DESCRIPTION HOBOC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8:Ibiza Global TV  
-#DESCRIPTION Ibiza Global TV  
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8:Ibiza Global TV
+#DESCRIPTION Ibiza Global TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rjtv.tv/live/smil%3arjtv.smil/playlist.m3u8:Javan TV
 #DESCRIPTION Javan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8:Jhanjar Music (muziek - India)
@@ -527,7 +527,7 @@
 #DESCRIPTION WRCF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
-#SERVICE 1:64:4E:0:0:0:0:0:0:0::AFN Global%3a Music and Spoken Word Radio
+#SERVICE 1:64:4E:0:0:0:0:0:0:0::AFN Global: Music and Spoken Word Radio
 #DESCRIPTION AFN Global: Music and Spoken Word Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18133.live.streamtheworld.com/AFN_FANAAC.aac:AFN Fans
 #DESCRIPTION AFN Fans

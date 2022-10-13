@@ -1,6 +1,6 @@
 #NAME == ★★ReMy | FASHION★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8:The Design Network 
-#DESCRIPTION The Design Network 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8:The Design Network
+#DESCRIPTION The Design Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8:Fashion TV UHD (2160p)
 #DESCRIPTION Fashion TV UHD (2160p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/playlist.m3u8:Fashion Television us
@@ -71,3 +71,5 @@
 #DESCRIPTION Victoria’s Secret PINK CARPET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268111608911/VS_TLAA_Master_1600x900.mp4:Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
 #DESCRIPTION Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//epsilon-c1.liux.tv/adl-x-art2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace:LTV X Art 2 18+
+#DESCRIPTION LTV X Art 2 18+
