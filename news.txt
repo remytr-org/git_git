@@ -5,15 +5,15 @@
 *ReMy_TeaM_OSCAM-ICAM EKLENDI*
              *★★07.10.2022★★*
 *Free_server_plugini EKLENDI*
-             *★★12.10.2022★★*
+             *★★13.10.2022★★*
 *ReMy_SATELLITE_ChannelList GUNCELLENDI*
-             *★★12.10.2022★★*
+             *★★13.10.2022★★*
 *python2.7 icin M3U_PRO IPTVLERI GUNCELLENDI*
-             *★★30.08.2022★★*
+             *★★13.10.2022★★*
 *OpenVPN Serverlar GUNCELLENDI*
-             *★★30.08.2022★★*
+             *★★13.10.2022★★*
 *MULTISTALKER PLUGINI GUNCELLENDI*
-             *★★30.08.2022★★*
+             *★★13.10.2022★★*
 *ReMy_Infinity_FHD Skin ReMy_TeaM'e EKLENMISTIR*
 *ILETISIM: enigma2_teknik_servis@hotmail.com*
        *☪️ ®ReMy EnigmaTurk TeaM ☪️*
