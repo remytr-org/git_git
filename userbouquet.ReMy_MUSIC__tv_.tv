@@ -21,8 +21,6 @@
 #DESCRIPTION POWER TÜRK SLOW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8:POWER TÜRK TAPTAZE
 #DESCRIPTION POWER TÜRK TAPTAZE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
-#DESCRIPTION SilenceTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yerelmedya.tv%3a1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8:MAVI KARADENIZ
 #DESCRIPTION MAVI KARADENIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//waw2.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8:MaviKaradeniz
@@ -51,16 +49,12 @@
 #DESCRIPTION Baraza TV Greek Music Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//st.biztv.uz/hls/m_hi/index.m3u8:BIZ MUSIC
 #DESCRIPTION BIZ MUSIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8:Blue ANT EXTREME
-#DESCRIPTION Blue ANT EXTREME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
 #DESCRIPTION Box Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.4.14.12%3a9999/btvsvlive/playlist.m3u8:Bucovina TV
 #DESCRIPTION Bucovina TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8004/index.m3u8:Cadena Elite
 #DESCRIPTION Cadena Elite
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8:Cine Voice
-#DESCRIPTION Cine Voice
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/index.m3u8:City TV
 #DESCRIPTION City TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/3.m3u8:City TV
@@ -527,7 +521,7 @@
 #DESCRIPTION WRCF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
-#SERVICE 1:64:4E:0:0:0:0:0:0:0::AFN Global: Music and Spoken Word Radio
+#SERVICE 1:64:4E:0:0:0:0:0:0:0::AFN Global%3a Music and Spoken Word Radio
 #DESCRIPTION AFN Global: Music and Spoken Word Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18133.live.streamtheworld.com/AFN_FANAAC.aac:AFN Fans
 #DESCRIPTION AFN Fans
@@ -717,3 +711,5 @@
 #DESCRIPTION US-181
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//icyrelay.181.fm/181-vocals_128k.mp3:Vocal-Jazz
 #DESCRIPTION Vocal-Jazz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows:Redbox | Vevo
+#DESCRIPTION Redbox | Vevo

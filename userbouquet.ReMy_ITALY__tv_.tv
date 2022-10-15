@@ -23,6 +23,8 @@
 #DESCRIPTION Amuse Animation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8:Bizzarro Movies
 #DESCRIPTION Bizzarro Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.4.14.12%3a9999/btvsvlive/playlist.m3u8:Bucovina TV
+#DESCRIPTION Bucovina TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8:CGTV
 #DESCRIPTION CGTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8:Cinema Segreto
