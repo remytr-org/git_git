@@ -4032,40 +4032,40 @@ http://46.20.7.126/;
 http://yayin.damarfm.com:8080/
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Damar Türk 34
 http://185.9.37.59:7966/;
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Power-181-Top-40
+http://relay.181.fm:8128
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",The-Beat-HipHop-R-B
+http://relay.181.fm:8054
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",The-Vibe-of-Vegas
+http://relay.181.fm:8074
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",UK-top-40
+http://relay.181.fm:8070
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",US-181
+http://relay.181.fm:8056
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Beats of Music
+http://beats-of-music.stream.laut.fm/beats-of-music?ref=radiode&t302=2018-04-16_15-44-18&uuid=4683c9e4-e7e3-452d-8c9a-713a903bd700
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",HOT FM 93.9 Bulgaria
+http://77.76.184.254:8000/hfm-public
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dance Wave! RETRO
 http://stream2.dancewave.online:8080/retrodance.mp3
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dance Wave!
 http://stream.dancewave.online:8080/dance.mp3
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Enjoy Hits!
 http://79.172.194.189:11540/live.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",JOY FM
-http://17773.live.streamtheworld.com:3690/JOY_FM_SC
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",JOYTURK_ROCK_SC
-http://18463.live.streamtheworld.com/JOYTURK_ROCK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",JOY_TURK_SC
-http://18463.live.streamtheworld.com/JOY_TURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",06am Ibiza Underground
+https://streams.radio.co/sd1bcd1376/listen
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",iTu Radio Jazz/Blues
 http://160.75.86.29:8088/stream/3/
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ibiza Global Station
 http://46.105.171.218:8024
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Metropol FM
 http://mfm1.webradiostreaming.de:8200/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",METRO FM SC
-http://17733.live.streamtheworld.com:3690/METRO_FM_SC
+#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Party-181
+http://relay.181.fm:8036
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",WORLD HIT
 http://37.247.98.8/stream/34/
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Slow Time
 http://46.20.7.104/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Fenomen
-http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",FenomenClubbin
-http://fenomenclubbin.listenfenomen.com/fenomenclubbin/128/icecast.audio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Fenomen Dans
-http://fenomendans.listenfenomen.com/fenomendans/128/icecast.audio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Fenomen RAP
-http://fenomenrap.listenfenomen.com/fenomenrap/128/icecast.audio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Fenomen Pop
-http://fenomenpop.listenfenomen.com/fenomenpop/128/icecast.audio
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Fenomen Akustik
 http://fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio
 #EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Fenomen Kar
