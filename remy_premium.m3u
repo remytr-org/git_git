@@ -1,208 +1,211 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_ULUSAL
-ReMy_ULUSAL
-#EXTM3U
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports CA
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sport.canada.ca.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",beIN Sports HD CA
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8376?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sport HD (EN)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAK1RwPLDfDa4ef8_84d1zk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sports LaLiga
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKsm1QLF590kcaDkeQtuvKI/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="Sport",BeIN SPORT 1 HD
-https://srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports3.png" group-title="Sport",BeIN SPORT 3 HD
-https://srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports2.tr.png" group-title="Sport",Bein Sports - 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1684?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports2.tr.png" group-title="Sport",Bein Sports - 2 HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports3.tr.png" group-title="Sport",Bein Sports - 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1803?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports3.tr.png" group-title="Sport",Bein Sports - 3 HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beinsports4.tr.png" group-title="Sport",Bein Sports - 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1804?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beinsports4.tr.png" group-title="Sport",Bein Sports - 4 HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1398?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beinsportsHaber.tr.png" group-title="Sport",Bein Sports Haber
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/11456?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSportsMax1.tr.png" group-title="Sport",Bein Sports Max 1 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4196?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSportsMax2.tr.png" group-title="Sport",Bein Sports Max 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4197?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://m3u-editor.com/storage/channel-logos/57f67320-26ce-11ed-b030-8b6a7122a77a/3555316/626120501.jpg" group-title="Sport",1beIN SPORTS HD 1,2TV8.5 Spor
-http://37.221.121.137:8585/ntvspor.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 1HD
-http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sport 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sports Xtra
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.xtra.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN SPORTS 1 EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94450?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN SPORTS 2 EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94446?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN SPORTS 3 EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94442?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 4K AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94487?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 4K FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94499?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94484?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 AU
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.1.au.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 FHD EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94453?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/27738?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94486?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 HD EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94452?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 HD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14415?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94485?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 Hevc EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94451?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 PREMIUM AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94496?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 PREMIUM HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94498?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 PREMIUM Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94497?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 1 US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.1.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 4K FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94483?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94480?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 AU
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.2.au.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 FHD EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94449?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/27737?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94482?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 HD EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94448?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 HD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14414?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94481?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 Hevc EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94447?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM 4K FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94495?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94492?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94494?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 2 PREMIUM Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94493?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 4K FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94479?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94476?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 AU
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.3.au.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 FHD EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94445?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/27736?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94478?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 HD EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94444?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 HD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/14413?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94477?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 Hevc EN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94443?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 PREMIUM 4K FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94491?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 PREMIUM AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94488?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 PREMIUM HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94490?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 3 PREMIUM Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94489?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 4K FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94475?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94472?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94474?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94473?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 4 US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.4.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 4K FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94471?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94468?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94470?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94469?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 5 US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.5.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 4K AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94467?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94464?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94466?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94465?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 6 US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.6.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 4K FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94463?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94460?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94462?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 Hevc AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94461?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 7 US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.7.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports 8 US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.8.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Global FHD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94501?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Global HD AR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/94500?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports HD US
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/39506?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Liga US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.liga.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 10 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23012?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 4 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23018?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 5 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23017?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 6 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23016?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 7 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23015?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 8 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23014?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports MAX 9 FHD FR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23013?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ReMy_MUSIC_TV
+ReMy_MUSIC_TV
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",traceurban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",tma caraibes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Fun Radio
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALB Music (720p) [Not 24/7]
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",88 Stereo TV
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",A1 Regio TV
+http://stream.a1mediagroep.eu/hls/a1tv.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALBUK HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALB MUSIC HD
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",DHTV denhaag tv
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",First Music Channel
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",First Music Channel HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",First Music Channel Russia HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",GLas Drine Music HD
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",HIT RU
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kurai (Ufa)
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Belllae monella TV
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist_w1052766946.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w130186106.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Country FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ReMy_MUSIC_iTunes_Radio
+ReMy_MUSIC_iTunes_Radio
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Fenerbahçe FM
+http://91.232.174.18:8000/Stream
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radyo Spor
+http://37.247.100.118/stream/70/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL POP
+http://46.20.3.201:80
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL FM
+http://kralpopwmp.radyotvonline.com/;stream.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",181.FM UK
+http://listen.181fm.com/181-uktop40_128k.mp3?noPreRoll=true
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",iTunes Top 40
+http://mp3.ffh.de/ffhchannels/top40.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALEM FM
+https://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Arabesk Radyo
+http://dinle.arabeskradyo.biz:2011/;
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ASK FM
+http://yayin.asymedya.com:8020/;stream.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Baba Radyo
+http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Best FM
+http://46.20.7.126/;
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Damar FM
+http://yayin.damarfm.com:8080/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Power-181-Top-40
+http://relay.181.fm:8128
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",The-Beat-HipHop-R-B
+http://relay.181.fm:8054
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",The-Vibe-of-Vegas
+http://relay.181.fm:8074
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",UK-top-40
+http://relay.181.fm:8070
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",US-181
+http://relay.181.fm:8056
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Beats of Music
+http://beats-of-music.stream.laut.fm/beats-of-music?ref=radiode&t302=2018-04-16_15-44-18&uuid=4683c9e4-e7e3-452d-8c9a-713a903bd700
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",HOT FM 93.9 Bulgaria
+http://77.76.184.254:8000/hfm-public
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dance Wave! RETRO
+http://stream2.dancewave.online:8080/retrodance.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dance Wave!
+http://stream.dancewave.online:8080/dance.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",06am Ibiza Underground
+https://streams.radio.co/sd1bcd1376/listen
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Party-181
+http://relay.181.fm:8036
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",WORLD HIT
+http://37.247.98.8/stream/34/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Slow Time
+http://46.20.7.104/;
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ANKARA HAVALARI
+http://37.247.98.8/stream/30/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",EGE HAVALARI
+http://37.247.98.8/stream/29/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",RADYO VOKAL
+http://37.247.98.8/stream/35/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Slow Karadeniz FM
+http://dinle.slowkaradenizfm.com:9578/;
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",SHOW RADYO
+http://46.20.3.229:80
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",ANTENNE BAYERN
+http://mp3channels.webradio.antenne.de:80/antenne
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",BNR Radio Stara ZagoraStara Zagora
+http://82.103.99.99:8000/radiosz-low
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",BTV RadioSofia
+http://46.10.150.123:80/btv-radio.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Bumerang FM Gabrovo
+http://185.20.88.1:8010/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Classic FM Sofia
+http://46.10.150.123:80/classic-fm.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Jazz FMSofia
+http://46.10.150.123:80/jazz-fm.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Jazz FM LoungeSofia
+http://46.10.150.123:80/jazz-fm-lounge.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Power FMBourgas
+http://a1.virtualradio.eu:8000/powerfm.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio 999 Yambol
+http://62.204.158.5:8081/live
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Bella BULGARIA
+http://194.146.235.35:9999/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Folk Burgas
+http://83.97.65.98:8000/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio N-Joy Sofia
+http://46.10.150.123:80/njoy.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Ultra Petrich
+http://88.80.96.25:8000/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Ultra Pernik
+http://88.80.96.25:8020/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Ultra Blagoevgrad
+http://88.80.96.25:3060/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Vega+Blagoevgrad
+http://88.80.96.25:3050/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Vega+Petrich
+http://88.80.96.25:8040/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Veronika Sofia
+http://stream.radioreklama.bg:80/veronika64
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Z-Rock Sofia
+http://46.10.150.123:80/z-rock.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Traffic Radio Station Rousse
+http://networx.trafficradio.org:8002/
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Djam Radio
+http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",JewishMusic Stream
+http://stream.jewishmusicstream.com:8000/stream
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",The Very Best of Country
+http://HearMe.fm:8022/stream
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",1000 90er
+http://stream.laut.fm/100090er
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Cobys Country
+http://streaming.live365.com/a13311
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",COUNTRY 108_Your Country Music Station!
+http://sc1.netstreamer.net:8100
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Country Rocks Radio
+http://stream.dbmedia.se/crrMP3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dansbandskanalen
+http://stream.dbmedia.se/dbkMP3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",G Radio
+http://stream.radiojar.com/garavelas-radio-com
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",NRJ ANTILLES
+http://cdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",NRJ HITS
+http://cdn.nrjaudio.fm/adwz1/fr/30043/mp3_128.mp3?origine=itunes
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",NRJ MADE IN FRANCE
+http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=itunes
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",NRJ POP RNB DANCE
+http://cdn.nrjaudio.fm/adwz1/fr/31489/mp3_128.mp3?origine=itunes
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",WRCF
+http://91.121.59.45:8361/stream
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Z104 Country KSOP-FM
+http://ice7.securenetsystems.net/KSOPFM
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",JamendoLounge
+http://streaming.radionomy.com/JamendoLounge?lang=tr
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dance Wave Retro!
+http://retro.dancewave.online/retrodance.ogg
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dance Wave Retro!
+http://retro.dancewave.online/retrodance.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dance Wave!
+http://dancewave.online/dance.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dance Wave!
+http://dancewave.online/dance.ogg
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dance Wave!
+http://dancewave.online/dance.aac
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",radionomy
+http://streaming.radionomy.com/JamendoLounge?lang=tr
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Lounge Radio (AAC+)
+http://live.streamhosting.ch:8010
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Rastapuls
+http://radio.rastapuls.com:8000/rastapuls
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Rastapuls
+http://radio.rastapuls.com:8000/rastapuls
 
 #EXTINF:-1 tvg-id="ABCNews.us" status="online" group-title="Xumo-TV",ABC News (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
@@ -418,6 +421,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
 #EXTINF:-1 MUSICg-id="StingraySoulStorm.ca" status="online" group-title="Xumo-MUSIC",Stingray Soul Storm (1080p)
 https://xumo-redbox.ott-channels.stingray.com/134/master.m3u8
+
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_ULUSAL
+ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 2 HD
 https://tv-trt2.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
@@ -3771,607 +3777,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="ReMy_NILESAT_ARABIC",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
-
-
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",ReMy_MUSIC_TV
-ReMy_MUSIC_TV
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",traceurban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",mcm top
-http://ott-cdn.ucom.am/s49/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",tma caraibes
-http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",mtv hits
-http://188.40.68.167/russia/mtv_hits/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",mtv biggest pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",mtv block part
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",MUSIC +
-http://s02.diazol.hu:10192/stream.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Fun Radio
-https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",First
-http://us.bestvideostreaming.is/8717/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",BBF Music TV
-http://us.bestvideostreaming.is/8795/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",AlbKanale Music TV
-https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALB Music (720p) [Not 24/7]
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Adria Music RS
-http://91.212.150.248/AdriaMusicTV/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Dasma TV
-http://us.bestvideostreaming.is/8793/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",DeepHouse District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",RTV Arberia Musik
-http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Silence TV ADTS SOUND
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",4 Turk Billboard
-http://51.210.199.30/hls/stream.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Siteler Muzik ANGARA
-http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Damar TV
-http://51.255.7.18:8080/hls/damar.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL HD
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL TV
-https://bqgsd19q.rocketcdn.com/kraltv_360/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL TV
-http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL POP TV
-https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL POP TV
-http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",KRAL POP HD
-http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",1Music Channel Hungary
-http://1music.hu/1music.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",4Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",88 Stereo TV
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",A1 Regio TV
-http://stream.a1mediagroep.eu/hls/a1tv.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALBUK HD
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",ALB MUSIC HD
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Baraza TV Greek Music Hits
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Bluegrass 4U
-https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Capital Radio
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",ch au tv
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",CMC TV
-http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Company TV
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",DHTV denhaag tv
-http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",DMF
-http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",First Music Channel
-http://rtmp.one.by:1200
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",First Music Channel HD
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",First Music Channel Russia HD
-http://rtmp.one.by:2300
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",GLas Drine Music HD
-rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Hit Music Channel (Hungary)
-http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",HIT RU
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Javan TV
-https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kayhan TV HD
-http://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kcn2 Tv
-http://212.200.102.3:5000/rtp/239.0.0.2:5000
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kcn3 Tv
-http://212.200.102.3:5000/rtp/239.0.0.3:5000
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kiss TV
-https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",KissKissTV
-http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kronehit TV HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Kurai (Ufa)
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",KURIAKOS MUSIC
-http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",m2otv
-http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",m2otv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Magic TV
-https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",MESSINIA
-http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",MESSINIA WEB TV
-rtmp://176.9.123.140:1935/messinia/messinia
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",MTV-SD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",MTV Norge
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Music1 gr
-http://wpso.com:1936/hls/music1.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Music Top
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",New Radio TV
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Nisville TV
-http://92.60.237.32:1935/live/nisville/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Ocko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",OPOJA
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",PortalFoxMix Tv
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",RETRO
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Banovina
-rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Belllae monella TV
-https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist_w1052766946.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w130186106.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Country FM TV
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Contact Vision
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Lina TV
-https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Lombardia TV
-https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio M-1
-http://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Piterpan TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Sorrriso TV
-https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w800169359.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio Peloritana TV
-https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Radio TV USA
-https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",Sky Folk
-http://skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",SoNus FM [18+]
-http://138.201.226.83:1935/public/stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_TV",UTV
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="ReMy_MUSIC_TV",VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_muzik.png" group-title="ReMy_MUSIC_TV", TRT MÜZİK
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS|User-agent=desk_win32
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/nr1_turk.png" group-title="ReMy_MUSIC_TV", NR1 TURK
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/powerturktv_logo.png" group-title="ReMy_MUSIC_TV", POWERTURK HD
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$POWER_TURK_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_arabesk.png" group-title="ReMy_MUSIC_TV", ARABESK
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ARABESK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_turkce-pop.png" group-title="ReMy_MUSIC_TV", TURKCE POP
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_slow.png" group-title="ReMy_MUSIC_TV", TURKCE SLOW
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_SLOW/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tivibu_cocuk_logo.png" group-title="ReMy_MUSIC_TV", COCUK MASAL
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MASAL/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_halk.png" group-title="ReMy_MUSIC_TV", TURK HALK MUZIGI
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURK_HALK_MUZIGI/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_pop_dms.png" group-title="ReMy_MUSIC_TV", YABANCI POP
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$YABANCI_POP/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tasplak.png" group-title="ReMy_MUSIC_TV", TAS PLAK
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TAS_PLAK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dini_musiki_logo.png" group-title="ReMy_MUSIC_TV", DINI MUZIK
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TASAVVUF/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/90lar.png" group-title="ReMy_MUSIC_TV", 90 LAR
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$90_LAR/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_slow_logo.png" group-title="ReMy_MUSIC_TV", ROMANTIK
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ROMANTIK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_klasik.png" group-title="ReMy_MUSIC_TV", KLASIK MUZIK
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KLASIK_MUZIK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/calisiyorken.png" group-title="ReMy_MUSIC_TV", ÇALIŞIYORKEN
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CALISIRKEN/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/mutlu_dms.png" group-title="ReMy_MUSIC_TV", MUTLU
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MUTLU/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/lounge.png" group-title="ReMy_MUSIC_TV", LOUNGE
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$LOUNGE/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/akustik.png" group-title="ReMy_MUSIC_TV", AKUSTIK
-http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$AKUSTIK/index.m3u8?start=LIVE&end=END&device=HLS
-
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ReMy_MUSIC_iTunes_Radio
-ReMy_MUSIC_iTunes_Radio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Fenerbahçe FM
-http://91.232.174.18:8000/Stream
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Spor
-http://37.247.100.118/stream/70/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",KRAL FM
-https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/chunklist_w1224640543_b64000.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",KRAL POP
-http://46.20.3.201:80
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Kral Turk
-http://canliradyoyayini.com:3434/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",KRAL FM
-http://kralpopwmp.radyotvonline.com/;stream.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",KRAL POP FM
-http://kralpopwmp.radyotvonline.com/;stream.nsv
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",181.FM UK
-http://listen.181fm.com/181-uktop40_128k.mp3?noPreRoll=true
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",iTunes Top 40
-http://mp3.ffh.de/ffhchannels/top40.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ALEM FM
-https://turkmedya.radyotvonline.net/alemfmaac
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Arabesk Radyo
-http://dinle.arabeskradyo.biz:2011/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ASK FM
-http://yayin.asymedya.com:8020/;stream.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Baba Radyo
-http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Baba Radyo
-http://37.247.100.100/best/babaradyo.stream/media_w1575182589_3361.aac
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Best FM
-http://46.20.7.126/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Damar FM
-http://yayin.damarfm.com:8080/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Damar Türk 34
-http://185.9.37.59:7966/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Power-181-Top-40
-http://relay.181.fm:8128
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",The-Beat-HipHop-R-B
-http://relay.181.fm:8054
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",The-Vibe-of-Vegas
-http://relay.181.fm:8074
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",UK-top-40
-http://relay.181.fm:8070
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",US-181
-http://relay.181.fm:8056
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Beats of Music
-http://beats-of-music.stream.laut.fm/beats-of-music?ref=radiode&t302=2018-04-16_15-44-18&uuid=4683c9e4-e7e3-452d-8c9a-713a903bd700
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",HOT FM 93.9 Bulgaria
-http://77.76.184.254:8000/hfm-public
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dance Wave! RETRO
-http://stream2.dancewave.online:8080/retrodance.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dance Wave!
-http://stream.dancewave.online:8080/dance.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Enjoy Hits!
-http://79.172.194.189:11540/live.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",06am Ibiza Underground
-https://streams.radio.co/sd1bcd1376/listen
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",iTu Radio Jazz/Blues
-http://160.75.86.29:8088/stream/3/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ibiza Global Station
-http://46.105.171.218:8024
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Metropol FM
-http://mfm1.webradiostreaming.de:8200/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Party-181
-http://relay.181.fm:8036
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",WORLD HIT
-http://37.247.98.8/stream/34/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Slow Time
-http://46.20.7.104/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Fenomen Akustik
-http://fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Fenomen Kar
-http://fenomenkarisik.listenfenomen.com/fenomenkarisik/128/icecast.audio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Fenomen Oriental
-http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",FenomenTurk
-http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",metropolfm.de
-https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Virgin Radio Türkiye
-http://17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ANKARA HAVALARI
-http://37.247.98.8/stream/30/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",EGE HAVALARI
-http://37.247.98.8/stream/29/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",RADYO VOKAL
-http://37.247.98.8/stream/35/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",TaksimFM - Arabesk
-http://95.211.162.32:8008
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Ahmet Kaya
-http://ahmetkaya.canliyayinda.com:9999/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Arabesk
-http://37.247.101.101:5934
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo 34
-http://yayin1.canliyayin.org:7424/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",RETRO TURK
-http://18463.live.streamtheworld.com/RETROTURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radyo Türkü-izmir
-http://radioturku.com:9400/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Pop90
-https://17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",RetroTurk
-https://17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",SUPER_FM
-https://17753.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=5f5ce410-ba94-4cfc-a10f-70e4eec5cbf9
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Slow Karadeniz FM
-http://dinle.slowkaradenizfm.com:9578/;
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",SHOW RADYO
-http://46.20.3.229:80
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Super Fm
-http://195.175.227.10/SUPER_FM_SC?/;stream.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",TURKUAZ FM
-http://151.80.133.218:1078
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ANTENNE BAYERN
-http://mp3channels.webradio.antenne.de:80/antenne
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Balkansko Radio
-http://balkanskoradio.com:8001/live.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BNR Radio PlovdivPlovdiv
-http://62.204.136.202:28/live128 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BNR Radio ShumenShumen
-http://lb.blb.cdn.bg:2032/fls/Shumen.stream/playlist.m3u8 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BNR Radio Stara ZagoraStara Zagora
-http://82.103.99.99:8000/radiosz-low
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BNR Radio SofiaSofia
-http://stream.bnr.bg:8105/sofia_low.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BNR Radio VidinVidin
-http://89.106.110.85:8003/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BG RadioSofia
-http://stream.radioreklama.bg:80/bgradio128 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BTV RadioSofia
-http://46.10.150.123:80/btv-radio.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Bumerang FM Gabrovo
-http://185.20.88.1:8010/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Classic FM Sofia
-http://46.10.150.123:80/classic-fm.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Jazz FMSofia
-http://46.10.150.123:80/jazz-fm.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Jazz FM LoungeSofia
-http://46.10.150.123:80/jazz-fm-lounge.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Katra FMPlovdiv
-http://www.katrafm.net:8000/live 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Melody RadioSofia
-http://46.10.150.123:80/melody.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",NRJSofia
-http://stream.radioreklama.bg:80/nrj128 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Power FMBourgas
-http://a1.virtualradio.eu:8000/powerfm.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio 1Sofia
-http://stream.radioreklama.bg:80/radio1128 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio 1 RockSofia
-http://stream.radioreklama.bg:80/radio1rock64 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio 999 Yambol
-http://62.204.158.5:8081/live
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Bella BULGARIA
-http://194.146.235.35:9999/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio City Sofia
-http://stream.radioreklama.bg:80/city64 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Folk Burgas
-http://83.97.65.98:8000/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Fresh Sofia
-http://193.108.24.21:8000/fresh 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio K2 Sofia
-http://stream.radiok2.bg:8000/rk2 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio N-Joy Sofia
-http://46.10.150.123:80/njoy.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio MIXX Bourgas
-http://83.97.65.98:9000 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Nova Sofia
-http://stream.radioreklama.bg:80/nova128 
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Sevlievo
-http://93.155.136.27:8000/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Ultra Petrich
-http://88.80.96.25:8000/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Ultra Pernik
-http://88.80.96.25:8020/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Ultra Blagoevgrad
-http://88.80.96.25:3060/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Vega+Blagoevgrad
-http://88.80.96.25:3050/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Vega+Petrich
-http://88.80.96.25:8040/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Veronika Sofia
-http://stream.radioreklama.bg:80/veronika64
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Zorana Sofia
-http://streaming.gesbg.com/radio128_zorana.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Z-Rock Sofia
-http://46.10.150.123:80/z-rock.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Traffic Radio Station Rousse
-http://networx.trafficradio.org:8002/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Djam Radio
-http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",JewishMusic Stream
-http://stream.jewishmusicstream.com:8000/stream
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Otvoreni radio
-http://50.7.71.219:7412
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Schlagerparadies Webstream
-http://91.250.77.9:8090
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",The Very Best of Country
-http://HearMe.fm:8022/stream
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",1000 90er
-http://stream.laut.fm/100090er
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Athens Country Radio
-http://live.athenscountryradio.com:8000/stream
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BLUE BOSSA NOVA
-http://69.175.13.131:8280
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Cat Country 98.9 WUUU-FM
-http://stream.radiojar.com/6s50f6ye4k5tv
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Cobys Country
-http://streaming.live365.com/a13311
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",COUNTRY 108_Your Country Music Station!
-http://sc1.netstreamer.net:8100
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Country Radio Switzerland
-http://rs4.radiostreamer.com:8000
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Country Rocks Radio
-http://stream.dbmedia.se/crrMP3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Cruisin' Country Radio
-http://s4.radioboss.fm:8422/stream
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dansbandskanalen
-http://stream.dbmedia.se/dbkMP3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",G Radio
-http://stream.radiojar.com/garavelas-radio-com
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",NRJ ANTILLES
-http://cdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",NRJ HITS
-http://cdn.nrjaudio.fm/adwz1/fr/30043/mp3_128.mp3?origine=itunes
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",NRJ MADE IN FRANCE
-http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=itunes
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",NRJ POP RNB DANCE
-http://cdn.nrjaudio.fm/adwz1/fr/31489/mp3_128.mp3?origine=itunes
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",WRCF
-http://91.121.59.45:8361/stream
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Z104 Country KSOP-FM
-http://ice7.securenetsystems.net/KSOPFM
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",JamendoLounge
-http://streaming.radionomy.com/JamendoLounge?lang=tr
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dance Wave Retro!
-http://retro.dancewave.online/retrodance.ogg
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dance Wave Retro!
-http://retro.dancewave.online/retrodance.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dance Wave!
-http://dancewave.online/dance.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dance Wave!
-http://dancewave.online/dance.ogg
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Dance Wave!
-http://dancewave.online/dance.aac
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Djing Underground
-http://cdn.djing.com/tv/u-05.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",radionomy
-http://streaming.radionomy.com/JamendoLounge?lang=tr
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hongkong Bar
-mms://live.camstreams.com/cssolowongHONGKONG
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix 80's
-http://www.hotmixradio.com/stream/hotmix80.asx
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix 90's
-http://www.hotmixradio.com/stream/hotmix90.asx
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Dance
-http://www.hotmixradio.fr/stream/hotmix.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Dance
-http://streaming.hotmixradio.fr/hotmixradio-dance-128.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Frenchy
-http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-frenchy-128.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Funky
-http://www.hotmixradio.com/stream/funky.asx
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Hits
-http://www.hotmixradio.fr/stream/hotmixHIT.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Hot
-http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-hot-128.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Japan
-http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-japan-128.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Metal
-http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-metal-128.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix New
-http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-new-128.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Rock
-http://www.hotmixradio.fr/stream/hotmixrock.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix Sunny
-http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-sunny-128.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Hotmix VIP
-http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-vip-128.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",iLoveRadio
-http://streaming203.radionomy.com:80/iLove-Radio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",krameand
-http://streams.tvknob.com/u/krameand/
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Lounge Radio (AAC+)
-http://live.streamhosting.ch:8010
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Rockonnection
-http://streaming203.radionomy.com:80/Rockonnection
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",RockProdigy
-http://streaming204.radionomy.com:80/Rock-Prodigy
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",rockSatelite(((MadridONE)))
-http://streaming208.radionomy.com:80/rockSateliteMadridONE
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ROCKULIVEYOUREMOTIONS
-http://streaming203.radionomy.com:80/ROCK-U-LIVE-YOUR-EMOTIONS
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Rockytikas
-http://streaming201.radionomy.com:80/Rockytikas
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Romanticatotalstereo
-http://streaming203.radionomy.com:80/Romanticatotalstereo
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",BeatlesDay
-http://listen.radionomy.com/beatlesday.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",CinéTaRadio
-http://listen.radionomy.com/cinetaradio.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",DMode Radio (Dépêche Mode et Pop/Rock)
-http://listen.radionomy.com/dmode-radio.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",radionomy Gaga Face
-http://listen.radionomy.com/gaga-face.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Michael Jackson Radio
-http://listen.radionomy.com/michael-jackson-radio.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Britney (Britney Spears)
-http://listen.radionomy.com/radio-britney.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",RadioCinéma
-http://listen.radionomy.com/radiocinema.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Radio Hallyday (Johnny & David)
-http://listen.radionomy.com/radio-hallyday.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",RadioDigitaliaRICORDI
-http://streaming208.radionomy.com:80/RadioDigitalia-RICORDI
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Rastapuls
-http://radio.rastapuls.com:8000/rastapuls
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Rastapuls
-http://www.rastapuls.com/rastapuls.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Rastapuls
-http://radio.rastapuls.com:8000/rastapuls
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",rpgradio
-http://streaming204.radionomy.com:80/rpgradio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",RVDMIX
-http://streaming204.radionomy.com:80/RVDMIX
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",SanzaRadio
-http://streaming203.radionomy.com:80/Sanza-Radio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",siempreconvosotros
-http://streaming204.radionomy.com:80/siempreconvosotros
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Studio brussels
-http://www.listenlive.eu/vrtstubru-high.m3u
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Studio40ca
-http://streaming204.radionomy.com:80/Studio40ca
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",SuccèsRadio
-http://streaming204.radionomy.com:80/Succes-Radio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",SummerHit
-http://streaming204.radionomy.com:80/Summer-Hit
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",SuperRadioStereo
-http://streaming203.radionomy.com:80/Super-Radio-Stereo
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",SurfRadioClubbing
-http://streaming206.radionomy.com:80/Surf-Radio-Clubbing
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",TheMplsRadio
-http://streaming206.radionomy.com:80/The-Mpls-Radio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",TheMusicForEveryOne
-http://streaming204.radionomy.com:80/TheMusicForEveryOne
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",TheOrangeParkRadio
-http://streaming206.radionomy.com:80/The-Orange-Park-Radio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",TheSmoothLounge
-http://streaming203.radionomy.com:80/The-Smooth-Lounge
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",TrioPowerFamily
-http://streaming204.radionomy.com:80/Trio-Power-Family
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",TWCRadio
-http://streaming205.radionomy.com:80/TWCRadio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",vandermeer_fm
-http://streaming204.radionomy.com:80/vandermeer-fm
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",VECCHIOTTIVALBAR
-http://streaming208.radionomy.com:80/VECCHIOTTIVALBAR
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",VinyleRock
-http://streaming208.radionomy.com:80/Vinyle-Rock
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ViolentForcesRadio
-http://streaming203.radionomy.com:80/Violent-Forces-Radio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",Vitamine90
-http://streaming204.radionomy.com:80/Vitamine-90
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",W1RSbluesRock'sRadio
-http://streaming206.radionomy.com:80/W1RS-blues--Rock-s-Radio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",WaveRadioArgentina
-http://streaming208.radionomy.com:80/Wave-Radio-Argentina
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",WLSRock
-http://streaming203.radionomy.com:80/WLSRock
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",WLSSlow
-http://streaming203.radionomy.com:80/WLSSlow
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",XtremLiveRadio
-http://streaming204.radionomy.com:80/Xtrem-Live-Radio
-#EXTINF:-1 group-title="ReMy_MUSIC_iTunes_Radio",ZIKRADIO1
-http://streaming208.radionomy.com:80/ZIKRADIO1
 
 #EXTINF:-1 group-title="ReMy_YEREL",ReMy_YEREL
 ReMy_YEREL
