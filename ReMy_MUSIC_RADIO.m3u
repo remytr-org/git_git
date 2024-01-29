@@ -1,7 +1,5 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="ReMy_MUSIC_RADIO",ReMy_MUSIC_RADIO
-ReMy_MUSIC_RADIO
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Baba Radyo
 http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",KRALFM-ALEMIN KRALI
