@@ -5,7 +5,9 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 #EXTINF:-1 group-title="ReMy_MUSIC_ITUNES_RADIO",ReMy_MUSIC_ITUNES_RADIO\
+\f0\fs24 \cf0 #EXTM3U \
+#EXTVLCOPT--http-reconnect=true\
+#EXTINF:-1 group-title="ReMy_MUSIC_ITUNES_RADIO",ReMy_MUSIC_ITUNES_RADIO\
 ReMy_MUSIC_ITUNES_RADIO\
 #EXTINF:-1 group-title="ReMy_MUSIC_ITUNES_RADIO",Baba Radyo\
 http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8\
