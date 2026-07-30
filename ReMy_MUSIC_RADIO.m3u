@@ -1,5 +1,39 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",thevoice
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",V2BEAT TV
+http://de1se01.v2beat.live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",City TV
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",magictv
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",PowerTürk TV
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",POWER DANCE
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",POWER LOVE
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",POWER TÜRK AKUSTIK
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",POWER TÜRK SLOW
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_TV",POWER TÜRK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Baba Radyo
 http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",KRALFM-ALEMIN KRALI
@@ -10,8 +44,6 @@ http://46.20.3.201:80
 http://kralpopwmp.radyotvonline.com/;stream.mp3
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",ALEM FM
 https://turkmedya.radyotvonline.net/alemfmaac
-#EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Arabesk Radyo
-http://dinle.arabeskradyo.biz:2011/;
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",ASK FM
 http://yayin.asymedya.com:8020/;stream.mp3
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Best FM
@@ -54,8 +86,10 @@ http://relay.181.fm:8056
 http://77.76.184.254:8000/hfm-public
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Dance Wave! RETRO
 http://stream2.dancewave.online:8080/retrodance.mp3
-#EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Dance Wave!
+#EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Dance Wave mp3
 http://stream.dancewave.online:8080/dance.mp3
+#EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Dance Wave ogg
+http://stream.dancewave.online:8080/dance.ogg
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",06am Ibiza Underground
 https://streams.radio.co/sd1bcd1376/listen
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Party-181
@@ -142,6 +176,8 @@ http://retro.dancewave.online/retrodance.mp3
 http://dancewave.online/dance.mp3
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Dance Wave!
 http://dancewave.online/dance.ogg
+#EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Dance Wave!
+http://dancewave.online/dance.flac.ogg
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",Dance Wave!
 http://dancewave.online/dance.aac
 #EXTINF:-1 group-title="ReMy_MUSIC_RADIO",radionomy
